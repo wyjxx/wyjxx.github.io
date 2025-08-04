@@ -1,0 +1,233 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9903694533443936,
+    "y": 0.19603428065912165
+  },
+  {
+    "entity": "Rhine",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9903694533443939,
+    "y": -0.196034280659121
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.7479713101521354,
+    "y": 2.9052605596037853
+  },
+  {
+    "entity": "A8",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.7602342530037847,
+    "y": 1.1752050325558683
+  },
+  {
+    "entity": "A95",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.94042479473704,
+    "y": 0.5948966519452238
+  },
+  {
+    "entity": "A96",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.9999839362050893,
+    "y": -0.009817459519578232
+  },
+  {
+    "entity": "A99",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.9364682540472176,
+    "y": -0.6141288081281354
+  },
+  {
+    "entity": "B10",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.752483489342475,
+    "y": -1.1932454235810306
+  },
+  {
+    "entity": "B13",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.4555776466626926,
+    "y": -1.7234089535599242
+  },
+  {
+    "entity": "B27",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.057931335970581,
+    "y": -2.1828693539537216
+  },
+  {
+    "entity": "Aumühle",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.1011440815151716,
+    "y": -3.4037029172232063
+  },
+  {
+    "entity": "Bonn",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.3721799410893623,
+    "y": -3.7572759027348517
+  },
+  {
+    "entity": "Braunschweig",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -0.5869218978214492,
+    "y": -3.9567060398591236
+  },
+  {
+    "entity": "Essen",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.22241471072969723,
+    "y": -3.9938116751358
+  },
+  {
+    "entity": "Freiburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.0226267199906571,
+    "y": -3.86707054390803
+  },
+  {
+    "entity": "Kassel",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.7808853035418735,
+    "y": -3.5816822214747877
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 0.9972950802028472,
+    "y": 3.87368074613838
+  },
+  {
+    "entity": "Stuttgart",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.2965047544880623,
+    "y": -2.2656249476993318
+  },
+  {
+    "entity": "Blumenau",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.964107663560626,
+    "y": 0.5980260066072861
+  },
+  {
+    "entity": "Hasenbergl",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.680053397417071,
+    "y": 1.759858004875658
+  },
+  {
+    "entity": "Hadern",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.128198909478483,
+    "y": 2.8209880828852625
+  },
+  {
+    "entity": "Kleinhadern",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.3401222057458395,
+    "y": 3.720696662008816
+  },
+  {
+    "entity": "Neufriedenheim",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.3609183093160118,
+    "y": 4.407500962760692
+  },
+  {
+    "entity": "Neuhadern",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.246618850253559,
+    "y": 4.842100932672976
+  },
+  {
+    "entity": "Killesberg",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": 3.2139380484326994,
+    "y": -3.8302222155948877
+  },
+  {
+    "entity": "Stuttgart-Sillenbuch",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": 4.120630943110078,
+    "y": -2.8320311846241646
+  },
+  {
+    "entity": "Möhring district",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": 4.727592877996585,
+    "y": -1.6278407722857793
+  },
+  {
+    "entity": "Ingolstädter Straße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.06098584513028111,
+    "y": 4.999628058835351
+  },
+  {
+    "entity": "Forstenrieder Allee",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -1.1281368686491544,
+    "y": 4.871068384409572
+  },
+  {
+    "entity": "Mittlerer Ring",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.2527057669088495,
+    "y": 4.463778301812895
+  },
+  {
+    "entity": "Luise-Kiesselbach-Platz",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.248371199163201,
+    "y": 3.80106360805065
+  },
+  {
+    "entity": "Weitlstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.058159579653867,
+    "y": 2.9208459093323547
+  }
+]

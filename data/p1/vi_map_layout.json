@@ -1,0 +1,354 @@
+[
+  {
+    "entity": "highway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311812,
+    "y": 0.5406408174555976
+  },
+  {
+    "entity": "local road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3494641795990984,
+    "y": 0.9369497249997617
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.21256528955297682,
+    "y": 0.9771468659711595
+  },
+  {
+    "entity": "noise barrier",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07133918319923224,
+    "y": 0.9974521146102535
+  },
+  {
+    "entity": "apartment building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144973,
+    "y": 0.28173255684143006
+  },
+  {
+    "entity": "pedestrian bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6548607339452855,
+    "y": -0.7557495743542578
+  },
+  {
+    "entity": "road signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684143056,
+    "y": -0.9594929736144971
+  },
+  {
+    "entity": "horizon",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414285,
+    "y": -0.9594929736144977
+  },
+  {
+    "entity": "rectangular high-rise",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5992776665113454,
+    "y": -0.8005412409243615
+  },
+  {
+    "entity": "high rises",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.877678989567255,
+    "y": -0.47924898672005795
+  },
+  {
+    "entity": "thumbnail image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9974521146102534,
+    "y": -0.07133918319923475
+  },
+  {
+    "entity": "three lanes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway",
+    "x": 1.9933451649883864,
+    "y": 0.16301856709412632
+  },
+  {
+    "entity": "lane markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway",
+    "x": 1.940371911148129,
+    "y": 0.48472347418642464
+  },
+  {
+    "entity": "central walkway",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway",
+    "x": 1.8358331705075188,
+    "y": 0.7935468291564849
+  },
+  {
+    "entity": "overhead gantry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway",
+    "x": 1.5887741708242253,
+    "y": 1.2148237049554949
+  },
+  {
+    "entity": "white-on-blue sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -0.9164530434548227,
+    "y": -1.7776708973098458
+  },
+  {
+    "entity": "arrow sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -0.5634651136828595,
+    "y": -1.9189859472289947
+  },
+  {
+    "entity": "highway sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -0.19011208660836676,
+    "y": -1.9909438451461692
+  },
+  {
+    "entity": "colorful balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -0.7092097740850709,
+    "y": 1.8700324853708297
+  },
+  {
+    "entity": "balcony railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -0.9872893882462366,
+    "y": 1.7393273596009384
+  },
+  {
+    "entity": "horizontal balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.2420659858712042,
+    "y": 1.567568845933662
+  },
+  {
+    "entity": "small windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.4675260684476081,
+    "y": 1.3588109649346762
+  },
+  {
+    "entity": "colorful windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.7393273596009382,
+    "y": 0.9872893882462368
+  },
+  {
+    "entity": "multi-colored windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "\"Augustinum\" sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.982649929246814,
+    "y": 0.2628673773171617
+  },
+  {
+    "entity": "red banner",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.9995173745685362,
+    "y": -0.04393482443971011
+  },
+  {
+    "entity": "golden phi logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.9691901604533166,
+    "y": -0.34970003141813055
+  },
+  {
+    "entity": "12-story building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "apartment building",
+    "x": -1.8923841009070967,
+    "y": -0.6472112596625921
+  },
+  {
+    "entity": "beige building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "high rises",
+    "x": 1.4392305818311244,
+    "y": -1.3887459567257228
+  },
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "high rises",
+    "x": 1.6629392246050885,
+    "y": -1.1111404660392075
+  },
+  {
+    "entity": "brick structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "high rises",
+    "x": 1.8338036642966389,
+    "y": -0.7982256077151497
+  },
+  {
+    "entity": "setting sun",
+    "type": "v",
+    "granularity": 2,
+    "parent": "horizon",
+    "x": 0.19011208660836248,
+    "y": -1.9909438451461694
+  },
+  {
+    "entity": "light clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "horizon",
+    "x": 0.5634651136828587,
+    "y": -1.918985947228995
+  },
+  {
+    "entity": "graffiti",
+    "type": "v",
+    "granularity": 2,
+    "parent": "noise barrier",
+    "x": 0.07138466767796144,
+    "y": 1.9987256513139833
+  },
+  {
+    "entity": "message sign",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead gantry",
+    "x": 2.3831612562363382,
+    "y": 1.8222355574332423
+  },
+  {
+    "entity": "window shutters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "colorful windows",
+    "x": -2.608991039401407,
+    "y": 1.4809340823693553
+  },
+  {
+    "entity": "senior residence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "apartment building",
+    "x": -2.656368076959628,
+    "y": -1.3941695161313088
+  },
+  {
+    "entity": "German high-rise architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high rises",
+    "x": 2.919591360853209,
+    "y": -0.6899175933626461
+  },
+  {
+    "entity": "urban setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway",
+    "x": 1.8704694055762008,
+    "y": 2.3454944474040893
+  },
+  {
+    "entity": "pedestrian walkway vantage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pedestrian bridge",
+    "x": -1.9645822018358565,
+    "y": -2.2672487230627736
+  },
+  {
+    "entity": "orientation to noise",
+    "type": "i",
+    "granularity": 3,
+    "parent": "noise barrier",
+    "x": -0.5326595887629093,
+    "y": 2.9523336130083484
+  },
+  {
+    "entity": "building renovation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "apartment building",
+    "x": -2.4114616792903156,
+    "y": -1.78461552422765
+  },
+  {
+    "entity": "westward perspective",
+    "type": "i",
+    "granularity": 3,
+    "parent": "horizon",
+    "x": 1.3746795651822283,
+    "y": -2.6665063459647715
+  },
+  {
+    "entity": "motorway merge",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway",
+    "x": 1.4645286181448447,
+    "y": 2.618235269534568
+  }
+]

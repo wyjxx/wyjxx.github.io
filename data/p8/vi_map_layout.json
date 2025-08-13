@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "water body",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13423326581765518,
+    "y": 0.9909497617679348
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4738686624729996,
+    "y": -0.8805955318567374
+  },
+  {
+    "entity": "shore",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7530714660036102,
+    "y": -0.6579387259397135
+  },
+  {
+    "entity": "southwestern walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.995974293995239,
+    "y": -0.08963930890343462
+  },
+  {
+    "entity": "lake",
+    "type": "v",
+    "granularity": 2,
+    "parent": "water body",
+    "x": 0.2980845323523493,
+    "y": 1.977661652450257
+  },
+  {
+    "entity": "forest lakes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": 1.989703744546241,
+    "y": 0.20267957208033208
+  },
+  {
+    "entity": "conifer forest",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.7820130483767362,
+    "y": -0.9079809994790925
+  },
+  {
+    "entity": "rocky shore",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shore",
+    "x": 1.3559528210264393,
+    "y": -1.4701673194403557
+  },
+  {
+    "entity": "white stone shoreline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shore",
+    "x": 1.9180638191979305,
+    "y": -0.566596139665502
+  },
+  {
+    "entity": "rocky bottom",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": 1.837371449220717,
+    "y": 0.7899785804618771
+  },
+  {
+    "entity": "small islands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": 1.5159434462909063,
+    "y": 1.304574822556242
+  },
+  {
+    "entity": "stones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky shore",
+    "x": 1.131579267164428,
+    "y": -1.649099257814282
+  },
+  {
+    "entity": "fine silt",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": 1.05500117701753,
+    "y": 1.6991093303527076
+  },
+  {
+    "entity": "purple flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.9477373249459992,
+    "y": -1.761191063713475
+  },
+  {
+    "entity": "turquoise water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": -0.30864656650981054,
+    "y": 1.9760408135920942
+  },
+  {
+    "entity": "turquoise gradient",
+    "type": "v",
+    "granularity": 3,
+    "parent": "turquoise water",
+    "x": 0.6714688714839023,
+    "y": 2.923889456636166
+  },
+  {
+    "entity": "bright turquoise",
+    "type": "v",
+    "granularity": 3,
+    "parent": "turquoise water",
+    "x": -0.08413876882760535,
+    "y": 2.9988198791491585
+  },
+  {
+    "entity": "deep blue",
+    "type": "v",
+    "granularity": 3,
+    "parent": "turquoise water",
+    "x": -0.8343563162449767,
+    "y": 2.8816400777234676
+  },
+  {
+    "entity": "dark tea-stained water",
+    "type": "v",
+    "granularity": 3,
+    "parent": "lake",
+    "x": -2.075503831298046,
+    "y": 2.166168009704495
+  },
+  {
+    "entity": "heather",
+    "type": "v",
+    "granularity": 3,
+    "parent": "purple flowers",
+    "x": -1.4216059874189988,
+    "y": -2.6417865955702124
+  },
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 3,
+    "parent": "conifer forest",
+    "x": -2.6730195725651043,
+    "y": -1.3619714992186387
+  },
+  {
+    "entity": "white limestone",
+    "type": "v",
+    "granularity": 3,
+    "parent": "stones",
+    "x": 1.6973689007466422,
+    "y": -2.4736488867214232
+  },
+  {
+    "entity": "glacial melt lakes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lake",
+    "x": -2.4696517926119546,
+    "y": 1.703179386690832
+  },
+  {
+    "entity": "mountainous area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": -2.937516656011894,
+    "y": 0.6090943241015292
+  },
+  {
+    "entity": "late summer",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 0.03365921506393588,
+    "y": -2.9998111702641017
+  },
+  {
+    "entity": "acidic soil",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 0.6347054750317842,
+    "y": -2.9320895211375584
+  },
+  {
+    "entity": "alpine region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": -2.9996643054308203,
+    "y": 0.044878221045793
+  },
+  {
+    "entity": "dolomite formations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky shore",
+    "x": 2.5753463808055965,
+    "y": -1.5386978322177214
+  },
+  {
+    "entity": "glacial silt",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fine silt",
+    "x": 1.582501765526295,
+    "y": 2.5486639955290613
+  },
+  {
+    "entity": "Calluna vulgaris",
+    "type": "i",
+    "granularity": 3,
+    "parent": "heather",
+    "x": -1.9226268419550747,
+    "y": -2.3029342210740316
+  },
+  {
+    "entity": "shallow pale substrates",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky bottom",
+    "x": 2.7560571738310755,
+    "y": 1.1849678706928155
+  },
+  {
+    "entity": "thrives in moorland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "heather",
+    "x": -0.8627979822960548,
+    "y": -2.8732524500547907
+  },
+  {
+    "entity": "rare occurrence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "turquoise water",
+    "x": -1.5311233780653426,
+    "y": 2.5798568179536194
+  },
+  {
+    "entity": "beautiful scenery",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": -2.9544232590366244,
+    "y": -0.52094453300079
+  },
+  {
+    "entity": "clear visibility",
+    "type": "v",
+    "granularity": 3,
+    "parent": "lake",
+    "x": -2.7623489058617636,
+    "y": 1.1702258424271441
+  }
+]

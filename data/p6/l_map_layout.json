@@ -1,0 +1,289 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.6180339887498947,
+    "y": -1.1755705045849467
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.902113032590307,
+    "y": -0.6180339887498952
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.993834667466256,
+    "y": -0.15691819145569125
+  },
+  {
+    "entity": "southern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.9902003019859897,
+    "y": 0.2422852740116379
+  },
+  {
+    "entity": "southwestern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.9121864359296863,
+    "y": 0.7205346364937294
+  },
+  {
+    "entity": "Black Forest",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.7581940735857895,
+    "y": 1.1799853611109878
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.7414789719096326,
+    "y": 3.6010069411758385
+  },
+  {
+    "entity": "Stuttgart",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.516737053951159,
+    "y": -1.9059277251162814
+  },
+  {
+    "entity": "Zurich",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 3.804226065180614,
+    "y": -1.2360679774997905
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.1640149614198774,
+    "y": -2.4472452520969723
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 3.2360679774997894,
+    "y": -2.3511410091698934
+  },
+  {
+    "entity": "Nuremberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.7287442050962705,
+    "y": -2.924714526779242
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.222280932078412,
+    "y": -3.325878449210179
+  },
+  {
+    "entity": "Freiburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.35842858926665,
+    "y": -3.762269496974269
+  },
+  {
+    "entity": "Neuried",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -0.41505060914921343,
+    "y": -3.9784083490568016
+  },
+  {
+    "entity": "Grünwald",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.23087108222641725,
+    "y": -3.993331759745439
+  },
+  {
+    "entity": "Gauting",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.8707693825693057,
+    "y": -3.9040697589028643
+  },
+  {
+    "entity": "Starnberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.4879494436248215,
+    "y": -3.7129511784046643
+  },
+  {
+    "entity": "Kirchheim",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.0663091325078105,
+    "y": -3.4249622726264914
+  },
+  {
+    "entity": "Prien",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.5907591338734393,
+    "y": -3.0476166278341745
+  },
+  {
+    "entity": "Neuperlach",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.208316379489712,
+    "y": 2.700013564802704
+  },
+  {
+    "entity": "Bogenhausen",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.6885534385103753,
+    "y": 3.3755849169074814
+  },
+  {
+    "entity": "Schwabing-West",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.061593732920505,
+    "y": 3.9530549976621736
+  },
+  {
+    "entity": "Pasing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.345657969862018,
+    "y": 4.415641367731623
+  },
+  {
+    "entity": "Obermenzing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.561552679251922,
+    "y": 4.749900338946191
+  },
+  {
+    "entity": "Nymphenburg",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.7320655342712075,
+    "y": 4.946117674856939
+  },
+  {
+    "entity": "Aubing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -0.11869690414498464,
+    "y": 4.998590905940032
+  },
+  {
+    "entity": "Harlaching",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -0.9660097723419204,
+    "y": 4.905795054804054
+  },
+  {
+    "entity": "Solln",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -1.7852484580975574,
+    "y": 4.6704269550931095
+  },
+  {
+    "entity": "Sendling",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.552604241267058,
+    "y": 4.299326876089491
+  },
+  {
+    "entity": "Haidhausen",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.2457762229662834,
+    "y": 3.8032797307622177
+  },
+  {
+    "entity": "Trudering",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.844619434443788,
+    "y": 3.196701644554451
+  },
+  {
+    "entity": "Westend",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.331730290296917,
+    "y": 2.4972209938498007
+  },
+  {
+    "entity": "Allach-Untermenzing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.692952371586757,
+    "y": 1.7251660899803904
+  },
+  {
+    "entity": "Milbertshofen-Am Hart",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.9177878397796775,
+    "y": 0.9029743977074517
+  },
+  {
+    "entity": "Betzenhausen",
+    "granularity": 5,
+    "parent": "Freiburg",
+    "x": -1.6980357365833125,
+    "y": -4.702836871217836
+  },
+  {
+    "entity": "Hoersburger Weg",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.999702525000749,
+    "y": 0.054540457470911304
+  },
+  {
+    "entity": "Maxhof-Weg",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.936315822122197,
+    "y": -0.7954785379041067
+  },
+  {
+    "entity": "Huttenstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.7294698759254885,
+    "y": -1.6223793307094811
+  }
+]

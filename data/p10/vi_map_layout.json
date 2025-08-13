@@ -1,0 +1,394 @@
+[
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9917900138232462,
+    "y": 0.127877161684506
+  },
+  {
+    "entity": "seagull",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9269167573460217,
+    "y": 0.3752670048793741
+  },
+  {
+    "entity": "terracotta rooftop",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tile roof",
+    "x": 0.2684665316353115,
+    "y": 1.9818995235358694
+  },
+  {
+    "entity": "pastel house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8014136218679567,
+    "y": 0.5981105304912159
+  },
+  {
+    "entity": "French flag",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5183925683105252,
+    "y": 0.8551427630053461
+  },
+  {
+    "entity": "narrow window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.044606628559436,
+    "y": 1.7055195664575908
+  },
+  {
+    "entity": "window shutter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.3714959772371875,
+    "y": 1.4556781184115573
+  },
+  {
+    "entity": "tile roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.09602302590768154,
+    "y": 0.9953791129491982
+  },
+  {
+    "entity": "cream building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.991790013823246,
+    "y": 0.1278771616845065
+  },
+  {
+    "entity": "red tile roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tile roof",
+    "x": -0.19204605181536263,
+    "y": 1.9907582258983965
+  },
+  {
+    "entity": "stucco building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.34536505442130816,
+    "y": -0.9384684220497602
+  },
+  {
+    "entity": "two-story building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09602302590768208,
+    "y": -0.9953791129491981
+  },
+  {
+    "entity": "roof terrace",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.6403445091939113,
+    "y": 1.1442333202443398
+  },
+  {
+    "entity": "metal railing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.781597044259415,
+    "y": 0.9087969915696884
+  },
+  {
+    "entity": "satellite dish",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.8892742501429283,
+    "y": 0.6562338057025685
+  },
+  {
+    "entity": "chimney",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pitched roof",
+    "x": 0.46585161683675613,
+    "y": -1.9449890156735026
+  },
+  {
+    "entity": "barrel tile",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tile roof",
+    "x": -0.6423729776152902,
+    "y": 1.8940319315232428
+  },
+  {
+    "entity": "pitched roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5721166601221697,
+    "y": -0.8201722545969559
+  },
+  {
+    "entity": "Juliet balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.9613468814297346,
+    "y": 0.3913034764806655
+  },
+  {
+    "entity": "garage door",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.9964566835536492,
+    "y": 0.11899878442221161
+  },
+  {
+    "entity": "balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.9785625022129925,
+    "y": -0.29204524450273456
+  },
+  {
+    "entity": "downspout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stucco building",
+    "x": -1.2268270574087332,
+    "y": -1.5795237798810846
+  },
+  {
+    "entity": "gutter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stucco building",
+    "x": -0.9702422399341447,
+    "y": -1.7488939349907913
+  },
+  {
+    "entity": "solar panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pitched roof",
+    "x": 0.7505340097587484,
+    "y": -1.8538335146920435
+  },
+  {
+    "entity": "TV antenna",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pitched roof",
+    "x": 1.0184507131228444,
+    "y": -1.7212664363600336
+  },
+  {
+    "entity": "rooftop turret",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pitched roof",
+    "x": 1.2636169104949218,
+    "y": -1.5502491101469043
+  },
+  {
+    "entity": "crenellation",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pitched roof",
+    "x": 1.5768982762012949,
+    "y": -1.230199913230929
+  },
+  {
+    "entity": "flagpole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "French flag",
+    "x": 1.3126556142070367,
+    "y": 1.5089517018416287
+  },
+  {
+    "entity": "balcony railing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cream building",
+    "x": -1.8769368440995216,
+    "y": -0.6907301088426132
+  },
+  {
+    "entity": "Mediterranean vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear blue sky",
+    "x": 2.9753700414697386,
+    "y": 0.38363148505351796
+  },
+  {
+    "entity": "seaside town",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "Old Port architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pastel house",
+    "x": 2.40424086560387,
+    "y": 1.7943315914736475
+  },
+  {
+    "entity": "Mediterranean influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terracotta rooftop",
+    "x": 0.40269979745296725,
+    "y": 2.972849285303804
+  },
+  {
+    "entity": "Côte d'Azur style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco building",
+    "x": -1.0360951632639246,
+    "y": -2.8154052661492805
+  },
+  {
+    "entity": "town hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "French flag",
+    "x": 1.5551777049315754,
+    "y": 2.5654282890160385
+  },
+  {
+    "entity": "public building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cream building",
+    "x": -2.6469771422878026,
+    "y": -1.411917847541385
+  },
+  {
+    "entity": "residential building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cream building",
+    "x": -2.4286650510186085,
+    "y": -1.7611320421708245
+  },
+  {
+    "entity": "port building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cream building",
+    "x": -2.164583222522082,
+    "y": -2.0771565835959303
+  },
+  {
+    "entity": "rental apartment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco building",
+    "x": -0.5923435152086037,
+    "y": -2.940940183001061
+  },
+  {
+    "entity": "Californian style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco building",
+    "x": -0.13459449105154797,
+    "y": -2.9969791996239437
+  },
+  {
+    "entity": "European roller shutters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "window shutter",
+    "x": -2.0572439658557813,
+    "y": 2.183517177617336
+  },
+  {
+    "entity": "barrel tile style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "barrel tile",
+    "x": -0.9635594664229353,
+    "y": 2.8410478972848643
+  },
+  {
+    "entity": "vernacular architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "crenellation",
+    "x": 2.3653474143019424,
+    "y": -1.8452998698463934
+  },
+  {
+    "entity": "likely French location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "French flag",
+    "x": 1.0960230730991856,
+    "y": 2.7926212459326125
+  },
+  {
+    "entity": "flat coastal region",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.847167241032007,
+    "y": -0.9453246540708591
+  },
+  {
+    "entity": "lack of hills",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9446774709731964,
+    "y": -0.5734758861041154
+  },
+  {
+    "entity": "ground-level vantage",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9938361782510094,
+    "y": -0.1922106599421334
+  },
+  {
+    "entity": "balcony vantage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "balcony",
+    "x": -2.967843753319489,
+    "y": -0.4380678667541018
+  },
+  {
+    "entity": "Mediterranean gull",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seagull",
+    "x": 2.7807502720380652,
+    "y": 1.1258010146381223
+  }
+]

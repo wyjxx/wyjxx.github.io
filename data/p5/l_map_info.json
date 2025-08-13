@@ -1,0 +1,21 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"North America","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Europe"},  
+  {"entity":"Berlin","granularity":4,"parent":"Germany"},  
+  {"entity":"Seattle","granularity":4,"parent":"North America"},  
+  {"entity":"Chicago","granularity":4,"parent":"North America"},  
+  {"entity":"Paris","granularity":4,"parent":"Europe"},  
+  {"entity":"Prague","granularity":4,"parent":"Europe"},  
+  {"entity":"Munich","granularity":4,"parent":"Germany"},  
+  {"entity":"Amsterdam","granularity":4,"parent":"Europe"},  
+  {"entity":"Phoenix Park","granularity":5,"parent":"Dublin"},  
+  {"entity":"Tiergarten","granularity":5,"parent":"Berlin"},  
+  {"entity":"Volkspark","granularity":5,"parent":"Germany"},  
+  {"entity":"Hampstead Heath","granularity":5,"parent":null},  
+  {"entity":"Parc Monceau","granularity":5,"parent":"Paris"},  
+  {"entity":"Parc Montsouris","granularity":5,"parent":"Paris"},  
+  {"entity":"Stromovka","granularity":5,"parent":"Prague"},  
+  {"entity":"Westpark","granularity":5,"parent":"Munich"}  
+]

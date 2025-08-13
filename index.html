@@ -195,26 +195,30 @@
     }
   }
 
-  // Auto load all pics from data/pictures 
-  fetch('data/pictures/')
-    .then(res => res.text())
-    .then(html => {
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(html, 'text/html');
-      const files = Array.from(doc.querySelectorAll('a'))
-        .map(a => a.getAttribute('href'))
-        .filter(name => name.endsWith('.png'))
-        .map(name => name.replace('.png', ''));
+// fetch pic menu list from index.json
+fetch('data/pictures/index.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(pictureFiles => {
+    
+    const picSelect = document.getElementById('picSelect');
 
-      const select = document.getElementById('picSelect');
-      files.forEach(file => {
-        const opt = document.createElement('option');
-        opt.value = file;
-        opt.textContent = file;
-        select.appendChild(opt);
-      });
-    })
-    .catch(err => console.error('Failed to load pictures list:', err));
+    pictureFiles.forEach(fileName => {
+      const optionValue = fileName.split('.')[0];
+      const option = document.createElement('option');
+      option.value = optionValue;      // e.g., value="p1"
+      option.textContent = optionValue; // e.g., <option>p1</option>
+      
+      picSelect.appendChild(option);
+    });
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
 
    // Load JSON files and Render
   function loadDataAndRender(imgId) {

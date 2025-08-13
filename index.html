@@ -188,33 +188,26 @@
   }
 
   // select from menu
-  function selectFromMenu(sel) {
+    function selectFromMenu(sel){
     if (sel.value) {
       document.getElementById('imgInput').value = sel.value;
       selectImage();
     }
   }
-  
-  // Auto load all pics from data/pictures 
-  fetch('data/pictures/')
-    .then(res => res.text())
-    .then(html => {
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(html, 'text/html');
-      const files = Array.from(doc.querySelectorAll('a'))
-        .map(a => a.getAttribute('href'))
-        .filter(name => name.endsWith('.png'))
-        .map(name => name.replace('.png', ''));
 
-      const select = document.getElementById('picSelect');
-      files.forEach(file => {
+  // fetch pic list from index.json
+  fetch('data/pictures/index.json')
+    .then(r => r.json())
+    .then(ids => {
+      const sel = document.getElementById('picSelect');
+      ids.forEach(id => {
         const opt = document.createElement('option');
-        opt.value = file;
-        opt.textContent = file;
-        select.appendChild(opt);
+        opt.value = id;
+        opt.textContent = id;
+        sel.appendChild(opt);
       });
     })
-    .catch(err => console.error('Failed to load pictures list:', err));
+    .catch(err => console.error('Error:', err));
 
    // Load JSON files and Render
   function loadDataAndRender(imgId) {

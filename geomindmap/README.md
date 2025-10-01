@@ -8,7 +8,7 @@ This project was developed as part of my Bachelor’s Thesis at TUM (“Tracing 
 
 LLMs demonstrate remarkable reasoning ability, but their reasoning process is often a black box—especially in multi-modal tasks such as geo-localization.
 
-## Geo-localization (e.g., “Where was this photo taken?”) is a challenging problem because:
+### Geo-localization (e.g., “Where was this photo taken?”) is a challenging problem because:
 
 - It requires multi-step reasoning: observe → hypothesize → verify → conclude.
 

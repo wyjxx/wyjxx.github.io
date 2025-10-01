@@ -1,0 +1,14 @@
+[  
+  {"entity":"narrow brick buildings","type":"v","granularity":1,"parent":null},  
+  {"entity":"bar","type":"v","granularity":1,"parent":null},  
+  {"entity":"statue","type":"v","granularity":1,"parent":null},  
+  {"entity":"multilingual signage","type":"v","granularity":1,"parent":null},  
+  {"entity":"Estaminet signage","type":"v","granularity":2,"parent":"multilingual signage"},  
+  {"entity":"brick architecture","type":"v","granularity":2,"parent":"narrow brick buildings"},  
+  {"entity":"street details","type":"v","granularity":2,"parent":null},  
+  {"entity":"Belgian architecture","type":"i","granularity":3,"parent":"brick architecture"},  
+  {"entity":"Dutch architecture","type":"i","granularity":3,"parent":"brick architecture"},  
+  {"entity":"Manneken Pis reference","type":"i","granularity":3,"parent":"statue"},  
+  {"entity":"Poechelekelder clue","type":"i","granularity":3,"parent":"bar"},  
+  {"entity":"Rue du Chêne address","type":"i","granularity":3,"parent":"street details"}  
+]

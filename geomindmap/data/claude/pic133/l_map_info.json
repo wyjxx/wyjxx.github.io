@@ -1,0 +1,14 @@
+[  
+  {"entity":"Athens Center","granularity":5,"parent":"Athens"},  
+  {"entity":"Katechaki Ave","granularity":5,"parent":"Athens"},  
+  {"entity":"Elefsina","granularity":4,"parent":"Attica region"},  
+  {"entity":"Markopoulo","granularity":4,"parent":"Attica region"},  
+  {"entity":"Greece","granularity":2,"parent":"Europe"},  
+  {"entity":"Attiki Odos","granularity":5,"parent":"Attica region"},  
+  {"entity":"Attica region","granularity":3,"parent":"Greece"},  
+  {"entity":"Glyka Nera","granularity":4,"parent":"Attica region"},  
+  {"entity":"Gerakas","granularity":4,"parent":"Attica region"},  
+  {"entity":"Athens","granularity":4,"parent":"Attica region"},  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Mediterranean","granularity":1,"parent":null}  
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "zebra crossing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastal road",
+    "x": -1.1425364301895846,
+    "y": -1.6415268824145526
+  },
+  {
+    "entity": "asphalt road surface",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastal road",
+    "x": -0.45209614116746977,
+    "y": -1.948232295990774
+  },
+  {
+    "entity": "hatchback car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9795299412524945,
+    "y": 0.20129852008866006
+  },
+  {
+    "entity": "metal pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8743466161445821,
+    "y": 0.48530196253108104
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7587581226927909,
+    "y": 0.6513724827222221
+  },
+  {
+    "entity": "outdoor dining area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5289640103269624,
+    "y": 0.8486442574947509
+  },
+  {
+    "entity": "umbrella",
+    "type": "v",
+    "granularity": 2,
+    "parent": "outdoor dining area",
+    "x": 1.0579280206539248,
+    "y": 1.6972885149895018
+  },
+  {
+    "entity": "balloons",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.25065253225872053,
+    "y": 0.9680771188662043
+  },
+  {
+    "entity": "person with balloons",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.05064916883871277,
+    "y": 0.9987165071710528
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25065253225872064,
+    "y": 0.9680771188662043
+  },
+  {
+    "entity": "palm tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6121059825476629,
+    "y": 0.7907757369376985
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9541392564000488,
+    "y": 0.29936312297335804
+  },
+  {
+    "entity": "sunny weather",
+    "type": "v",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.5187678459089162,
+    "y": 1.629665161441257
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.862417769200147,
+    "y": 0.8980893689200729
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.998288472789154,
+    "y": 0.10132242565040439
+  },
+  {
+    "entity": "waterfront promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9189578116202307,
+    "y": -0.3943558551133184
+  },
+  {
+    "entity": "coastal road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448206,
+    "y": -0.9377521321470803
+  },
+  {
+    "entity": "wide boulevard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.250652532258721,
+    "y": -0.9680771188662042
+  },
+  {
+    "entity": "palm-lined street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5289640103269624,
+    "y": -0.848644257494751
+  },
+  {
+    "entity": "active tourist zone",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9189578116202306,
+    "y": -0.3943558551133187
+  },
+  {
+    "entity": "European-style road markings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "zebra crossing",
+    "x": -1.713804645284377,
+    "y": -2.4622903236218288
+  },
+  {
+    "entity": "developed country infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "coastal road",
+    "x": 0.07599814293956023,
+    "y": -2.9990372258892917
+  },
+  {
+    "entity": "European-style car",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hatchback car",
+    "x": 2.9385898237574835,
+    "y": 0.6038955602659801
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "active tourist zone",
+    "x": 2.340974372856274,
+    "y": -1.876123392964912
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm tree",
+    "x": -1.8363179476429887,
+    "y": 2.3723272108130957
+  },
+  {
+    "entity": "coastal location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sea",
+    "x": -0.7519575967761619,
+    "y": 2.904231356598613
+  },
+  {
+    "entity": "tourist atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "active tourist zone",
+    "x": 2.756873434860692,
+    "y": -1.183067565339956
+  },
+  {
+    "entity": "resort town",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": -2.904231356598613,
+    "y": -0.7519575967761605
+  },
+  {
+    "entity": "Mediterranean urban design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": -2.5459327724842526,
+    "y": -1.5868920309808874
+  },
+  {
+    "entity": "Spanish Mediterranean character",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm-lined street",
+    "x": 1.5868920309808872,
+    "y": -2.545932772484253
+  },
+  {
+    "entity": "major tourist destination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "active tourist zone",
+    "x": 2.972654604474716,
+    "y": -0.40413438667758705
+  }
+]

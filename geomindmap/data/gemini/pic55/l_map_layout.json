@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Kingdom of León",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 2.4270509831248424,
+    "y": 1.7633557568774194
+  },
+  {
+    "entity": "Kingdom of Castile",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -0.927050983124842,
+    "y": 2.853169548885461
+  },
+  {
+    "entity": "Seville",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -1.2360679774997902,
+    "y": -3.804226065180614
+  },
+  {
+    "entity": "Seville Cathedral",
+    "granularity": 5,
+    "parent": "Seville",
+    "x": -4.755282581475768,
+    "y": -1.5450849718747364
+  },
+  {
+    "entity": "Santa Cruz",
+    "granularity": 5,
+    "parent": "Seville",
+    "x": 2.9389262614623646,
+    "y": -4.045084971874738
+  }
+]

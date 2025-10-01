@@ -1,0 +1,23 @@
+[
+{"entity":"building","type":"v"},
+{"entity":"museum","type":"v"},
+{"entity":"public space","type":"v"},
+{"entity":"suspended whale skeleton","type":"v"},
+{"entity":"\"Wildlife Photographer of the Year\" signage","type":"v"},
+{"entity":"\"Dinosaurs\" signage","type":"v"},
+{"entity":"free gallery","type":"v"},
+{"entity":"exhibits","type":"v"},
+{"entity":"Darwin statue","type":"v"},
+{"entity":"central staircase","type":"v"},
+{"entity":"architectural style","type":"i"},
+{"entity":"key features","type":"i"},
+{"entity":"Natural History Museum","type":"l"},
+{"entity":"Cromwell Road","type":"l"},
+{"entity":"South Kensington","type":"l"},
+{"entity":"London","type":"l"},
+{"entity":"United Kingdom","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"Kurfürstenstrasse","type":"l"},
+{"entity":"Berlin","type":"l"},
+{"entity":"Germany","type":"l"}
+]

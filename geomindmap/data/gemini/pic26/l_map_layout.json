@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "Southern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "French Riviera",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "Antibes",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": 1.8159619989581872,
+    "y": 3.564026096753471
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "Villefranche-sur-Mer",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": -3.041623862400124,
+    "y": -2.597792193320734
+  },
+  {
+    "entity": "Cassis",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": 0.9337814554236191,
+    "y": -3.889479681590707
+  },
+  {
+    "entity": "Vieil Antibes",
+    "granularity": 5,
+    "parent": "Antibes",
+    "x": 2.269952498697734,
+    "y": 4.455032620941839
+  }
+]

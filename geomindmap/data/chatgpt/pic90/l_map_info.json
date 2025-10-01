@@ -1,0 +1,20 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Vatican","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":null},
+{"entity":"Washington, D.C.","granularity":4,"parent":null},
+{"entity":"Campanile area","granularity":5,"parent":"Dublin"},
+{"entity":"College Green","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin 2","granularity":5,"parent":"Dublin"},
+{"entity":"East Building","granularity":5,"parent":"Washington, D.C."},
+{"entity":"Hirshhorn Museum","granularity":5,"parent":"Washington, D.C."},
+{"entity":"Library Square","granularity":5,"parent":"Dublin"},
+{"entity":"National Gallery of Art","granularity":5,"parent":"Washington, D.C."},
+{"entity":"National Gallery of Ireland","granularity":5,"parent":"Dublin"},
+{"entity":"Pearse Street","granularity":5,"parent":"Dublin"},
+{"entity":"South-East Inner City","granularity":5,"parent":"Dublin"},
+{"entity":"Temple Bar","granularity":5,"parent":"Dublin"},
+{"entity":"Trinity College Dublin","granularity":5,"parent":"Dublin"},
+{"entity":"UN Headquarters","granularity":5,"parent":null},
+{"entity":"West Sculpture Garden","granularity":5,"parent":"Washington, D.C."}
+]

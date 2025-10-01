@@ -1,0 +1,74 @@
+[
+  {
+    "entity": "Evzones uniforms",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859084,
+    "y": 0.3420201433256687
+  },
+  {
+    "entity": "guardhouse",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "building architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "M1 Garand rifles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9396926207859085,
+    "y": -0.3420201433256682
+  },
+  {
+    "entity": "Greek inscription",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.17364817766692997,
+    "y": -0.9848077530122081
+  },
+  {
+    "entity": "changing of the guard ceremony",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859084,
+    "y": -0.3420201433256686
+  },
+  {
+    "entity": "neoclassical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "modern era",
+    "type": "i",
+    "granularity": 3,
+    "parent": "M1 Garand rifles",
+    "x": -2.8190778623577257,
+    "y": -1.0260604299770046
+  },
+  {
+    "entity": "Greek battles and locations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Greek inscription",
+    "x": 0.5209445330007899,
+    "y": -2.9544232590366244
+  }
+]

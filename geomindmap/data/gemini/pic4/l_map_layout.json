@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "German Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": 0.25672502543651954,
+    "y": 2.988995192588074
+  },
+  {
+    "entity": "Austrian Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": -1.0884231160519224,
+    "y": 2.795592087634357
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": -1.9645822018358556,
+    "y": -2.2672487230627745
+  },
+  {
+    "entity": "Wetterstein Mountains",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -3.0336604090859187,
+    "y": 2.607087363772963
+  },
+  {
+    "entity": "Karwendel Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": 2.9220357508270007,
+    "y": -0.6794903022772925
+  },
+  {
+    "entity": "Garmisch-Partenkirchen",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -3.311071771981164,
+    "y": -2.244282451205622
+  },
+  {
+    "entity": "Garmisch-Partenkirchen station",
+    "granularity": 5,
+    "parent": "Garmisch-Partenkirchen",
+    "x": -4.974700458817355,
+    "y": 0.5023498233725125
+  },
+  {
+    "entity": "Alte Kirche",
+    "granularity": 5,
+    "parent": "Garmisch-Partenkirchen",
+    "x": -4.138839714976455,
+    "y": -2.8053530640070274
+  },
+  {
+    "entity": "Kramer group",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": 1.2979854415490844,
+    "y": -3.783547778676335
+  },
+  {
+    "entity": "Kramerspitz range",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": 3.0122858640144456,
+    "y": -2.6317549037588486
+  },
+  {
+    "entity": "Schmiedestraße",
+    "granularity": 5,
+    "parent": "Garmisch-Partenkirchen",
+    "x": -1.3760077827949262,
+    "y": -4.806932762343134
+  }
+]

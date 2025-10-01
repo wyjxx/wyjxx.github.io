@@ -1,0 +1,258 @@
+[
+  {
+    "entity": "city street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.881921264348355,
+    "y": 0.47139673682599764
+  },
+  {
+    "entity": "Gothic stone archway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.19509032201612841,
+    "y": 0.9807852804032304
+  },
+  {
+    "entity": "BUS LANE marking",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": 0.38268343236508945
+  },
+  {
+    "entity": "stone building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "large windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "red brick Victorian buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9569403357322088,
+    "y": -0.29028467725446255
+  },
+  {
+    "entity": "red brick houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8819212643483548,
+    "y": -0.47139673682599803
+  },
+  {
+    "entity": "white lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "city street",
+    "x": 1.98495906919742,
+    "y": 0.2448213503984324
+  },
+  {
+    "entity": "asphalt surface",
+    "type": "v",
+    "granularity": 2,
+    "parent": "city street",
+    "x": 1.865985597669478,
+    "y": 0.7197900730699762
+  },
+  {
+    "entity": "sidewalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865474,
+    "y": -0.7071067811865477
+  },
+  {
+    "entity": "grey limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone archway",
+    "x": 0.9179637289350754,
+    "y": 1.7768912719577445
+  },
+  {
+    "entity": "trefoil window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone archway",
+    "x": 0.4995529563344538,
+    "y": 1.936607044244523
+  },
+  {
+    "entity": "pointed arch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone archway",
+    "x": 0.056092512551738034,
+    "y": 1.9992132527661057
+  },
+  {
+    "entity": "pointed-arch window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone archway",
+    "x": -0.6073534902192298,
+    "y": 1.9055502454457924
+  },
+  {
+    "entity": "banner",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.47139673682599786,
+    "y": -0.8819212643483549
+  },
+  {
+    "entity": "lamppost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.29028467725446155,
+    "y": -0.9569403357322092
+  },
+  {
+    "entity": "arch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone archway",
+    "x": -1.2026341825968119,
+    "y": 1.5980209707164978
+  },
+  {
+    "entity": "stone footbridge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bridge",
+    "x": 1.1111404660392052,
+    "y": -1.66293922460509
+  },
+  {
+    "entity": "central gable",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone footbridge",
+    "x": -0.13080625846028546,
+    "y": -1.995717846477207
+  },
+  {
+    "entity": "sloping city street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "city street",
+    "x": 1.6351696263031674,
+    "y": 1.1516163828356905
+  },
+  {
+    "entity": "bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196026,
+    "y": -0.831469612302545
+  },
+  {
+    "entity": "calp limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone footbridge",
+    "x": 0.3901806440322566,
+    "y": -1.9615705608064609
+  },
+  {
+    "entity": "Caen-stone surround",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pointed-arch window",
+    "x": -0.6073534902192298,
+    "y": 1.9055502454457924
+  },
+  {
+    "entity": "slate roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone footbridge",
+    "x": 0.884577380438002,
+    "y": -1.793745483065377
+  },
+  {
+    "entity": "central dormer",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone footbridge",
+    "x": 1.3186916302001368,
+    "y": -1.5036796149579557
+  },
+  {
+    "entity": "descending road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "city street",
+    "x": 1.3063456859075535,
+    "y": 1.514417693012969
+  },
+  {
+    "entity": "granite-flagstone footpath",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sidewalk",
+    "x": -1.4142135623730947,
+    "y": -1.4142135623730954
+  },
+  {
+    "entity": "English",
+    "type": "i",
+    "granularity": 3,
+    "parent": "BUS LANE marking",
+    "x": -2.7716385975338604,
+    "y": 1.1480502970952684
+  },
+  {
+    "entity": "Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic stone archway",
+    "x": -2.292112127464822,
+    "y": 1.9355159506262625
+  },
+  {
+    "entity": "19th-century covered bridge",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone footbridge",
+    "x": 2.4944088369076343,
+    "y": -1.6667106990588088
+  },
+  {
+    "entity": "George E. Street design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone footbridge",
+    "x": 2.8407903884853156,
+    "y": -0.9643183959094881
+  },
+  {
+    "entity": "medieval city quarter",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9855541800165906,
+    "y": -0.29405142098868153
+  }
+]

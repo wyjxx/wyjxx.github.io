@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "double-decker bus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6374239897486896,
+    "y": 0.7705132427757893
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214117,
+    "y": 0.6845471059286885
+  },
+  {
+    "entity": "cobblestone street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9921147013144779,
+    "y": -0.12533323356430429
+  },
+  {
+    "entity": "destination display",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6374239897486895,
+    "y": -0.7705132427757894
+  },
+  {
+    "entity": "people walking",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.06279051952931232,
+    "y": -0.9980267284282717
+  },
+  {
+    "entity": "cool weather",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572602,
+    "y": -0.9822872507286884
+  },
+  {
+    "entity": "wet weather",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4257792915650742,
+    "y": -0.9048270524660188
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8763066800438645,
+    "y": -0.48175367410171377
+  },
+  {
+    "entity": "bus number 40",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.9146389950641345,
+    "y": 0.5780635938889432
+  },
+  {
+    "entity": "license plate '151-D-'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.2748479794973793,
+    "y": 1.5410264855515785
+  },
+  {
+    "entity": "yellow and green livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 0.20905692653530647,
+    "y": 1.9890437907365468
+  },
+  {
+    "entity": "classical columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -0.6774758404905831,
+    "y": 1.881761537908451
+  },
+  {
+    "entity": "stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.2258141073059532,
+    "y": 1.5803100247513806
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 1.5673869146516826,
+    "y": -1.242295560556617
+  },
+  {
+    "entity": "stone pavement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone street",
+    "x": -1.9842294026289558,
+    "y": -0.25066646712860857
+  },
+  {
+    "entity": "text 'Charlestown'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "destination display",
+    "x": -1.7107285203210125,
+    "y": -1.0360540187462615
+  },
+  {
+    "entity": "text 'Baile Shéarlaí'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "destination display",
+    "x": -0.9999999999999992,
+    "y": -1.7320508075688776
+  },
+  {
+    "entity": "Irish Gaelic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text 'Baile Shéarlaí'",
+    "x": -1.499999999999999,
+    "y": -2.5980762113533165
+  },
+  {
+    "entity": "Irish license plate format",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate '151-D-'",
+    "x": 1.9122719692460688,
+    "y": 2.311539728327368
+  },
+  {
+    "entity": "Dublin Bus livery",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow and green livery",
+    "x": 0.3135853898029597,
+    "y": 2.98356568610482
+  },
+  {
+    "entity": "Georgian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": 2.351080371977524,
+    "y": -1.8634433408349256
+  },
+  {
+    "entity": "colonial architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.9579881112115154,
+    "y": -0.5003062401483029
+  },
+  {
+    "entity": "Dublin bus route 40",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus number 40",
+    "x": 2.871958492596202,
+    "y": 0.8670953908334149
+  },
+  {
+    "entity": "government building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.481241722823686,
+    "y": 1.6862501335563915
+  },
+  {
+    "entity": "institutional building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.8808810570308294,
+    "y": 0.8369733181176873
+  }
+]

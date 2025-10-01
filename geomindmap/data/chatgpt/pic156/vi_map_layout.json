@@ -1,0 +1,258 @@
+[
+  {
+    "entity": "modern blue tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.773010453362737,
+    "y": 0.6343932841636455
+  },
+  {
+    "entity": "SL18-class tram vehicles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern blue tram",
+    "x": 1.9477539585546673,
+    "y": 0.4541525260687464
+  },
+  {
+    "entity": "yellow warning sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650897,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "triangular warning sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow warning sign",
+    "x": -0.07851963151813754,
+    "y": 1.9984580724814458
+  },
+  {
+    "entity": "yellow background",
+    "type": "v",
+    "granularity": 2,
+    "parent": "triangular warning sign",
+    "x": -0.07851963151813754,
+    "y": 1.9984580724814458
+  },
+  {
+    "entity": "sign text \"Vennligst bruk fortau andre side\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow warning sign",
+    "x": -0.7653668647301798,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "masonry façades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classic architecture",
+    "x": -1.8477590650225737,
+    "y": 0.7653668647301789
+  },
+  {
+    "entity": "classic architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": 0.38268343236508945
+  },
+  {
+    "entity": "red brick buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9951847266721969,
+    "y": 0.0980171403295604
+  },
+  {
+    "entity": "yellow plaster buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9951847266721969,
+    "y": -0.09801714032956059
+  },
+  {
+    "entity": "slope",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8314696123025452,
+    "y": -0.5555702330196023
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.47139673682599786,
+    "y": -0.8819212643483549
+  },
+  {
+    "entity": "hillside buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.29028467725446155,
+    "y": -0.9569403357322092
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09801714032956096,
+    "y": -0.9951847266721968
+  },
+  {
+    "entity": "tram rails",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -0.09813534865483606,
+    "y": -1.9975909124103448
+  },
+  {
+    "entity": "wide tram tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": 0.48596035980652924,
+    "y": -1.9400625063890877
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4713967368259976,
+    "y": -0.881921264348355
+  },
+  {
+    "entity": "tram foreground",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6343932841636463,
+    "y": -0.7730104533627363
+  },
+  {
+    "entity": "yellow building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8314696123025457,
+    "y": -0.5555702330196015
+  },
+  {
+    "entity": "intricate balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow building",
+    "x": 1.6629392246050914,
+    "y": -1.111140466039203
+  },
+  {
+    "entity": "tram terminus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern blue tram",
+    "x": 2.521345203283314,
+    "y": 1.6256747417242552
+  },
+  {
+    "entity": "Norwegian signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow warning sign",
+    "x": -1.7633557568774192,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "pedestrian zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.870821007196627,
+    "y": -0.8708540317633848
+  },
+  {
+    "entity": "uphill perspective",
+    "type": "i",
+    "granularity": 3,
+    "parent": "slope",
+    "x": -2.840790388485317,
+    "y": -0.9643183959094845
+  },
+  {
+    "entity": "west-facing view",
+    "type": "i",
+    "granularity": 3,
+    "parent": "slope",
+    "x": -2.4944088369076347,
+    "y": -1.6667106990588079
+  },
+  {
+    "entity": "northwest-facing view",
+    "type": "i",
+    "granularity": 3,
+    "parent": "slope",
+    "x": -1.978037445300206,
+    "y": -2.2555194224369326
+  },
+  {
+    "entity": "line 11 route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern blue tram",
+    "x": 2.086327905028835,
+    "y": 2.155744853339094
+  },
+  {
+    "entity": "lines 11 and 19",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern blue tram",
+    "x": 1.542308232579665,
+    "y": 2.573185830000816
+  },
+  {
+    "entity": "SL18-class tram identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "SL18-class tram vehicles",
+    "x": 2.921630937832001,
+    "y": 0.6812287891031196
+  },
+  {
+    "entity": "Briskeby/Homansbyen lines",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern blue tram",
+    "x": 0.9177090602896605,
+    "y": 2.856188033141773
+  },
+  {
+    "entity": "major shopping street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.985554180016591,
+    "y": -0.2940514209886762
+  },
+  {
+    "entity": "construction signage usage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow warning sign",
+    "x": -2.2812178968000936,
+    "y": 1.9483441449905503
+  }
+]

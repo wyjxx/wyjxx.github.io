@@ -1,0 +1,107 @@
+[
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "England",
+    "granularity": 3,
+    "parent": "United Kingdom",
+    "x": -2.924783736545471,
+    "y": 0.6675628018689435
+  },
+  {
+    "entity": "Southwest England",
+    "granularity": 3,
+    "parent": "England",
+    "x": -1.0960230730991847,
+    "y": 2.792621245932613
+  },
+  {
+    "entity": "Bath",
+    "granularity": 4,
+    "parent": "Somerset",
+    "x": -3.738897800427324,
+    "y": 1.4214933126679559
+  },
+  {
+    "entity": "Bristol",
+    "granularity": 4,
+    "parent": "Southwest England",
+    "x": 3.8466137473641453,
+    "y": 1.0970700426997215
+  },
+  {
+    "entity": "Cardiff",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": 3.899711648727294,
+    "y": -0.8900837358252586
+  },
+  {
+    "entity": "Cornwall",
+    "granularity": 3,
+    "parent": "Southwest England",
+    "x": 2.0169026707839506,
+    "y": 2.2208339912259465
+  },
+  {
+    "entity": "Devon",
+    "granularity": 3,
+    "parent": "Southwest England",
+    "x": 0.5419778358191971,
+    "y": 2.950637223631658
+  },
+  {
+    "entity": "Gloucestershire",
+    "granularity": 3,
+    "parent": "Southwest England",
+    "x": -1.096023073099184,
+    "y": 2.792621245932613
+  },
+  {
+    "entity": "Oxfordshire",
+    "granularity": 3,
+    "parent": "England",
+    "x": -1.6433155176536143,
+    "y": -2.5098832860192593
+  },
+  {
+    "entity": "Somerset",
+    "granularity": 3,
+    "parent": "Southwest England",
+    "x": -2.804173350320493,
+    "y": 1.066119984500967
+  },
+  {
+    "entity": "Wiltshire",
+    "granularity": 3,
+    "parent": "Southwest England",
+    "x": -2.6744734066358697,
+    "y": -1.3591144165218487
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "England",
+    "x": 1.53073372946036,
+    "y": -3.6955181300451465
+  },
+  {
+    "entity": "Paddington",
+    "granularity": 5,
+    "parent": "London",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  },
+  {
+    "entity": "Paddington Station",
+    "granularity": 5,
+    "parent": "Paddington",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  }
+]

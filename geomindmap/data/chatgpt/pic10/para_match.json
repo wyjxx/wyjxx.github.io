@@ -1,0 +1,213 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "crest",
+    "three crowns",
+    "eleven flames",
+    "white bar",
+    "red",
+    "Mehlgasse sign",
+    "pedestrian zone",
+    "delivery times",
+    "tapas bar",
+    "the hideout",
+    "café/bar sign",
+    "tattoo parlor"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Cologne",
+      "status": 3,
+      "related_clue": [
+        "crest",
+        "three crowns",
+        "eleven flames"
+      ]
+    },
+    {
+      "loc": "Bonn",
+      "status": 2,
+      "related_clue": [
+        "white bar",
+        "red"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "Mehlgasse sign",
+        "pedestrian zone"
+      ]
+    },
+    {
+      "loc": "Mehlgasse",
+      "status": 3,
+      "related_clue": [
+        "Mehlgasse sign"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "tattoo sign",
+    "green vine",
+    "narrow medieval street",
+    "cobblestone street",
+    "large church facade",
+    "medieval part"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Martinskirche",
+      "status": 2,
+      "related_clue": [
+        "large church facade"
+      ]
+    },
+    {
+      "loc": "Mehlgasse",
+      "status": 2,
+      "related_clue": [
+        "medieval part"
+      ]
+    },
+    {
+      "loc": "Bonn",
+      "status": 2,
+      "related_clue": [
+        "medieval part"
+      ]
+    },
+    {
+      "loc": "Freiburg",
+      "status": 2,
+      "related_clue": [
+        "medieval part"
+      ]
+    },
+    {
+      "loc": "Cologne",
+      "status": 2,
+      "related_clue": [
+        "medieval part"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "cobblestone street"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "pedestrian zone",
+    "pedestrian zone sign",
+    "crest",
+    "red",
+    "white bar",
+    "street name sign",
+    "Mehlgasse sign",
+    "time restrictions"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "pedestrian zone",
+        "time restrictions"
+      ]
+    },
+    {
+      "loc": "Mehlgasse",
+      "status": 3,
+      "related_clue": [
+        "Mehlgasse sign",
+        "street name sign"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "pedestrian zone",
+    "length 121 meters",
+    "German language",
+    "restaurant",
+    "cobblestone street",
+    "half-timbered buildings",
+    "typical architecture"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mehlgasse",
+      "status": 3,
+      "related_clue": [
+        "pedestrian zone",
+        "length 121 meters"
+      ]
+    },
+    {
+      "loc": "Altstadt",
+      "status": 3,
+      "related_clue": [
+        "cobblestone street",
+        "half-timbered buildings"
+      ]
+    },
+    {
+      "loc": "Koblenz",
+      "status": 3,
+      "related_clue": [
+        "length 121 meters"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "German language"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Mehlgasse",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Altstadt",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Koblenz",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Nuremberg","granularity":4,"parent":"Germany"},
+{"entity":"Königstrasse","granularity":5,"parent":"Nuremberg"},
+{"entity":"Lorenzer Platz","granularity":5,"parent":"Nuremberg"},
+{"entity":"Lorenzkirche","granularity":5,"parent":"Nuremberg"},
+{"entity":"Lorenzkirche U-Bahn station","granularity":5,"parent":"Nuremberg"},
+{"entity":"Altstadt, St. Lorenz","granularity":5,"parent":"Nuremberg"}
+]

@@ -1,0 +1,17 @@
+[
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"hazel tree","type":"v","granularity":1,"parent":null},
+{"entity":"street view","type":"v","granularity":1,"parent":null},
+{"entity":"intersection","type":"v","granularity":1,"parent":null},
+{"entity":"ivy","type":"v","granularity":1,"parent":null},
+{"entity":"No Entry sign","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"No Stopping sign","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"stickers","type":"v","granularity":2,"parent":"No Entry sign"},
+{"entity":"German-speaking locale","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"German language","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"German sign style","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"prevalent Hazel trees","type":"i","granularity":3,"parent":"hazel tree"},
+{"entity":"region's flora","type":"i","granularity":3,"parent":"hazel tree"},
+{"entity":"Heidelberg hypothesis","type":"i","granularity":3,"parent":"intersection"},
+{"entity":"intersection hypothesis","type":"i","granularity":3,"parent":"intersection"}
+]

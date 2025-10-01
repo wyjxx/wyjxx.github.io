@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": 0.8900837358252578,
+    "y": 3.8997116487272945
+  },
+  {
+    "entity": "Antwerp",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -3.6038754716096766,
+    "y": -1.735534956470232
+  },
+  {
+    "entity": "Bruges",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": 2.4939592074349335,
+    "y": -3.1273259298721197
+  },
+  {
+    "entity": "Grand-Place",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 3.909157412340149,
+    "y": 3.1174490092936673
+  },
+  {
+    "entity": "Grote Markt",
+    "granularity": 5,
+    "parent": "Antwerp",
+    "x": -4.504844339512096,
+    "y": -2.16941869558779
+  },
+  {
+    "entity": "Markt",
+    "granularity": 5,
+    "parent": "Bruges",
+    "x": 3.117449009293667,
+    "y": -3.9091574123401496
+  },
+  {
+    "entity": "Îlot Sacré",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -2.1694186955877903,
+    "y": 4.504844339512096
+  }
+]

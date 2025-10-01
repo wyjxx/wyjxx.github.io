@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.3097214678905702,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.30972146789057,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.6825070656623629,
+    "y": -1.0812816349111944
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.8308300260037728,
+    "y": -1.8192639907090369
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.8308300260037736,
+    "y": -1.8192639907090364
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9189859472289947,
+    "y": -0.5634651136828596
+  },
+  {
+    "entity": "Alsace",
+    "granularity": 3,
+    "parent": "France",
+    "x": 1.2462450390056605,
+    "y": -2.728895986063555
+  },
+  {
+    "entity": "southern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.1427457474712272,
+    "y": 2.9966020175490238
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.964582201835855,
+    "y": 2.267248723062775
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.9864157677192535,
+    "y": 0.28516812991254864
+  }
+]

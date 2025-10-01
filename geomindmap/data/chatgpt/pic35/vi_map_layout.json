@@ -1,0 +1,306 @@
+[
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8794737512064891,
+    "y": 0.4759473930370735
+  },
+  {
+    "entity": "lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4759473930370736,
+    "y": 0.879473751206489
+  },
+  {
+    "entity": "gravel path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32469946920468357,
+    "y": 0.9458172417006346
+  },
+  {
+    "entity": "grassy area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16459459028073398,
+    "y": 0.9863613034027223
+  },
+  {
+    "entity": "soccer field",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "service pavilion",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9694002659393305,
+    "y": 0.24548548714079907
+  },
+  {
+    "entity": "outdoor ping-pong table",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": -0.9694002659393304
+  },
+  {
+    "entity": "tall deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32469946920468334,
+    "y": -0.9458172417006347
+  },
+  {
+    "entity": "simple grey park benches",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7357239106731313,
+    "y": -0.6772815716257414
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9157733266550573,
+    "y": -0.4016954246529699
+  },
+  {
+    "entity": "horizontal logs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.9901658050900228,
+    "y": 0.1980910605009254
+  },
+  {
+    "entity": "bollards",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.8445795099547695,
+    "y": 0.7729983385849045
+  },
+  {
+    "entity": "bollard rails",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.536802221713718,
+    "y": 1.2799370810066328
+  },
+  {
+    "entity": "wooden barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.2543527169470738,
+    "y": 1.5577545575242249
+  },
+  {
+    "entity": "grey trash cans",
+    "type": "v",
+    "granularity": 2,
+    "parent": "simple grey park benches",
+    "x": 1.2925984757218811,
+    "y": -1.5261681363996136
+  },
+  {
+    "entity": "white table surface",
+    "type": "v",
+    "granularity": 2,
+    "parent": "outdoor ping-pong table",
+    "x": -0.9030667166217787,
+    "y": -1.784508477236788
+  },
+  {
+    "entity": "net",
+    "type": "v",
+    "granularity": 2,
+    "parent": "outdoor ping-pong table",
+    "x": -0.49097097428159825,
+    "y": -1.9388005318786607
+  },
+  {
+    "entity": "fire extinguishers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -0.3408327920236133,
+    "y": 1.9707442776477593
+  },
+  {
+    "entity": "doors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -0.6828070018857194,
+    "y": 1.87983366236905
+  },
+  {
+    "entity": "green facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.0034074577684478,
+    "y": 1.7300790368346357
+  },
+  {
+    "entity": "green mesh scaffolding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.4225401394191899,
+    "y": 1.4058376690575736
+  },
+  {
+    "entity": "glass windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.7418088426784524,
+    "y": 0.9829048558060697
+  },
+  {
+    "entity": "ground-floor glass walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.8877666606167351,
+    "y": 0.6605581239103344
+  },
+  {
+    "entity": "first-floor glazing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.9746321434397307,
+    "y": 0.3175340896574959
+  },
+  {
+    "entity": "external staircases",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.9996861604794314,
+    "y": -0.03542964277310427
+  },
+  {
+    "entity": "stilted ground floor",
+    "type": "v",
+    "granularity": 2,
+    "parent": "service pavilion",
+    "x": -1.962144451476462,
+    "y": -0.38728432906604116
+  },
+  {
+    "entity": "typical for Germany",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bollards",
+    "x": 2.7668692649321542,
+    "y": 1.1594975078773568
+  },
+  {
+    "entity": "common in Munich",
+    "type": "i",
+    "granularity": 3,
+    "parent": "outdoor ping-pong table",
+    "x": -0.08266302710448589,
+    "y": -2.9988609210748542
+  },
+  {
+    "entity": "Grünes Klassenzimmer",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.90820079781799,
+    "y": -0.7364564614224027
+  },
+  {
+    "entity": "spring season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall deciduous trees",
+    "x": 0.6156460265869028,
+    "y": -2.9361505359820637
+  },
+  {
+    "entity": "northern hemisphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9897534790200093,
+    "y": -0.24773803641700104
+  },
+  {
+    "entity": "post-war modern style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "service pavilion",
+    "x": -2.794773264153837,
+    "y": -1.0905239116914882
+  },
+  {
+    "entity": "neo-baroque style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "service pavilion",
+    "x": -2.5588456923025804,
+    "y": -1.5659849050947225
+  },
+  {
+    "entity": "municipal design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "simple grey park benches",
+    "x": 2.441546151810584,
+    "y": -1.7432304462058164
+  },
+  {
+    "entity": "mid-90s architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "service pavilion",
+    "x": -2.242819149369562,
+    "y": -1.9924262252894573
+  },
+  {
+    "entity": "under renovation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green mesh scaffolding",
+    "x": -2.133810209128785,
+    "y": 2.1087565035863602
+  },
+  {
+    "entity": "educational institutions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "service pavilion",
+    "x": -1.8565861431365578,
+    "y": -2.3564990755596154
+  },
+  {
+    "entity": "historic plantings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall deciduous trees",
+    "x": 1.3175897665421104,
+    "y": -2.695172945675937
+  }
+]

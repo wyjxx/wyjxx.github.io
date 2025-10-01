@@ -1,0 +1,23 @@
+[  
+{"entity":"castle","type":"v","granularity":1,"parent":null},  
+{"entity":"rock","type":"v","granularity":1,"parent":null},  
+{"entity":"museum","type":"v","granularity":1,"parent":null},  
+{"entity":"images","type":"v","granularity":1,"parent":null},  
+{"entity":"street","type":"v","granularity":1,"parent":null},  
+{"entity":"keep","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"yellow stone walls","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"ramparts","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"square towers","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"entrance","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"stepped crenellation","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"alternating merlons","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"embrasures","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"merlons","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"small raised parts","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"towers","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"central tall rectangular keep","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"smaller towers","type":"v","granularity":2,"parent":"castle"},  
+{"entity":"height","type":"i","granularity":3,"parent":"castle"},  
+{"entity":"stone color","type":"i","granularity":3,"parent":"yellow stone walls"},  
+{"entity":"uncertainty","type":"i","granularity":3,"parent":null}  
+]  

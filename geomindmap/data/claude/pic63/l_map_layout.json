@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.29892037434569757,
+    "y": 3.9888151887247205
+  },
+  {
+    "entity": "Mitte district",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 4.6543687432210215,
+    "y": 1.826705121831975
+  },
+  {
+    "entity": "Pariser Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 2.1694186955877908,
+    "y": 4.504844339512096
+  },
+  {
+    "entity": "Unter den Linden",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.47377587205452,
+    "y": 4.777864028930704
+  },
+  {
+    "entity": "Brandenburg Gate",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.330127018922193,
+    "y": 2.5000000000000018
+  },
+  {
+    "entity": "Arc de Triomphe",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  },
+  {
+    "entity": "Paris",
+    "granularity": 4,
+    "parent": "Europe",
+    "x": -7.347880794884119e-16,
+    "y": -4.0
+  },
+  {
+    "entity": "Wellington Arch",
+    "granularity": 5,
+    "parent": "London",
+    "x": 4.330127018922189,
+    "y": -2.500000000000006
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "Europe",
+    "x": 3.4641016151377517,
+    "y": -2.000000000000005
+  },
+  {
+    "entity": "Siegestor",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.504844339512096,
+    "y": -2.16941869558779
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.6038754716096766,
+    "y": -1.735534956470232
+  }
+]

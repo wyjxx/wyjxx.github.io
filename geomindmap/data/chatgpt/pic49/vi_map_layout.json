@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "undulating limestone façade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765383,
+    "y": 0.8951632913550623
+  },
+  {
+    "entity": "wrought-iron balcony railing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "undulating limestone façade",
+    "x": 1.9510239359608732,
+    "y": 0.43989271567933724
+  },
+  {
+    "entity": "organic vegetal motif",
+    "type": "v",
+    "granularity": 2,
+    "parent": "undulating limestone façade",
+    "x": 1.5734898760669664,
+    "y": 1.2345564425795859
+  },
+  {
+    "entity": "sinuous stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "undulating limestone façade",
+    "x": 0.8914767115530766,
+    "y": 1.7903265827101247
+  },
+  {
+    "entity": "intricate ironwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "undulating limestone façade",
+    "x": 0.03695780991825983,
+    "y": 1.9996585009161054
+  },
+  {
+    "entity": "sculpture-like rooftop chimney",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Modernista building",
+    "x": -0.7795717465853585,
+    "y": -1.8418110358899074
+  },
+  {
+    "entity": "wide tree-lined avenue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "dedicated bike lane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide tree-lined avenue",
+    "x": -1.5386679419657574,
+    "y": 1.2776936113039232
+  },
+  {
+    "entity": "red paint",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide tree-lined avenue",
+    "x": -1.9468761087213857,
+    "y": 0.45790109990026795
+  },
+  {
+    "entity": "Modernista building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09226835946330243,
+    "y": -0.9957341762950345
+  },
+  {
+    "entity": "luxury shop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296139,
+    "y": -0.5264321628773562
+  },
+  {
+    "entity": "café",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839018,
+    "y": -0.18374951781657006
+  },
+  {
+    "entity": "seasonal decoration",
+    "type": "v",
+    "granularity": 2,
+    "parent": "undulating limestone façade",
+    "x": -0.8247126349478071,
+    "y": 1.8220452984921767
+  },
+  {
+    "entity": "Catalan Modernisme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Modernista building",
+    "x": 0.2768050783899073,
+    "y": -2.9872025288851036
+  },
+  {
+    "entity": "Gaudí residential commissions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Modernista building",
+    "x": 1.6570949188815194,
+    "y": -2.5008071556633573
+  },
+  {
+    "entity": "Barcelona boulevards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wide tree-lined avenue",
+    "x": -2.920314163082079,
+    "y": -0.6868516498504013
+  },
+  {
+    "entity": "octagonal grid layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wide tree-lined avenue",
+    "x": -2.3080019129486367,
+    "y": -1.9165404169558842
+  }
+]

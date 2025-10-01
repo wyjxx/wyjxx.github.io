@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "advertisement panel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "airport apron",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "Lufthansa Aviation Center",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3270679633174218,
+    "y": 0.9450008187146685
+  },
+  {
+    "entity": "office tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328512,
+    "y": 0.9898214418809327
+  },
+  {
+    "entity": "Fraport Control Centre",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.04758191582374206,
+    "y": 0.998867339183008
+  },
+  {
+    "entity": "Lufthansa lounge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4154150130018863,
+    "y": 0.9096319953545184
+  },
+  {
+    "entity": "wide-body plane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9819286972627066,
+    "y": 0.1892512443604105
+  },
+  {
+    "entity": "building architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14231483827328523,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "Airbus A320",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide-body plane",
+    "x": -1.4691834173150664,
+    "y": 1.3570188231142644
+  },
+  {
+    "entity": "Lufthansa plane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide-body plane",
+    "x": -1.9638573945254132,
+    "y": 0.378502488720821
+  },
+  {
+    "entity": "blocky architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": -1.670975622825873,
+    "y": -1.099017956141612
+  },
+  {
+    "entity": "concourse layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": -1.4029497754126425,
+    "y": -1.4253883427577259
+  },
+  {
+    "entity": "glass facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": -1.0723679813944176,
+    "y": -1.6882022723832777
+  },
+  {
+    "entity": "golden blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": -0.4920502746252261,
+    "y": -1.9385268961872155
+  },
+  {
+    "entity": "metal cladding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": 0.137402472598562,
+    "y": -1.9952745576796698
+  },
+  {
+    "entity": "metal panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": 0.5533080006130562,
+    "y": -1.9219391916649138
+  },
+  {
+    "entity": "white panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building architecture",
+    "x": 0.9445421495453658,
+    "y": -1.762906726895164
+  },
+  {
+    "entity": "Lufthansa logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "advertisement panel",
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "yellow crane logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Lufthansa logo",
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "red lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport apron",
+    "x": 1.5114991487085165,
+    "y": 1.3097214678905702
+  },
+  {
+    "entity": "yellow crosswalks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport apron",
+    "x": 1.0812816349111953,
+    "y": 1.6825070656623622
+  },
+  {
+    "entity": "Lufthansa branding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Lufthansa lounge",
+    "x": -0.8308300260037726,
+    "y": 1.8192639907090369
+  },
+  {
+    "entity": "150th 747 delivery",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wide-body plane",
+    "x": -2.8024435807953205,
+    "y": -1.070658664775615
+  },
+  {
+    "entity": "A-Plus extension",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building architecture",
+    "x": 1.940490345576175,
+    "y": -2.2879023621487122
+  },
+  {
+    "entity": "D-ABYP registration",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa plane",
+    "x": -2.6518164213874504,
+    "y": 1.4028077798685943
+  },
+  {
+    "entity": "founded 1926",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa branding",
+    "x": -1.246245039005659,
+    "y": 2.7288959860635553
+  },
+  {
+    "entity": "inside-plane perspective",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa plane",
+    "x": -2.94578609178812,
+    "y": 0.5677537330812314
+  },
+  {
+    "entity": "Munich terminal codes",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.3581592842283614,
+    "y": -1.8544769586618166
+  },
+  {
+    "entity": "neighborhood inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6665063459647715,
+    "y": -1.3746795651822294
+  },
+  {
+    "entity": "orientation uncertainty",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.878478920843492,
+    "y": -0.8451976705242894
+  },
+  {
+    "entity": "primary hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.986415767719254,
+    "y": -0.28516812991254503
+  },
+  {
+    "entity": "sunlight reflection",
+    "type": "i",
+    "granularity": 3,
+    "parent": "golden blocks",
+    "x": -0.7380754119378392,
+    "y": -2.9077903442808233
+  },
+  {
+    "entity": "tail code inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa plane",
+    "x": -2.98323231414692,
+    "y": -0.3167411558822292
+  }
+]

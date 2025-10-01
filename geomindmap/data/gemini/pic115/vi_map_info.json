@@ -1,0 +1,15 @@
+[
+{"entity":"half-timbered building","type":"v","granularity":1,"parent":null},
+{"entity":"towers","type":"v","granularity":1,"parent":null},
+{"entity":"Gasthof sign","type":"v","granularity":1,"parent":null},
+{"entity":"Chocolaterie sign","type":"v","granularity":1,"parent":null},
+{"entity":"Volkswagen Golf","type":"v","granularity":1,"parent":null},
+{"entity":"NEA license plate","type":"v","granularity":2,"parent":"Volkswagen Golf"},
+{"entity":"German style","type":"i","granularity":3,"parent":"half-timbered building"},
+{"entity":"French influence","type":"i","granularity":3,"parent":"half-timbered building"},
+{"entity":"German inn","type":"i","granularity":3,"parent":"Gasthof sign"},
+{"entity":"French word","type":"i","granularity":3,"parent":"Chocolaterie sign"},
+{"entity":"border region","type":"i","granularity":3,"parent":null},
+{"entity":"license plate inference","type":"i","granularity":3,"parent":"NEA license plate"},
+{"entity":"medieval town","type":"i","granularity":3,"parent":"towers"}
+]

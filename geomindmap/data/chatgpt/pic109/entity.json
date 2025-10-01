@@ -1,0 +1,23 @@
+[  
+  {"entity":"Koreastraße","type":"l"},  
+  {"entity":"Hongkongstraße","type":"l"},  
+  {"entity":"HafenCity","type":"l"},  
+  {"entity":"Hamburg","type":"l"},  
+  {"entity":"Germany","type":"l"},  
+  {"entity":"Shanghaiallee","type":"l"},  
+  {"entity":"Singapurstraße","type":"l"},  
+  {"entity":"blue street sign","type":"v"},  
+  {"entity":"dark blue lettering","type":"v"},  
+  {"entity":"white lettering","type":"v"},  
+  {"entity":"ß character","type":"v"},  
+  {"entity":"background building","type":"v"},  
+  {"entity":"garage entrance","type":"v"},  
+  {"entity":"corner building","type":"v"},  
+  {"entity":"Tiefgarage Hauptzollamt Hamburg sign","type":"v"},  
+  {"entity":"Asian-themed street names","type":"i"},  
+  {"entity":"customs office","type":"i"},  
+  {"entity":"German language","type":"i"},  
+  {"entity":"cluster of new streets","type":"i"},  
+  {"entity":"world ports","type":"i"},  
+  {"entity":"Asian cities","type":"i"}  
+]

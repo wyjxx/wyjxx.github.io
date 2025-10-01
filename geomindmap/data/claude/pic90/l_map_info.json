@@ -1,0 +1,11 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"Central Europe","granularity":2,"parent":"Europe"},
+  {"entity":"Germany","granularity":2,"parent":"Europe"},
+  {"entity":"Austria","granularity":2,"parent":"Europe"},
+  {"entity":"Switzerland","granularity":2,"parent":"Europe"},
+  {"entity":"Salzburg","granularity":4,"parent":"Austria"},
+  {"entity":"Munich","granularity":4,"parent":"Germany"},
+  {"entity":"Berlin","granularity":4,"parent":"Germany"},
+  {"entity":"Kapitelplatz","granularity":5,"parent":"Salzburg"}
+]

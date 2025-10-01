@@ -1,0 +1,8 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Greece","granularity":2,"parent":"Europe"},  
+  {"entity":"Athens","granularity":4,"parent":"Greece"},  
+  {"entity":"hill","granularity":4,"parent":null},  
+  {"entity":"Plaka","granularity":5,"parent":"Athens"},  
+  {"entity":"Acropolis","granularity":5,"parent":"Athens"}  
+]

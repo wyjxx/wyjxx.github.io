@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9458172417006346,
+    "y": 0.32469946920468346
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.0825793454723324,
+    "y": 0.9965844930066698
+  },
+  {
+    "entity": "PHYSIO THERM sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9863613034027223,
+    "y": 0.16459459028073448
+  },
+  {
+    "entity": "benches",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963939,
+    "y": -0.6142127126896674
+  },
+  {
+    "entity": "iron railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224276,
+    "y": -0.8371664782625281
+  },
+  {
+    "entity": "Europapassage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": -0.9694002659393304
+  },
+  {
+    "entity": "Hotel Atlantic",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.08257934547233149,
+    "y": -0.99658449300667
+  },
+  {
+    "entity": "Vier Jahreszeiten",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": -0.9157733266550574
+  },
+  {
+    "entity": "dike",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6772815716257405,
+    "y": -0.7357239106731321
+  },
+  {
+    "entity": "lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8794737512064892,
+    "y": -0.4759473930370734
+  },
+  {
+    "entity": "colorful lanterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": 1.2925984757218818,
+    "y": 1.526168136399613
+  },
+  {
+    "entity": "round paper lanterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -0.24738526253869492,
+    "y": 1.9846411594740903
+  },
+  {
+    "entity": "granite slab paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.8916344834012693,
+    "y": 0.6493989384093669
+  },
+  {
+    "entity": "sandstone façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PHYSIO THERM sign",
+    "x": -1.6435556304504901,
+    "y": 1.1396161150205326
+  },
+  {
+    "entity": "arcade windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PHYSIO THERM sign",
+    "x": -1.9727226068054446,
+    "y": 0.32918918056146806
+  },
+  {
+    "entity": "driving patterns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "PHYSIO THERM sign",
+    "x": -2.8868040009277514,
+    "y": -0.8163103945360048
+  },
+  {
+    "entity": "festive atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "round paper lanterns",
+    "x": 0.5548334018146754,
+    "y": 2.948246919142078
+  },
+  {
+    "entity": "Alstervergnügen festival",
+    "type": "i",
+    "granularity": 3,
+    "parent": "round paper lanterns",
+    "x": -1.2616074784281226,
+    "y": 2.72182779954468
+  },
+  {
+    "entity": "image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9590839102081667,
+    "y": -0.49378377084220376
+  }
+]

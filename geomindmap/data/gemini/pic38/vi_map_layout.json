@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "blue street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.273662990072083,
+    "y": 0.961825643172819
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043557,
+    "y": 0.3612416661871533
+  },
+  {
+    "entity": "bike path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 5.66553889764798e-16
+  },
+  {
+    "entity": "road surface",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.932472229404356,
+    "y": -0.36124166618715225
+  },
+  {
+    "entity": "utility cabinets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7390089172206598,
+    "y": -0.6736956436465565
+  },
+  {
+    "entity": "building styles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.44573835577653964,
+    "y": -0.8951632913550617
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6026346363792555,
+    "y": -0.7980172272802402
+  },
+  {
+    "entity": "street sign reading \"Hasenecklstraße\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 1.8169305436390475,
+    "y": 0.8359206897735667
+  },
+  {
+    "entity": "obscured sign text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 0.9461871136720205,
+    "y": 1.7620243885715687
+  },
+  {
+    "entity": "DIN 1451 font",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 0.12312181226788634,
+    "y": 1.9962066574740882
+  },
+  {
+    "entity": "blue coloring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": -0.7224833323743055,
+    "y": 1.8649444588087118
+  },
+  {
+    "entity": "corner view",
+    "type": "v",
+    "granularity": 2,
+    "parent": "intersection",
+    "x": 0.36749903563313924,
+    "y": -1.9659461993678038
+  },
+  {
+    "entity": "southwest orientation",
+    "type": "v",
+    "granularity": 3,
+    "parent": "corner view",
+    "x": 0.5512485534497089,
+    "y": -2.9489192990517057
+  },
+  {
+    "entity": "German context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue street sign",
+    "x": -2.1537357691933243,
+    "y": 2.0884018378887808
+  },
+  {
+    "entity": "name fragment Haseneck",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign reading \"Hasenecklstraße\"",
+    "x": 2.725395815458571,
+    "y": 1.25388103466035
+  },
+  {
+    "entity": "cross-referencing Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": 2.308001912948634,
+    "y": -1.916540416955887
+  },
+  {
+    "entity": "location confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": 2.920314163082077,
+    "y": -0.6868516498504075
+  }
+]

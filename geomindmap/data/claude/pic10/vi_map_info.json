@@ -1,0 +1,23 @@
+[  
+  {"entity":"cobblestone street","type":"v","granularity":1,"parent":null},  
+  {"entity":"pedestrian area","type":"v","granularity":1,"parent":null},  
+  {"entity":"corner building","type":"v","granularity":1,"parent":null},  
+  {"entity":"colorful facades","type":"v","granularity":1,"parent":null},  
+  {"entity":"German street sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"bare trees","type":"v","granularity":1,"parent":null},  
+  {"entity":"overcast sky","type":"v","granularity":1,"parent":null},  
+  {"entity":"narrow pedestrian street","type":"v","granularity":2,"parent":"pedestrian area"},  
+  {"entity":"Guarida signage","type":"v","granularity":2,"parent":"corner building"},  
+  {"entity":"blue circular sign","type":"v","granularity":2,"parent":"German street sign"},  
+  {"entity":"Mehlgasse sign","type":"v","granularity":2,"parent":"German street sign"},  
+  {"entity":"ZONE sign","type":"v","granularity":2,"parent":"German street sign"},  
+  {"entity":"Lieferverkehr frei sign","type":"v","granularity":2,"parent":"German street sign"},  
+  {"entity":"timing sign \"5-11\"","type":"v","granularity":3,"parent":"Lieferverkehr frei sign"},  
+  {"entity":"European city","type":"i","granularity":3,"parent":null},  
+  {"entity":"German architecture","type":"i","granularity":3,"parent":"corner building"},  
+  {"entity":"Irish pub","type":"i","granularity":3,"parent":"Guarida signage"},  
+  {"entity":"winter season","type":"i","granularity":3,"parent":"bare trees"},  
+  {"entity":"northern European climate","type":"i","granularity":3,"parent":"overcast sky"},  
+  {"entity":"German historic center","type":"i","granularity":3,"parent":"cobblestone street"},  
+  {"entity":"medieval street layout","type":"i","granularity":3,"parent":"narrow pedestrian street"}  
+]

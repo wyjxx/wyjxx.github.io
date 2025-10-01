@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Southern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.8190778623577253,
+    "y": 1.0260604299770062
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.4999999999999993,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "Swabia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.298133329356934,
+    "y": -1.9283628290596178
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "Ulm",
+    "granularity": 4,
+    "parent": "Baden-Württemberg",
+    "x": 1.9999999999999973,
+    "y": -3.464101615137756
+  },
+  {
+    "entity": "Augsburg",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.9999999999999991,
+    "y": 3.464101615137755
+  },
+  {
+    "entity": "Lechviertel",
+    "granularity": 5,
+    "parent": "Augsburg",
+    "x": 0.8682408883346521,
+    "y": 4.92403876506104
+  },
+  {
+    "entity": "Vorderer Lech",
+    "granularity": 5,
+    "parent": "Augsburg",
+    "x": -4.698463103929541,
+    "y": 1.7101007166283466
+  },
+  {
+    "entity": "Fishermen's Quarter",
+    "granularity": 5,
+    "parent": "Ulm",
+    "x": 2.4999999999999964,
+    "y": -4.330127018922195
+  }
+]

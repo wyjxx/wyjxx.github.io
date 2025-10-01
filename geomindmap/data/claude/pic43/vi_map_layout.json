@@ -1,0 +1,290 @@
+[
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8191520442889916,
+    "y": 0.5735764363510464
+  },
+  {
+    "entity": "town square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.866025403784439,
+    "y": -0.4999999999999994
+  },
+  {
+    "entity": "tram lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.08715574274765825,
+    "y": -0.9961946980917455
+  },
+  {
+    "entity": "stone paving",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.34202014332566816,
+    "y": -0.9396926207859085
+  },
+  {
+    "entity": "ornate column",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6427876096865386,
+    "y": -0.7660444431189787
+  },
+  {
+    "entity": "monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.819152044288991,
+    "y": -0.5735764363510472
+  },
+  {
+    "entity": "street lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9063077870366493,
+    "y": -0.42261826174070083
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9848077530122078,
+    "y": -0.17364817766693214
+  },
+  {
+    "entity": "tall tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.9909438451461692,
+    "y": 0.19011208660836532
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "sundial",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.777670897309847,
+    "y": 0.9164530434548208
+  },
+  {
+    "entity": "decorative elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.572106189485575,
+    "y": 1.2363179724412103
+  },
+  {
+    "entity": "building facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.3097214678905702,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "painted tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "traditional European windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.1826192967271643,
+    "y": 1.6128892085349655
+  },
+  {
+    "entity": "white facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.5036796149579545,
+    "y": 1.318691630200138
+  },
+  {
+    "entity": "cream facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.753453511415015,
+    "y": 0.961977537838776
+  },
+  {
+    "entity": "darker facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.920099708771857,
+    "y": 0.5596580280619854
+  },
+  {
+    "entity": "cables",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram lines",
+    "x": -0.43287922787620736,
+    "y": -1.9525920142398663
+  },
+  {
+    "entity": "wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram lines",
+    "x": 0.08723877473067153,
+    "y": -1.9980964431637156
+  },
+  {
+    "entity": "cobblestones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone paving",
+    "x": 0.6840402866513363,
+    "y": -1.879385241571817
+  },
+  {
+    "entity": "decorative sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ornate column",
+    "x": 1.2855752193730772,
+    "y": -1.5320888862379574
+  },
+  {
+    "entity": "clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": 1.9696155060244156,
+    "y": -0.34729635533386427
+  },
+  {
+    "entity": "traditional Central European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": 0.9812038899522653,
+    "y": 2.8350024561440055
+  },
+  {
+    "entity": "Germanic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": 0.42694451481985535,
+    "y": 2.969464325642798
+  },
+  {
+    "entity": "Austrian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": -0.1427457474712262,
+    "y": 2.9966020175490238
+  },
+  {
+    "entity": "Swiss architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": -0.7072768065282815,
+    "y": 2.915434704970625
+  },
+  {
+    "entity": "general urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -2.9916113915435405,
+    "y": 0.224190280759274
+  },
+  {
+    "entity": "European setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -2.9767176198005165,
+    "y": -0.373031113942454
+  },
+  {
+    "entity": "German city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -2.843782038501396,
+    "y": -0.9554599507550514
+  },
+  {
+    "entity": "Austrian city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -2.598076211353317,
+    "y": -1.4999999999999982
+  },
+  {
+    "entity": "Swiss city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -2.2493436089032044,
+    "y": -1.9850575127905765
+  },
+  {
+    "entity": "town hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": -1.2462450390056585,
+    "y": 2.7288959860635558
+  },
+  {
+    "entity": "historic city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -1.8114132309764344,
+    "y": -2.391397521668766
+  },
+  {
+    "entity": "Central European urban space",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town square",
+    "x": -1.3016512173526749,
+    "y": -2.702906603707257
+  }
+]

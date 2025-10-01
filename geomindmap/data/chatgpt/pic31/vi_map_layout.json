@@ -1,0 +1,562 @@
+[
+  {
+    "entity": "seaside promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9009688679024191,
+    "y": 0.4338837391175581
+  },
+  {
+    "entity": "coastal cafes",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924731,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "vehicles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.39302503165392366,
+    "y": 0.9195277725514506
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.08963930890343355,
+    "y": 0.9959742939952391
+  },
+  {
+    "entity": "car road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7530714660036109,
+    "y": 0.6579387259397127
+  },
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": -0.1785568947986365
+  },
+  {
+    "entity": "pavement",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951536,
+    "y": -0.3090169943749473
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9195277725514507,
+    "y": -0.3930250316539235
+  },
+  {
+    "entity": "café furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8345732537213028,
+    "y": -0.5508969814521024
+  },
+  {
+    "entity": "bin",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6579387259397127,
+    "y": -0.7530714660036109
+  },
+  {
+    "entity": "bollard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5128992774059062,
+    "y": -0.858448793601866
+  },
+  {
+    "entity": "lamp pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4338837391175583,
+    "y": -0.900968867902419
+  },
+  {
+    "entity": "bus stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17855689479863682,
+    "y": -0.9839295885986297
+  },
+  {
+    "entity": "yellow metal railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.08963930890343332,
+    "y": -0.9959742939952391
+  },
+  {
+    "entity": "overhead electrical lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.17855689479863646,
+    "y": -0.9839295885986297
+  },
+  {
+    "entity": "beach clubs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2660368455666749,
+    "y": -0.9639628606958534
+  },
+  {
+    "entity": "restaurants",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3513748240813425,
+    "y": -0.9362348706397373
+  },
+  {
+    "entity": "man",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "sun",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680297,
+    "y": -0.6234898018587337
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8345732537213025,
+    "y": -0.5508969814521028
+  },
+  {
+    "entity": "concrete",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8805955318567379,
+    "y": -0.47386866247299886
+  },
+  {
+    "entity": "metal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9195277725514506,
+    "y": -0.39302503165392383
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "coastline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818235,
+    "y": -0.22252093395631464
+  },
+  {
+    "entity": "narrow road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -0.18453671892660378,
+    "y": 1.9914683525900692
+  },
+  {
+    "entity": "two-lane road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -0.37268783478011347,
+    "y": 1.9649691544161478
+  },
+  {
+    "entity": "two-way road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -0.5574751587595029,
+    "y": 1.9207346113833808
+  },
+  {
+    "entity": "zebra crossing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -0.7372308443701073,
+    "y": 1.8591639739703807
+  },
+  {
+    "entity": "lanes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -0.9103324594900389,
+    "y": 1.7808129641258839
+  },
+  {
+    "entity": "separate bike lanes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -1.0752176300571543,
+    "y": 1.6863887594544376
+  },
+  {
+    "entity": "broken white lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -1.2303981416862297,
+    "y": 1.5767436103993169
+  },
+  {
+    "entity": "parking bays",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -1.4419358920744487,
+    "y": 1.3859368250924946
+  },
+  {
+    "entity": "blue zone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -1.624218403717926,
+    "y": 1.167010958399274
+  },
+  {
+    "entity": "curb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car road",
+    "x": -1.88689308157096,
+    "y": 0.6630493938762384
+  },
+  {
+    "entity": "café terraces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "seaside promenade",
+    "x": 1.9900615507308028,
+    "y": 0.1991356931916333
+  },
+  {
+    "entity": "terrace",
+    "type": "v",
+    "granularity": 2,
+    "parent": "seaside promenade",
+    "x": 1.938154572458156,
+    "y": 0.49351479538058723
+  },
+  {
+    "entity": "green patch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "seaside promenade",
+    "x": 1.8793852415718169,
+    "y": 0.6840402866513373
+  },
+  {
+    "entity": "sea’s edge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sea",
+    "x": 0.31286893008046185,
+    "y": 1.9753766811902755
+  },
+  {
+    "entity": "yellow letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop",
+    "x": -0.6816967942450509,
+    "y": -1.8802365491384376
+  },
+  {
+    "entity": "yellow bus marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop",
+    "x": -0.4668907277118103,
+    "y": -1.9447398407953533
+  },
+  {
+    "entity": "BUS road marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop",
+    "x": -0.24621323938128692,
+    "y": -1.9847869005899281
+  },
+  {
+    "entity": "yellow stripes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "curb",
+    "x": -1.7394822663113898,
+    "y": 0.9870164361286954
+  },
+  {
+    "entity": "yellow curb painting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "curb",
+    "x": -1.844203371428048,
+    "y": 0.7738952931846927
+  },
+  {
+    "entity": "continuous yellow curb-line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "curb",
+    "x": -1.9229271420741774,
+    "y": 0.5498647163388796
+  },
+  {
+    "entity": "red cylinder bin",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bin",
+    "x": -1.4142135623730954,
+    "y": -1.414213562373095
+  },
+  {
+    "entity": "grey metal chairs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "café furniture",
+    "x": -1.739482266311391,
+    "y": -0.9870164361286935
+  },
+  {
+    "entity": "tables",
+    "type": "v",
+    "granularity": 2,
+    "parent": "café furniture",
+    "x": -1.5912490977635623,
+    "y": -1.2115800876816394
+  },
+  {
+    "entity": "white umbrellas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "café terraces",
+    "x": 1.9900615507308028,
+    "y": 0.1991356931916333
+  },
+  {
+    "entity": "scooter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vehicles",
+    "x": 0.9999999999999998,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "small city cars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vehicles",
+    "x": 0.7860500633078473,
+    "y": 1.8390555451029011
+  },
+  {
+    "entity": "cars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vehicles",
+    "x": 0.5608547786120051,
+    "y": 1.9197504830857781
+  },
+  {
+    "entity": "pedestrian paths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -1.9678591771972593,
+    "y": -0.357113789597273
+  },
+  {
+    "entity": "light jackets",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man",
+    "x": 0.887930128060963,
+    "y": -1.792088191937451
+  },
+  {
+    "entity": "balloon vendor",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man",
+    "x": 1.2644450041158184,
+    "y": -1.5495737580272029
+  },
+  {
+    "entity": "character balloons",
+    "type": "v",
+    "granularity": 2,
+    "parent": "balloon vendor",
+    "x": 1.129728270252034,
+    "y": -1.6503678485093398
+  },
+  {
+    "entity": "Mediterranean vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seaside promenade",
+    "x": 2.7029066037072575,
+    "y": 1.3016512173526744
+  },
+  {
+    "entity": "south-facing beach",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sea",
+    "x": 0.067314192887415,
+    "y": 2.9992447048275195
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seaside promenade",
+    "x": 2.5598726448964673,
+    "y": 1.564305610138494
+  },
+  {
+    "entity": "late winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.972849285303804,
+    "y": -0.40269979745296713
+  },
+  {
+    "entity": "early spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9969791996239437,
+    "y": -0.1345944910515455
+  },
+  {
+    "entity": "French designs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bin",
+    "x": -1.81737013152246,
+    "y": -2.3868736466453426
+  },
+  {
+    "entity": "Italian influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus stop",
+    "x": -0.03365921506393698,
+    "y": -2.9998111702641017
+  },
+  {
+    "entity": "Italian road markings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car road",
+    "x": -2.9958192309646003,
+    "y": 0.15832604139139045
+  },
+  {
+    "entity": "no-parking zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "curb",
+    "x": -2.961815739523984,
+    "y": 0.47712422397945325
+  },
+  {
+    "entity": "local festival vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "balloon vendor",
+    "x": 2.0853198687143717,
+    "y": -2.1567199737437117
+  },
+  {
+    "entity": "parking features",
+    "type": "i",
+    "granularity": 3,
+    "parent": "parking bays",
+    "x": -2.162903838111673,
+    "y": 2.078905237638742
+  },
+  {
+    "entity": "Italian resort town",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seaside promenade",
+    "x": 2.3913975216687673,
+    "y": 1.8114132309764317
+  },
+  {
+    "entity": "right-hand traffic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car road",
+    "x": -2.9973240840184547,
+    "y": -0.12668202462437267
+  },
+  {
+    "entity": "festival seasons",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seaside promenade",
+    "x": 2.199155615489479,
+    "y": 2.0405182133127577
+  },
+  {
+    "entity": "weekends",
+    "type": "i",
+    "granularity": 3,
+    "parent": "seaside promenade",
+    "x": 1.9850575127905787,
+    "y": 2.249343608903202
+  }
+]

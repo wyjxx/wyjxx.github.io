@@ -1,0 +1,19 @@
+[  
+  {"entity":"architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"modern library","type":"v","granularity":1,"parent":null},  
+  {"entity":"interior","type":"v","granularity":1,"parent":null},  
+  {"entity":"signage","type":"v","granularity":1,"parent":null},  
+  {"entity":"minimalist design","type":"v","granularity":2,"parent":"architecture"},  
+  {"entity":"atrium","type":"v","granularity":2,"parent":"interior"},  
+  {"entity":"tiered bookshelves","type":"v","granularity":2,"parent":"interior"},  
+  {"entity":"terraced levels","type":"v","granularity":2,"parent":"interior"},  
+  {"entity":"German text","type":"v","granularity":2,"parent":"signage"},  
+  {"entity":"Dachterrasse signage","type":"v","granularity":2,"parent":"signage"},  
+  {"entity":"number 7","type":"v","granularity":2,"parent":"signage"},  
+  {"entity":"unique features","type":"i","granularity":3,"parent":"architecture"},  
+  {"entity":"German-speaking country","type":"i","granularity":3,"parent":"German text"},  
+  {"entity":"image search results","type":"i","granularity":3,"parent":null},  
+  {"entity":"hypothesis","type":"i","granularity":3,"parent":null},  
+  {"entity":"architectural clues","type":"i","granularity":3,"parent":"architecture"},  
+  {"entity":"textual clues","type":"i","granularity":3,"parent":"German text"}  
+]

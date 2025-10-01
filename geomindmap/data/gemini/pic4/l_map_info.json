@@ -1,0 +1,18 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Austria","granularity":2,"parent":"Europe"},  
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},  
+{"entity":"Alps","granularity":2,"parent":"Europe"},  
+{"entity":"German Alps","granularity":3,"parent":"Alps"},  
+{"entity":"Austrian Alps","granularity":3,"parent":"Alps"},  
+{"entity":"Bavarian Alps","granularity":3,"parent":"Alps"},  
+{"entity":"Wetterstein Mountains","granularity":4,"parent":"Bavarian Alps"},  
+{"entity":"Karwendel Alps","granularity":3,"parent":"Alps"},  
+{"entity":"Garmisch-Partenkirchen","granularity":4,"parent":"Bavarian Alps"},  
+{"entity":"Garmisch-Partenkirchen station","granularity":5,"parent":"Garmisch-Partenkirchen"},  
+{"entity":"Alte Kirche","granularity":5,"parent":"Garmisch-Partenkirchen"},  
+{"entity":"Kramer group","granularity":4,"parent":"Bavarian Alps"},  
+{"entity":"Kramerspitz range","granularity":4,"parent":"Bavarian Alps"},  
+{"entity":"Schmiedestraße","granularity":5,"parent":"Garmisch-Partenkirchen"}  
+]

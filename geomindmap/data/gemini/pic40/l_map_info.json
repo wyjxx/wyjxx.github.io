@@ -1,0 +1,7 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Toulouse","granularity":4,"parent":"France"},
+{"entity":"Capitole","granularity":5,"parent":"Toulouse"},
+{"entity":"Capitole de Toulouse","granularity":5,"parent":"Toulouse"}
+]

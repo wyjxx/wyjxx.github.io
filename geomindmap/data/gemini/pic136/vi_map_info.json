@@ -1,0 +1,23 @@
+[
+{"entity":"historic-looking building","type":"v","granularity":1,"parent":null},
+{"entity":"church","type":"v","granularity":1,"parent":null},
+{"entity":"monastery","type":"v","granularity":1,"parent":null},
+{"entity":"surrounding buildings","type":"v","granularity":1,"parent":null},
+{"entity":"cobblestone street","type":"v","granularity":1,"parent":null},
+{"entity":"street furniture","type":"v","granularity":1,"parent":null},
+{"entity":"street signs","type":"v","granularity":1,"parent":null},
+{"entity":"sunlight","type":"v","granularity":1,"parent":null},
+{"entity":"facade","type":"v","granularity":2,"parent":"historic-looking building"},
+{"entity":"azulejos tilework","type":"v","granularity":2,"parent":"historic-looking building"},
+{"entity":"multi-story structure","type":"v","granularity":2,"parent":"surrounding buildings"},
+{"entity":"arched windows","type":"v","granularity":2,"parent":"surrounding buildings"},
+{"entity":"iron railings","type":"v","granularity":2,"parent":"surrounding buildings"},
+{"entity":"building materials","type":"v","granularity":2,"parent":"historic-looking building"},
+{"entity":"street details","type":"v","granularity":2,"parent":"cobblestone street"},
+{"entity":"Portuguese city","type":"i","granularity":3,"parent":"azulejos tilework"},
+{"entity":"Baroque style","type":"i","granularity":3,"parent":"facade"},
+{"entity":"Baroque architecture","type":"i","granularity":3,"parent":"facade"},
+{"entity":"search results","type":"i","granularity":3,"parent":null},
+{"entity":"tiles indicate Portugal","type":"i","granularity":3,"parent":"azulejos tilework"},
+{"entity":"street view verification","type":"i","granularity":3,"parent":"street signs"}
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Low Countries",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "Brussels-City",
+    "granularity": 3,
+    "parent": "Belgium",
+    "x": -2.7716385975338604,
+    "y": -1.148050297095269
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Brussels-City",
+    "x": -3.6955181300451474,
+    "y": -1.5307337294603587
+  },
+  {
+    "entity": "Grand Place",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -4.157348061512726,
+    "y": 2.777851165098011
+  },
+  {
+    "entity": "Grote Markt",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -0.9754516100806433,
+    "y": -4.903926402016151
+  }
+]

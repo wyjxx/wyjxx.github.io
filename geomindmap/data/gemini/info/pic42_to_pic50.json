@@ -1,0 +1,56 @@
+[
+    {
+        "picture": "pic42",
+        "tokens_total": 79504,
+        "time_total": 407.10469913482666,
+        "tokens_response": 0,
+        "tokens_reasoning": 3223,
+        "time_response": 41.26709842681885,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic43",
+        "tokens_total": 49441,
+        "time_total": 304.0789122581482,
+        "tokens_response": 0,
+        "tokens_reasoning": 1328,
+        "time_response": 64.68947768211365,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic46",
+        "tokens_total": 43645,
+        "time_total": 270.86893820762634,
+        "tokens_response": 0,
+        "tokens_reasoning": 1179,
+        "time_response": 18.98240303993225,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic48",
+        "tokens_total": 43068,
+        "time_total": 225.98907041549683,
+        "tokens_response": 0,
+        "tokens_reasoning": 1223,
+        "time_response": 19.747937440872192,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic49",
+        "tokens_total": 56495,
+        "time_total": 292.8614912033081,
+        "tokens_response": 0,
+        "tokens_reasoning": 1613,
+        "time_response": 25.380276918411255,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic50",
+        "tokens_total": 53281,
+        "time_total": 301.60249638557434,
+        "tokens_response": 0,
+        "tokens_reasoning": 1445,
+        "time_response": 26.729764223098755,
+        "accuracy": 3
+    }
+]

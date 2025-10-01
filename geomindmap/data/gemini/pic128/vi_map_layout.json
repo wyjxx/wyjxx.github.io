@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "valley",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765368,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588579,
+    "y": 0.7431448254773945
+  },
+  {
+    "entity": "modern infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "highway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426011,
+    "y": -0.4067366430757998
+  },
+  {
+    "entity": "railway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588585,
+    "y": -0.743144825477394
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "cycling path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765211,
+    "y": -0.9945218953682735
+  },
+  {
+    "entity": "pedestrian path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "pedestrian bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749462,
+    "y": -0.5877852522924747
+  },
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "aqueduct",
+    "x": 1.902113032590307,
+    "y": 0.6180339887498948
+  },
+  {
+    "entity": "Gothic architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "aqueduct",
+    "x": 1.1755705045849463,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "stone pine",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.8134732861515998,
+    "y": 1.8270909152852022
+  },
+  {
+    "entity": "photo viewpoint",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338054,
+    "y": -0.20791169081776073
+  },
+  {
+    "entity": "Mediterranean vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  }
+]

@@ -1,0 +1,18 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},  
+{"entity":"Hamburg Hauptbahnhof","granularity":5,"parent":"Hamburg"},  
+{"entity":"Leipzig Hauptbahnhof","granularity":5,"parent":"Germany"},  
+{"entity":"Frankfurt (Main) Hauptbahnhof","granularity":5,"parent":"Germany"},  
+{"entity":"Munich Hauptbahnhof","granularity":5,"parent":"Germany"},  
+{"entity":"Cologne Hauptbahnhof","granularity":5,"parent":"Germany"},  
+{"entity":"DB Passage","granularity":5,"parent":"Hamburg"},  
+{"entity":"Wandelhalle","granularity":5,"parent":"Hamburg"},  
+{"entity":"Nordsteg walkway","granularity":5,"parent":"Hamburg"},  
+{"entity":"Hamburg-Mitte","granularity":5,"parent":"Hamburg"},  
+{"entity":"Neustadt","granularity":5,"parent":"Hamburg"},  
+{"entity":"St. Georg","granularity":5,"parent":"Hamburg"},  
+{"entity":"Altstadt","granularity":5,"parent":"Hamburg"},  
+{"entity":"Promenadenhalle","granularity":5,"parent":"Hamburg"}  
+]

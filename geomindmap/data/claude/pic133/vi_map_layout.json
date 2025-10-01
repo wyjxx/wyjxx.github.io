@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "road signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7289686274214116,
+    "y": 0.6845471059286886
+  },
+  {
+    "entity": "white car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1873813145857246,
+    "y": 0.9822872507286887
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214117,
+    "y": 0.6845471059286885
+  },
+  {
+    "entity": "lane configurations",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": -3.216245299353273e-16
+  },
+  {
+    "entity": "concrete barriers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438634,
+    "y": -0.48175367410171577
+  },
+  {
+    "entity": "mountainous terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789963,
+    "y": -0.8443279255020153
+  },
+  {
+    "entity": "olive trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.06279051952931321,
+    "y": -0.9980267284282716
+  },
+  {
+    "entity": "shrubs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572513,
+    "y": -0.9822872507286886
+  },
+  {
+    "entity": "arid landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5358267949789968,
+    "y": -0.844327925502015
+  },
+  {
+    "entity": "semi-arid landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749478,
+    "y": -0.5877852522924726
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882518,
+    "y": -0.36812455268467703
+  },
+  {
+    "entity": "overhead gantry signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 1.7988105031327422,
+    "y": 0.8742315333018656
+  },
+  {
+    "entity": "blue sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 0.9854546830965831,
+    "y": 1.7403675093390514
+  },
+  {
+    "entity": "green sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 0.4240142198441095,
+    "y": 1.954536247136387
+  },
+  {
+    "entity": "Greek alphabet",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead gantry signs",
+    "x": 1.9490537455731543,
+    "y": 0.4485415218987623
+  },
+  {
+    "entity": "rocky mountains",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": -1.3690942118573766,
+    "y": -1.4579372548428238
+  },
+  {
+    "entity": "rocky limestone terrain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": -0.7362491053693556,
+    "y": -1.859552971776503
+  },
+  {
+    "entity": "European model",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white car",
+    "x": -0.5621439437571738,
+    "y": 2.946861752186066
+  },
+  {
+    "entity": "European highways",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road markings",
+    "x": -1.7633557568774192,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arid landscape",
+    "x": 1.6074803849369903,
+    "y": -2.532983776506045
+  },
+  {
+    "entity": "clearly in Greece",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.976344103943434,
+    "y": -0.37599970069290867
+  },
+  {
+    "entity": "major highway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road markings",
+    "x": -2.532983776506046,
+    "y": 1.6074803849369887
+  },
+  {
+    "entity": "major ring road",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lane configurations",
+    "x": -2.946861752186066,
+    "y": 0.5621439437571737
+  },
+  {
+    "entity": "well-developed transportation network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lane configurations",
+    "x": -2.9468617521860656,
+    "y": -0.5621439437571756
+  },
+  {
+    "entity": "strategic highway junction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead gantry signs",
+    "x": 2.3353869047010702,
+    "y": 1.8830740838721014
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "entity": "coat of arms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red flags",
+    "x": 1.978353019929562,
+    "y": 0.2934609489107235
+  },
+  {
+    "entity": "red flags",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9569403357322088,
+    "y": 0.29028467725446233
+  },
+  {
+    "entity": "wheel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red flags",
+    "x": 1.8079785862468867,
+    "y": 0.8551101868605642
+  },
+  {
+    "entity": "red sandstone building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6343932841636455,
+    "y": 0.773010453362737
+  },
+  {
+    "entity": "white car",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": -1.9878139400047121,
+    "y": -0.220444414587766
+  },
+  {
+    "entity": "license plate \"LIE\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": -1.8912146507610426,
+    "y": -0.650620584324526
+  },
+  {
+    "entity": "white Toyota",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": -1.7027103862105302,
+    "y": -1.0491793653569381
+  },
+  {
+    "entity": "license plate \"MZ\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": -1.090649976844092,
+    "y": -1.6764494111096766
+  },
+  {
+    "entity": "silver SUV",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": -0.26916141701425095,
+    "y": -1.9818052708555602
+  },
+  {
+    "entity": "license plate \"ME\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked cars",
+    "x": 0.17159462468888148,
+    "y": -1.9926252243655558
+  },
+  {
+    "entity": "bus line 9",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.19603428065912154,
+    "y": 1.9903694533443936
+  },
+  {
+    "entity": "sign \"Willkommen in der Gutenberg-Stadt!\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "civic sign",
+    "x": 0.6180339887498945,
+    "y": -1.9021130325903073
+  },
+  {
+    "entity": "Electoral Palace",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.29028467725446216,
+    "y": 0.9569403357322089
+  },
+  {
+    "entity": "red sandstone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red sandstone building",
+    "x": 1.4819022507099182,
+    "y": 1.3431179096940367
+  },
+  {
+    "entity": "four-lane road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6343932841636457,
+    "y": 0.7730104533627368
+  },
+  {
+    "entity": "scaffolding",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": 0.38268343236508945
+  },
+  {
+    "entity": "grassy median",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9951847266721969,
+    "y": 0.0980171403295604
+  },
+  {
+    "entity": "parked cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6343932841636452,
+    "y": -0.7730104533627372
+  },
+  {
+    "entity": "portrait",
+    "type": "v",
+    "granularity": 2,
+    "parent": "civic sign",
+    "x": 1.0449971294318996,
+    "y": -1.7052803287081832
+  },
+  {
+    "entity": "civic sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.707106781186548,
+    "y": -0.707106781186547
+  },
+  {
+    "entity": "birthplace of Johannes Gutenberg",
+    "type": "i",
+    "granularity": 3,
+    "parent": "civic sign",
+    "x": 2.121320343559644,
+    "y": -2.121320343559641
+  },
+  {
+    "entity": "Mainz plate code",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate \"MZ\"",
+    "x": -2.028278110725947,
+    "y": -2.2104497066321103
+  },
+  {
+    "entity": "Baroque architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red sandstone building",
+    "x": 1.542308232579665,
+    "y": 2.573185830000816
+  },
+  {
+    "entity": "German civic sign style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "civic sign",
+    "x": 2.55792049306228,
+    "y": -1.5674956941478415
+  },
+  {
+    "entity": "Mainz has no trams",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus line 9",
+    "x": 0.7289405397097919,
+    "y": 2.910093759583632
+  },
+  {
+    "entity": "Bundesstraße 9 arterial",
+    "type": "i",
+    "granularity": 3,
+    "parent": "four-lane road",
+    "x": -1.542308232579665,
+    "y": 2.573185830000816
+  },
+  {
+    "entity": "Mainzer Mobilität line 9",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus line 9",
+    "x": -0.14720302298225335,
+    "y": 2.996386368615517
+  },
+  {
+    "entity": "Hecht Gerüstbau contract",
+    "type": "i",
+    "granularity": 3,
+    "parent": "scaffolding",
+    "x": -2.7716385975338604,
+    "y": 1.1480502970952684
+  },
+  {
+    "entity": "Rheinallee border",
+    "type": "i",
+    "granularity": 3,
+    "parent": "four-lane road",
+    "x": -2.2228533760648777,
+    "y": 2.0146768645410544
+  },
+  {
+    "entity": "Gutenbergstadt moniker",
+    "type": "i",
+    "granularity": 3,
+    "parent": "civic sign",
+    "x": 2.8531695488854623,
+    "y": -0.9270509831248379
+  },
+  {
+    "entity": "Wikipedia",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9855541800165906,
+    "y": -0.29405142098868153
+  },
+  {
+    "entity": "German vehicle registration system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate \"MZ\"",
+    "x": -1.1988725995369376,
+    "y": -2.750037179763129
+  }
+]

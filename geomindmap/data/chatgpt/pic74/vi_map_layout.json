@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "flag",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963936,
+    "y": 0.6142127126896678
+  },
+  {
+    "entity": "white stripe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "flag",
+    "x": 1.9515927652548712,
+    "y": 0.43736218241275154
+  },
+  {
+    "entity": "red stripe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "flag",
+    "x": 1.5782810187927874,
+    "y": 1.2284254253793354
+  },
+  {
+    "entity": "bleachers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.0825793454723324,
+    "y": 0.9965844930066698
+  },
+  {
+    "entity": "yachts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": 0.9694002659393304
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9458172417006346,
+    "y": 0.3246994692046836
+  },
+  {
+    "entity": "round tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fortress",
+    "x": -0.16515869094466548,
+    "y": -1.9931689860133397
+  },
+  {
+    "entity": "hillside",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963937,
+    "y": -0.6142127126896678
+  },
+  {
+    "entity": "pastel houses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.1621536308038765,
+    "y": 1.62769743454039
+  },
+  {
+    "entity": "control tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.7181079087397702,
+    "y": 1.0237700981792024
+  },
+  {
+    "entity": "swimming pool",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.98464115947409,
+    "y": 0.24738526253869528
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224269,
+    "y": -0.8371664782625285
+  },
+  {
+    "entity": "fortress",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.08257934547233274,
+    "y": -0.9965844930066698
+  },
+  {
+    "entity": "villas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9168549649165059,
+    "y": -0.5706724484982094
+  },
+  {
+    "entity": "track",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963934,
+    "y": -0.614212712689668
+  },
+  {
+    "entity": "camera reversal",
+    "type": "i",
+    "granularity": 3,
+    "parent": "flag",
+    "x": 1.354600074932669,
+    "y": 2.6767627158551814
+  },
+  {
+    "entity": "Monaco Grand Prix",
+    "type": "i",
+    "granularity": 3,
+    "parent": "track",
+    "x": 1.3546000749326672,
+    "y": -2.6767627158551823
+  },
+  {
+    "entity": "track walk day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "track",
+    "x": 2.36742152818918,
+    "y": -1.8426381380690042
+  },
+  {
+    "entity": "Formula 1 circuit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "track",
+    "x": 2.9273891478823066,
+    "y": -0.6560432736191282
+  }
+]

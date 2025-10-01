@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "grand library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 1.8916344834012695,
+    "y": 0.6493989384093668
+  },
+  {
+    "entity": "tall columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 1.2714474964199363,
+    "y": 1.5438333018326416
+  },
+  {
+    "entity": "ornate capitals",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall columns",
+    "x": 1.2714474964199363,
+    "y": 1.5438333018326416
+  },
+  {
+    "entity": "multi-story bookshelves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 0.4909709742815989,
+    "y": 1.9388005318786607
+  },
+  {
+    "entity": "high ceilings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -0.1651586909446641,
+    "y": 1.9931689860133397
+  },
+  {
+    "entity": "arched ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -0.5970296220033886,
+    "y": 1.908810003759015
+  },
+  {
+    "entity": "decorative elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "dark wood shelving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -1.3545631432514817,
+    "y": 1.4714478213462636
+  },
+  {
+    "entity": "dark wood columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -1.6435556304504901,
+    "y": 1.1396161150205326
+  },
+  {
+    "entity": "spherical Earth projection",
+    "type": "v",
+    "granularity": 2,
+    "parent": "art installation",
+    "x": 0.14946018717284695,
+    "y": -1.9944075943623605
+  },
+  {
+    "entity": "illuminated sphere",
+    "type": "v",
+    "granularity": 2,
+    "parent": "art installation",
+    "x": 1.4247521939026884,
+    "y": -1.4035958057679838
+  },
+  {
+    "entity": "art installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494723,
+    "y": -0.9510565162951536
+  },
+  {
+    "entity": "busts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "alphabetical markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story bookshelves",
+    "x": 0.4909709742815989,
+    "y": 1.9388005318786607
+  },
+  {
+    "entity": "rope barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -1.8529881344296035,
+    "y": 0.7526187438956712
+  },
+  {
+    "entity": "visitors",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9945218953682733,
+    "y": -0.1045284632676543
+  },
+  {
+    "entity": "European library design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -2.959083910208167,
+    "y": 0.4937837708422021
+  },
+  {
+    "entity": "18th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": 2.959083910208167,
+    "y": 0.4937837708422016
+  },
+  {
+    "entity": "19th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": 2.6384212536194673,
+    "y": 1.4278421791112204
+  },
+  {
+    "entity": "famous library",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -2.9954445492999486,
+    "y": -0.165263281067596
+  },
+  {
+    "entity": "institutional library",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -2.8868040009277514,
+    "y": -0.8163103945360048
+  },
+  {
+    "entity": "educational display",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spherical Earth projection",
+    "x": -1.0960230730991871,
+    "y": -2.792621245932612
+  },
+  {
+    "entity": "notable landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -2.6384212536194673,
+    "y": -1.4278421791112206
+  },
+  {
+    "entity": "contemporary art",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": 2.575346380805598,
+    "y": -1.5386978322177192
+  },
+  {
+    "entity": "historic setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -2.2623198293306888,
+    "y": -1.970256072143203
+  },
+  {
+    "entity": "knowledge symbol",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spherical Earth projection",
+    "x": -0.2241902807592715,
+    "y": -2.9916113915435405
+  },
+  {
+    "entity": "interconnectedness symbol",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spherical Earth projection",
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "broader perspective symbol",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spherical Earth projection",
+    "x": 1.5000000000000027,
+    "y": -2.5980762113533142
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": -1.7767057579949412,
+    "y": -2.417295316982934
+  }
+]

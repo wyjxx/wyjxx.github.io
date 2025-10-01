@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"France","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},  
+  {"entity":"Vienna","granularity":4,"parent":"Europe"},  
+  {"entity":"Trinity College Library","granularity":5,"parent":"Dublin"},  
+  {"entity":"College Green","granularity":5,"parent":"Dublin"},  
+  {"entity":"Austrian National Library","granularity":5,"parent":"Vienna"}  
+]

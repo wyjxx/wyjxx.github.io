@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "aerial view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8763066800438636,
+    "y": 0.4817536741017153
+  },
+  {
+    "entity": "bay shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": 0.02513207976670555,
+    "y": 1.9998420884076322
+  },
+  {
+    "entity": "highway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.42577929156507266,
+    "y": 0.9048270524660196
+  },
+  {
+    "entity": "lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4257792915650727,
+    "y": 0.9048270524660195
+  },
+  {
+    "entity": "mountain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9921147013144778,
+    "y": 0.12533323356430454
+  },
+  {
+    "entity": "peninsula",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9685831611286311,
+    "y": -0.24868988716485502
+  },
+  {
+    "entity": "rail line",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438637,
+    "y": -0.481753674101715
+  },
+  {
+    "entity": "red-tiled roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "house",
+    "x": 1.5673869146516803,
+    "y": -1.2422955605566197
+  },
+  {
+    "entity": "ridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6374239897486895,
+    "y": -0.7705132427757894
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "scenic landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572513,
+    "y": -0.9822872507286886
+  },
+  {
+    "entity": "shoreline shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lake",
+    "x": -0.8515585831301454,
+    "y": 1.809654104932039
+  },
+  {
+    "entity": "house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8763066800438636,
+    "y": -0.4817536741017153
+  },
+  {
+    "entity": "Alpine foothill region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "scenic landscape",
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "Alpine lakes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lake",
+    "x": -2.0259984243630735,
+    "y": 2.212539352074522
+  },
+  {
+    "entity": "camera location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 2.9579881112115145,
+    "y": 0.5003062401483068
+  },
+  {
+    "entity": "Central European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red-tiled roof",
+    "x": 2.3510803719775204,
+    "y": -1.8634433408349296
+  },
+  {
+    "entity": "local geography",
+    "type": "i",
+    "granularity": 3,
+    "parent": "scenic landscape",
+    "x": 1.1043736580540346,
+    "y": -2.7893294576647536
+  },
+  {
+    "entity": "map comparison",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bay shape",
+    "x": 0.03769811965005833,
+    "y": 2.9997631326114482
+  },
+  {
+    "entity": "perspective",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 2.628920040131591,
+    "y": 1.445261022305146
+  },
+  {
+    "entity": "potential locations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lake",
+    "x": -2.591770251578506,
+    "y": 1.5108696049072827
+  },
+  {
+    "entity": "precise neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "house",
+    "x": 2.9579881112115145,
+    "y": -0.5003062401483082
+  },
+  {
+    "entity": "precise viewpoint",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ridge",
+    "x": -1.9122719692460686,
+    "y": -2.311539728327368
+  },
+  {
+    "entity": "proximity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountain",
+    "x": -2.9763441039434335,
+    "y": 0.3759997006929136
+  },
+  {
+    "entity": "vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 2.0073918190765747,
+    "y": 2.229434476432183
+  }
+]

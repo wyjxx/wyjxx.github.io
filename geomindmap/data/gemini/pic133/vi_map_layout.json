@@ -1,0 +1,274 @@
+[
+  {
+    "entity": "road signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720829,
+    "y": 0.961825643172819
+  },
+  {
+    "entity": "photo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7980172272802396,
+    "y": -0.6026346363792562
+  },
+  {
+    "entity": "landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6736956436465571,
+    "y": -0.7390089172206592
+  },
+  {
+    "entity": "Google Street View",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5264321628773562,
+    "y": -0.850217135729614
+  },
+  {
+    "entity": "gantry",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.36124166618715214,
+    "y": -0.9324722294043561
+  },
+  {
+    "entity": "mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.09226835946330103,
+    "y": -0.9957341762950346
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18374951781657137,
+    "y": -0.9829730996839016
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765393,
+    "y": -0.8951632913550618
+  },
+  {
+    "entity": "interchange",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7390089172206592,
+    "y": -0.6736956436465571
+  },
+  {
+    "entity": "Greek alphabet",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 1.9622788631247041,
+    "y": 0.38660272028791914
+  },
+  {
+    "entity": "English translations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 1.7681225658319697,
+    "y": 0.9347419923143349
+  },
+  {
+    "entity": "blue road sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 1.5540878706749106,
+    "y": 1.2588927238732943
+  },
+  {
+    "entity": "exit names",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 0.029177844017292513,
+    "y": 1.9997871520285608
+  },
+  {
+    "entity": "exit options",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -1.516698470587163,
+    "y": 1.3036969545559893
+  },
+  {
+    "entity": "exit directions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -1.9501645400418972,
+    "y": 0.44368712711005626
+  },
+  {
+    "entity": "strong indicator",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Greek alphabet",
+    "x": 2.9434182946870564,
+    "y": 0.5799040804318787
+  },
+  {
+    "entity": "key detail",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": 1.8899581493319206,
+    "y": 2.329819347883836
+  },
+  {
+    "entity": "precise highway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": 1.3297470960411342,
+    "y": 2.6891955415272744
+  },
+  {
+    "entity": "orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit directions",
+    "x": -2.656715689252036,
+    "y": 1.3935069954909014
+  },
+  {
+    "entity": "general direction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit directions",
+    "x": -2.9252468100628457,
+    "y": 0.6655306906650844
+  },
+  {
+    "entity": "final confirmator",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": 0.7040847570314268,
+    "y": 2.91620723799184
+  },
+  {
+    "entity": "exact location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": 0.04376676602593877,
+    "y": 2.9996807280428412
+  },
+  {
+    "entity": "online maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road signs",
+    "x": -2.8971471896193597,
+    "y": -0.7788055994153131
+  },
+  {
+    "entity": "details match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": -0.6187054625159087,
+    "y": 2.935507375336157
+  },
+  {
+    "entity": "heading north",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit directions",
+    "x": -2.9980924198692063,
+    "y": -0.10696654581133183
+  },
+  {
+    "entity": "merges into A6",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road",
+    "x": 1.337215067329618,
+    "y": -2.685489874065185
+  },
+  {
+    "entity": "matched details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": -1.2507244807265985,
+    "y": 2.7268458470018397
+  },
+  {
+    "entity": "location verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road signs",
+    "x": -2.691961165120893,
+    "y": -1.3241393753985888
+  },
+  {
+    "entity": "comparing details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit names",
+    "x": -1.821181773713448,
+    "y": 2.383966641355105
+  },
+  {
+    "entity": "perfect alignment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": -0.2768050783899031,
+    "y": -2.9872025288851036
+  },
+  {
+    "entity": "process verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6854898740651874,
+    "y": -1.3372150673296144
+  },
+  {
+    "entity": "boundary checking",
+    "type": "i",
+    "granularity": 3,
+    "parent": "interchange",
+    "x": 2.2170267516619777,
+    "y": -2.0210869309396715
+  },
+  {
+    "entity": "final answer",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8854769295184584,
+    "y": -0.8209889702162445
+  },
+  {
+    "entity": "high confidence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9872025288851036,
+    "y": -0.27680507838990326
+  }
+]

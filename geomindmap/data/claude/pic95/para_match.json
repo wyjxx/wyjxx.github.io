@@ -1,0 +1,37 @@
+[{
+  "paragraph": 1,
+  "clue": [],
+  "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "high-rise buildings",
+    "skyscrapers",
+    "glass facades",
+    "tram tracks",
+    "road",
+    "yellow lane markings",
+    "LED street lamps",
+    "overhead electrical wiring",
+    "billboard advertisements",
+    "platform",
+    "station area",
+    "modern glass and steel construction",
+    "developed urban area",
+    "city center",
+    "downtown district",
+    "European architectural style",
+    "developed tram network"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "sky",
+    "artificial lighting",
+    "twilight hours",
+    "blue hour",
+    "evening twilight"
+  ],
+  "loc-clue": []
+},{"paragraph":4,"clue":["tram tracks","developed tram network","major financial district","modern business district","European architectural style","Central European landscape","German-speaking region","Northern European metropolis","sophisticated urban design","advanced transit systems","integrated tram infrastructure","architectural elements"],"loc-clue":[{"loc":"Amsterdam","status":3,"related_clue":["developed tram network","sophisticated urban design","advanced transit systems","modern business district"]},{"loc":"Netherlands","status":3,"related_clue":["developed tram network","sophisticated urban design","advanced transit systems","modern business district"]},{"loc":"Berlin","status":3,"related_clue":["integrated tram infrastructure","sophisticated urban design","German-speaking region","modern business district"]},{"loc":"Germany","status":3,"related_clue":["integrated tram infrastructure","German-speaking region"]},{"loc":"Vienna","status":2,"related_clue":["developed tram network"]},{"loc":"Austria","status":2,"related_clue":["developed tram network"]},{"loc":"Prague","status":2,"related_clue":["developed tram network"]},{"loc":"Czech Republic","status":2,"related_clue":["developed tram network"]},{"loc":"Melbourne","status":2,"related_clue":["developed tram network"]},{"loc":"Australia","status":2,"related_clue":["developed tram network"]},{"loc":"Zuidas","status":3,"related_clue":["modern business district","integrated tram infrastructure","advanced transit systems"]},{"loc":"Europe","status":3,"related_clue":["European architectural style"]}]}]

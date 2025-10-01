@@ -1,0 +1,141 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "Lufthansa aircraft",
+    "German airline",
+    "Lufthansa livery",
+    "crane logo",
+    "terminal building",
+    "ground support equipment",
+    "European architecture",
+    "major international airport"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "European architecture"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "Lufthansa aircraft",
+    "wide-body aircraft",
+    "Airbus A330",
+    "Lufthansa livery"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "terminal building",
+    "jet bridge",
+    "ground support vehicle",
+    "major hub airport"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 4,
+  "clue": [
+    "lighting",
+    "terminal architecture",
+    "major international airport"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 5,
+  "clue": [
+    "Lufthansa aircraft",
+    "major hub airport",
+    "primary hub"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Frankfurt Airport",
+      "status": 3,
+      "related_clue": [
+        "Lufthansa aircraft",
+        "major hub airport",
+        "primary hub"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Frankfurt am Main",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "secondary hub"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Munich Airport",
+      "status": 2,
+      "related_clue": [
+        "secondary hub"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [
+    "Lufthansa aircraft"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Frankfurt Airport",
+      "status": 3,
+      "related_clue": [
+        "Lufthansa aircraft"
+      ]
+    },
+    {
+      "loc": "Frankfurt am Main",
+      "status": 3,
+      "related_clue": [
+        "Lufthansa aircraft"
+      ]
+    }
+  ]
+},{
+  "paragraph": 8,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Frankfurt Airport",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Frankfurt am Main",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+}]

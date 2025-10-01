@@ -1,0 +1,22 @@
+[
+{"entity":"Portugal","type":"l"},
+{"entity":"Praça dos Restauradores","type":"l"},
+{"entity":"Lisbon","type":"l"},
+{"entity":"Restauradores","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"cobblestone pavement","type":"v"},
+{"entity":"wavy pattern","type":"v"},
+{"entity":"neoclassical building","type":"v"},
+{"entity":"red-tiled roof","type":"v"},
+{"entity":"monument","type":"v"},
+{"entity":"inscription","type":"v"},
+{"entity":"Palácio Foz","type":"v"},
+{"entity":"Calçada Portuguesa","type":"v"},
+{"entity":"background buildings","type":"v"},
+{"entity":"metro station","type":"v"},
+{"entity":"street layouts","type":"i"},
+{"entity":"architectural styles","type":"i"},
+{"entity":"monument's identity","type":"i"},
+{"entity":"Google Street View","type":"i"},
+{"entity":"confident answer","type":"i"}
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Provence-Alpes-Côte d'Azur",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.9489192990517052,
+    "y": 0.5512485534497111
+  },
+  {
+    "entity": "Mediterranean coast",
+    "granularity": 3,
+    "parent": "France",
+    "x": 2.9489192990517052,
+    "y": -0.5512485534497102
+  },
+  {
+    "entity": "Marseille",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": 2.8197021876245887,
+    "y": 2.8371252304234136
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -2.854440617647009,
+    "y": 2.8021721503731642
+  },
+  {
+    "entity": "Cassis",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -3.9125904029352228,
+    "y": -0.8316467632710363
+  },
+  {
+    "entity": "Porquerolles",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -3.29301179263035,
+    "y": -2.270698864578359
+  },
+  {
+    "entity": "Toulon",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -2.1682134258898014,
+    "y": -3.361376286551568
+  },
+  {
+    "entity": "Port de Nice",
+    "granularity": 5,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -0.8884548488013457,
+    "y": -4.920431686513021
+  },
+  {
+    "entity": "Nice's port",
+    "granularity": 5,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": 1.069665416032479,
+    "y": -4.884241588798005
+  },
+  {
+    "entity": "Vieux Port de Marseille",
+    "granularity": 5,
+    "parent": "Marseille",
+    "x": 4.828297985044313,
+    "y": 1.2990529502745554
+  },
+  {
+    "entity": "Le Vieux Port",
+    "granularity": 5,
+    "parent": "Marseille",
+    "x": 3.5246277345307364,
+    "y": 3.546406538029267
+  },
+  {
+    "entity": "Fort Saint-Jean",
+    "granularity": 5,
+    "parent": "Marseille",
+    "x": 1.2692862458550411,
+    "y": 4.836208476284208
+  },
+  {
+    "entity": "Le Suquet",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -1.3287703617368487,
+    "y": 4.820204282576593
+  },
+  {
+    "entity": "Vieux Nice",
+    "granularity": 5,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": 2.863675700402522,
+    "y": -4.098702414536108
+  },
+  {
+    "entity": "Antibes old town",
+    "granularity": 5,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": 4.218335739168825,
+    "y": -2.6843329882209095
+  },
+  {
+    "entity": "Place de Gaulle",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -3.5680507720587595,
+    "y": 3.502715187966457
+  },
+  {
+    "entity": "Rue Sainte-Anne",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -4.843935456130293,
+    "y": 1.2394713779849107
+  }
+]

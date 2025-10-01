@@ -1,0 +1,163 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.0812816349111953,
+    "y": 1.6825070656623622
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.5114991487085163,
+    "y": 1.3097214678905704
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.28462967654657045,
+    "y": -1.9796428837618654
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -0.4269445148198557,
+    "y": -2.969464325642798
+  },
+  {
+    "entity": "Reiteralpe",
+    "granularity": 3,
+    "parent": "Bavarian Alps",
+    "x": 2.9584630611545597,
+    "y": 0.4974900157631224
+  },
+  {
+    "entity": "Berchtesgaden National Park",
+    "granularity": 3,
+    "parent": "Bavarian Alps",
+    "x": 1.6219224523667926,
+    "y": 2.523760598493544
+  },
+  {
+    "entity": "Murnau Moor",
+    "granularity": 3,
+    "parent": "Bavaria",
+    "x": -2.9804452060456508,
+    "y": 0.3419742296716215
+  },
+  {
+    "entity": "Ramsau bei Berchtesgaden",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.896047667769334,
+    "y": -0.9059870697030585
+  },
+  {
+    "entity": "Hintersee",
+    "granularity": 4,
+    "parent": "Berchtesgaden National Park",
+    "x": 3.3989017197980576,
+    "y": 2.1089018704420095
+  },
+  {
+    "entity": "Eibsee",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -1.0352761804100834,
+    "y": 3.8637033051562732
+  },
+  {
+    "entity": "Obersee",
+    "granularity": 4,
+    "parent": "Berchtesgaden National Park",
+    "x": 2.1625632698223907,
+    "y": 3.3650141313247244
+  },
+  {
+    "entity": "Plansee",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -2.397110666045388,
+    "y": 3.2021649636974416
+  },
+  {
+    "entity": "Lautersee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.365014131324724,
+    "y": -2.1625632698223916
+  },
+  {
+    "entity": "Geroldsee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.4425915185417506,
+    "y": -3.1676089836891017
+  },
+  {
+    "entity": "Mittenwald",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.5692593530931375,
+    "y": -3.959285767523731
+  },
+  {
+    "entity": "Garmisch",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 1.4512308214025678,
+    "y": -3.727456116845808
+  },
+  {
+    "entity": "Zell am See",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -3.510715958269022,
+    "y": 1.9169959468802282
+  },
+  {
+    "entity": "Ramsauer Ache",
+    "granularity": 4,
+    "parent": "Berchtesgaden National Park",
+    "x": 0.5063698142949972,
+    "y": 3.9678192513231814
+  },
+  {
+    "entity": "Staffelsee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 2.619442935781144,
+    "y": -3.02299829741703
+  },
+  {
+    "entity": "Walchensee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.4829843084791112,
+    "y": -1.9669316985824106
+  },
+  {
+    "entity": "Finzbach Lake",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.9414153433907733,
+    "y": -0.6820887705304894
+  },
+  {
+    "entity": "Strubklamm",
+    "granularity": 5,
+    "parent": "Mittenwald",
+    "x": -0.7115741913664219,
+    "y": -4.949107209404664
+  }
+]

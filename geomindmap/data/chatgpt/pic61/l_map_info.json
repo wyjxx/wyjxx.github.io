@@ -1,0 +1,19 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"England","granularity":2,"parent":"Europe"},  
+  {"entity":"Britain","granularity":2,"parent":"Europe"},  
+  {"entity":"Berkshire","granularity":3,"parent":"England"},  
+  {"entity":"Windsor","granularity":4,"parent":"Berkshire"},  
+  {"entity":"London","granularity":4,"parent":"England"},  
+  {"entity":"Castle Hill","granularity":5,"parent":"Windsor"},  
+  {"entity":"Windsor Castle","granularity":5,"parent":"Windsor"},  
+  {"entity":"Horse Guards Parade","granularity":5,"parent":"London"},  
+  {"entity":"Whitehall","granularity":5,"parent":"London"},  
+  {"entity":"Buckingham Palace","granularity":5,"parent":"London"},  
+  {"entity":"Tower of London","granularity":5,"parent":"London"},  
+  {"entity":"Water Lane","granularity":5,"parent":"London"},  
+  {"entity":"State Apartments","granularity":5,"parent":"Windsor"},  
+  {"entity":"Guard Room","granularity":5,"parent":"Windsor"},  
+  {"entity":"Lower Ward","granularity":5,"parent":"Windsor"},  
+  {"entity":"Quadrangle","granularity":5,"parent":"Windsor"}  
+]

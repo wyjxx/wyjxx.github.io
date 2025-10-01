@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "covered platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.917211301505453,
+    "y": 0.39840108984624145
+  },
+  {
+    "entity": "train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20345601305263375,
+    "y": 0.9790840876823229
+  },
+  {
+    "entity": "ICE train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4600650377311521,
+    "y": 0.8878852184023752
+  },
+  {
+    "entity": "platform numbers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform markers",
+    "x": -1.633939786020884,
+    "y": 1.1533606442297344
+  },
+  {
+    "entity": "section marker B",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform markers",
+    "x": -1.9895145577161897,
+    "y": 0.2045282978840684
+  },
+  {
+    "entity": "section marker C",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform markers",
+    "x": -1.943134178795883,
+    "y": -0.47352884093289366
+  },
+  {
+    "entity": "platform markers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9629172873477992,
+    "y": 0.2697967711570243
+  },
+  {
+    "entity": "station advertising",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6825531432186545,
+    "y": -0.7308359642781238
+  },
+  {
+    "entity": "GRUNDIG sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20345601305263367,
+    "y": -0.9790840876823229
+  },
+  {
+    "entity": "platform structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "covered platform",
+    "x": 1.834422603010906,
+    "y": 0.7968021796924829
+  },
+  {
+    "entity": "paving stones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform structure",
+    "x": 1.834422603010906,
+    "y": 0.7968021796924829
+  },
+  {
+    "entity": "glass features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural features",
+    "x": 0.2723332981924936,
+    "y": -1.9813718920726615
+  },
+  {
+    "entity": "steel features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural features",
+    "x": 1.0391679000708665,
+    "y": -1.7088388090929776
+  },
+  {
+    "entity": "architectural features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.33487961217098605,
+    "y": -0.9422609221188205
+  },
+  {
+    "entity": "blue advertisement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station advertising",
+    "x": -1.6339397860208842,
+    "y": -1.153360644229734
+  },
+  {
+    "entity": "photo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8544194045464881,
+    "y": -0.5195839500354343
+  },
+  {
+    "entity": "street views",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9906859460363306,
+    "y": -0.1361666490962472
+  },
+  {
+    "entity": "major terminal",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 1.6166959077467262,
+    "y": 2.527111857808235
+  },
+  {
+    "entity": "local businesses",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 0.6103680391579013,
+    "y": 2.9372522630469686
+  },
+  {
+    "entity": "potential business names",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": -0.47604763936875394,
+    "y": 2.961988967746409
+  },
+  {
+    "entity": "business directory",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station advertising",
+    "x": -1.5587518501063007,
+    "y": -2.5632582136394655
+  },
+  {
+    "entity": "platform numbering scheme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "platform numbers",
+    "x": -2.450909679031326,
+    "y": 1.7300409663446015
+  },
+  {
+    "entity": "Google images",
+    "type": "i",
+    "granularity": 3,
+    "parent": "photo",
+    "x": 2.5632582136394646,
+    "y": -1.5587518501063031
+  }
+]

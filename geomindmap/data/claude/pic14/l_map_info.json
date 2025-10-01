@@ -1,0 +1,8 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Maxvorstadt","granularity":5,"parent":"Munich"},
+{"entity":"Schellingstrasse","granularity":5,"parent":"Munich"},
+{"entity":"Ludwig Maximilian University","granularity":5,"parent":"Munich"}]

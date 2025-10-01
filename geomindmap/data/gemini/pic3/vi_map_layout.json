@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "fog",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": 0.14231483827328514
+  },
+  {
+    "entity": "night",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545184,
+    "y": 0.4154150130018864
+  },
+  {
+    "entity": "H sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "street lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328512,
+    "y": 0.9898214418809327
+  },
+  {
+    "entity": "license plate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555972,
+    "y": 0.8412535328311814
+  },
+  {
+    "entity": "bicycle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311812,
+    "y": -0.5406408174555976
+  },
+  {
+    "entity": "urban layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14231483827328523,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "tram tunnels",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "underpasses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555971,
+    "y": -0.8412535328311814
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311808,
+    "y": -0.5406408174555982
+  },
+  {
+    "entity": "railway bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809326,
+    "y": -0.14231483827328617
+  },
+  {
+    "entity": "lane markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.6825070656623615,
+    "y": -1.0812816349111964
+  },
+  {
+    "entity": "tram line layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "urban layout",
+    "x": -0.28462967654657045,
+    "y": -1.9796428837618654
+  },
+  {
+    "entity": "suspended lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lighting",
+    "x": 0.28462967654657023,
+    "y": 1.9796428837618654
+  },
+  {
+    "entity": "street appearance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street",
+    "x": -1.9638573945254134,
+    "y": -0.37850248872082054
+  },
+  {
+    "entity": "bus or tram stop",
+    "type": "i",
+    "granularity": 3,
+    "parent": "H sign",
+    "x": 1.9645822018358552,
+    "y": 2.267248723062775
+  },
+  {
+    "entity": "license plate B prefix",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": -1.0483925387972943,
+    "y": 2.8108491749992854
+  },
+  {
+    "entity": "license plate format",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": -2.1213203435596415,
+    "y": 2.1213203435596437
+  },
+  {
+    "entity": "Nextbike bike-share scheme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle",
+    "x": -2.878478920843492,
+    "y": 0.845197670524289
+  },
+  {
+    "entity": "north side orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street",
+    "x": -2.5237605984935443,
+    "y": -1.6219224523667917
+  },
+  {
+    "entity": "east orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street",
+    "x": -1.7401707287135948,
+    "y": -2.443727856151007
+  }
+]

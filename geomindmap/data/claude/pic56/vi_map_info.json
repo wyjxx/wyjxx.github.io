@@ -1,0 +1,31 @@
+[  
+{"entity":"windmills","type":"v","granularity":1,"parent":null},  
+{"entity":"ridge","type":"v","granularity":1,"parent":null},  
+{"entity":"hillside","type":"v","granularity":1,"parent":null},  
+{"entity":"rocky terrain","type":"v","granularity":1,"parent":null},  
+{"entity":"arid terrain","type":"v","granularity":1,"parent":null},  
+{"entity":"sparse vegetation","type":"v","granularity":1,"parent":null},  
+{"entity":"scrubby vegetation","type":"v","granularity":1,"parent":null},  
+{"entity":"path","type":"v","granularity":1,"parent":null},  
+{"entity":"road","type":"v","granularity":1,"parent":null},  
+{"entity":"people","type":"v","granularity":1,"parent":null},  
+{"entity":"clear sky","type":"v","granularity":1,"parent":null},  
+{"entity":"lighting","type":"v","granularity":1,"parent":null},  
+{"entity":"windmill complex","type":"v","granularity":1,"parent":null},  
+
+{"entity":"windmill blades","type":"v","granularity":2,"parent":"windmills"},  
+{"entity":"white cylindrical base","type":"v","granularity":2,"parent":"windmills"},  
+{"entity":"dark conical roof","type":"v","granularity":2,"parent":"windmills"},  
+{"entity":"silhouettes","type":"v","granularity":2,"parent":"people"},  
+{"entity":"gradient sky","type":"v","granularity":2,"parent":"clear sky"},  
+
+{"entity":"traditional European windmills","type":"i","granularity":3,"parent":"windmills"},  
+{"entity":"Spanish style","type":"i","granularity":3,"parent":"windmills"},  
+{"entity":"windmills of La Mancha","type":"i","granularity":3,"parent":"windmills"},  
+{"entity":"Mediterranean-like landscape","type":"i","granularity":3,"parent":"arid terrain"},  
+{"entity":"sunrise or sunset","type":"i","granularity":3,"parent":"lighting"},  
+{"entity":"semi-arid climate","type":"i","granularity":3,"parent":"arid terrain"},  
+{"entity":"golden hour","type":"i","granularity":3,"parent":"lighting"},  
+{"entity":"arid Spanish landscape","type":"i","granularity":3,"parent":"arid terrain"},  
+{"entity":"Cervantes' Don Quixote","type":"i","granularity":3,"parent":"windmills"}  
+]

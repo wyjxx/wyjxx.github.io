@@ -1,0 +1,181 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "flag",
+    "white stripe",
+    "red stripe",
+    "camera reversal",
+    "Monaco Grand Prix",
+    "bleachers",
+    "yachts",
+    "buildings"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Poland",
+      "status": 3,
+      "related_clue": [
+        "flag",
+        "white stripe",
+        "red stripe"
+      ]
+    },
+    {
+      "loc": "Monaco",
+      "status": 2,
+      "related_clue": [
+        "Monaco Grand Prix",
+        "bleachers",
+        "yachts",
+        "buildings"
+      ]
+    },
+    {
+      "loc": "Indonesia",
+      "status": 1,
+      "related_clue": [
+        "flag",
+        "white stripe",
+        "red stripe"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "round tower",
+    "hillside",
+    "pastel houses",
+    "bleachers",
+    "swimming pool",
+    "control tower",
+    "Formula 1 circuit"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Prince's Palace",
+      "status": 3,
+      "related_clue": [
+        "round tower",
+        "hillside",
+        "pastel houses"
+      ]
+    },
+    {
+      "loc": "Monte Carlo",
+      "status": 3,
+      "related_clue": [
+        "round tower",
+        "hillside",
+        "pastel houses"
+      ]
+    },
+    {
+      "loc": "Monaco",
+      "status": 3,
+      "related_clue": [
+        "round tower",
+        "hillside",
+        "pastel houses"
+      ]
+    },
+    {
+      "loc": "port hairpin",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "start/finish line",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Hotel de Paris",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "harbor chicane",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Yacht Club de Monaco",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "pit straight",
+      "status": 2,
+      "related_clue": [
+        "swimming pool"
+      ]
+    },
+    {
+      "loc": "harbor straight",
+      "status": 3,
+      "related_clue": [
+        "bleachers"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "people",
+    "track",
+    "track walk day",
+    "Monaco Grand Prix"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Yacht Club de Monaco",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "starting grid",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Quai Albert Ier",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "harbor",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "pit lane",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "start line",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "La Condamine",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Monaco",
+      "status": 3,
+      "related_clue": [
+        "Monaco Grand Prix",
+        "track walk day"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{"paragraph":4,"clue":["fortress","track","hillside","villas"],"loc-clue":[{"loc":"Monaco-Ville","status":3,"related_clue":["fortress","hillside","villas"]},{"loc":"Rock","status":2,"related_clue":["fortress"]},{"loc":"La Condamine","status":3,"related_clue":["track"]},{"loc":"Monaco","status":3,"related_clue":["fortress","hillside","villas","track"]},{"loc":"Quai Albert Ier","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}]}
+,{"paragraph":5,"clue":[],"loc-clue":[{"loc":"Quai Albert Ier","status":3,"related_clue":[]},{"loc":"La Condamine","status":3,"related_clue":[]},{"loc":"Monaco","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}] }]

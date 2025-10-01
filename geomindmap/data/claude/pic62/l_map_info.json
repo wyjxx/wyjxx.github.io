@@ -1,0 +1,17 @@
+[
+{"entity":"United Kingdom","granularity":2,"parent":null},
+{"entity":"England","granularity":3,"parent":"United Kingdom"},
+{"entity":"Southwest England","granularity":3,"parent":"England"},
+{"entity":"Bath","granularity":4,"parent":"Somerset"},
+{"entity":"Bristol","granularity":4,"parent":"Southwest England"},
+{"entity":"Cardiff","granularity":4,"parent":"United Kingdom"},
+{"entity":"Cornwall","granularity":3,"parent":"Southwest England"},
+{"entity":"Devon","granularity":3,"parent":"Southwest England"},
+{"entity":"Gloucestershire","granularity":3,"parent":"Southwest England"},
+{"entity":"Oxfordshire","granularity":3,"parent":"England"},
+{"entity":"Somerset","granularity":3,"parent":"Southwest England"},
+{"entity":"Wiltshire","granularity":3,"parent":"Southwest England"},
+{"entity":"London","granularity":4,"parent":"England"},
+{"entity":"Paddington","granularity":5,"parent":"London"},
+{"entity":"Paddington Station","granularity":5,"parent":"Paddington"}
+]

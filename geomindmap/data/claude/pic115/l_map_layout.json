@@ -1,0 +1,107 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.246979603717467,
+    "y": 1.5636629649360598
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.8677674782351159,
+    "y": -1.8019377358048385
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "Alsace",
+    "granularity": 3,
+    "parent": "France",
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.199155615489479,
+    "y": 2.040518213312758
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -0.5209445330007902,
+    "y": 2.9544232590366244
+  },
+  {
+    "entity": "Hesse",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.8704694055762006,
+    "y": 2.3454944474040897
+  },
+  {
+    "entity": "Thuringia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.7644286356112233,
+    "y": 1.165304388824084
+  },
+  {
+    "entity": "Franconia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.985092326096204,
+    "y": -0.2987035397874508
+  },
+  {
+    "entity": "southern German regions",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.478716322947984,
+    "y": -1.6899601741908672
+  },
+  {
+    "entity": "Romantic Road",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.3686319720594873,
+    "y": -2.6696154264344067
+  },
+  {
+    "entity": "Rothenburg ob der Tauber",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 2.9322074873193054,
+    "y": 2.7206909510836774
+  },
+  {
+    "entity": "Plönlein",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": 3.6652593591491316,
+    "y": 3.4008636888545967
+  }
+]

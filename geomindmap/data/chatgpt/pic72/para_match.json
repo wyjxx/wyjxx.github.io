@@ -1,0 +1,35 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "street scene",
+        "bridge",
+        "low traffic",
+        "Marilyn Monroe mural",
+        "Campus Riera International sign",
+        "likely in Cannes",
+        "near Boulevard de la Croisette"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Cannes",
+            "status": 2,
+            "related_clue": [
+                "likely in Cannes"
+            ]
+        },
+        {
+            "loc": "France",
+            "status": 2,
+            "related_clue": [
+                "likely in Cannes"
+            ]
+        },
+        {
+            "loc": "Boulevard de la Croisette",
+            "status": 2,
+            "related_clue": [
+                "near Boulevard de la Croisette"
+            ]
+        }
+    ]
+},{"paragraph":2,"clue":["Marilyn Monroe mural","famous landmark"],"loc-clue":[{"loc":"Prado – République","status":3,"related_clue":["Marilyn Monroe mural","famous landmark"]},{"loc":"16 Boulevard d'Alsace","status":2,"related_clue":["Marilyn Monroe mural","famous landmark"]},{"loc":"Cannes","status":3,"related_clue":["Marilyn Monroe mural","famous landmark"]},{"loc":"France","status":3,"related_clue":["Marilyn Monroe mural","famous landmark"]},{"loc":"Europe","status":3,"related_clue":["Marilyn Monroe mural","famous landmark"]}]},{"paragraph":3,"clue":["mid-rise hotel","black-and-white mural","Marilyn Monroe mural","rooftop sign","hotel variant identification","tourism site placement","map confirmation","Wikipedia confirmation"],"loc-clue":[{"loc":"16 Boulevard d'Alsace","status":3,"related_clue":["tourism site placement","map confirmation","Wikipedia confirmation"]},{"loc":"Prado – République","status":3,"related_clue":["map confirmation","Wikipedia confirmation"]},{"loc":"Cannes","status":3,"related_clue":["map confirmation","Wikipedia confirmation"]},{"loc":"France","status":3,"related_clue":["map confirmation","Wikipedia confirmation"]},{"loc":"Europe","status":3,"related_clue":["map confirmation","Wikipedia confirmation"]},{"loc":"Best Western Plus Cannes Riviera & Spa","status":3,"related_clue":["rooftop sign","hotel variant identification","tourism site placement"]}]},{"paragraph":4,"clue":[],"loc-clue":[{"loc":"16 Boulevard d'Alsace","status":3,"related_clue":[]},{"loc":"Prado – République","status":3,"related_clue":[]},{"loc":"Cannes","status":3,"related_clue":[]},{"loc":"France","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[] }]}]

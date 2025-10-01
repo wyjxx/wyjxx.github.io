@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "reflecting pool",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865476,
+    "y": 0.7071067811865475
+  },
+  {
+    "entity": "arcades",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890683,
+    "y": 0.2588190451025206
+  },
+  {
+    "entity": "plain whitewashed walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13052619222005074,
+    "y": -0.9914448613738105
+  },
+  {
+    "entity": "square tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000009,
+    "y": -0.8660254037844382
+  },
+  {
+    "entity": "water channels",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112872,
+    "y": -0.3826834323650887
+  },
+  {
+    "entity": "geometric reflecting pool",
+    "type": "v",
+    "granularity": 2,
+    "parent": "reflecting pool",
+    "x": 1.9753766811902755,
+    "y": 0.31286893008046174
+  },
+  {
+    "entity": "myrtle hedges",
+    "type": "v",
+    "granularity": 2,
+    "parent": "reflecting pool",
+    "x": 1.7820130483767358,
+    "y": 0.9079809994790935
+  },
+  {
+    "entity": "low clipped hedges",
+    "type": "v",
+    "granularity": 2,
+    "parent": "reflecting pool",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "stucco ornament",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arcades",
+    "x": -0.2898637186144936,
+    "y": 1.978883277161889
+  },
+  {
+    "entity": "horseshoe arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arcades",
+    "x": -1.099017956141612,
+    "y": 1.6709756228258728
+  },
+  {
+    "entity": "lobed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arcades",
+    "x": -1.7022333448739995,
+    "y": 1.0499531606691204
+  },
+  {
+    "entity": "arabesque plasterwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arcades",
+    "x": -1.9318516525781366,
+    "y": 0.5176380902050411
+  },
+  {
+    "entity": "calligraphic plasterwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arcades",
+    "x": -1.9991539001644012,
+    "y": -0.058169437486223684
+  },
+  {
+    "entity": "carved stone doorframes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plain whitewashed walls",
+    "x": -0.642878930606322,
+    "y": -1.8938602589902118
+  },
+  {
+    "entity": "window niches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plain whitewashed walls",
+    "x": 0.13080625846028826,
+    "y": -1.995717846477207
+  },
+  {
+    "entity": "crenellations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "square tower",
+    "x": 1.0000000000000018,
+    "y": -1.7320508075688763
+  },
+  {
+    "entity": "perfect mirror reflection",
+    "type": "v",
+    "granularity": 3,
+    "parent": "reflecting pool",
+    "x": 1.3619714992186405,
+    "y": 2.6730195725651034
+  },
+  {
+    "entity": "Moorish influences",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arcades",
+    "x": -2.847727930719101,
+    "y": -0.9436342684548429
+  },
+  {
+    "entity": "Moorish palace gardens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water channels",
+    "x": 2.494408836907637,
+    "y": -1.6667106990588045
+  },
+  {
+    "entity": "chahr bagh-inspired water channels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water channels",
+    "x": 2.942355841209692,
+    "y": -0.5852709660483809
+  },
+  {
+    "entity": "Nasrid style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arcades",
+    "x": -2.457456132866974,
+    "y": -1.7207293090531404
+  },
+  {
+    "entity": "Nasrid-era horseshoe arches",
+    "type": "i",
+    "granularity": 3,
+    "parent": "horseshoe arches",
+    "x": -1.648526934212418,
+    "y": 2.506463434238809
+  },
+  {
+    "entity": "late 14th–15th-century Islamic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arcades",
+    "x": -1.8607064738047776,
+    "y": -2.3532469947587296
+  },
+  {
+    "entity": "hallmark view",
+    "type": "i",
+    "granularity": 3,
+    "parent": "reflecting pool",
+    "x": 0.46930339512069275,
+    "y": 2.9630650217854133
+  }
+]

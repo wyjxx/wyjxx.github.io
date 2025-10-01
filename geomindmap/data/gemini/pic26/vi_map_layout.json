@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6026346363792563,
+    "y": 0.7980172272802396
+  },
+  {
+    "entity": "landmarks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0922683594633028,
+    "y": -0.9957341762950345
+  },
+  {
+    "entity": "coastal setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765377,
+    "y": -0.8951632913550626
+  },
+  {
+    "entity": "hillside topography",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296139,
+    "y": -0.5264321628773562
+  },
+  {
+    "entity": "surrounding structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839015,
+    "y": -0.1837495178165718
+  },
+  {
+    "entity": "stucco walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.839621023095189,
+    "y": 0.7847257427829228
+  },
+  {
+    "entity": "terracotta roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.0671106275984568,
+    "y": 1.691530345121372
+  },
+  {
+    "entity": "corner building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.3178458689916001,
+    "y": 1.9745819819812431
+  },
+  {
+    "entity": "bay windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.48239468489755033,
+    "y": 1.9409521807562888
+  },
+  {
+    "entity": "clustered buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.5004443183559861,
+    "y": 1.322371675253686
+  },
+  {
+    "entity": "French flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9861862357068698,
+    "y": 0.2346577019587774
+  },
+  {
+    "entity": "seagull",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastal setting",
+    "x": 0.8914767115530754,
+    "y": -1.7903265827101251
+  },
+  {
+    "entity": "building layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9189859472289945,
+    "y": -0.5634651136828606
+  },
+  {
+    "entity": "Mediterranean style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco walls",
+    "x": 2.7594315346427836,
+    "y": 1.1770886141743842
+  },
+  {
+    "entity": "distinct architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": -2.3160309837597355,
+    "y": -1.9068299563057298
+  },
+  {
+    "entity": "unique building arrangements",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clustered buildings",
+    "x": -2.2506664775339793,
+    "y": 1.983557512880529
+  },
+  {
+    "entity": "old town areas",
+    "type": "i",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": -1.3821403670207506,
+    "y": -2.662646804563411
+  }
+]

@@ -1,0 +1,15 @@
+[
+{"entity":"symmetrical garden","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"distant city","type":"v","granularity":1,"parent":null},
+{"entity":"long vista","type":"v","granularity":1,"parent":null},
+{"entity":"monument","type":"v","granularity":1,"parent":null},
+{"entity":"roundabout","type":"v","granularity":1,"parent":null},
+{"entity":"red bridge","type":"v","granularity":1,"parent":null},
+{"entity":"geometric hedges","type":"v","granularity":2,"parent":"symmetrical garden"},
+{"entity":"dome","type":"v","granularity":2,"parent":"architecture"},
+{"entity":"sloping layout","type":"v","granularity":2,"parent":"symmetrical garden"},
+{"entity":"central axis","type":"v","granularity":2,"parent":"symmetrical garden"},
+{"entity":"basilica","type":"i","granularity":3,"parent":"dome"},
+{"entity":"Marquis of Pombal Monument","type":"i","granularity":3,"parent":"monument"}
+]

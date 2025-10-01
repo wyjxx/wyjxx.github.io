@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Hoyerswerda",
+    "granularity": 4,
+    "parent": "Saxony",
+    "x": 3.0995773815659433,
+    "y": 2.5283631178461707
+  },
+  {
+    "entity": "Saxony",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.3246830361744575,
+    "y": 1.896272338384628
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9828897227476208,
+    "y": 0.26105238444010315
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9828897227476208,
+    "y": -0.26105238444010337
+  },
+  {
+    "entity": "Lausitz",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -0.21401754959769673,
+    "y": 2.9923563438307603
+  },
+  {
+    "entity": "Schwarzkollm",
+    "granularity": 5,
+    "parent": "Hoyerswerda",
+    "x": 4.870508419101537,
+    "y": 1.1305519623002986
+  },
+  {
+    "entity": "Neustadt",
+    "granularity": 5,
+    "parent": "Hoyerswerda",
+    "x": 3.874471726957429,
+    "y": 3.1604538973077134
+  },
+  {
+    "entity": "Weststadt",
+    "granularity": 5,
+    "parent": "Hoyerswerda",
+    "x": 2.0860914701066964,
+    "y": 4.544031511592771
+  },
+  {
+    "entity": "Eastern Saxony",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.3905208138653165,
+    "y": 2.6582798698044074
+  },
+  {
+    "entity": "Neupetershain",
+    "granularity": 4,
+    "parent": "Lausitz",
+    "x": -0.28535673279692897,
+    "y": 3.989808458441014
+  },
+  {
+    "entity": "Herzberg am Harz",
+    "granularity": 4,
+    "parent": "Lower Saxony",
+    "x": -3.9592857675237307,
+    "y": -0.5692593530931432
+  },
+  {
+    "entity": "Lower Saxony",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.969464325642798,
+    "y": -0.4269445148198574
+  },
+  {
+    "entity": "Mittelgebirge",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -0.5852709660483834,
+    "y": -2.9423558412096917
+  },
+  {
+    "entity": "Siegerland",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.23181813480645408,
+    "y": -2.991029981858232
+  },
+  {
+    "entity": "Harz Mountains",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.7546799867019587,
+    "y": -2.433330668911978
+  },
+  {
+    "entity": "Innenstadt",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -3.591183533144171,
+    "y": 3.4789942269676373
+  },
+  {
+    "entity": "Suderode",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -4.596301517908328,
+    "y": 1.9682510908097053
+  },
+  {
+    "entity": "Siebertal",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -4.996066923030483,
+    "y": 0.19828086292106004
+  },
+  {
+    "entity": "Schulstraße",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -4.737828933872075,
+    "y": -1.597803803151251
+  },
+  {
+    "entity": "Sieber",
+    "granularity": 4,
+    "parent": "Harz Mountains",
+    "x": 1.6291205172912726,
+    "y": -3.653213152847862
+  },
+  {
+    "entity": "Osterhagen",
+    "granularity": 4,
+    "parent": "Harz Mountains",
+    "x": 2.9517877316172667,
+    "y": -2.6994349755965215
+  },
+  {
+    "entity": "Southwestern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.764758693450987,
+    "y": -1.164521089112255
+  },
+  {
+    "entity": "Nordstadt",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -3.8555985987269374,
+    "y": -3.1834508705954416
+  },
+  {
+    "entity": "Bismarckstraße",
+    "granularity": 5,
+    "parent": "Herzberg am Harz",
+    "x": -2.4655694282117464,
+    "y": -4.3498238349003975
+  }
+]

@@ -1,0 +1,14 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},  
+{"entity":"Normandy coast","granularity":3,"parent":"Europe"},  
+{"entity":"White Cliffs of Dover","granularity":4,"parent":"United Kingdom"},  
+{"entity":"Dover","granularity":4,"parent":"United Kingdom"},  
+{"entity":"Seven Sisters","granularity":4,"parent":"United Kingdom"},  
+{"entity":"Cuckmere River","granularity":4,"parent":"United Kingdom"},  
+{"entity":"Seaford","granularity":4,"parent":"United Kingdom"},  
+{"entity":"East Dean","granularity":4,"parent":"United Kingdom"},  
+{"entity":"Cuckmere Haven","granularity":5,"parent":"Seven Sisters"},  
+{"entity":"Birling Gap","granularity":5,"parent":"Seven Sisters"},  
+{"entity":"Cuckmere River mouth","granularity":5,"parent":"Cuckmere River"}  
+]

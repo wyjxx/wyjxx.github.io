@@ -1,0 +1,9 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Scandinavia","granularity":2,"parent":"Europe"},  
+  {"entity":"Northern Europe","granularity":2,"parent":"Europe"},  
+  {"entity":"Norway","granularity":2,"parent":"Europe"},  
+  {"entity":"Oslo","granularity":4,"parent":"Norway"},  
+  {"entity":"Majorstuen","granularity":5,"parent":"Oslo"},  
+  {"entity":"Sentrum","granularity":5,"parent":"Oslo"}  
+]

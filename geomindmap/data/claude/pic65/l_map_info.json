@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Zimmerstraße","granularity":5,"parent":"Berlin"},
+{"entity":"Checkpoint Charlie","granularity":5,"parent":"Berlin"},
+{"entity":"East Berlin","granularity":5,"parent":"Berlin"},
+{"entity":"West Berlin","granularity":5,"parent":"Berlin"},
+{"entity":"Mitte","granularity":5,"parent":"Berlin"}
+]

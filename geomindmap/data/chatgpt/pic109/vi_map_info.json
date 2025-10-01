@@ -1,0 +1,16 @@
+[  
+  {"entity":"blue street sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"background building","type":"v","granularity":1,"parent":null},  
+  {"entity":"corner building","type":"v","granularity":1,"parent":null},  
+  {"entity":"Tiefgarage Hauptzollamt Hamburg sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"dark blue lettering","type":"v","granularity":2,"parent":"blue street sign"},  
+  {"entity":"white lettering","type":"v","granularity":2,"parent":"blue street sign"},  
+  {"entity":"ß character","type":"v","granularity":2,"parent":"blue street sign"},  
+  {"entity":"garage entrance","type":"v","granularity":2,"parent":"background building"},  
+  {"entity":"Asian-themed street names","type":"i","granularity":3,"parent":"blue street sign"},  
+  {"entity":"customs office","type":"i","granularity":3,"parent":"Tiefgarage Hauptzollamt Hamburg sign"},  
+  {"entity":"German language","type":"i","granularity":3,"parent":"ß character"},  
+  {"entity":"cluster of new streets","type":"i","granularity":3,"parent":null},  
+  {"entity":"world ports","type":"i","granularity":3,"parent":null},  
+  {"entity":"Asian cities","type":"i","granularity":3,"parent":"blue street sign"}  
+]

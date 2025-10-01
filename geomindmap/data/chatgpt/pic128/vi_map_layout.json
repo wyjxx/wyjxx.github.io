@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "tall aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252085,
+    "y": 0.9659258262890683
+  },
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": 1.6903801710875894,
+    "y": 1.0689316522556023
+  },
+  {
+    "entity": "stone structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": 0.5950061077104055,
+    "y": 1.9094417330170914
+  },
+  {
+    "entity": "pedestrian walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6087614290087209,
+    "y": -0.7933533402912349
+  },
+  {
+    "entity": "green railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian walkway",
+    "x": -1.503679614957955,
+    "y": -1.3186916302001377
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "steel bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236509,
+    "y": -0.9238795325112866
+  },
+  {
+    "entity": "small cupolas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": 0.040274106530880156,
+    "y": 1.9995944579697003
+  },
+  {
+    "entity": "piers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": -0.5176380902050421,
+    "y": 1.9318516525781364
+  },
+  {
+    "entity": "observation platform",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian walkway",
+    "x": -0.8845773804380027,
+    "y": -1.7937454830653765
+  },
+  {
+    "entity": "modern Lisbon buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912349,
+    "y": -0.6087614290087209
+  },
+  {
+    "entity": "guardhouse-like structures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": -1.0346756283553138,
+    "y": 1.7115625446028948
+  },
+  {
+    "entity": "turret-like houses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall aqueduct",
+    "x": -1.470011271192658,
+    "y": 1.356121993983781
+  },
+  {
+    "entity": "railway viaduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9914448613738104,
+    "y": -0.13052619222005168
+  },
+  {
+    "entity": "ticket office",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern Lisbon buildings",
+    "x": 1.3186916302001381,
+    "y": -1.5036796149579543
+  },
+  {
+    "entity": "Water Museum entrance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern Lisbon buildings",
+    "x": 1.7937454830653765,
+    "y": -0.8845773804380028
+  },
+  {
+    "entity": "highway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road",
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pointed arches",
+    "x": 2.9471632122469944,
+    "y": 0.5605613261526144
+  },
+  {
+    "entity": "35 arches",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pointed arches",
+    "x": 2.535570256631384,
+    "y": 1.6033974783834033
+  },
+  {
+    "entity": "65 m height",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pointed arches",
+    "x": 1.7698663200693685,
+    "y": 2.42230741424042
+  },
+  {
+    "entity": "941 m length",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall aqueduct",
+    "x": -2.6839039083154423,
+    "y": 1.3403953935048767
+  },
+  {
+    "entity": "18th century",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall aqueduct",
+    "x": -2.9508597208414313,
+    "y": 0.5407651134417151
+  },
+  {
+    "entity": "1755 earthquake",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall aqueduct",
+    "x": -2.984804505187937,
+    "y": -0.3015660223065521
+  },
+  {
+    "entity": "water supply",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall aqueduct",
+    "x": -2.7830578529824277,
+    "y": -1.1200843659978652
+  }
+]

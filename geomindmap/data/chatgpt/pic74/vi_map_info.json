@@ -1,0 +1,21 @@
+[  
+  {"entity": "flag", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "white stripe", "type": "v", "granularity": 2, "parent": "flag"},  
+  {"entity": "red stripe", "type": "v", "granularity": 2, "parent": "flag"},  
+  {"entity": "bleachers", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "yachts", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "buildings", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "round tower", "type": "v", "granularity": 2, "parent": "fortress"},  
+  {"entity": "hillside", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "pastel houses", "type": "v", "granularity": 2, "parent": "buildings"},  
+  {"entity": "control tower", "type": "v", "granularity": 2, "parent": "buildings"},  
+  {"entity": "swimming pool", "type": "v", "granularity": 2, "parent": "buildings"},  
+  {"entity": "people", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "fortress", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "villas", "type": "v", "granularity": 2, "parent": "buildings"},  
+  {"entity": "track", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "camera reversal", "type": "i", "granularity": 3, "parent": "flag"},  
+  {"entity": "Monaco Grand Prix", "type": "i", "granularity": 3, "parent": "track"},  
+  {"entity": "track walk day", "type": "i", "granularity": 3, "parent": "track"},  
+  {"entity": "Formula 1 circuit", "type": "i", "granularity": 3, "parent": "track"}  
+]

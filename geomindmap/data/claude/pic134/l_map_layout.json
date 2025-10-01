@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Attica region",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Athens metropolitan area",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": 2.8284271247461903,
+    "y": 2.82842712474619
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": -2.82842712474619,
+    "y": 2.8284271247461903
+  },
+  {
+    "entity": "Agia Paraskevi",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": -2.8284271247461907,
+    "y": -2.82842712474619
+  },
+  {
+    "entity": "Attiki Odos",
+    "granularity": 5,
+    "parent": "Attica region",
+    "x": 3.535533905932737,
+    "y": -3.5355339059327386
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "architectural styles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9685831611286311,
+    "y": 0.2486898871648548
+  },
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3090169943749473,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "railway line",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789969,
+    "y": 0.844327925502015
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9921147013144778,
+    "y": 0.12533323356430454
+  },
+  {
+    "entity": "man-made elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438637,
+    "y": -0.481753674101715
+  },
+  {
+    "entity": "natural elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789971,
+    "y": -0.8443279255020149
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 2,
+    "parent": "natural elements",
+    "x": -1.369094211857378,
+    "y": -1.4579372548428227
+  },
+  {
+    "entity": "viewpoints",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5358267949789968,
+    "y": -0.844327925502015
+  },
+  {
+    "entity": "Alpine environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9921147013144778,
+    "y": -0.12533323356430465
+  },
+  {
+    "entity": "traffic sign design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": 1.2091982297247494,
+    "y": 1.5930598360483927
+  },
+  {
+    "entity": "train sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": 0.6180339887498946,
+    "y": 1.9021130325903073
+  },
+  {
+    "entity": "German signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -0.041884839766714296,
+    "y": 1.999561366949691
+  },
+  {
+    "entity": "railway sign design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway line",
+    "x": -0.7362491053693564,
+    "y": 1.8595529717765027
+  },
+  {
+    "entity": "level crossing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway line",
+    "x": -1.3690942118573775,
+    "y": 1.4579372548428229
+  },
+  {
+    "entity": "wooden building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.7914235204788258,
+    "y": 0.8892703583698547
+  },
+  {
+    "entity": "church steeple",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9842294026289555,
+    "y": 0.25066646712860907
+  },
+  {
+    "entity": "church tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9562952014676112,
+    "y": -0.415823381635519
+  },
+  {
+    "entity": "street views",
+    "type": "v",
+    "granularity": 2,
+    "parent": "viewpoints",
+    "x": -0.0753803653398683,
+    "y": -1.9985789452811786
+  },
+  {
+    "entity": "angle of the sun",
+    "type": "v",
+    "granularity": 2,
+    "parent": "viewpoints",
+    "x": 0.5216830125797927,
+    "y": -1.930763277666548
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "viewpoints",
+    "x": 1.3131715115059124,
+    "y": -1.5085027614722082
+  },
+  {
+    "entity": "shadow angles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "shadows",
+    "x": 1.9697572672588686,
+    "y": -2.2627541422083124
+  },
+  {
+    "entity": "photo's perspective",
+    "type": "v",
+    "granularity": 3,
+    "parent": "viewpoints",
+    "x": 2.760695542097611,
+    "y": -1.1741210005116074
+  },
+  {
+    "entity": "mountain peaks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "natural elements",
+    "x": -0.7362491053693572,
+    "y": -1.8595529717765023
+  },
+  {
+    "entity": "Alpine architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural styles",
+    "x": 2.9057494833858932,
+    "y": 0.7460696614945643
+  }
+]

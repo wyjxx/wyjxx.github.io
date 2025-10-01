@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "stone monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9189578116202306,
+    "y": 0.39435585511331855
+  },
+  {
+    "entity": "stone sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6121059825476628,
+    "y": 0.7907757369376986
+  },
+  {
+    "entity": "relief carving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone monument",
+    "x": 1.9817697363164777,
+    "y": 0.26942292445172195
+  },
+  {
+    "entity": "suspension bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.25065253225872036,
+    "y": 0.9680771188662044
+  },
+  {
+    "entity": "marina",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.15142777750457678,
+    "y": 0.9884683243281114
+  },
+  {
+    "entity": "sailboat",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448204,
+    "y": 0.9377521321470804
+  },
+  {
+    "entity": "yacht",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5289640103269625,
+    "y": 0.8486442574947509
+  },
+  {
+    "entity": "palm tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8743466161445821,
+    "y": 0.48530196253108104
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "urban layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9795299412524945,
+    "y": -0.20129852008865992
+  },
+  {
+    "entity": "lamp post",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9189578116202307,
+    "y": -0.3943558551133184
+  },
+  {
+    "entity": "car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8207634412072765,
+    "y": -0.5712682150947921
+  },
+  {
+    "entity": "road infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6889669190756867,
+    "y": -0.7247927872291198
+  },
+  {
+    "entity": "water body",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448206,
+    "y": -0.9377521321470803
+  },
+  {
+    "entity": "hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.050649168838712295,
+    "y": -0.9987165071710529
+  },
+  {
+    "entity": "elevated terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.250652532258721,
+    "y": -0.9680771188662042
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6889669190756865,
+    "y": -0.72479278722912
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9541392564000487,
+    "y": -0.29936312297335854
+  },
+  {
+    "entity": "clear sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9948693233918952,
+    "y": -0.10116832198743196
+  },
+  {
+    "entity": "river",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": -1.455905887593242,
+    "y": -2.6230398484337467
+  },
+  {
+    "entity": "estuary",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": -0.6038955602659807,
+    "y": -2.9385898237574835
+  },
+  {
+    "entity": "morning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 1.411396441808265,
+    "y": -2.6472551981346584
+  },
+  {
+    "entity": "evening",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.0669007572270597,
+    "y": -2.17437836168736
+  },
+  {
+    "entity": "golden hour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.572371408391951,
+    "y": -1.54366620008589
+  },
+  {
+    "entity": "red color",
+    "type": "i",
+    "granularity": 3,
+    "parent": "suspension bridge",
+    "x": 1.1830675653399556,
+    "y": 2.756873434860692
+  },
+  {
+    "entity": "orange color",
+    "type": "i",
+    "granularity": 3,
+    "parent": "suspension bridge",
+    "x": 0.30350496596229604,
+    "y": 2.9846079701756856
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm tree",
+    "x": -2.1391593348936606,
+    "y": 2.103330059676158
+  },
+  {
+    "entity": "subtropical climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm tree",
+    "x": -2.6230398484337467,
+    "y": 1.455905887593242
+  },
+  {
+    "entity": "warm climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm tree",
+    "x": -2.916517277273972,
+    "y": 0.7027993820162461
+  },
+  {
+    "entity": "maritime theme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone monument",
+    "x": 2.756873434860692,
+    "y": 1.1830675653399556
+  },
+  {
+    "entity": "exploration heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone monument",
+    "x": 2.3409743728562757,
+    "y": 1.8761233929649106
+  }
+]

@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},
+{"entity":"Neustadt an der Aisch-Bad Windsheim district","granularity":3,"parent":"Germany"},
+{"entity":"Rothenburg ob der Tauber","granularity":4,"parent":"Neustadt an der Aisch-Bad Windsheim district"},
+{"entity":"Plönlein","granularity":5,"parent":"Rothenburg ob der Tauber"},
+{"entity":"Altstadt","granularity":5,"parent":"Rothenburg ob der Tauber"}
+]

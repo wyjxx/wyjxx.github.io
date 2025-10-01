@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Athens Center",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -2.7094579028737598,
+    "y": -4.202242005472189
+  },
+  {
+    "entity": "Katechaki Ave",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 2.4288169685816983,
+    "y": -4.370451708133795
+  },
+  {
+    "entity": "Elefsina",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": 3.743623707029303,
+    "y": 1.409000191684934
+  },
+  {
+    "entity": "Markopoulo",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": 1.8855869473039912,
+    "y": 3.5276850573934198
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9318516525781364,
+    "y": 0.517638090205042
+  },
+  {
+    "entity": "Attiki Odos",
+    "granularity": 5,
+    "parent": "Attica region",
+    "x": -1.1353813151718657,
+    "y": 4.869384896386668
+  },
+  {
+    "entity": "Attica region",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": -2.8977774788672046,
+    "y": 0.7764571353075631
+  },
+  {
+    "entity": "Glyka Nera",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": -3.2513867383664605,
+    "y": 2.3299107874712086
+  },
+  {
+    "entity": "Gerakas",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": -3.9807389066887877,
+    "y": -0.3920685613182406
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Attica region",
+    "x": -0.13087633128710605,
+    "y": -3.9978583499054627
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890682,
+    "y": 0.258819045102521
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  }
+]

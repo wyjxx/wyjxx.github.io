@@ -1,0 +1,23 @@
+[
+{"entity":"railway tracks","type":"v","granularity":1,"parent":null},
+{"entity":"overhead power lines","type":"v","granularity":1,"parent":null},
+{"entity":"warning sign","type":"v","granularity":1,"parent":null},
+{"entity":"circular prohibition sign","type":"v","granularity":1,"parent":null},
+{"entity":"European-style houses","type":"v","granularity":1,"parent":null},
+{"entity":"deciduous trees","type":"v","granularity":1,"parent":null},
+{"entity":"mountains","type":"v","granularity":1,"parent":null},
+{"entity":"flat terrain","type":"v","granularity":1,"parent":null},
+{"entity":"train symbol","type":"v","granularity":2,"parent":"warning sign"},
+{"entity":"Zugverkehr beachten! text","type":"v","granularity":2,"parent":"warning sign"},
+{"entity":"Central European architecture","type":"i","granularity":3,"parent":"European-style houses"},
+{"entity":"narrow gauge railway","type":"i","granularity":3,"parent":"railway tracks"},
+{"entity":"light rail system","type":"i","granularity":3,"parent":"railway tracks"},
+{"entity":"temperate climate","type":"i","granularity":3,"parent":"deciduous trees"},
+{"entity":"German-speaking country","type":"i","granularity":3,"parent":"Zugverkehr beachten! text"},
+{"entity":"regional rail line","type":"i","granularity":3,"parent":"railway tracks"},
+{"entity":"tourist rail area","type":"i","granularity":3,"parent":"mountains"},
+{"entity":"commuter rail area","type":"i","granularity":3,"parent":"railway tracks"},
+{"entity":"alpine transportation networks","type":"i","granularity":3,"parent":"mountains"},
+{"entity":"local rail lines","type":"i","granularity":3,"parent":"railway tracks"},
+{"entity":"modern infrastructure","type":"i","granularity":3,"parent":"overhead power lines"}
+]

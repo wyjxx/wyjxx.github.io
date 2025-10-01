@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "coastal city",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.33487961217098605,
+    "y": 0.9422609221188205
+  },
+  {
+    "entity": "dawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8544194045464886,
+    "y": 0.5195839500354335
+  },
+  {
+    "entity": "dusk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9629172873477992,
+    "y": 0.2697967711570243
+  },
+  {
+    "entity": "unique architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "distinctive landmarks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7757112907044198,
+    "y": -0.6310879443260528
+  },
+  {
+    "entity": "Sagrada Família",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20345601305263367,
+    "y": -0.9790840876823229
+  },
+  {
+    "entity": "Hotel Arts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.0682424133646701,
+    "y": -0.9976687691905393
+  },
+  {
+    "entity": "Torre Mapfre",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.33487961217098605,
+    "y": -0.9422609221188205
+  },
+  {
+    "entity": "W Barcelona",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5766803221148662,
+    "y": -0.8169698930104426
+  },
+  {
+    "entity": "coastal buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7757112907044196,
+    "y": -0.6310879443260531
+  },
+  {
+    "entity": "foreground elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9172113015054525,
+    "y": -0.39840108984624273
+  },
+  {
+    "entity": "surrounding terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9906859460363306,
+    "y": -0.1361666490962472
+  },
+  {
+    "entity": "grid pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastal city",
+    "x": 1.9062895336283217,
+    "y": 0.6050291017621516
+  },
+  {
+    "entity": "coastline view",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastal city",
+    "x": 0.06828222037193565,
+    "y": 1.998834044732348
+  },
+  {
+    "entity": "angle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastline view",
+    "x": 1.1082995665043496,
+    "y": 1.6648339469407365
+  },
+  {
+    "entity": "height",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastline view",
+    "x": 0.06828222037193521,
+    "y": 1.998834044732348
+  },
+  {
+    "entity": "identity verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "distinctive landmarks",
+    "x": -2.8489190967009583,
+    "y": -0.9400319039546455
+  },
+  {
+    "entity": "additional verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grid pattern",
+    "x": 2.8594343004424827,
+    "y": 0.9075436526432274
+  },
+  {
+    "entity": "view comparison",
+    "type": "i",
+    "granularity": 3,
+    "parent": "coastline view",
+    "x": -0.9853099050130681,
+    "y": 2.833578019233481
+  },
+  {
+    "entity": "alignment analysis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "distinctive landmarks",
+    "x": -2.3271338721132606,
+    "y": -1.8932638329781573
+  },
+  {
+    "entity": "perspective analysis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "coastline view",
+    "x": -1.940542955641762,
+    "y": 2.2878577397445703
+  },
+  {
+    "entity": "vantage point assessment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "angle",
+    "x": 1.6624493497565243,
+    "y": 2.497250920411105
+  },
+  {
+    "entity": "location confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "distinctive landmarks",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  }
+]

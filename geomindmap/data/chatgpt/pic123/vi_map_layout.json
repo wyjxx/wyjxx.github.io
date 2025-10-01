@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "brasserie",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9766205557100867,
+    "y": 0.21497044021102407
+  },
+  {
+    "entity": "Smurf statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7259954919231308,
+    "y": 0.6876994588534233
+  },
+  {
+    "entity": "menus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.054138908585417485,
+    "y": 0.9985334138511238
+  },
+  {
+    "entity": "art",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7259954919231308,
+    "y": 0.6876994588534233
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9476531711828025,
+    "y": 0.3193015301359798
+  },
+  {
+    "entity": "covered gallery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9476531711828023,
+    "y": -0.3193015301359804
+  },
+  {
+    "entity": "mosaic floors",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4684084406997899,
+    "y": -0.883512044446023
+  },
+  {
+    "entity": "iron-and-glass architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.267528338529221,
+    "y": -0.9635499925192229
+  },
+  {
+    "entity": "comic-themed décor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675897,
+    "y": -0.515553857177021
+  },
+  {
+    "entity": "cartoon chef illustration",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menus",
+    "x": 0.689692605255941,
+    "y": 1.877318329494301
+  },
+  {
+    "entity": "French text menu",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menus",
+    "x": 0.16231745105486295,
+    "y": 1.9934023791204454
+  },
+  {
+    "entity": "mosaic tile flooring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mosaic floors",
+    "x": -1.2103484303875296,
+    "y": -1.592186131411288
+  },
+  {
+    "entity": "Paris metro flooring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mosaic floors",
+    "x": -0.6386030602719597,
+    "y": -1.895306342365605
+  },
+  {
+    "entity": "iron gates",
+    "type": "v",
+    "granularity": 2,
+    "parent": "iron-and-glass architecture",
+    "x": -0.03610829850112023,
+    "y": -1.9996740211292825
+  },
+  {
+    "entity": "menu \"HORTA\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menus",
+    "x": -0.37689064775663594,
+    "y": 1.9641673654843121
+  },
+  {
+    "entity": "gallery entry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "covered gallery",
+    "x": -1.998696190779354,
+    "y": -0.07220482645987322
+  },
+  {
+    "entity": "sign \"Brasserie\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.895306342365605,
+    "y": 0.6386030602719596
+  },
+  {
+    "entity": "Smurf tributes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "comic-themed décor",
+    "x": 1.5243241102552731,
+    "y": -1.294772569563655
+  },
+  {
+    "entity": "French menus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "menus",
+    "x": -1.332935119061709,
+    "y": 2.6876167822760646
+  },
+  {
+    "entity": "Montmartre vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art",
+    "x": -2.1779864757693925,
+    "y": 2.06309837656027
+  },
+  {
+    "entity": "Parisian arcades",
+    "type": "i",
+    "granularity": 3,
+    "parent": "covered gallery",
+    "x": -2.8429595135484074,
+    "y": -0.9579045904079398
+  },
+  {
+    "entity": "comic-art heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "comic-themed décor",
+    "x": 2.7869301594503755,
+    "y": -1.110414466019741
+  },
+  {
+    "entity": "creative vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brasserie",
+    "x": 2.92986166713026,
+    "y": 0.6449113206330722
+  },
+  {
+    "entity": "Art Nouveau style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "iron-and-glass architecture",
+    "x": 0.8025850155876603,
+    "y": -2.8906499775576693
+  },
+  {
+    "entity": "designed by Victor Horta",
+    "type": "i",
+    "granularity": 3,
+    "parent": "iron-and-glass architecture",
+    "x": 1.5928189640696604,
+    "y": -2.5422288936482595
+  },
+  {
+    "entity": "Belgian comic-strip creation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 2.4830669944706716,
+    "y": 1.683561196087147
+  },
+  {
+    "entity": "Smurfs by Peyo",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 1.8155226455812954,
+    "y": 2.3882791971169315
+  },
+  {
+    "entity": "Art Nouveau gallery",
+    "type": "i",
+    "granularity": 3,
+    "parent": "covered gallery",
+    "x": -2.452267015676676,
+    "y": -1.7281164555157185
+  },
+  {
+    "entity": "museum distinction",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9824138714630792,
+    "y": -0.3243570552718222
+  }
+]

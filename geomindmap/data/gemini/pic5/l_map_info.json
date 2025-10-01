@@ -1,0 +1,15 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Austria","granularity":2,"parent":"Europe"},  
+  {"entity":"Central Europe","granularity":2,"parent":"Europe"},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Alps","granularity":2,"parent":"Europe"},  
+  {"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+  {"entity":"Loisach river","granularity":3,"parent":"Germany"},  
+  {"entity":"Herzogstand massif","granularity":4,"parent":"Alps"},  
+  {"entity":"Kochel am See","granularity":4,"parent":"Bavaria"},  
+  {"entity":"Kochelsee","granularity":4,"parent":"Bavaria"},  
+  {"entity":"Schlehdorf","granularity":4,"parent":"Bavaria"},  
+  {"entity":"Altjoch","granularity":5,"parent":"Kochel am See"},  
+  {"entity":"Vogelfreistätte Kochelsee-Moore","granularity":5,"parent":"Kochelsee"}  
+]

@@ -1,0 +1,20 @@
+[
+{"entity":"railway station","type":"v","granularity":1,"parent":null},
+{"entity":"train","type":"v","granularity":1,"parent":null},
+{"entity":"station sign \"GRUBE\"","type":"v","granularity":1,"parent":null},
+{"entity":"platform","type":"v","granularity":1,"parent":null},
+{"entity":"white livery","type":"v","granularity":2,"parent":"train"},
+{"entity":"silver metallic livery","type":"v","granularity":2,"parent":"train"},
+{"entity":"red stripes","type":"v","granularity":2,"parent":"train"},
+{"entity":"glass roof","type":"v","granularity":2,"parent":"railway station"},
+{"entity":"steel framework","type":"v","granularity":2,"parent":"railway station"},
+{"entity":"paving stones","type":"v","granularity":2,"parent":"platform"},
+{"entity":"bricks","type":"v","granularity":2,"parent":"platform"},
+{"entity":"architectural style","type":"v","granularity":2,"parent":"railway station"},
+{"entity":"modern European station design","type":"i","granularity":3,"parent":"architectural style"},
+{"entity":"German word","type":"i","granularity":3,"parent":"station sign \"GRUBE\""},
+{"entity":"pit","type":"i","granularity":3,"parent":"station sign \"GRUBE\""},
+{"entity":"mine","type":"i","granularity":3,"parent":"station sign \"GRUBE\""},
+{"entity":"InterCity Express","type":"i","granularity":3,"parent":"train"},
+{"entity":"high-speed train","type":"i","granularity":3,"parent":"train"}
+]

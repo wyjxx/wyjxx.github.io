@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "#MOIN sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "sculptural installations",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684142945,
+    "y": 0.9594929736144975
+  },
+  {
+    "entity": "monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542582,
+    "y": 0.6548607339452852
+  },
+  {
+    "entity": "urban park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "paved paths",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809328,
+    "y": -0.14231483827328492
+  },
+  {
+    "entity": "European-style street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311814,
+    "y": -0.5406408174555972
+  },
+  {
+    "entity": "lamp posts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style street furniture",
+    "x": -1.6825070656623629,
+    "y": -1.0812816349111944
+  },
+  {
+    "entity": "lush deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14231483827328523,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "green space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555971,
+    "y": -0.8412535328311814
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542578,
+    "y": -0.6548607339452855
+  },
+  {
+    "entity": "formal park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.909631995354518,
+    "y": -0.4154150130018872
+  },
+  {
+    "entity": "public space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809326,
+    "y": -0.14231483827328617
+  },
+  {
+    "entity": "hashtag format",
+    "type": "v",
+    "granularity": 2,
+    "parent": "#MOIN sign",
+    "x": 1.8836887272790495,
+    "y": 0.6720987864308602
+  },
+  {
+    "entity": "Moin greeting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "#MOIN sign",
+    "x": 1.9645822018358552,
+    "y": 2.267248723062775
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lush deciduous trees",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lush deciduous trees",
+    "x": -0.4269445148198557,
+    "y": -2.969464325642798
+  },
+  {
+    "entity": "summer",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lush deciduous trees",
+    "x": 0.7072768065282824,
+    "y": -2.915434704970625
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "#MOIN sign",
+    "x": 1.0884231160519229,
+    "y": 2.795592087634357
+  },
+  {
+    "entity": "city landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "#MOIN sign",
+    "x": 0.08566815238108944,
+    "y": 2.9987765784845677
+  },
+  {
+    "entity": "recent installation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hashtag format",
+    "x": 2.825533090918574,
+    "y": 1.0081481796462903
+  },
+  {
+    "entity": "tourism infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban park",
+    "x": -2.878478920843492,
+    "y": 0.845197670524289
+  }
+]

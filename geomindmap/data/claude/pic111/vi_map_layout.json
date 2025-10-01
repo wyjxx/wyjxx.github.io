@@ -1,0 +1,274 @@
+[
+  {
+    "entity": "underground subway station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.36124166618715303,
+    "y": 0.9324722294043558
+  },
+  {
+    "entity": "concrete walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8951632913550621,
+    "y": 0.4457383557765388
+  },
+  {
+    "entity": "arched ceilings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9957341762950345,
+    "y": 0.09226835946330274
+  },
+  {
+    "entity": "text on wall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043559,
+    "y": -0.3612416661871527
+  },
+  {
+    "entity": "partial sign 'LORENZ K...'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "text on wall",
+    "x": -1.8649444588087118,
+    "y": -0.7224833323743054
+  },
+  {
+    "entity": "circular decorative relief",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3612416661871538,
+    "y": -0.9324722294043555
+  },
+  {
+    "entity": "medallion",
+    "type": "v",
+    "granularity": 2,
+    "parent": "circular decorative relief",
+    "x": -1.1302728288451849,
+    "y": -1.649994949196604
+  },
+  {
+    "entity": "flower-like pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "circular decorative relief",
+    "x": -0.5027476690222065,
+    "y": -1.9357801479746448
+  },
+  {
+    "entity": "sun-like pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "circular decorative relief",
+    "x": -0.04619578330600554,
+    "y": -1.9994664162232745
+  },
+  {
+    "entity": "fluorescent lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18374951781656962,
+    "y": -0.9829730996839019
+  },
+  {
+    "entity": "LED strip lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3612416661871534,
+    "y": -0.9324722294043556
+  },
+  {
+    "entity": "trash bins",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5264321628773558,
+    "y": -0.8502171357296141
+  },
+  {
+    "entity": "equipment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6736956436465581,
+    "y": -0.7390089172206583
+  },
+  {
+    "entity": "adult",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7980172272802399,
+    "y": -0.6026346363792559
+  },
+  {
+    "entity": "child",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8951632913550632,
+    "y": -0.44573835577653653
+  },
+  {
+    "entity": "textured concrete surfaces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete walls",
+    "x": -1.649994949196604,
+    "y": 1.1302728288451849
+  },
+  {
+    "entity": "German subway system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 2.9849826010599196,
+    "y": 0.29979805097691453
+  },
+  {
+    "entity": "Eastern European metro",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 2.86574399339724,
+    "y": 0.8874183705038112
+  },
+  {
+    "entity": "European metro architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 2.6320299031742804,
+    "y": 1.439589729331377
+  },
+  {
+    "entity": "brutalist style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "concrete walls",
+    "x": -2.844481942772897,
+    "y": 0.9533742587457064
+  },
+  {
+    "entity": "utilitarian style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 2.2931763120143307,
+    "y": 1.9342549992222726
+  },
+  {
+    "entity": "transit infrastructure 1970s-1980s",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 1.862719121398714,
+    "y": 2.3516541996593805
+  },
+  {
+    "entity": "Nuremberg U-Bahn",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 1.357853445312072,
+    "y": 2.675113833288994
+  },
+  {
+    "entity": "Berlin subway network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 0.7987467313810239,
+    "y": 2.8917129281981175
+  },
+  {
+    "entity": "Munich subway network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": 0.20773314868257653,
+    "y": 2.9927991811911507
+  },
+  {
+    "entity": "Hamburg subway network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": -0.39157857666015283,
+    "y": 2.9743345841214315
+  },
+  {
+    "entity": "Cologne subway network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": -0.9752482395483435,
+    "y": 2.837056726831146
+  },
+  {
+    "entity": "Frankfurt subway network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": -1.5199604752917555,
+    "y": 2.5864493332657537
+  },
+  {
+    "entity": "station naming conventions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "partial sign 'LORENZ K...'",
+    "x": -2.9489192990517057,
+    "y": -0.5512485534497091
+  },
+  {
+    "entity": "artistic integration",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medallion",
+    "x": -1.6954092432677772,
+    "y": -2.474992423794906
+  },
+  {
+    "entity": "mid-20th-century aesthetics",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground subway station",
+    "x": -2.0039561190149198,
+    "y": 2.232523207732153
+  },
+  {
+    "entity": "Altstadt historic district",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8854769295184584,
+    "y": -0.8209889702162445
+  },
+  {
+    "entity": "medieval core",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9872025288851045,
+    "y": -0.276805078389898
+  },
+  {
+    "entity": "Lorenzkirche station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "partial sign 'LORENZ K...'",
+    "x": -2.550651407188843,
+    "y": -1.5792964886320666
+  }
+]

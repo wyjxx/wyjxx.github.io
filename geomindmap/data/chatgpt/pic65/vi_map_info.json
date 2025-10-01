@@ -1,0 +1,11 @@
+[
+{"entity":"WELT balloon","type":"v","granularity":1,"parent":null},
+{"entity":"yellow Trabant car","type":"v","granularity":1,"parent":null},
+{"entity":"Zimmerstraße sign","type":"v","granularity":1,"parent":null},
+{"entity":"Trabant on roof","type":"v","granularity":1,"parent":null},
+{"entity":"famous attraction","type":"i","granularity":3,"parent":"WELT balloon"},
+{"entity":"panoramic rides","type":"i","granularity":3,"parent":"WELT balloon"},
+{"entity":"street","type":"i","granularity":3,"parent":"Zimmerstraße sign"},
+{"entity":"neighborhood","type":"i","granularity":3,"parent":null},
+{"entity":"junction","type":"i","granularity":3,"parent":"Zimmerstraße sign"}
+]

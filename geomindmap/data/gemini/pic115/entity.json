@@ -1,0 +1,22 @@
+[
+{"entity":"Germany","type":"l"},
+{"entity":"Bavaria","type":"l"},
+{"entity":"Neustadt an der Aisch-Bad Windsheim district","type":"l"},
+{"entity":"Rothenburg ob der Tauber","type":"l"},
+{"entity":"Plönlein","type":"l"},
+{"entity":"Altstadt","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"half-timbered building","type":"v"},
+{"entity":"towers","type":"v"},
+{"entity":"Gasthof sign","type":"v"},
+{"entity":"Chocolaterie sign","type":"v"},
+{"entity":"Volkswagen Golf","type":"v"},
+{"entity":"NEA license plate","type":"v"},
+{"entity":"German style","type":"i"},
+{"entity":"French influence","type":"i"},
+{"entity":"German inn","type":"i"},
+{"entity":"French word","type":"i"},
+{"entity":"border region","type":"i"},
+{"entity":"license plate inference","type":"i"},
+{"entity":"medieval town","type":"i"}
+]

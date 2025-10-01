@@ -1,0 +1,236 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "WELT balloon",
+        "German translation"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Germany",
+            "status": 2,
+            "related_clue": [
+                "WELT balloon",
+                "German translation"
+            ]
+        }
+    ]
+},{
+    "paragraph": 2,
+    "clue": [
+        "Berlin ♥ You sign",
+        "Deutsche Post logo",
+        "yellow car",
+        "WELT balloon",
+        "LANDING LOUNGE sign"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Berlin",
+            "status": 3,
+            "related_clue": [
+                "Berlin ♥ You sign",
+                "Deutsche Post logo",
+                "yellow car",
+                "WELT balloon",
+                "LANDING LOUNGE sign"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": [
+                "Berlin ♥ You sign",
+                "Deutsche Post logo",
+                "yellow car",
+                "WELT balloon",
+                "LANDING LOUNGE sign"
+            ]
+        },
+        {
+            "loc": "Zimmerstraße",
+            "status": 2,
+            "related_clue": []
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "WELT balloon",
+        "Zimmerstraße sign",
+        "Berlin ♥ You sign",
+        "yellow kiosk",
+        "Trabant-like car",
+        "Deutsche Post logo",
+        "architectural analysis"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Berlin",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "Zimmerstraße sign",
+                "Berlin ♥ You sign",
+                "yellow kiosk",
+                "Trabant-like car",
+                "Deutsche Post logo"
+            ]
+        },
+        {
+            "loc": "Zimmerstraße",
+            "status": 2,
+            "related_clue": [
+                "Zimmerstraße sign",
+                "architectural analysis"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "WELT balloon",
+        "buildings"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Zimmerstraße",
+            "status": 2,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [
+        "WELT balloon",
+        "yellow kiosk",
+        "buildings",
+        "LANDING LOUNGE sign",
+        "architecture"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Zimmerstraße",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "yellow kiosk",
+                "buildings"
+            ]
+        },
+        {
+            "loc": "Berlin",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "yellow kiosk",
+                "buildings",
+                "LANDING LOUNGE sign",
+                "architecture"
+            ]
+        },
+        {
+            "loc": "Checkpoint Charlie",
+            "status": 3,
+            "related_clue": [
+                "buildings",
+                "architecture"
+            ]
+        },
+        {
+            "loc": "Mitte",
+            "status": 3,
+            "related_clue": [
+                "buildings",
+                "architecture"
+            ]
+        },
+        {
+            "loc": "Wilhelmstraße",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "yellow kiosk",
+                "buildings"
+            ]
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [
+        "Berlin ♥ You sign",
+        "LANDING LOUNGE sign",
+        "WELT balloon",
+        "buildings"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Zimmerstraße",
+            "status": 3,
+            "related_clue": [
+                "Berlin ♥ You sign",
+                "LANDING LOUNGE sign",
+                "WELT balloon"
+            ]
+        },
+        {
+            "loc": "Wilhelmstraße",
+            "status": 3,
+            "related_clue": [
+                "Berlin ♥ You sign",
+                "LANDING LOUNGE sign",
+                "WELT balloon"
+            ]
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [
+        "WELT balloon",
+        "buildings"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Zimmerstraße",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        },
+        {
+            "loc": "Berlin",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        },
+        {
+            "loc": "Mitte",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "WELT balloon",
+                "buildings"
+            ]
+        }
+    ]
+}]

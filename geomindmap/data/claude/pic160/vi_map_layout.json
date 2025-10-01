@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "billboard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9795299412524945,
+    "y": 0.20129852008866006
+  },
+  {
+    "entity": "bus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8743466161445821,
+    "y": 0.48530196253108104
+  },
+  {
+    "entity": "civic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7587581226927909,
+    "y": 0.6513724827222221
+  },
+  {
+    "entity": "cultural building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5289640103269624,
+    "y": 0.8486442574947509
+  },
+  {
+    "entity": "historic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.25065253225872053,
+    "y": 0.9680771188662043
+  },
+  {
+    "entity": "red sandstone building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448204,
+    "y": 0.9377521321470804
+  },
+  {
+    "entity": "modern road infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8743466161445821,
+    "y": 0.48530196253108104
+  },
+  {
+    "entity": "municipal signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9189578116202307,
+    "y": -0.3943558551133184
+  },
+  {
+    "entity": "red flags",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2506525322587205,
+    "y": -0.9680771188662043
+  },
+  {
+    "entity": "European-style car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.050649168838712295,
+    "y": -0.9987165071710529
+  },
+  {
+    "entity": "utility poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.250652532258721,
+    "y": -0.9680771188662042
+  },
+  {
+    "entity": "urban layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8207634412072763,
+    "y": -0.5712682150947924
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red sandstone building",
+    "x": -0.2023366439748642,
+    "y": 1.9897386467837903
+  },
+  {
+    "entity": "German text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "billboard",
+    "x": 1.959059882504989,
+    "y": 0.4025970401773201
+  },
+  {
+    "entity": "municipal symbol",
+    "type": "v",
+    "granularity": 2,
+    "parent": "municipal signage",
+    "x": -1.9655801018817158,
+    "y": 0.36945211203437894
+  },
+  {
+    "entity": "coat of arms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red flags",
+    "x": -0.501305064517441,
+    "y": -1.9361542377324086
+  },
+  {
+    "entity": "ornate details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red sandstone building",
+    "x": -0.9259932882102423,
+    "y": 1.772720065376816
+  },
+  {
+    "entity": "restoration scaffolding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red sandstone building",
+    "x": -1.3407696879125572,
+    "y": 1.4840271709018213
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern road infrastructure",
+    "x": -1.7486932322891642,
+    "y": 0.9706039250621621
+  },
+  {
+    "entity": "sign 'Johannes Gutenberg'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "municipal signage",
+    "x": -1.7320508075688772,
+    "y": -1.0000000000000002
+  },
+  {
+    "entity": "born in Mainz",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign 'Johannes Gutenberg'",
+    "x": -2.9903501764547045,
+    "y": -0.24042841383105326
+  },
+  {
+    "entity": "city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban layout",
+    "x": 1.3754983739300601,
+    "y": -2.666084061562156
+  },
+  {
+    "entity": "cultural heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cultural building",
+    "x": 1.5868920309808872,
+    "y": 2.5459327724842526
+  },
+  {
+    "entity": "entry point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban layout",
+    "x": 1.977084859946795,
+    "y": -2.256354461641424
+  },
+  {
+    "entity": "German civic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": -0.3035049659622963,
+    "y": 2.9846079701756856
+  },
+  {
+    "entity": "Gutenberg City",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign 'Johannes Gutenberg'",
+    "x": -2.7906332306466766,
+    "y": -1.1010750074406803
+  },
+  {
+    "entity": "printing press inventor",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign 'Johannes Gutenberg'",
+    "x": -2.348875543239106,
+    "y": -1.866221766664721
+  },
+  {
+    "entity": "Johannes Gutenberg",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign 'Johannes Gutenberg'",
+    "x": -1.7033922023966417,
+    "y": -2.469505012105527
+  },
+  {
+    "entity": "historic district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban layout",
+    "x": 2.46229032362183,
+    "y": -1.713804645284375
+  },
+  {
+    "entity": "main thoroughfare",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban layout",
+    "x": 2.802553164463311,
+    "y": -1.0703717860429065
+  },
+  {
+    "entity": "municipal approach",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban layout",
+    "x": 2.9778438237586786,
+    "y": -0.36393153381136145
+  }
+]

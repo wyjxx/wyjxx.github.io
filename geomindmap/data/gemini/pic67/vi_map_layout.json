@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "distinctive hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9730448705798238,
+    "y": 0.23061587074244014
+  },
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5971585917027863,
+    "y": 0.8021231927550437
+  },
+  {
+    "entity": "landscape features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05814482891047555,
+    "y": 0.9983081582712682
+  },
+  {
+    "entity": "foreground structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8936326403234122,
+    "y": 0.44879918020046233
+  },
+  {
+    "entity": "rooftops",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8354878114129367,
+    "y": -0.5495089780708056
+  },
+  {
+    "entity": "adjacent buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693033,
+    "y": -0.984807753012208
+  },
+  {
+    "entity": "rocky cliff face",
+    "type": "v",
+    "granularity": 2,
+    "parent": "distinctive hill",
+    "x": 1.9460897411596476,
+    "y": 0.4612317414848803
+  },
+  {
+    "entity": "foreground architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.6042463855100877,
+    "y": 1.1943171834055724
+  },
+  {
+    "entity": "building arrangements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.9159790246309776,
+    "y": 0.5736064654221812
+  },
+  {
+    "entity": "roofline details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.9735230642251584,
+    "y": -0.3243558462111345
+  },
+  {
+    "entity": "building materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.6271041405259352,
+    "y": 1.162984142576053
+  },
+  {
+    "entity": "roof terrace",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 0.9320870394050782,
+    "y": 1.7695235943533152
+  },
+  {
+    "entity": "chimneys",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.6709756228258734,
+    "y": -1.0990179561416111
+  },
+  {
+    "entity": "parapets",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.3033144576429119,
+    "y": -1.5170271666977366
+  },
+  {
+    "entity": "arrangement of roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -0.834676908963637,
+    "y": -1.817502257947128
+  },
+  {
+    "entity": "street-level details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "foreground structures",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "initial hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.17443448673142495,
+    "y": -2.994924474813805
+  },
+  {
+    "entity": "triangulate camera location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.860409698133271,
+    "y": -2.8739685369464665
+  },
+  {
+    "entity": "online image resources",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "elevation map",
+    "type": "i",
+    "granularity": 3,
+    "parent": "landscape features",
+    "x": -0.17443448673142664,
+    "y": 2.9949244748138044
+  },
+  {
+    "entity": "elevated viewpoint",
+    "type": "i",
+    "granularity": 3,
+    "parent": "roof terrace",
+    "x": 1.3981305591076172,
+    "y": 2.6542853915299727
+  },
+  {
+    "entity": "online map data",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.058724913606201,
+    "y": -2.182120924719146
+  },
+  {
+    "entity": "hypotheses",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.506463434238808,
+    "y": -1.64852693421242
+  },
+  {
+    "entity": "match",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8190778623577253,
+    "y": -1.0260604299770058
+  },
+  {
+    "entity": "confirm vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "roofline details",
+    "x": -2.9602845963377376,
+    "y": -0.4865337693167018
+  },
+  {
+    "entity": "final verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9797150732258286,
+    "y": -0.3482787423756928
+  }
+]

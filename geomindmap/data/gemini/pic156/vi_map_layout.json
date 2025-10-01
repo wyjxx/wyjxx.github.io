@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.09226835946330189,
+    "y": 0.9957341762950346
+  },
+  {
+    "entity": "color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tram",
+    "x": 2.935399871941827,
+    "y": 0.6192153032701191
+  },
+  {
+    "entity": "destination sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram",
+    "x": 1.3473912872931144,
+    "y": 1.4780178344413182
+  },
+  {
+    "entity": "'MAJOR' sign",
+    "type": "v",
+    "granularity": 3,
+    "parent": "destination sign",
+    "x": 2.0210869309396715,
+    "y": 2.2170267516619773
+  },
+  {
+    "entity": "shop front",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.36749903563313996,
+    "y": -1.9659461993678038
+  },
+  {
+    "entity": "'PAPER & TEA' sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shop front",
+    "x": -0.36749903563313996,
+    "y": -1.9659461993678038
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.973208957133712,
+    "y": -1.7472447812927394
+  },
+  {
+    "entity": "'SL 151' sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram",
+    "x": 0.2304862062653952,
+    "y": 1.9866746358479
+  },
+  {
+    "entity": "street view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8502171357296141,
+    "y": -0.5264321628773558
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2736629900720828,
+    "y": -0.961825643172819
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street view",
+    "x": -1.7004342714592282,
+    "y": -1.0528643257547117
+  },
+  {
+    "entity": "hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839018,
+    "y": -0.18374951781657006
+  },
+  {
+    "entity": "building architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.6499949491966037,
+    "y": -1.130272828845185
+  },
+  {
+    "entity": "SL18 fleet",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram",
+    "x": -0.8874183705038106,
+    "y": 2.86574399339724
+  },
+  {
+    "entity": "SL18 model",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram",
+    "x": -1.9693390776391275,
+    "y": 2.263118113860492
+  },
+  {
+    "entity": "tram route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram",
+    "x": -2.7156602558924465,
+    "y": 1.2748291550502655
+  },
+  {
+    "entity": "Norwegian tram",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram",
+    "x": -2.9991996243349117,
+    "y": 0.0692936749590028
+  }
+]

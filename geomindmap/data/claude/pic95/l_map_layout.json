@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.900968867902419,
+    "y": 0.43388373911755823
+  },
+  {
+    "entity": "Australia",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.4844682460085399,
+    "y": 1.340281323675119
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.7559334028578124,
+    "y": 1.8516383800417964
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.958528317514842,
+    "y": 0.40517506030416256
+  },
+  {
+    "entity": "Czech Republic",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4285646904438076,
+    "y": -1.3997153014871233
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.12232332164368545,
+    "y": -1.9962557463867339
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.8308300260037721,
+    "y": -1.819263990709037
+  },
+  {
+    "entity": "Amsterdam",
+    "granularity": 4,
+    "parent": "Netherlands",
+    "x": 2.9689364920170798,
+    "y": 2.680562647350238
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.5118668057156248,
+    "y": 3.7032767600835927
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -3.917056635029684,
+    "y": 0.8103501206083251
+  },
+  {
+    "entity": "Prague",
+    "granularity": 4,
+    "parent": "Czech Republic",
+    "x": -2.8571293808876153,
+    "y": -2.7994306029742466
+  },
+  {
+    "entity": "Melbourne",
+    "granularity": 4,
+    "parent": "Australia",
+    "x": 3.603875471609676,
+    "y": -1.7355349564702334
+  },
+  {
+    "entity": "Zuidas",
+    "granularity": 5,
+    "parent": "Amsterdam",
+    "x": 3.7111706150213495,
+    "y": 3.3507033091877974
+  }
+]

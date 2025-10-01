@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Scotland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Edinburgh",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": -3.464101615137755,
+    "y": 1.9999999999999998
+  },
+  {
+    "entity": "Salisbury Crags",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": 2.828427124746192,
+    "y": -2.828427124746188
+  },
+  {
+    "entity": "Arthur's Seat",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": 3.8637033051562732,
+    "y": -1.0352761804100827
+  },
+  {
+    "entity": "National Gallery of Scotland",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 4.789947561577445,
+    "y": 1.4340161635554511
+  },
+  {
+    "entity": "National Museum of Scotland",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 3.2139380484326976,
+    "y": 3.8302222155948895
+  },
+  {
+    "entity": "Holyrood Park",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 0.5804645706261515,
+    "y": 4.966191788709715
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -2.243995901002311,
+    "y": 4.468163201617061
+  },
+  {
+    "entity": "Cowgate",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -4.330127018922193,
+    "y": 2.5000000000000018
+  },
+  {
+    "entity": "New Town",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -4.991540791356341,
+    "y": -0.29072414455237966
+  },
+  {
+    "entity": "Lawnmarket",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -4.01061596377522,
+    "y": -2.9857929585139296
+  },
+  {
+    "entity": "Chambers Street",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -1.7101007166283426,
+    "y": -4.698463103929543
+  },
+  {
+    "entity": "Holyrood Road",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 1.153079353712196,
+    "y": -4.86522435289912
+  }
+]

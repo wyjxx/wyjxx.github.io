@@ -1,0 +1,274 @@
+[
+  {
+    "entity": "modern building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18374951781657053,
+    "y": 0.9829730996839018
+  },
+  {
+    "entity": "glass windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 1.9902070481149878,
+    "y": 0.19767626471943125
+  },
+  {
+    "entity": "dark exterior",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 1.9124379053118659,
+    "y": 0.585304415092149
+  },
+  {
+    "entity": "contemporary architectural style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 1.404849041135197,
+    "y": 1.4235164809799419
+  },
+  {
+    "entity": "paved pathway/walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9829730996839017,
+    "y": 0.1837495178165708
+  },
+  {
+    "entity": "wooden railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved pathway/walkway",
+    "x": -1.9659461993678033,
+    "y": 0.3674990356331416
+  },
+  {
+    "entity": "benches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park-like setting",
+    "x": -1.9866746358479,
+    "y": -0.23048620626539396
+  },
+  {
+    "entity": "park-like setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8951632913550626,
+    "y": -0.44573835577653775
+  },
+  {
+    "entity": "large mature trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0922683594633028,
+    "y": -0.9957341762950345
+  },
+  {
+    "entity": "white blossoms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large mature trees",
+    "x": -0.8247126349478083,
+    "y": -1.822045298492176
+  },
+  {
+    "entity": "grass lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5264321628773558,
+    "y": -0.8502171357296141
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large mature trees",
+    "x": 0.25799843306040543,
+    "y": -1.9832893910214857
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6736956436465569,
+    "y": -0.7390089172206594
+  },
+  {
+    "entity": "formal landscaping",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park-like setting",
+    "x": -1.881134748487136,
+    "y": -0.6792142946333211
+  },
+  {
+    "entity": "glass facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 0.5600100361114639,
+    "y": 1.9199970727723614
+  },
+  {
+    "entity": "built environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296139,
+    "y": -0.5264321628773562
+  },
+  {
+    "entity": "natural surroundings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839018,
+    "y": -0.18374951781657006
+  },
+  {
+    "entity": "integrated landscape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park-like setting",
+    "x": -1.5386679419657587,
+    "y": -1.2776936113039215
+  },
+  {
+    "entity": "spring season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": -0.11085449816743492,
+    "y": -2.9979511804290686
+  },
+  {
+    "entity": "temperate climate zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "natural surroundings",
+    "x": 2.9489192990517052,
+    "y": -0.5512485534497102
+  },
+  {
+    "entity": "institutional facility",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": 0.2570837021716116,
+    "y": 2.988964364136471
+  },
+  {
+    "entity": "educational institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -0.33589342830992275,
+    "y": 2.9811366296797277
+  },
+  {
+    "entity": "cultural institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -0.9157452188839303,
+    "y": 2.856818281601268
+  },
+  {
+    "entity": "museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -1.4598134357005683,
+    "y": 2.620867171939109
+  },
+  {
+    "entity": "university building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -1.9468381204613618,
+    "y": 2.2825033039885114
+  },
+  {
+    "entity": "developed region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "built environment",
+    "x": 2.5506514071888415,
+    "y": -1.5792964886320684
+  },
+  {
+    "entity": "cherry blossoms",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white blossoms",
+    "x": -1.2370689524217124,
+    "y": -2.733067947738264
+  },
+  {
+    "entity": "spring-blooming trees",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": 0.8741692406679711,
+    "y": -2.869813258501323
+  },
+  {
+    "entity": "modern museum or educational complex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -2.35778834254345,
+    "y": 1.8549485523232745
+  },
+  {
+    "entity": "integration into parkland setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "integrated landscape",
+    "x": -2.308001912948638,
+    "y": -1.9165404169558822
+  },
+  {
+    "entity": "minimalist design sensibilities",
+    "type": "i",
+    "granularity": 3,
+    "parent": "contemporary architectural style",
+    "x": 2.5914510988632493,
+    "y": 1.5114169518039882
+  },
+  {
+    "entity": "established institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern building",
+    "x": -2.676605849848716,
+    "y": 1.3549100060725916
+  },
+  {
+    "entity": "Northern European institutional approach",
+    "type": "i",
+    "granularity": 3,
+    "parent": "contemporary architectural style",
+    "x": 2.1072735617027956,
+    "y": 2.135274721469913
+  },
+  {
+    "entity": "advanced architectural practices",
+    "type": "i",
+    "granularity": 3,
+    "parent": "contemporary architectural style",
+    "x": 1.477079198533027,
+    "y": 2.6111754137286582
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9297764858882513,
+    "y": 0.36812455268467814
+  },
+  {
+    "entity": "Sweden",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8595529717765027,
+    "y": 0.7362491053693563
+  },
+  {
+    "entity": "Stockholm",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": 3.9618457027866048,
+    "y": 0.5511611627385523
+  },
+  {
+    "entity": "Helsinki",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.2360679774997894,
+    "y": -2.3511410091698934
+  },
+  {
+    "entity": "Gothenburg",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": -3.480735018678102,
+    "y": 1.970909366193168
+  },
+  {
+    "entity": "Oslo",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.719105943553006,
+    "y": -1.4724982107387115
+  },
+  {
+    "entity": "Copenhagen",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.9684588052579115,
+    "y": -0.5013329342572151
+  },
+  {
+    "entity": "Ljungsbro",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": 1.5654946673488084,
+    "y": -3.680927389463482
+  },
+  {
+    "entity": "Linköping",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": 2.510765445162797,
+    "y": -3.113849206268098
+  },
+  {
+    "entity": "Rosenlund",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": 4.558630990620054,
+    "y": 2.0539920864887526
+  },
+  {
+    "entity": "Gårda",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": 3.768677334561825,
+    "y": 3.2858897041684125
+  },
+  {
+    "entity": "Stora Badhusgatan",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": 2.6558839265473253,
+    "y": 4.236305060864663
+  },
+  {
+    "entity": "Lorensberg",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": 1.3155770351661553,
+    "y": 4.823821831757826
+  },
+  {
+    "entity": "City Centre",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -0.1374273694293662,
+    "y": 4.998111014986734
+  },
+  {
+    "entity": "Frihamnen",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -1.5786592039903828,
+    "y": 4.744242312283011
+  },
+  {
+    "entity": "Haga",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -2.884656870010145,
+    "y": 4.083963117157557
+  },
+  {
+    "entity": "Lindholmen Science Center",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -3.9435434607854427,
+    "y": 3.0738355474710053
+  },
+  {
+    "entity": "Bjorke",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -4.664610578125565,
+    "y": 1.8003911115196822
+  },
+  {
+    "entity": "Gamlestads Torg",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -4.986088771201963,
+    "y": 0.3727180780344496
+  },
+  {
+    "entity": "Inom Vallgraven",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -4.880438951125189,
+    "y": -1.0868834548101567
+  },
+  {
+    "entity": "Skeppsbron",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -4.3567114978243,
+    "y": -2.4533782677617304
+  },
+  {
+    "entity": "Surbrunnsgatan",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -3.4597709688366978,
+    "y": -3.609707030105737
+  },
+  {
+    "entity": "Lilla Bommen",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -2.266452824508722,
+    "y": -4.456814063238047
+  },
+  {
+    "entity": "Stenpiren ferry terminal",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -0.8789813996717739,
+    "y": -4.922132840449458
+  },
+  {
+    "entity": "Hotel Riverton",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": 0.5837870357215855,
+    "y": -4.965802321571349
+  }
+]

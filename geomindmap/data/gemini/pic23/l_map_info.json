@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Munich Hauptbahnhof","granularity":5,"parent":"Munich"},
+{"entity":"Frankfurt (Main) Hauptbahnhof","granularity":5,"parent":"Germany"},
+{"entity":"Leipzig Hauptbahnhof","granularity":5,"parent":"Germany"},
+{"entity":"Ludwigsvorstadt","granularity":5,"parent":"Munich"}
+]

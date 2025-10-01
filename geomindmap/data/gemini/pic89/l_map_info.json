@@ -1,0 +1,6 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"O'Connell Street","granularity":5,"parent":"Dublin"},
+{"entity":"North City","granularity":5,"parent":"Dublin"}]

@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "European-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4738686624729987,
+    "y": 0.880595531856738
+  },
+  {
+    "entity": "decorative bicycles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "narrow street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7530714660036109,
+    "y": 0.6579387259397127
+  },
+  {
+    "entity": "small statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8584487936018661,
+    "y": 0.5128992774059062
+  },
+  {
+    "entity": "sign \"POECHENELLEKELDER\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": -0.3513748240813426
+  },
+  {
+    "entity": "sign \"ESTAMINET\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1342332658176553,
+    "y": -0.9909497617679348
+  },
+  {
+    "entity": "sign \"LEGENDE OF MANNEKEN PIS\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.858448793601866,
+    "y": -0.5128992774059064
+  },
+  {
+    "entity": "brick facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 1.9904193772569412,
+    "y": 0.19552673126734052
+  },
+  {
+    "entity": "traditional European window styles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 1.848538776063992,
+    "y": 0.7634817570759886
+  },
+  {
+    "entity": "gable roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 1.548283221278165,
+    "y": 1.2660249076177408
+  },
+  {
+    "entity": "triangular roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 1.27233133354836,
+    "y": 1.5431049794719256
+  },
+  {
+    "entity": "brick construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 0.9477373249459974,
+    "y": 1.761191063713476
+  },
+  {
+    "entity": "narrow building design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 0.5869106524927088,
+    "y": 1.9119455761058113
+  },
+  {
+    "entity": "exterior wall",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 0.20364597340767066,
+    "y": 1.989605065714008
+  },
+  {
+    "entity": "building style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": -0.1874042343305689,
+    "y": 1.9912005556836743
+  },
+  {
+    "entity": "white window frames",
+    "type": "v",
+    "granularity": 3,
+    "parent": "traditional European window styles",
+    "x": 2.772808164095988,
+    "y": 1.145222635613983
+  },
+  {
+    "entity": "other text",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9879228819857166,
+    "y": -0.26891792671030124
+  },
+  {
+    "entity": "Dutch language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.820354823707657,
+    "y": 1.0225451913675752
+  },
+  {
+    "entity": "Flemish language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.9681439781591097,
+    "y": 0.43602904136973847
+  },
+  {
+    "entity": "French term",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"ESTAMINET\"",
+    "x": -0.8756843766031015,
+    "y": -2.869351298215894
+  },
+  {
+    "entity": "Belgian term",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"ESTAMINET\"",
+    "x": -0.24208792072565027,
+    "y": -2.9902162862640442
+  },
+  {
+    "entity": "small café",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"ESTAMINET\"",
+    "x": 0.4026997974529659,
+    "y": -2.9728492853038047
+  },
+  {
+    "entity": "tavern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"ESTAMINET\"",
+    "x": 1.028871472962397,
+    "y": -2.8180531386267695
+  },
+  {
+    "entity": "Manneken Pis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"LEGENDE OF MANNEKEN PIS\"",
+    "x": 2.1371282908540326,
+    "y": -2.1053937086519756
+  },
+  {
+    "entity": "Belgian architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style buildings",
+    "x": -0.8569347697689326,
+    "y": 2.8750065739683217
+  },
+  {
+    "entity": "Dutch architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style buildings",
+    "x": -1.4000019696770223,
+    "y": 2.653298792993442
+  },
+  {
+    "entity": "bronze fountain sculpture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"LEGENDE OF MANNEKEN PIS\"",
+    "x": 2.575346380805598,
+    "y": -1.5386978322177192
+  },
+  {
+    "entity": "urinating boy",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"LEGENDE OF MANNEKEN PIS\"",
+    "x": 2.8667184173584213,
+    "y": -0.8842655232327168
+  },
+  {
+    "entity": "cellar",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.99528044505345,
+    "y": -0.16821134171157498
+  },
+  {
+    "entity": "Polichinelle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.9006611486350193,
+    "y": -0.7656140677909269
+  },
+  {
+    "entity": "puppet theater",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.6881322879061758,
+    "y": -1.331895192091446
+  },
+  {
+    "entity": "traditional Belgian café",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"ESTAMINET\"",
+    "x": 1.6074803849369903,
+    "y": -2.532983776506045
+  },
+  {
+    "entity": "local cultural traditions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -2.366332991702673,
+    "y": -1.844035838149431
+  },
+  {
+    "entity": "historic venue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -1.9483441449905523,
+    "y": -2.281217896800092
+  },
+  {
+    "entity": "Belgian folklore",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"POECHENELLEKELDER\"",
+    "x": -1.4511566613157185,
+    "y": -2.6256702657262614
+  }
+]

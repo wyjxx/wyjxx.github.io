@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "environmental details",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.743144825477394,
+    "y": 0.6691306063588583
+  },
+  {
+    "entity": "row of gabled houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "angle of image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "beaver tail tile roofing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural details",
+    "x": 1.9828897227476208,
+    "y": 0.26105238444010315
+  },
+  {
+    "entity": "plastered walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural details",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "rooflines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "row of gabled houses",
+    "x": -1.9091752644954638,
+    "y": 0.5958605620769645
+  },
+  {
+    "entity": "gables",
+    "type": "v",
+    "granularity": 2,
+    "parent": "row of gabled houses",
+    "x": -1.9951281005196484,
+    "y": 0.13951294748825105
+  },
+  {
+    "entity": "sequence of houses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "row of gabled houses",
+    "x": -1.9735230642251584,
+    "y": -0.3243558462111345
+  },
+  {
+    "entity": "house arrangement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "row of gabled houses",
+    "x": -1.8455248887108848,
+    "y": -0.7707385322848963
+  },
+  {
+    "entity": "color variations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "row of gabled houses",
+    "x": -0.9183329067740235,
+    "y": -1.776700501586008
+  },
+  {
+    "entity": "silver car",
+    "type": "v",
+    "granularity": 2,
+    "parent": "environmental details",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "waste bins",
+    "type": "v",
+    "granularity": 2,
+    "parent": "environmental details",
+    "x": 5.66553889764798e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "environmental details",
+    "x": -0.765366864730179,
+    "y": 1.8477590650225737
+  },
+  {
+    "entity": "narrow street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 0.4838437911993349,
+    "y": -1.9405914525519932
+  },
+  {
+    "entity": "road materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 1.0000000000000002,
+    "y": -1.7320508075688772
+  },
+  {
+    "entity": "cobblestones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 1.438679600677303,
+    "y": -1.3893167409179938
+  },
+  {
+    "entity": "white",
+    "type": "v",
+    "granularity": 3,
+    "parent": "color variations",
+    "x": -2.374737513173111,
+    "y": -1.8331998645887984
+  },
+  {
+    "entity": "light blue",
+    "type": "v",
+    "granularity": 3,
+    "parent": "color variations",
+    "x": -1.7492059847524049,
+    "y": -2.4372686398725874
+  },
+  {
+    "entity": "pink",
+    "type": "v",
+    "granularity": 3,
+    "parent": "color variations",
+    "x": -0.9767044633714699,
+    "y": -2.8365557267979504
+  },
+  {
+    "entity": "architectural style",
+    "type": "v",
+    "granularity": 3,
+    "parent": "architectural details",
+    "x": 2.3800600208737057,
+    "y": 1.8262842870261617
+  },
+  {
+    "entity": "color palette",
+    "type": "v",
+    "granularity": 3,
+    "parent": "color variations",
+    "x": -0.12213928033078666,
+    "y": -2.997512634869164
+  },
+  {
+    "entity": "geographic assumptions",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  },
+  {
+    "entity": "clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.98356568610482,
+    "y": -0.3135853898029576
+  },
+  {
+    "entity": "German recycling practices",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waste bins",
+    "x": 8.498308346471969e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "early spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -1.8879611731495118,
+    "y": 2.331437884370913
+  },
+  {
+    "entity": "temperate zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.5160117038362717,
+    "y": 1.6339171050450818
+  },
+  {
+    "entity": "regional characteristics",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural details",
+    "x": 1.826284287026162,
+    "y": 2.3800600208737057
+  }
+]

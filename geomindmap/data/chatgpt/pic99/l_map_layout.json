@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.902113032590307,
+    "y": 0.618033988749895
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.902113032590307,
+    "y": -0.6180339887498952
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.8145740077674524,
+    "y": 1.0383511712324789
+  },
+  {
+    "entity": "Suhl",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.9544849659878198,
+    "y": 3.4899840282911883
+  },
+  {
+    "entity": "Heidelberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.6955181300451474,
+    "y": -1.5307337294603587
+  },
+  {
+    "entity": "Philosophenweg",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -1.3193652498268644,
+    "y": 4.822787092288991
+  },
+  {
+    "entity": "Neuenheim",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -4.490137878803077,
+    "y": 2.1996958492795766
+  },
+  {
+    "entity": "Schweizerweg",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -4.619397662556433,
+    "y": -1.9134171618254503
+  },
+  {
+    "entity": "Albert-Ueberle-Str.",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -1.6195870909907475,
+    "y": -4.730426794137727
+  },
+  {
+    "entity": "Mönchbergsteige",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": 2.477293342162036,
+    "y": -4.343157572190957
+  }
+]

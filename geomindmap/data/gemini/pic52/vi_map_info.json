@@ -1,0 +1,14 @@
+[
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"building","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"ceramic plaque","type":"v","granularity":2,"parent":"building"},
+{"entity":"text","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"building style","type":"v","granularity":2,"parent":"building"},
+{"entity":"religious imagery","type":"v","granularity":2,"parent":"ceramic plaque"},
+{"entity":"Our Lady of Victory","type":"v","granularity":3,"parent":"religious imagery"},
+{"entity":"Spanish-speaking locale","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"search-based clues","type":"i","granularity":3,"parent":null},
+{"entity":"background knowledge","type":"i","granularity":3,"parent":null},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null}
+]

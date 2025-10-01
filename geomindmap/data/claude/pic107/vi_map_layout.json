@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "colorful paper lanterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": 1.8877666606167351,
+    "y": 0.6605581239103342
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9009688679024191,
+    "y": 0.4338837391175581
+  },
+  {
+    "entity": "European-style architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "light-colored buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style architecture",
+    "x": 1.0513675396210096,
+    "y": 1.701360131374679
+  },
+  {
+    "entity": "waterfront promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494734,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "metal railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": 0.17855689479863676
+  },
+  {
+    "entity": "stone blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -1.2931992024315997,
+    "y": 1.5256591437245328
+  },
+  {
+    "entity": "concrete blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -1.6180339887498947,
+    "y": 1.1755705045849465
+  },
+  {
+    "entity": "regular pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -1.8506086009479938,
+    "y": 0.7584509253058559
+  },
+  {
+    "entity": "lamp posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": -0.1785568947986365
+  },
+  {
+    "entity": "streetcar",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": -0.3513748240813426
+  },
+  {
+    "entity": "neoclassical architectural style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style architecture",
+    "x": 0.6180339887498949,
+    "y": 1.902113032590307
+  },
+  {
+    "entity": "shop sign 'PHYSIOTHERAPY'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style architecture",
+    "x": 0.1494601871728492,
+    "y": 1.9944075943623603
+  },
+  {
+    "entity": "large mature trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7530714660036111,
+    "y": -0.6579387259397125
+  },
+  {
+    "entity": "lake",
+    "type": "v",
+    "granularity": 2,
+    "parent": "body of water",
+    "x": -1.6691465074426055,
+    "y": -1.1017939629042048
+  },
+  {
+    "entity": "river",
+    "type": "v",
+    "granularity": 2,
+    "parent": "body of water",
+    "x": -1.3158774518794254,
+    "y": -1.5061429320072217
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3930250316539238,
+    "y": -0.9195277725514506
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13423326581765566,
+    "y": -0.9909497617679347
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1342332658176553,
+    "y": -0.9909497617679348
+  },
+  {
+    "entity": "esplanade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.39302503165392344,
+    "y": -0.9195277725514507
+  },
+  {
+    "entity": "waterfront setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6910626489868645,
+    "y": -0.7227948638273917
+  },
+  {
+    "entity": "tram infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "waterfront layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "waterfront setting",
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9839295885986297,
+    "y": -0.17855689479863687
+  },
+  {
+    "entity": "festival decoration",
+    "type": "i",
+    "granularity": 3,
+    "parent": "colorful paper lanterns",
+    "x": 2.9576130555547078,
+    "y": 0.5025186699142092
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -1.1790750949617714,
+    "y": -2.7585833176543515
+  },
+  {
+    "entity": "summer festival",
+    "type": "i",
+    "granularity": 3,
+    "parent": "colorful paper lanterns",
+    "x": 2.625670265726261,
+    "y": 1.4511566613157192
+  },
+  {
+    "entity": "festive atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": -0.5356706843959097,
+    "y": 2.951788765795889
+  },
+  {
+    "entity": "Nordic urban scene",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront setting",
+    "x": 2.3454944474040893,
+    "y": -1.870469405576201
+  },
+  {
+    "entity": "summer spirit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": 0.4026997974529659,
+    "y": -2.9728492853038047
+  },
+  {
+    "entity": "Finnish city life",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": -1.3016512173526742,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "classic Helsinki urban design elements",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural details",
+    "x": 2.951788765795889,
+    "y": -0.5356706843959106
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "metro station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": 0.9157733266550574
+  },
+  {
+    "entity": "modern electric train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963935,
+    "y": 0.6142127126896679
+  },
+  {
+    "entity": "silver metallic train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9458172417006346,
+    "y": 0.3246994692046836
+  },
+  {
+    "entity": "clean platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9458172417006347,
+    "y": -0.3246994692046834
+  },
+  {
+    "entity": "people waiting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224276,
+    "y": -0.8371664782625281
+  },
+  {
+    "entity": "arched tunnel design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2454854871407988,
+    "y": -0.9694002659393305
+  },
+  {
+    "entity": "contemporary design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8794737512064892,
+    "y": -0.4759473930370734
+  },
+  {
+    "entity": "well-maintained design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9863613034027222,
+    "y": -0.1645945902807346
+  },
+  {
+    "entity": "curved concrete ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arched tunnel design",
+    "x": 0.4909709742815976,
+    "y": -1.938800531878661
+  },
+  {
+    "entity": "ribbed segmented ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "curved concrete ceiling",
+    "x": -0.16515869094466548,
+    "y": -1.9931689860133397
+  },
+  {
+    "entity": "integrated lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "curved concrete ceiling",
+    "x": 1.0938963162448532,
+    "y": -1.6743329565250575
+  },
+  {
+    "entity": "digital display signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "metro station",
+    "x": 1.9629029865048357,
+    "y": 0.38342126384747677
+  },
+  {
+    "entity": "glass platform barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clean platform",
+    "x": -1.9931689860133397,
+    "y": -0.16515869094466487
+  },
+  {
+    "entity": "tile flooring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clean platform",
+    "x": -1.6743329565250575,
+    "y": -1.0938963162448532
+  },
+  {
+    "entity": "developed country",
+    "type": "i",
+    "granularity": 3,
+    "parent": "metro station",
+    "x": 2.511499434787586,
+    "y": 1.64084447436728
+  },
+  {
+    "entity": "well-funded transit system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "metro station",
+    "x": 1.7094241725307993,
+    "y": 2.465333445675735
+  },
+  {
+    "entity": "London Underground",
+    "type": "i",
+    "granularity": 3,
+    "parent": "metro station",
+    "x": 0.6560432736191283,
+    "y": 2.9273891478823066
+  },
+  {
+    "entity": "European metro system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "metro station",
+    "x": -0.49378377084220093,
+    "y": 2.959083910208167
+  },
+  {
+    "entity": "newer subway systems",
+    "type": "i",
+    "granularity": 3,
+    "parent": "metro station",
+    "x": -1.5710187419636337,
+    "y": 2.555758226514981
+  }
+]

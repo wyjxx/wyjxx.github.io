@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Zimmerstraße",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 4.045084971874737,
+    "y": 2.938926261462366
+  },
+  {
+    "entity": "Checkpoint Charlie",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.5450849718747368,
+    "y": 4.755282581475768
+  },
+  {
+    "entity": "East Berlin",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "West Berlin",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.5450849718747377,
+    "y": -4.755282581475767
+  },
+  {
+    "entity": "Mitte",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 4.045084971874736,
+    "y": -2.938926261462367
+  }
+]

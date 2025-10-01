@@ -1,0 +1,20 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Central Europe","granularity":2,"parent":"Europe"},
+{"entity":"Eastern Europe","granularity":2,"parent":"Europe"},
+{"entity":"Alps","granularity":2,"parent":"Europe"},
+{"entity":"Carpathian Mountains","granularity":2,"parent":"Europe"},
+{"entity":"Balkans","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"Czech Republic","granularity":2,"parent":"Europe"},
+{"entity":"Slovakia","granularity":2,"parent":"Europe"},
+{"entity":"Bavarian Alps","granularity":3,"parent":"Alps"},
+{"entity":"Austrian Alps","granularity":3,"parent":"Alps"},
+{"entity":"Bohemian Paradise","granularity":3,"parent":"Czech Republic"},
+{"entity":"Slovak Paradise","granularity":3,"parent":"Slovakia"},
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},
+{"entity":"Tyrol","granularity":3,"parent":"Austria"},
+{"entity":"Schönau am Königssee","granularity":4,"parent":"Bavaria"}
+]

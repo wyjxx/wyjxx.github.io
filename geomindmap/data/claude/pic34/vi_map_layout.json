@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "concrete pathway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9959742939952391,
+    "y": 0.0896393089034335
+  },
+  {
+    "entity": "wooden fence",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.753071466003611,
+    "y": 0.6579387259397126
+  },
+  {
+    "entity": "chain-link fence",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631445,
+    "y": 0.9749279121818236
+  },
+  {
+    "entity": "utility infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.39302503165392355,
+    "y": 0.9195277725514507
+  },
+  {
+    "entity": "residential buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": 0.17855689479863676
+  },
+  {
+    "entity": "lush vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8584487936018662,
+    "y": -0.512899277405906
+  },
+  {
+    "entity": "large tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13423326581765566,
+    "y": -0.9909497617679347
+  },
+  {
+    "entity": "tree-lined street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5508969814521023,
+    "y": -0.8345732537213028
+  },
+  {
+    "entity": "natural daylight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.858448793601866,
+    "y": -0.5128992774059064
+  },
+  {
+    "entity": "horizontal slats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden fence",
+    "x": 1.9180638191979313,
+    "y": 0.5665961396654988
+  },
+  {
+    "entity": "fencing style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden fence",
+    "x": 1.3559528210264418,
+    "y": 1.4701673194403535
+  },
+  {
+    "entity": "utility pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "utility infrastructure",
+    "x": 0.05384936569132557,
+    "y": 1.9992749300220423
+  },
+  {
+    "entity": "power lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "utility infrastructure",
+    "x": -0.37476262917144876,
+    "y": 1.9645745014573774
+  },
+  {
+    "entity": "wiring layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "utility infrastructure",
+    "x": -0.7860500633078471,
+    "y": 1.8390555451029014
+  },
+  {
+    "entity": "concrete post",
+    "type": "v",
+    "granularity": 2,
+    "parent": "utility infrastructure",
+    "x": -1.1609999040031471,
+    "y": 1.628520562628757
+  },
+  {
+    "entity": "cherry tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large tree",
+    "x": -0.4741607554309948,
+    "y": -1.942980076585735
+  },
+  {
+    "entity": "flowering tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large tree",
+    "x": 0.7584509253058587,
+    "y": -1.8506086009479927
+  },
+  {
+    "entity": "cherry blossoms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cherry tree",
+    "x": -1.1816137017876007,
+    "y": -1.6136260594536154
+  },
+  {
+    "entity": "white flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cherry tree",
+    "x": -0.7237140353933454,
+    "y": -1.8644672147760282
+  },
+  {
+    "entity": "pink flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cherry tree",
+    "x": -0.21649445348102572,
+    "y": -1.9882480105892102
+  },
+  {
+    "entity": "green foliage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lush vegetation",
+    "x": -1.8390555451029014,
+    "y": -0.786050063307847
+  },
+  {
+    "entity": "spring lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "natural daylight",
+    "x": 1.716897587203732,
+    "y": -1.0257985548118127
+  },
+  {
+    "entity": "Japanese diaspora",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9879228819857166,
+    "y": -0.26891792671030124
+  },
+  {
+    "entity": "temperate region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lush vegetation",
+    "x": -2.3454944474040897,
+    "y": -1.8704694055762001
+  },
+  {
+    "entity": "Japanese influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fencing style",
+    "x": 2.5753463808055983,
+    "y": 1.5386978322177183
+  },
+  {
+    "entity": "architectural influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fencing style",
+    "x": 2.033929231539662,
+    "y": 2.205250979160531
+  },
+  {
+    "entity": "residential landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -2.609223399467086,
+    "y": 1.480524654193041
+  },
+  {
+    "entity": "urban design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -2.8732524500547916,
+    "y": 0.8627979822960521
+  },
+  {
+    "entity": "suburban environment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -2.9932046251393682,
+    "y": 0.20180701683611932
+  },
+  {
+    "entity": "cultural design influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fencing style",
+    "x": 1.3258596890196803,
+    "y": 2.6911142831609056
+  },
+  {
+    "entity": "Japanese heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cherry tree",
+    "x": 0.45821830149303805,
+    "y": -2.9647994853238955
+  },
+  {
+    "entity": "cultural impact",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -2.9630650217854133,
+    "y": -0.4693033951206922
+  },
+  {
+    "entity": "urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "utility infrastructure",
+    "x": -2.223418404149565,
+    "y": 2.0140532763780112
+  },
+  {
+    "entity": "spring timeframe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spring lighting",
+    "x": 2.2592143980108323,
+    "y": -1.9738161778191383
+  },
+  {
+    "entity": "March-May",
+    "type": "i",
+    "granularity": 3,
+    "parent": "spring lighting",
+    "x": 2.8087046119192114,
+    "y": -1.0541244722440286
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043557,
+    "y": 0.3612416661871533
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.686388759454437,
+    "y": 1.0752176300571554
+  },
+  {
+    "entity": "Rhône",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.1840972779752754,
+    "y": -1.6118044658988706
+  },
+  {
+    "entity": "Occitanie",
+    "granularity": 3,
+    "parent": "France",
+    "x": 2.7281477496346045,
+    "y": 1.247882148347208
+  },
+  {
+    "entity": "Ariège",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.9712312926256153,
+    "y": 0.41446906485564705
+  },
+  {
+    "entity": "Foix",
+    "granularity": 4,
+    "parent": "Ariège",
+    "x": -3.9616417235008203,
+    "y": 0.5526254198075294
+  },
+  {
+    "entity": "Carcassonne",
+    "granularity": 4,
+    "parent": "Occitanie",
+    "x": 3.6375303328461395,
+    "y": 1.663842864462944
+  },
+  {
+    "entity": "Château de Foix",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": 2.150817851944472,
+    "y": 4.5137548191895585
+  },
+  {
+    "entity": "Château de Lourdes",
+    "granularity": 5,
+    "parent": null,
+    "x": 4.251085678648069,
+    "y": -2.632160814386781
+  },
+  {
+    "entity": "Château de Tarascon",
+    "granularity": 5,
+    "parent": null,
+    "x": 4.914865498419507,
+    "y": -0.918747589082859
+  },
+  {
+    "entity": "Place du Palais de Justice",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -0.4572342469104598,
+    "y": 4.979049793228847
+  },
+  {
+    "entity": "Le Rocher",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -2.9369235891118235,
+    "y": 4.0465392413417325
+  },
+  {
+    "entity": "Rue du Rocher",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -4.5921086197341054,
+    "y": 1.978013757425294
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -4.9581169859559235,
+    "y": -0.64581417882805
+  },
+  {
+    "entity": "Centre historique de Foix",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -3.932196448276497,
+    "y": -3.0883379174179924
+  },
+  {
+    "entity": "Historic town centre",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": -1.802361277748081,
+    "y": -4.663849678588956
+  },
+  {
+    "entity": "Quartier historique",
+    "granularity": 5,
+    "parent": "Foix",
+    "x": 0.8334641235223859,
+    "y": -4.930044376554948
+  }
+]

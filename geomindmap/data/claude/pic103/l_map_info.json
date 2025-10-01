@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Northern Germany","granularity":3,"parent":"Germany"},
+{"entity":"Schleswig-Holstein","granularity":3,"parent":"Germany"},
+{"entity":"Lower Saxony","granularity":3,"parent":"Germany"},
+{"entity":"Hamburg","granularity":4,"parent":"Northern Germany"},
+{"entity":"Bremen","granularity":4,"parent":"Northern Germany"},
+{"entity":"Wallanlagen","granularity":5,"parent":"Bremen"}
+]

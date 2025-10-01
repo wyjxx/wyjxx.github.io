@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Elbe Tunnel","granularity":5,"parent":"Hamburg"},
+{"entity":"Alter Elbtunnel","granularity":5,"parent":"Hamburg"},
+{"entity":"St. Pauli district","granularity":5,"parent":"Hamburg"},
+{"entity":"Bei den St. Pauli-Landungsbrücken","granularity":5,"parent":"St. Pauli district"}
+]

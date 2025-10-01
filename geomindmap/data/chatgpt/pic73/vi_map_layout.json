@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.8904953327954492,
+    "y": 0.6527077421623122
+  },
+  {
+    "entity": "sculpted figures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.9982733923671283,
+    "y": -0.08308699872765223
+  },
+  {
+    "entity": "windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.915979024630978,
+    "y": -0.5736064654221799
+  },
+  {
+    "entity": "pilasters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.7151901149553193,
+    "y": -1.0286509950219067
+  },
+  {
+    "entity": "balustrades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.408324539304704,
+    "y": -1.4200781640431606
+  },
+  {
+    "entity": "central clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -1.0143605304031194,
+    "y": -1.7236799918663275
+  },
+  {
+    "entity": "statuary",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -0.5576629608171796,
+    "y": -1.9206800936472
+  },
+  {
+    "entity": "corner domes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": -0.0664764869952541,
+    "y": -1.9988949138653511
+  },
+  {
+    "entity": "mosaic tiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": 0.4288212535863762,
+    "y": -1.9534872235242822
+  },
+  {
+    "entity": "patterned tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": 0.8975983604009241,
+    "y": -1.7872652806468246
+  },
+  {
+    "entity": "geometric panels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": 1.3108631128556216,
+    "y": -1.5105091523570686
+  },
+  {
+    "entity": "lantern-topped cupolas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "casino entrance",
+    "x": 1.643056975646928,
+    "y": -1.1403349397339233
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.993238357741943,
+    "y": 0.11609291412523022
+  },
+  {
+    "entity": "luxury cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8354878114129365,
+    "y": 0.549508978070806
+  },
+  {
+    "entity": "Bentleys",
+    "type": "v",
+    "granularity": 2,
+    "parent": "luxury cars",
+    "x": 1.836432213760548,
+    "y": 0.7921595320783135
+  },
+  {
+    "entity": "Lamborghinis",
+    "type": "v",
+    "granularity": 2,
+    "parent": "luxury cars",
+    "x": 1.4547472831460977,
+    "y": 1.372483275737467
+  },
+  {
+    "entity": "ornate lamp-posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "wrought-iron fencing",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2868032327110903,
+    "y": 0.9579895123154889
+  },
+  {
+    "entity": "small plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28680323271109,
+    "y": 0.9579895123154889
+  },
+  {
+    "entity": "dense crowd",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189779,
+    "y": 0.6427876096865395
+  },
+  {
+    "entity": "casino entrance",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.39607976603915684,
+    "y": -0.918216106880274
+  },
+  {
+    "entity": "forecourt",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9932383577419429,
+    "y": -0.11609291412523093
+  },
+  {
+    "entity": "Beaux-Arts style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "façade",
+    "x": -2.8357429991931737,
+    "y": 0.9790616132434683
+  },
+  {
+    "entity": "Monte-Carlo Casino building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "casino entrance",
+    "x": 2.8104529159556138,
+    "y": -1.0494543378330412
+  },
+  {
+    "entity": "tourist hotspot",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small plaza",
+    "x": 0.05817399531547397,
+    "y": 2.999435911345504
+  },
+  {
+    "entity": "event-style setup",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small plaza",
+    "x": -0.86040969813327,
+    "y": 2.8739685369464665
+  },
+  {
+    "entity": "prestige setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small plaza",
+    "x": -1.6968206264596153,
+    "y": 2.4740250123273206
+  }
+]

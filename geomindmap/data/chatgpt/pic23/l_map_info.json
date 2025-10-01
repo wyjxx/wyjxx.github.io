@@ -1,0 +1,13 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Munich","granularity":4,"parent":"Germany"},  
+  {"entity":"Nuremberg","granularity":4,"parent":"Germany"},  
+  {"entity":"Frankfurt am Main","granularity":4,"parent":"Germany"},  
+  {"entity":"Leipzig Hauptbahnhof","granularity":5,"parent":"Germany"},  
+  {"entity":"Stuttgart Hbf","granularity":5,"parent":"Germany"},  
+  {"entity":"Frankfurt (Main) Hauptbahnhof","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Köln Hbf","granularity":5,"parent":"Germany"},  
+  {"entity":"Dortmund Hbf","granularity":5,"parent":"Germany"},  
+  {"entity":"Bahnhofsviertel","granularity":5,"parent":"Frankfurt am Main"}  
+]

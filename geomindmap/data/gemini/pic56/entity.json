@@ -1,0 +1,20 @@
+[
+{"entity": "traditional windmills", "type": "v"},
+{"entity": "modern wind turbines", "type": "i"},
+{"entity": "rolling terrain", "type": "v"},
+{"entity": "arid environment", "type": "v"},
+{"entity": "regional architecture", "type": "i"},
+{"entity": "Southern Europe", "type": "l"},
+{"entity": "Mediterranean", "type": "l"},
+{"entity": "La Mancha", "type": "l"},
+{"entity": "path", "type": "v"},
+{"entity": "stone wall", "type": "v"},
+{"entity": "hill silhouette", "type": "v"},
+{"entity": "windmill arrangement", "type": "v"},
+{"entity": "overall scenery", "type": "v"},
+{"entity": "Consuegra", "type": "l"},
+{"entity": "Cerro Calderico", "type": "l"},
+{"entity": "Spain", "type": "l"},
+{"entity": "Europe", "type": "l"},
+{"entity": "windmill design", "type": "i"}
+]

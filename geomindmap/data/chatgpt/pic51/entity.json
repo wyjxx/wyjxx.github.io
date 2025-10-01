@@ -1,0 +1,14 @@
+[
+{"entity":"Puerta del Sol","type":"l"},
+{"entity":"Sol neighborhood","type":"l"},
+{"entity":"Madrid","type":"l"},
+{"entity":"Spain","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"statue","type":"v"},
+{"entity":"bear","type":"v"},
+{"entity":"madroño tree","type":"v"},
+{"entity":"buildings","type":"v"},
+{"entity":"Tio Pepe signage","type":"v"},
+{"entity":"El Oso y el Madroño","type":"i"},
+{"entity":"symbol of Madrid","type":"i"}
+]

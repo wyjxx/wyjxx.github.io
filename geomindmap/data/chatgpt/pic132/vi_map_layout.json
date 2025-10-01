@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "trolleybus wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.970941817426052,
+    "y": 0.23931566428755777
+  },
+  {
+    "entity": "green steel poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8229838658936564,
+    "y": 0.5680647467311558
+  },
+  {
+    "entity": "off-white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.23931566428755763,
+    "y": 0.970941817426052
+  },
+  {
+    "entity": "closed shops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "off-white building",
+    "x": 1.280425680924976,
+    "y": 1.536395156080561
+  },
+  {
+    "entity": "scooter",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4647231720437685,
+    "y": 0.8854560256532099
+  },
+  {
+    "entity": "grey car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.663122658240795,
+    "y": 0.7485107481711013
+  },
+  {
+    "entity": "red g logo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936561,
+    "y": 0.5680647467311561
+  },
+  {
+    "entity": "blue directional sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9709418174260518,
+    "y": 0.23931566428755854
+  },
+  {
+    "entity": "balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "off-white building",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "mural EVAN WILD 2015",
+    "type": "v",
+    "granularity": 2,
+    "parent": "off-white building",
+    "x": 0.18099775165927584,
+    "y": 1.991793115234182
+  },
+  {
+    "entity": "bench",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9927088740980541,
+    "y": -0.12053668025532238
+  },
+  {
+    "entity": "no-entry sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854149,
+    "y": -0.35460488704253523
+  },
+  {
+    "entity": "one-way sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936568,
+    "y": -0.5680647467311553
+  },
+  {
+    "entity": "sign with three arrows",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2393156642875586,
+    "y": -0.9709418174260518
+  },
+  {
+    "entity": "Greek text sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.464723172043768,
+    "y": -0.8854560256532101
+  },
+  {
+    "entity": "trolleybuses operate in Athens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "trolleybus wires",
+    "x": 2.912825452278156,
+    "y": 0.7179469928626733
+  },
+  {
+    "entity": "Pagrati northwest of Kaisariani",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with three arrows",
+    "x": -1.9206385213874642,
+    "y": -2.3045927341208414
+  },
+  {
+    "entity": "Zografou northeast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with three arrows",
+    "x": -1.148050297095271,
+    "y": -2.7716385975338595
+  },
+  {
+    "entity": "Kaisariani southeast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with three arrows",
+    "x": -0.2714966274889168,
+    "y": -2.9876896728512725
+  },
+  {
+    "entity": "blue local road signs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue directional sign",
+    "x": -2.912825452278155,
+    "y": 0.7179469928626756
+  },
+  {
+    "entity": "green national road signs",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.989367974722382,
+    "y": -2.2455322445133064
+  },
+  {
+    "entity": "camera facing north",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4689515976809675,
+    "y": -1.7041942401934702
+  },
+  {
+    "entity": "camera facing south",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.805048728056242,
+    "y": -1.063814661127613
+  },
+  {
+    "entity": "drivers rear view",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9781266222941616,
+    "y": -0.3616100407659736
+  },
+  {
+    "entity": "intersection convergence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with three arrows",
+    "x": 0.629643306194538,
+    "y": -2.9331807491125415
+  },
+  {
+    "entity": "mid-century Greek architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "off-white building",
+    "x": -0.6296433061945422,
+    "y": 2.933180749112541
+  }
+]

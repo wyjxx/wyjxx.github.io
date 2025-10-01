@@ -1,0 +1,85 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "road signs",
+        "Greek alphabet",
+        "English translations",
+        "strong indicator"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "blue road sign",
+        "key detail",
+        "exit options",
+        "general direction"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Athina-Center",
+            "status": 3,
+            "related_clue": [
+                "blue road sign"
+            ]
+        },
+        {
+            "loc": "Leoforos Katechaki",
+            "status": 2,
+            "related_clue": [
+                "key detail"
+            ]
+        },
+        {
+            "loc": "Athens",
+            "status": 2,
+            "related_clue": [
+                "key detail"
+            ]
+        },
+        {
+            "loc": "Elefsina",
+            "status": 2,
+            "related_clue": [
+                "exit options",
+                "general direction"
+            ]
+        },
+        {
+            "loc": "Markopoulo",
+            "status": 2,
+            "related_clue": [
+                "exit options",
+                "general direction"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "road signs",
+        "exit names",
+        "exit directions",
+        "precise highway",
+        "orientation",
+        "online maps"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Elefsina",
+            "status": 2,
+            "related_clue": [
+                "exit names",
+                "exit directions"
+            ]
+        },
+        {
+            "loc": "Markopoulo",
+            "status": 2,
+            "related_clue": [
+                "exit names",
+                "exit directions"
+            ]
+        }
+    ]
+},{"paragraph":4,"clue":["comparing details","general direction","exit options","photo","interchange","exit names"],"loc-clue":[{"loc":"Attiki Odos","status":3,"related_clue":["photo"]},{"loc":"Leoforos Katechaki","status":2,"related_clue":["comparing details","interchange"]}]},{"paragraph":5,"clue":["orientation","exit directions","final confirmator","photo","exact location","online maps","comparing details"],"loc-clue":[{"loc":"A621","status":3,"related_clue":["final confirmator","exact location"]},{"loc":"Hymettus Ring Road","status":2,"related_clue":["orientation"]},{"loc":"Attiki Odos","status":2,"related_clue":["exact location","online maps","comparing details"]}]},{"paragraph":6,"clue":["road signs","landscape","Google Street View","heading north","merges into A6","matched details","exact location","location verification"],"loc-clue":[{"loc":"Hymettus Ring Road","status":3,"related_clue":["heading north","merges into A6","matched details","exact location","location verification"]},{"loc":"A621","status":3,"related_clue":["heading north","merges into A6"]},{"loc":"Katechaki interchange","status":2,"related_clue":["road signs","Google Street View","merges into A6"]}]},{"paragraph":7,"clue":["gantry","Google Street View","mountains","interchange","road signs","comparing details","perfect alignment"],"loc-clue":[{"loc":"Hymettus Ring Road","status":3,"related_clue":["gantry","Google Street View","mountains","road signs","comparing details","perfect alignment"]},{"loc":"Katechaki interchange","status":2,"related_clue":["interchange","Google Street View","comparing details"]}]},{"paragraph":8,"clue":["intersection","gantry","road signs","photo","location verification","general direction"],"loc-clue":[{"loc":"A621","status":3,"related_clue":["intersection","location verification"]},{"loc":"Leoforos Katechaki","status":3,"related_clue":["intersection","location verification"]},{"loc":"Attiki Odos","status":3,"related_clue":["intersection","location verification"]},{"loc":"Papagou","status":3,"related_clue":["location verification"]}]},{"paragraph":9,"clue":["interchange","road","boundary checking","final answer","high confidence"],"loc-clue":[{"loc":"Papagou","status":3,"related_clue":["boundary checking","final answer","high confidence","road"]}]},{"paragraph":10,"clue":[],"loc-clue":[{"loc":"Papagou","status":3,"related_clue":[]},{"loc":"Athens","status":3,"related_clue":[]},{"loc":"Greece","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}]}]

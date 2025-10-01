@@ -1,0 +1,191 @@
+[
+  {
+    "entity": "Mediterranean Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.985417748196108,
+    "y": 0.24107336051064612
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.3262453164815904,
+    "y": 1.4970214963422022
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7709120513064194,
+    "y": -0.9294463440875377
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.941883634852104,
+    "y": -0.4786313285751156
+  },
+  {
+    "entity": "Nice",
+    "granularity": 4,
+    "parent": "France",
+    "x": 3.42312508920579,
+    "y": 2.069351256710627
+  },
+  {
+    "entity": "Promenade des Anglais",
+    "granularity": 5,
+    "parent": "Nice",
+    "x": 4.278906361507238,
+    "y": 2.586689070888284
+  },
+  {
+    "entity": "Alicante",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": 3.883767269704208,
+    "y": -0.9572626571502312
+  },
+  {
+    "entity": "Promenade de la Croisette",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 2.052064027263784,
+    "y": 4.55949922996045
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "France",
+    "x": 1.6416512218110269,
+    "y": 3.6475993839683603
+  },
+  {
+    "entity": "Genoa",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": -0.028430463365990973,
+    "y": 3.9998989623180226
+  },
+  {
+    "entity": "Sanremo",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": -3.951197118579041,
+    "y": 0.6229296349770866
+  },
+  {
+    "entity": "Ventimiglia",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": -1.2576792426824959,
+    "y": -3.797136147483467
+  },
+  {
+    "entity": "Bordighera",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": -0.25570185092626313,
+    "y": -3.991818703728024
+  },
+  {
+    "entity": "Ospedaletti",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": 0.7629258863412537,
+    "y": -3.9265689974773665
+  },
+  {
+    "entity": "Italian Riviera",
+    "granularity": 3,
+    "parent": "Italy",
+    "x": 1.2989060634579808,
+    "y": -2.7042268836604837
+  },
+  {
+    "entity": "Corso Matteotti",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -1.3683149503604144,
+    "y": 4.809128215864095
+  },
+  {
+    "entity": "Casino",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -2.662309411443082,
+    "y": 4.232269910785652
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Lungomare Imperatrice",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -3.742553740855504,
+    "y": 3.3156132912039777
+  },
+  {
+    "entity": "Vernante",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": 2.5880504278825827,
+    "y": -3.049917209161059
+  },
+  {
+    "entity": "Sanremo Centro",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -4.522317836282946,
+    "y": 2.132754413343723
+  },
+  {
+    "entity": "Corso Imperatrice",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -4.9389963982238,
+    "y": 0.7786620437213626
+  },
+  {
+    "entity": "Pista Ciclabile",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -4.959135352145553,
+    "y": -0.6379471444408258
+  },
+  {
+    "entity": "La Pigna",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -4.581117792051488,
+    "y": -2.0033371596786433
+  },
+  {
+    "entity": "Corso Nazario Sauro",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -3.8352937977995207,
+    "y": -3.207884269196838
+  },
+  {
+    "entity": "Passeggiata Imperatrice",
+    "granularity": 5,
+    "parent": "Sanremo",
+    "x": -2.781543703466886,
+    "y": -4.154878412866461
+  },
+  {
+    "entity": "Riviera dei Fiori",
+    "granularity": 3,
+    "parent": "Italy",
+    "x": 2.4567764754157952,
+    "y": -1.7216995527221182
+  }
+]

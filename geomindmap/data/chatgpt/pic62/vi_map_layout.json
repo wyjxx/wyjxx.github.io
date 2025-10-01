@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "roof design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "bay-style look",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof design",
+    "x": 1.9796428837618654,
+    "y": 0.2846296765465703
+  },
+  {
+    "entity": "iron pillars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete-glass roof",
+    "x": -0.12684783931312932,
+    "y": 1.9959733529437689
+  },
+  {
+    "entity": "Belvedere arch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete-glass roof",
+    "x": -0.5634651136828598,
+    "y": 1.9189859472289947
+  },
+  {
+    "entity": "yellow signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central concourse",
+    "x": 1.5422394394907752,
+    "y": 1.2733803482381765
+  },
+  {
+    "entity": "electric boards",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central concourse",
+    "x": 1.1985553330226937,
+    "y": 1.601082481848721
+  },
+  {
+    "entity": "cream travertine tile",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platforms",
+    "x": 1.6105405150621155,
+    "y": -1.1858158581092832
+  },
+  {
+    "entity": "yellow tactile block",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform edge",
+    "x": 1.935897402792712,
+    "y": -0.5022959743621604
+  },
+  {
+    "entity": "platform edge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platforms",
+    "x": 1.935897402792712,
+    "y": -0.5022959743621604
+  },
+  {
+    "entity": "central concourse",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4999999999999999,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "bay ends",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central concourse",
+    "x": 0.7873004363238825,
+    "y": 1.8385206071633313
+  },
+  {
+    "entity": "concrete-glass roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.580056909571198,
+    "y": 0.8145759520503358
+  },
+  {
+    "entity": "train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7237340381050703,
+    "y": -0.6900790114821118
+  },
+  {
+    "entity": "roof shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof design",
+    "x": 1.8192639907090369,
+    "y": 0.8308300260037728
+  },
+  {
+    "entity": "red color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "red-painted ribs",
+    "x": -2.0003070015488746,
+    "y": 2.235793349027264
+  },
+  {
+    "entity": "arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete-glass roof",
+    "x": -1.333538001032583,
+    "y": 1.4905288993515096
+  },
+  {
+    "entity": "Southeastern signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central concourse",
+    "x": 0.33166001050874805,
+    "y": 1.9723087074363732
+  },
+  {
+    "entity": "train name Edith",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.967371683861464,
+    "y": 0.35978974073770825
+  },
+  {
+    "entity": "dark green livery",
+    "type": "v",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.9987765784845677,
+    "y": -0.08566815238108888
+  },
+  {
+    "entity": "GWR logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.9436231366470837,
+    "y": -0.47151787101885334
+  },
+  {
+    "entity": "unit number 800 014",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.8031162300277384,
+    "y": -0.865316046893016
+  },
+  {
+    "entity": "arched iron-and-glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete-glass roof",
+    "x": -1.8447085882091627,
+    "y": 0.7726902513862572
+  },
+  {
+    "entity": "red-painted ribs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arches",
+    "x": -1.333538001032583,
+    "y": 1.4905288993515096
+  },
+  {
+    "entity": "train shed",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "platforms",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9283679330160723,
+    "y": -0.3716624556603281
+  },
+  {
+    "entity": "Great Western Railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.375706737766827,
+    "y": -1.8319436389063122
+  },
+  {
+    "entity": "Class 800",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -1.9429093461459073,
+    "y": -2.285848479812011
+  },
+  {
+    "entity": "Intercity Express Train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -1.4251974929849878,
+    "y": -2.6398507734319576
+  },
+  {
+    "entity": "GWR naming convention",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -0.8451976705242892,
+    "y": -2.878478920843492
+  },
+  {
+    "entity": "train shed design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train shed",
+    "x": 1.1149873669809804,
+    "y": -2.7851037990482186
+  },
+  {
+    "entity": "Brunel replacement scheme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train shed",
+    "x": 1.8544769586618135,
+    "y": -2.358159284228364
+  },
+  {
+    "entity": "GWR long-distance services",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -0.22825865415328708,
+    "y": -2.991303726939832
+  },
+  {
+    "entity": "service patterns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 0.3986563607107638,
+    "y": -2.973394206301083
+  }
+]

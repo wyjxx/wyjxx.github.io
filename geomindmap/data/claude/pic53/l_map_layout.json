@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "southern France",
+    "granularity": 3,
+    "parent": "France",
+    "x": 1.1480502970952695,
+    "y": 2.77163859753386
+  },
+  {
+    "entity": "Segovia",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -7.347880794884119e-16,
+    "y": -4.0
+  },
+  {
+    "entity": "Pont du Gard",
+    "granularity": 5,
+    "parent": "southern France",
+    "x": 1.9134171618254492,
+    "y": 4.619397662556434
+  },
+  {
+    "entity": "Aqueduct of Segovia",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  },
+  {
+    "entity": "Plaza del Azoguejo",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": 3.535533905932737,
+    "y": -3.5355339059327386
+  }
+]

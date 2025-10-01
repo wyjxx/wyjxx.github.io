@@ -1,0 +1,15 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},
+{"entity":"British Isles","granularity":2,"parent":"Europe"},
+{"entity":"UK","granularity":2,"parent":"Europe"},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"St. Patrick's Cathedral","granularity":5,"parent":"Dublin"},
+{"entity":"St. Patrick's Park","granularity":5,"parent":"Dublin"},
+{"entity":"Patrick Street","granularity":5,"parent":"Dublin"},
+{"entity":"The Liberties","granularity":5,"parent":"Dublin"},
+{"entity":"Wood Quay ward","granularity":5,"parent":"Dublin"},
+{"entity":"St Patrick's Close","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin 8","granularity":5,"parent":"Dublin"}
+]

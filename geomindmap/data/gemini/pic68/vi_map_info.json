@@ -1,0 +1,14 @@
+[
+{"entity":"building","type":"v","granularity":1,"parent":null},
+{"entity":"museum","type":"v","granularity":1,"parent":null},
+{"entity":"public space","type":"v","granularity":1,"parent":null},
+{"entity":"suspended whale skeleton","type":"v","granularity":2,"parent":"museum"},
+{"entity":"\"Wildlife Photographer of the Year\" signage","type":"v","granularity":2,"parent":"museum"},
+{"entity":"\"Dinosaurs\" signage","type":"v","granularity":2,"parent":"museum"},
+{"entity":"free gallery","type":"v","granularity":2,"parent":"museum"},
+{"entity":"exhibits","type":"v","granularity":2,"parent":"museum"},
+{"entity":"Darwin statue","type":"v","granularity":2,"parent":"museum"},
+{"entity":"central staircase","type":"v","granularity":2,"parent":"museum"},
+{"entity":"architectural style","type":"i","granularity":3,"parent":"building"},
+{"entity":"key features","type":"i","granularity":3,"parent":"building"}
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "entity": "double-decker bus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6456278515588024,
+    "y": 0.7636521965473321
+  },
+  {
+    "entity": "bright green livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.9947587067140997,
+    "y": 0.14469865924842534
+  },
+  {
+    "entity": "yellow livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.9529930433743694,
+    "y": 0.4310663203398271
+  },
+  {
+    "entity": "license plate \"161-D-39450\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.6736912770698662,
+    "y": 1.0948778512054396
+  },
+  {
+    "entity": "classical granite columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -1.5591877117075505,
+    "y": -1.2525708282010133
+  },
+  {
+    "entity": "dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical architecture",
+    "x": -1.9997207623717141,
+    "y": -0.03341964301860145
+  },
+  {
+    "entity": "tall columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -1.3539159392765205,
+    "y": -1.4720433517301645
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7416521056479576,
+    "y": 0.6707847301392235
+  },
+  {
+    "entity": "tracks embedded in cobblestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -0.4780766075312647,
+    "y": 1.9420202772709139
+  },
+  {
+    "entity": "neoclassical architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9644691750543766,
+    "y": -0.264195401871286
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.35940777283751335,
+    "y": -0.9331806110416024
+  },
+  {
+    "entity": "bus turning left",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 1.057318001641293,
+    "y": 1.6976685905692144
+  },
+  {
+    "entity": "route 40",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker bus",
+    "x": 0.24447582736326928,
+    "y": 1.9850016548695986
+  },
+  {
+    "entity": "portico",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3594077728375122,
+    "y": -0.9331806110416029
+  },
+  {
+    "entity": "six columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -1.1180779273405597,
+    "y": -1.658282770939214
+  },
+  {
+    "entity": "flags",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5380823531633717,
+    "y": -0.8428922714167977
+  },
+  {
+    "entity": "greenery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6456278515588023,
+    "y": -0.7636521965473321
+  },
+  {
+    "entity": "rails",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7416521056479569,
+    "y": -0.6707847301392241
+  },
+  {
+    "entity": "triangular pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "portico",
+    "x": 0.7188155456750244,
+    "y": -1.8663612220832058
+  },
+  {
+    "entity": "limestone façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical architecture",
+    "x": -1.966306492407327,
+    "y": -0.36556637963138006
+  },
+  {
+    "entity": "grey granite",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -0.8569979954885573,
+    "y": -1.8070845126137833
+  },
+  {
+    "entity": "Ionic columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -0.5765703292422416,
+    "y": -1.9150892029974722
+  },
+  {
+    "entity": "Corinthian columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": -0.28312591190835634,
+    "y": -1.9798585095925572
+  },
+  {
+    "entity": "capitals",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": 0.016710404791206834,
+    "y": -1.9999301893745476
+  },
+  {
+    "entity": "rectangular windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical architecture",
+    "x": -1.8781119224089562,
+    "y": -0.6875286226080588
+  },
+  {
+    "entity": "pillars flush with façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": 0.3161694645132465,
+    "y": -1.97485110064263
+  },
+  {
+    "entity": "CCTV camera",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8244415603417603,
+    "y": -0.5659470943305952
+  },
+  {
+    "entity": "lamppost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8925188358598808,
+    "y": -0.4510101192161026
+  },
+  {
+    "entity": "security cameras",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9446690916079188,
+    "y": -0.32802485783956903
+  },
+  {
+    "entity": "Irish license plate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate \"161-D-39450\"",
+    "x": 2.7790407012318115,
+    "y": 1.13001450472859
+  },
+  {
+    "entity": "Luas line",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.1403265641918447,
+    "y": 2.7748252786434
+  },
+  {
+    "entity": "Red Line",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.538424581772107,
+    "y": 2.5755096206769097
+  },
+  {
+    "entity": "Luas Green Line",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.9026415734085838,
+    "y": 2.319473009788497
+  },
+  {
+    "entity": "19th century horse-drawn trams",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.2249563169438726,
+    "y": 2.0123541904176703
+  },
+  {
+    "entity": "Dublin-registered vehicle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate \"161-D-39450\"",
+    "x": 2.510536915604799,
+    "y": 1.6423167768081592
+  },
+  {
+    "entity": "2016",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate \"161-D-39450\"",
+    "x": 2.148711479402,
+    "y": 2.093570867748706
+  },
+  {
+    "entity": "moving south",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus turning left",
+    "x": 1.5859770024619397,
+    "y": 2.5465028858538217
+  },
+  {
+    "entity": "inbound route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route 40",
+    "x": 0.9312880186644297,
+    "y": 2.851789372708314
+  },
+  {
+    "entity": "outbound route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route 40",
+    "x": 0.36671374104490395,
+    "y": 2.9775024823043976
+  },
+  {
+    "entity": "rainy day",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.93988511510976,
+    "y": -0.5975579553115105
+  },
+  {
+    "entity": "Baile Shearlais",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route 40",
+    "x": -0.21149201571775342,
+    "y": 2.992535902422499
+  },
+  {
+    "entity": "walkway purpose",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.49827041163921,
+    "y": 1.6609169004884174
+  },
+  {
+    "entity": "tours",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.7165646076445267,
+    "y": 1.272900912283882
+  },
+  {
+    "entity": "longer building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical architecture",
+    "x": -2.6063911624435105,
+    "y": -1.485505001114559
+  },
+  {
+    "entity": "tourist tram service",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.8750313691170746,
+    "y": 0.8568515779251398
+  },
+  {
+    "entity": "Luas Finglas extension",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.9701807515250938,
+    "y": 0.4219316334073905
+  },
+  {
+    "entity": "2025",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9933006358694594,
+    "y": -0.20037790123536414
+  }
+]

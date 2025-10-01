@@ -1,0 +1,346 @@
+[
+  {
+    "entity": "housing styles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9973322836635516,
+    "y": 0.07299531466090753
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8339978178898779,
+    "y": 0.5517677407704459
+  },
+  {
+    "entity": "parked van",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1816368509794365,
+    "y": 0.9833656768294661
+  },
+  {
+    "entity": "road design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8720494081438077,
+    "y": 0.48941784781108544
+  },
+  {
+    "entity": "hedge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9054482374931467,
+    "y": -0.42445669887581483
+  },
+  {
+    "entity": "picket fence",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8339978178898781,
+    "y": -0.5517677407704455
+  },
+  {
+    "entity": "broad-leaved trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5818589155579529,
+    "y": -0.8132897407355654
+  },
+  {
+    "entity": "wooden utility pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10937120837787428,
+    "y": -0.9940009752399459
+  },
+  {
+    "entity": "large posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6940741952206335,
+    "y": -0.7199034737579962
+  },
+  {
+    "entity": "surrounding structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9054482374931464,
+    "y": -0.4244566988758156
+  },
+  {
+    "entity": "low-rise apartment buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.98934336807511,
+    "y": -0.1456011677350058
+  },
+  {
+    "entity": "German license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked van",
+    "x": 0.5411227420145148,
+    "y": 1.9254054580982918
+  },
+  {
+    "entity": "EU features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "German license plate",
+    "x": 0.7989867788914379,
+    "y": 1.8334721506356961
+  },
+  {
+    "entity": "blue van",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked van",
+    "x": -0.18239694718132676,
+    "y": 1.9916654723268494
+  },
+  {
+    "entity": "text \"Sanitär Heizung\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.945589375719439,
+    "y": 0.4633378692570289
+  },
+  {
+    "entity": "bike signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.8349284467047753,
+    "y": 0.7956365976207989
+  },
+  {
+    "entity": "sign \"Wiesn\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.667995635779756,
+    "y": 1.1035354815408915
+  },
+  {
+    "entity": "sign \"Bissener\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.4499102833961606,
+    "y": 1.3775921639230042
+  },
+  {
+    "entity": "bicycle zone sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.1873604286531412,
+    "y": 1.6094021288878144
+  },
+  {
+    "entity": "cycle lane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -0.5187072657876945,
+    "y": 1.9315648506894751
+  },
+  {
+    "entity": "cobblestones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -0.8187285199306809,
+    "y": 1.8247420668829106
+  },
+  {
+    "entity": "rectangular paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.097990122361897,
+    "y": 1.6716511870589827
+  },
+  {
+    "entity": "pavement slabs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.3494111256588255,
+    "y": 1.4761739782113021
+  },
+  {
+    "entity": "kerb style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.566616507656722,
+    "y": 1.2432669536095036
+  },
+  {
+    "entity": "median planting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.7440988162876145,
+    "y": 0.9788356956221724
+  },
+  {
+    "entity": "grassy medians",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.9630145972768431,
+    "y": 0.3828494363036636
+  },
+  {
+    "entity": "designated cycle paths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road design",
+    "x": -1.9840959315068443,
+    "y": -0.2517207472140272
+  },
+  {
+    "entity": "spaced trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "broad-leaved trees",
+    "x": -1.4566028776238327,
+    "y": -1.3705137930345577
+  },
+  {
+    "entity": "supports for young trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "broad-leaved trees",
+    "x": -1.1637178311159058,
+    "y": -1.6265794814711307
+  },
+  {
+    "entity": "painted stripes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden utility pole",
+    "x": -0.4775399100470853,
+    "y": -1.9421523200594288
+  },
+  {
+    "entity": "angled support brackets",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden utility pole",
+    "x": 0.04383266681053643,
+    "y": -1.9995196166380256
+  },
+  {
+    "entity": "A-shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "angled support brackets",
+    "x": 0.04383266681053643,
+    "y": -1.9995196166380256
+  },
+  {
+    "entity": "electricity wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden utility pole",
+    "x": 0.5621904287836553,
+    "y": -1.9193597687208226
+  },
+  {
+    "entity": "telephone wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden utility pole",
+    "x": 0.8883977067238368,
+    "y": -1.7918564436605484
+  },
+  {
+    "entity": "overhead lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large posts",
+    "x": 1.388148390441267,
+    "y": -1.4398069475159925
+  },
+  {
+    "entity": "cables",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead lines",
+    "x": 1.388148390441267,
+    "y": -1.4398069475159925
+  },
+  {
+    "entity": "tree-lined medians",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassy medians",
+    "x": -1.9033407216012144,
+    "y": 0.6142427024349322
+  },
+  {
+    "entity": "red balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise apartment buildings",
+    "x": 1.97868673615022,
+    "y": -0.2912023354700116
+  },
+  {
+    "entity": "typical suburban area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "surrounding structures",
+    "x": 2.7163447124794393,
+    "y": -1.2733700966274468
+  },
+  {
+    "entity": "summer",
+    "type": "i",
+    "granularity": 3,
+    "parent": "broad-leaved trees",
+    "x": -1.2402003550058514,
+    "y": -2.731648417978302
+  },
+  {
+    "entity": "likely in Germany",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German license plate",
+    "x": 0.4096800206000335,
+    "y": 2.9718954020491966
+  },
+  {
+    "entity": "likely Munich",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road design",
+    "x": -2.8784789208434933,
+    "y": -0.8451976705242856
+  },
+  {
+    "entity": "Berlin no medians",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grassy medians",
+    "x": -2.991996850990655,
+    "y": 0.218985943982724
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "entity": "stone aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "modern buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8910065241883678,
+    "y": 0.45399049973954686
+  },
+  {
+    "entity": "plaza square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "modern shops",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8910065241883679,
+    "y": -0.4539904997395467
+  },
+  {
+    "entity": "cafes",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "flat terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865474,
+    "y": -0.7071067811865477
+  },
+  {
+    "entity": "urban setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8910065241883678,
+    "y": -0.45399049973954697
+  },
+  {
+    "entity": "double-tiered arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": 1.9678591771972593,
+    "y": 0.3571137895972733
+  },
+  {
+    "entity": "Roman arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": 1.506142932007222,
+    "y": 1.3158774518794252
+  },
+  {
+    "entity": "limestone blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": 0.6180339887498949,
+    "y": 1.902113032590307
+  },
+  {
+    "entity": "granite blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": -0.08972966070102972,
+    "y": 1.9979861330826294
+  },
+  {
+    "entity": "stone paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaza square",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "contemporary clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9753766811902753,
+    "y": -0.31286893008046224
+  },
+  {
+    "entity": "strong sunlight",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear blue sky",
+    "x": -0.41582338163551785,
+    "y": -1.9562952014676114
+  },
+  {
+    "entity": "short shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "strong sunlight",
+    "x": -0.41582338163551785,
+    "y": -1.9562952014676114
+  },
+  {
+    "entity": "semicircular arches",
+    "type": "v",
+    "granularity": 3,
+    "parent": "Roman arches",
+    "x": 2.259214398010833,
+    "y": 1.9738161778191379
+  },
+  {
+    "entity": "well-preserved aqueduct",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone aqueduct",
+    "x": -1.1790750949617705,
+    "y": 2.758583317654352
+  },
+  {
+    "entity": "Roman architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone aqueduct",
+    "x": -2.073187946960594,
+    "y": 2.168384591482175
+  },
+  {
+    "entity": "Spanish Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear blue sky",
+    "x": 1.2202099292274016,
+    "y": -2.7406363729278023
+  }
+]

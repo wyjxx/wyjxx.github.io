@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": 0.14231483827328514
+  },
+  {
+    "entity": "olive trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545184,
+    "y": 0.4154150130018864
+  },
+  {
+    "entity": "rocky outcrop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "bedrock",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414296,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "rocky steps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky outcrop",
+    "x": 1.3097214678905702,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "amphiprostyle columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "Caryatids",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.5634651136828598,
+    "y": 1.9189859472289947
+  },
+  {
+    "entity": "fluted columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.0812816349111953,
+    "y": 1.6825070656623622
+  },
+  {
+    "entity": "simple entablature",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.5114991487085163,
+    "y": 1.3097214678905704
+  },
+  {
+    "entity": "amphiprostyle plan",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.8192639907090364,
+    "y": 0.8308300260037734
+  },
+  {
+    "entity": "Ionic columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9796428837618654,
+    "y": 0.28462967654657123
+  },
+  {
+    "entity": "white marble",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.9694643256427984,
+    "y": -0.4269445148198535
+  },
+  {
+    "entity": "rectangular format",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.7288959860635558,
+    "y": -1.246245039005657
+  },
+  {
+    "entity": "sun angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.2672487230627767,
+    "y": -1.964582201835853
+  },
+  {
+    "entity": "shadow lengths",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.6219224523667948,
+    "y": -2.523760598493542
+  },
+  {
+    "entity": "Athena Nike temple",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.8451976705242916,
+    "y": -2.8784789208434916
+  },
+  {
+    "entity": "Erechtheion",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -3.2156263187166847e-15,
+    "y": -3.0
+  },
+  {
+    "entity": "Greek temple architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.8451976705242855,
+    "y": -2.8784789208434933
+  },
+  {
+    "entity": "5th century BCE temples",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.6219224523667894,
+    "y": -2.523760598493546
+  },
+  {
+    "entity": "Mediterranean city",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.267248723062772,
+    "y": -1.9645822018358587
+  },
+  {
+    "entity": "Attica climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.728895986063553,
+    "y": -1.246245039005664
+  },
+  {
+    "entity": "southern European latitude",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9694643256427975,
+    "y": -0.4269445148198612
+  }
+]

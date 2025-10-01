@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -3.2360679774997894,
+    "y": 2.351141009169893
+  },
+  {
+    "entity": "Elefsina",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": 2.3511410091698917,
+    "y": -3.2360679774997902
+  },
+  {
+    "entity": "Markopoulo",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": 3.804226065180614,
+    "y": -1.2360679774997905
+  },
+  {
+    "entity": "Athina-Center",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.681174353198686,
+    "y": 1.7568741204067133
+  },
+  {
+    "entity": "Leoforos Katechaki",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 2.3693433123649936,
+    "y": 4.40297765928369
+  },
+  {
+    "entity": "Attiki Odos",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -1.1126046697815717,
+    "y": 4.874639560909118
+  },
+  {
+    "entity": "Hymettus Ring Road",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.045084971874736,
+    "y": 2.9389262614623664
+  },
+  {
+    "entity": "A621",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.979871469976195,
+    "y": -0.44819654451716684
+  },
+  {
+    "entity": "Katechaki interchange",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -3.455313244934324,
+    "y": -3.613974319136957
+  },
+  {
+    "entity": "Papagou",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -0.22432415175257553,
+    "y": -4.994965332706573
+  }
+]

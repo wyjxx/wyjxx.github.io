@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Berkshire",
+    "granularity": 3,
+    "parent": "United Kingdom",
+    "x": -1.1480502970952693,
+    "y": 2.77163859753386
+  },
+  {
+    "entity": "Windsor",
+    "granularity": 4,
+    "parent": "Berkshire",
+    "x": -1.530733729460359,
+    "y": 3.695518130045147
+  },
+  {
+    "entity": "Buckingham Palace",
+    "granularity": 5,
+    "parent": "United Kingdom",
+    "x": -1.9134171618254516,
+    "y": -4.619397662556432
+  },
+  {
+    "entity": "Saint James's Palace",
+    "granularity": 5,
+    "parent": "United Kingdom",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  },
+  {
+    "entity": "Tower of London",
+    "granularity": 5,
+    "parent": "United Kingdom",
+    "x": 4.619397662556432,
+    "y": -1.913417161825452
+  },
+  {
+    "entity": "Windsor Castle",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": 3.9667667014561765,
+    "y": 3.0438071450436026
+  },
+  {
+    "entity": "Lower Ward",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -1.9134171618254476,
+    "y": 4.619397662556434
+  },
+  {
+    "entity": "Castle Quadrangle",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -4.957224306869053,
+    "y": -0.6526309611002566
+  }
+]

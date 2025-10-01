@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.7029066037072575,
+    "y": 1.3016512173526744
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 0.6675628018689433,
+    "y": 2.924783736545471
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.246979603717467,
+    "y": 1.5636629649360598
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.2469796037174674,
+    "y": -1.5636629649360594
+  },
+  {
+    "entity": "Denmark",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "Mezgerstraße",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -4.874639560909118,
+    "y": -1.1126046697815715
+  },
+  {
+    "entity": "Stuttgart-Vaihingen",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  }
+]

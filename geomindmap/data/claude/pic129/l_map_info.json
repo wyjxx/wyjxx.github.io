@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Iberian Peninsula","granularity":2,"parent":"Europe"},
+{"entity":"Tagus River","granularity":2,"parent":"Europe"},
+{"entity":"Lisbon","granularity":4,"parent":"Portugal"},
+{"entity":"Alfama","granularity":5,"parent":"Lisbon"}
+]

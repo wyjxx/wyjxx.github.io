@@ -1,0 +1,8 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Electorate of Cologne","granularity":3,"parent":"Germany"},  
+{"entity":"Bonn","granularity":4,"parent":"Electorate of Cologne"},  
+{"entity":"Mehlgasse","granularity":5,"parent":"Bonn"},  
+{"entity":"Mehlgasse 11","granularity":5,"parent":"Bonn"}  
+]

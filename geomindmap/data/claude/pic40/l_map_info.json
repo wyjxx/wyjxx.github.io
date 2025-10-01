@@ -1,0 +1,9 @@
+[
+{"entity":"Toulouse","granularity":4,"parent":"southwestern France"},
+{"entity":"Capitole de Toulouse","granularity":5,"parent":"Toulouse"},
+{"entity":"Toulouse City Hall","granularity":5,"parent":"Toulouse"},
+{"entity":"Place du Capitole","granularity":5,"parent":"Toulouse"},
+{"entity":"southwestern France","granularity":3,"parent":"France"},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null}
+]

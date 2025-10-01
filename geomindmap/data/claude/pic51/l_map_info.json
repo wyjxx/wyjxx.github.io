@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"North America","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"Russia","granularity":2,"parent":"Europe"},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Bern","granularity":4,"parent":"Switzerland"},
+{"entity":"Madrid","granularity":4,"parent":"Spain"},
+{"entity":"Sol","granularity":5,"parent":"Madrid"}
+]

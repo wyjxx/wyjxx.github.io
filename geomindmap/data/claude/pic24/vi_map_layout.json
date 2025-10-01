@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.11196447610330791,
+    "y": 0.9937122098932426
+  },
+  {
+    "entity": "rocky shoreline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9937122098932426,
+    "y": -0.11196447610330773
+  },
+  {
+    "entity": "rocky terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7818314824680299,
+    "y": -0.6234898018587334
+  },
+  {
+    "entity": "clear turquoise water",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.6605581239103337,
+    "y": -1.8877666606167351
+  },
+  {
+    "entity": "aquamarine water",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9874244197864852,
+    "y": -0.22392895220661618
+  },
+  {
+    "entity": "light-colored rocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky shoreline",
+    "x": -1.9968536300356332,
+    "y": 0.11214089447438381
+  },
+  {
+    "entity": "small purple flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.941193134906782,
+    "y": 0.481424150817946
+  },
+  {
+    "entity": "coniferous tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.6418714106684649,
+    "y": 1.1420412736979104
+  },
+  {
+    "entity": "pine tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.318691630200138,
+    "y": 1.5036796149579545
+  },
+  {
+    "entity": "heath",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 1.3769455934026131,
+    "y": 2.665336907936617
+  },
+  {
+    "entity": "scrubland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 0.6948798877530908,
+    "y": 2.9184142854632977
+  },
+  {
+    "entity": "lake",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": -1.5603145868369235,
+    "y": -2.562307239599483
+  },
+  {
+    "entity": "sea",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": -0.8708540317633898,
+    "y": -2.870821007196626
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -0.028049525711517413,
+    "y": 2.999868867818618
+  },
+  {
+    "entity": "cool temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -0.749329434501681,
+    "y": 2.9049105663667842
+  },
+  {
+    "entity": "northern temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -1.4265436283267257,
+    "y": 2.639123581130755
+  },
+  {
+    "entity": "northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.0198672634511707,
+    "y": 2.2181380114948395
+  },
+  {
+    "entity": "glacial lakes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": -0.12618746558479593,
+    "y": -2.9973449457026606
+  },
+  {
+    "entity": "alpine lakes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": 0.6264784970165055,
+    "y": -2.9338583286818642
+  },
+  {
+    "entity": "Scandinavian lakes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": 1.339430135974687,
+    "y": -2.684385760438099
+  },
+  {
+    "entity": "Scottish lochs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": 1.967471339585468,
+    "y": -2.2647420444522517
+  },
+  {
+    "entity": "heath-like vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.494408836907635,
+    "y": 1.6667106990588074
+  },
+  {
+    "entity": "heather",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small purple flowers",
+    "x": 2.911789702360173,
+    "y": 0.722136226226919
+  },
+  {
+    "entity": "fjord region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky shoreline",
+    "x": -2.8827519658352987,
+    "y": -0.8305065342745477
+  },
+  {
+    "entity": "lake district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": 2.470788719615742,
+    "y": -1.7015296362448706
+  },
+  {
+    "entity": "glacial formations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky terrain",
+    "x": -2.3454944474040897,
+    "y": -1.8704694055762001
+  },
+  {
+    "entity": "mineral-rich waters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear turquoise water",
+    "x": 2.817475499662281,
+    "y": -1.0304522350903897
+  },
+  {
+    "entity": "ecological characteristics",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.8222620464047417,
+    "y": 1.0172693553938015
+  }
+]

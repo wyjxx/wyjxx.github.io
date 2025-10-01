@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "large classical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.40673664307580004,
+    "y": 0.913545457642601
+  },
+  {
+    "entity": "neoclassical architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000004,
+    "y": -0.8660254037844384
+  },
+  {
+    "entity": "pink/red brick construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": 1.8076675398970412,
+    "y": 0.8557675298833084
+  },
+  {
+    "entity": "white stone details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": 1.0892780700300544,
+    "y": 1.6773411358908479
+  },
+  {
+    "entity": "text \"CAPITOLIUM\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": 0.2668192642410256,
+    "y": 1.9821219640147973
+  },
+  {
+    "entity": "French flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -0.6069575470423413,
+    "y": 1.9056763985756722
+  },
+  {
+    "entity": "symmetrical design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -1.0100596831493796,
+    "y": 1.726203764471673
+  },
+  {
+    "entity": "central entrance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -1.3639967201249967,
+    "y": 1.4627074032383411
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -1.6515406170925082,
+    "y": 1.1280131161000289
+  },
+  {
+    "entity": "pediments",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -1.858695048453645,
+    "y": 0.7384122946253686
+  },
+  {
+    "entity": "decorative stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large classical building",
+    "x": -1.9753766811902755,
+    "y": 0.31286893008046107
+  },
+  {
+    "entity": "plaza/square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "paved stones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaza/square",
+    "x": -0.31286893008046207,
+    "y": -1.9753766811902753
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "casual modern clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7431448254773937,
+    "y": -0.6691306063588588
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "gray clouds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "natural sunlight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9945218953682734,
+    "y": -0.10452846326765253
+  },
+  {
+    "entity": "CAPITOLIUM inscription",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text \"CAPITOLIUM\"",
+    "x": 0.8854567248272822,
+    "y": 2.866350709257006
+  },
+  {
+    "entity": "Latin language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text \"CAPITOLIUM\"",
+    "x": -0.09597672922623808,
+    "y": 2.998464351538473
+  },
+  {
+    "entity": "government building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large classical building",
+    "x": -2.993858978298022,
+    "y": -0.19185520077475837
+  },
+  {
+    "entity": "French institutional buildings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large classical building",
+    "x": -2.878925532847047,
+    "y": -0.8436751604268936
+  },
+  {
+    "entity": "18th-19th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical architecture",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "French regional architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pink/red brick construction",
+    "x": 2.9674761553914815,
+    "y": 0.4405510948607366
+  },
+  {
+    "entity": "La Ville Rose",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pink/red brick construction",
+    "x": 2.711501309845562,
+    "y": 1.2836512948249625
+  },
+  {
+    "entity": "Pink City",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pink/red brick construction",
+    "x": 2.221632039327014,
+    "y": 2.016023581666567
+  },
+  {
+    "entity": "major landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large classical building",
+    "x": -2.623859121418186,
+    "y": -1.4544288607390132
+  },
+  {
+    "entity": "city hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large classical building",
+    "x": -2.2410752137229863,
+    "y": -1.9943875968418157
+  },
+  {
+    "entity": "ceremonial plaza",
+    "type": "i",
+    "granularity": 3,
+    "parent": "plaza/square",
+    "x": 0.469303395120692,
+    "y": -2.9630650217854133
+  }
+]

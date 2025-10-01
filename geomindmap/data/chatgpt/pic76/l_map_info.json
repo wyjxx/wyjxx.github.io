@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Sweden","granularity":2,"parent":"Europe"},
+{"entity":"Stockholm","granularity":4,"parent":"Sweden"},
+{"entity":"Bromma Airport","granularity":5,"parent":"Stockholm"},
+{"entity":"Mariehäll","granularity":5,"parent":"Stockholm"},
+{"entity":"Bromma","granularity":5,"parent":"Stockholm"},
+{"entity":"Ulvsunda","granularity":5,"parent":"Stockholm"},
+{"entity":"Västerort","granularity":5,"parent":"Stockholm"},
+{"entity":"central Stockholm","granularity":5,"parent":"Stockholm"}
+]

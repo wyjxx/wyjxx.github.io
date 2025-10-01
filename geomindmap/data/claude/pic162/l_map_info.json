@@ -1,0 +1,6 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Quintumsstraße","granularity":5,"parent":"Northern Europe"}
+]

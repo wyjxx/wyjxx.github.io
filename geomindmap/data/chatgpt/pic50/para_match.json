@@ -1,0 +1,84 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "viewpoints",
+        "harbour",
+        "camera angle",
+        "perspective shift",
+        "west vantage point"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Barcelona",
+            "status": 2,
+            "related_clue": [
+                "viewpoints"
+            ]
+        },
+        {
+            "loc": "Montjuïc",
+            "status": 2,
+            "related_clue": [
+                "viewpoints",
+                "harbour"
+            ]
+        },
+        {
+            "loc": "Bunkers del Carmel",
+            "status": 2,
+            "related_clue": [
+                "viewpoints"
+            ]
+        },
+        {
+            "loc": "Sagrada Família",
+            "status": 2,
+            "related_clue": [
+                "camera angle",
+                "west vantage point"
+            ]
+        },
+        {
+            "loc": "Mediterranean",
+            "status": 2,
+            "related_clue": [
+                "camera angle"
+            ]
+        }
+    ]
+},{"paragraph":2,"clue":["viewpoints","horizon","sunset","warm pink hues","sunrise","construction cranes","Sagrada changes","orthogonal grid"],"loc-clue":[{"loc":"Montjuïc","status":2,"related_clue":["viewpoints"]},{"loc":"Sagrada Família","status":2,"related_clue":["horizon","sunset","warm pink hues","sunrise","construction cranes","Sagrada changes"]},{"loc":"Eixample","status":2,"related_clue":["orthogonal grid"]},{"loc":"Hotel Arts","status":2,"related_clue":[]},{"loc":"Torre Mapfre","status":2,"related_clue":[] }]},{"paragraph":3,"clue":["basilica","orthogonal grid","low-rise blocks","skyline","twin high-rises"],"loc-clue":[{"loc":"Sagrada Família","status":3,"related_clue":["basilica"]},{"loc":"Eixample","status":3,"related_clue":["orthogonal grid","low-rise blocks"]},{"loc":"Torre Mapfre","status":3,"related_clue":["twin high-rises"]},{"loc":"Hotel Arts","status":3,"related_clue":["twin high-rises"]},{"loc":"Port Olímpic","status":3,"related_clue":["twin high-rises"]},{"loc":"Barcelona","status":3,"related_clue":["basilica","orthogonal grid","low-rise blocks","skyline","twin high-rises"]},{"loc":"Mediterranean","status":3,"related_clue":[]}]},{"paragraph":4,"clue":["hill","steep drop","vegetation","panoramic sweep","framing orientation","viewpoints","shoreline","orthogonal grid"],"loc-clue":[{"loc":"Barcelona","status":3,"related_clue":["panoramic sweep","viewpoints"]},{"loc":"Sagrada Família","status":3,"related_clue":["framing orientation"]},{"loc":"Bunkers del Carmel","status":3,"related_clue":["viewpoints"]},{"loc":"Turó de la Rovira","status":3,"related_clue":["viewpoints"]},{"loc":"El Carmel","status":3,"related_clue":["viewpoints"]},{"loc":"Eixample","status":3,"related_clue":["orthogonal grid"]},{"loc":"Torre Mapfre","status":3,"related_clue":["shoreline"]},{"loc":"Hotel Arts","status":3,"related_clue":["shoreline"]}]},{
+  "paragraph": 5,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Turó de la Rovira",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Bunkers del Carmel",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "El Carmel",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Barcelona",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

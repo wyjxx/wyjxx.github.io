@@ -1,0 +1,18 @@
+[  
+  {"entity":"Rossio Square","type":"l"},  
+  {"entity":"Praça Dom Pedro IV","type":"l"},  
+  {"entity":"Baixa district","type":"l"},  
+  {"entity":"Lisbon","type":"l"},  
+  {"entity":"Portugal","type":"l"},  
+  {"entity":"Europe","type":"l"},  
+  {"entity":"calçada portuguesa","type":"v"},  
+  {"entity":"black and white mosaic","type":"v"},  
+  {"entity":"tall white column","type":"v"},  
+  {"entity":"portico","type":"v"},  
+  {"entity":"columns","type":"v"},  
+  {"entity":"gentle hills","type":"v"},  
+  {"entity":"Pombaline architecture","type":"v"},  
+  {"entity":"National Theatre D. Maria II","type":"v"},  
+  {"entity":"typical of Lisbon","type":"i"},  
+  {"entity":"D. Pedro IV column","type":"i"}  
+]

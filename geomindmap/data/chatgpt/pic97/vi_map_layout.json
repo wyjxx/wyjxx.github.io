@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "mural",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.753071466003611,
+    "y": 0.6579387259397126
+  },
+  {
+    "entity": "Yorma's kiosk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.39302503165392355,
+    "y": 0.9195277725514507
+  },
+  {
+    "entity": "Reisezentrum sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8584487936018661,
+    "y": 0.5128992774059062
+  },
+  {
+    "entity": "ReiseBank booth",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": 0.3513748240813428
+  },
+  {
+    "entity": "ticket machine",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": 0.17855689479863676
+  },
+  {
+    "entity": "overhead display",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "exit sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": -0.1785568947986365
+  },
+  {
+    "entity": "customer service area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": -0.3513748240813426
+  },
+  {
+    "entity": "floor tiling",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "concrete column",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5508969814521026,
+    "y": -0.8345732537213025
+  },
+  {
+    "entity": "ceiling panel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "tourism poster",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.044864830350514744,
+    "y": -0.9989930665413147
+  },
+  {
+    "entity": "natural lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.47386866247299847,
+    "y": -0.8805955318567381
+  },
+  {
+    "entity": "eagle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mural",
+    "x": 1.9894860315329148,
+    "y": 0.20480559156286282
+  },
+  {
+    "entity": "angel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mural",
+    "x": 1.9060363827425744,
+    "y": 0.6058261364959442
+  },
+  {
+    "entity": "human figure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mural",
+    "x": 1.7426374082467788,
+    "y": 0.9814351040078757
+  },
+  {
+    "entity": "white block letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Yorma's kiosk",
+    "x": 0.05384936569132557,
+    "y": 1.9992749300220423
+  },
+  {
+    "entity": "heart graphic",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tourism poster",
+    "x": -0.17927861780686735,
+    "y": -1.9919485879904781
+  },
+  {
+    "entity": "narrow window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "natural lighting",
+    "x": 0.9477373249459969,
+    "y": -1.7611910637134762
+  },
+  {
+    "entity": "Munich Ostbahnhof candidate",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.0731879469605934,
+    "y": -2.168384591482175
+  },
+  {
+    "entity": "DB kiosk distribution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Yorma's kiosk",
+    "x": -0.5621439437571731,
+    "y": 2.946861752186066
+  },
+  {
+    "entity": "heavy traffic",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124842,
+    "y": -1.76335575687742
+  },
+  {
+    "entity": "suburban feel",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "central station vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8918885820875597,
+    "y": -0.7981105367000261
+  },
+  {
+    "entity": "Dortmund flooring resemblance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "floor tiling",
+    "x": -2.427050983124843,
+    "y": -1.7633557568774192
+  },
+  {
+    "entity": "Stuttgart mural attribution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mural",
+    "x": 2.2592143980108332,
+    "y": 1.9738161778191374
+  },
+  {
+    "entity": "Dresden campaign inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tourism poster",
+    "x": 0.5356706843959094,
+    "y": -2.951788765795889
+  },
+  {
+    "entity": "Yorma's presence profile",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Yorma's kiosk",
+    "x": -1.1790750949617705,
+    "y": 2.758583317654352
+  },
+  {
+    "entity": "Hamburg absence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Yorma's kiosk",
+    "x": -1.7414998560047206,
+    "y": 2.4427808439431358
+  },
+  {
+    "entity": "Yelp confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Yorma's kiosk",
+    "x": -2.223418404149565,
+    "y": 2.0140532763780112
+  },
+  {
+    "entity": "recent mural installation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mural",
+    "x": 1.8097091894284094,
+    "y": 2.3926873280264536
+  },
+  {
+    "entity": "Engel und Adler title",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mural",
+    "x": 1.2842951310843762,
+    "y": 2.7111964178703403
+  },
+  {
+    "entity": "city center inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9879228819857166,
+    "y": -0.26891792671030124
+  },
+  {
+    "entity": "1952 rebuild inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "concrete column",
+    "x": -1.652690944356308,
+    "y": -2.5037197611639077
+  },
+  {
+    "entity": "photo interior identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mural",
+    "x": 0.7050108892188458,
+    "y": 2.9159834783624636
+  }
+]

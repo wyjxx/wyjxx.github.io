@@ -1,0 +1,9 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},  
+{"entity":"London","granularity":4,"parent":"United Kingdom"},  
+{"entity":"City of Westminster","granularity":5,"parent":"London"},  
+{"entity":"Paddington neighborhood","granularity":5,"parent":"London"},  
+{"entity":"London Paddington station","granularity":5,"parent":"London"},  
+{"entity":"Praed Street","granularity":5,"parent":"London"}  
+]

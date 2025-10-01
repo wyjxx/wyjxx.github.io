@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "historic train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494734,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "iron and glass construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": 1.7168975872037322,
+    "y": 1.0257985548118123
+  },
+  {
+    "entity": "steel framework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": 0.7027496481626855,
+    "y": 1.8724697412794744
+  },
+  {
+    "entity": "glass panels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": 0.1792786178068671,
+    "y": 1.9919485879904781
+  },
+  {
+    "entity": "arched window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -0.35711378959727313,
+    "y": 1.9678591771972593
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -0.8677674782351161,
+    "y": 1.8019377358048383
+  },
+  {
+    "entity": "shops",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789971,
+    "y": -0.8443279255020149
+  },
+  {
+    "entity": "restaurants",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.06279051952931321,
+    "y": -0.9980267284282716
+  },
+  {
+    "entity": "modern retail stores",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494723,
+    "y": -0.9510565162951536
+  },
+  {
+    "entity": "ROSSMANN sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shops",
+    "x": -1.0716535899579942,
+    "y": -1.6886558510040297
+  },
+  {
+    "entity": "arched glass ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -1.3158774518794252,
+    "y": 1.506142932007222
+  },
+  {
+    "entity": "central corridor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.63742398974869,
+    "y": -0.770513242775789
+  },
+  {
+    "entity": "shopping center",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.876306680043864,
+    "y": -0.48175367410171455
+  },
+  {
+    "entity": "multi-level structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -1.6691465074426053,
+    "y": 1.1017939629042053
+  },
+  {
+    "entity": "preserved historic structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -1.9678591771972593,
+    "y": 0.3571137895972735
+  },
+  {
+    "entity": "German drugstore chain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ROSSMANN sign",
+    "x": -1.6074803849369914,
+    "y": -2.5329837765060446
+  },
+  {
+    "entity": "19th century style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "iron and glass construction",
+    "x": 2.951788765795889,
+    "y": 0.5356706843959099
+  },
+  {
+    "entity": "20th century style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "iron and glass construction",
+    "x": 2.5753463808055983,
+    "y": 1.5386978322177183
+  },
+  {
+    "entity": "European railway architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "iron and glass construction",
+    "x": 1.8704694055762008,
+    "y": 2.3454944474040893
+  },
+  {
+    "entity": "conversion to shopping center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shopping center",
+    "x": 2.628920040131592,
+    "y": -1.4452610223051436
+  },
+  {
+    "entity": "German urban development",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9763441039434335,
+    "y": -0.37599970069291133
+  },
+  {
+    "entity": "historic preservation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "preserved historic structure",
+    "x": -2.951788765795889,
+    "y": 0.5356706843959103
+  },
+  {
+    "entity": "modern retail integration",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern retail stores",
+    "x": 0.9270509831248417,
+    "y": -2.853169548885461
+  },
+  {
+    "entity": "largest station building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic train station",
+    "x": -2.924783736545471,
+    "y": -0.6675628018689428
+  },
+  {
+    "entity": "distinctive architectural character",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic train station",
+    "x": -2.6417865955702142,
+    "y": -1.4216059874189955
+  }
+]

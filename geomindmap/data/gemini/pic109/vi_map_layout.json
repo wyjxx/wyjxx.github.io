@@ -1,0 +1,74 @@
+[
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1736481776669303,
+    "y": 0.984807753012208
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693033,
+    "y": -0.984807753012208
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859084,
+    "y": -0.3420201433256686
+  },
+  {
+    "entity": "stickers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": 1.8126155740732999,
+    "y": 0.8452365234813989
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.285575219373079,
+    "y": -1.5320888862379558
+  },
+  {
+    "entity": "suffix -straße",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": 0.7764571353075622,
+    "y": 2.897777478867205
+  },
+  {
+    "entity": "German-speaking location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -1.7207293090531386,
+    "y": 2.457456132866975
+  },
+  {
+    "entity": "main customs office",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": 1.0260604299770044,
+    "y": -2.8190778623577257
+  },
+  {
+    "entity": "street intersection",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -2.988584094275237,
+    "y": 0.2614672282429746
+  }
+]

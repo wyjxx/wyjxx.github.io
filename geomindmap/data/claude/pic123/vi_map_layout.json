@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "restaurant brasserie",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.970941817426052,
+    "y": 0.23931566428755777
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4647231720437686,
+    "y": 0.8854560256532099
+  },
+  {
+    "entity": "larger building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936564,
+    "y": 0.5680647467311558
+  },
+  {
+    "entity": "complex",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7485107481711013,
+    "y": -0.663122658240795
+  },
+  {
+    "entity": "shopping center",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2393156642875586,
+    "y": -0.9709418174260518
+  },
+  {
+    "entity": "airport",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "Smurf statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7485107481711007,
+    "y": -0.6631226582407955
+  },
+  {
+    "entity": "glass construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "larger building",
+    "x": -0.78393321972015,
+    "y": 1.8399588873176485
+  },
+  {
+    "entity": "metal construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "larger building",
+    "x": -1.4700112711926567,
+    "y": 1.356121993983782
+  },
+  {
+    "entity": "menu board",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.6109022651018918,
+    "y": 1.1853243827280338
+  },
+  {
+    "entity": "curved glass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "glass construction",
+    "x": -0.78393321972015,
+    "y": 1.8399588873176485
+  },
+  {
+    "entity": "fixtures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "larger building",
+    "x": -1.897072883894291,
+    "y": 0.633335987602945
+  },
+  {
+    "entity": "mosaic tile flooring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "larger building",
+    "x": -1.9898696701252911,
+    "y": -0.20104401487103474
+  },
+  {
+    "entity": "speech bubble",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.1853243827280338,
+    "y": 1.6109022651018918
+  },
+  {
+    "entity": "directional arrow sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.6524055784417389,
+    "y": 1.8905996300692804
+  },
+  {
+    "entity": "interior lighting",
+    "type": "v",
+    "granularity": 3,
+    "parent": "fixtures",
+    "x": -2.8456093258414366,
+    "y": 0.9500039814044174
+  },
+  {
+    "entity": "modern design",
+    "type": "v",
+    "granularity": 3,
+    "parent": "restaurant brasserie",
+    "x": 2.912825452278156,
+    "y": 0.7179469928626733
+  },
+  {
+    "entity": "playful branding",
+    "type": "v",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 0.7881221345957597,
+    "y": -2.8946266600306547
+  },
+  {
+    "entity": "French-speaking location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": 0.09060908340266698,
+    "y": 2.9986313534686
+  },
+  {
+    "entity": "Belgian origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 1.582920732318395,
+    "y": -2.5484038053645652
+  },
+  {
+    "entity": "Smurf origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 2.2455322445133024,
+    "y": -1.9893679747223865
+  },
+  {
+    "entity": "Smurf-themed attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 2.7206230825516347,
+    "y": -1.2642033233175913
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "complex",
+    "x": -2.759938330976473,
+    "y": -1.1758998295802248
+  },
+  {
+    "entity": "commercial setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "complex",
+    "x": -2.245532244513305,
+    "y": -1.9893679747223838
+  },
+  {
+    "entity": "themed location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "complex",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "Smurfs cultural heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": 2.968519198353153,
+    "y": -0.4334671487076659
+  }
+]

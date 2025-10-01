@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "#MOIN",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296142,
+    "y": 0.5264321628773557
+  },
+  {
+    "entity": "park setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4457383557765382,
+    "y": 0.8951632913550623
+  },
+  {
+    "entity": "classical vase",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park setting",
+    "x": -0.45790109990026806,
+    "y": 1.9468761087213857
+  },
+  {
+    "entity": "public space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "urban features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043559,
+    "y": -0.3612416661871527
+  },
+  {
+    "entity": "sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6026346363792565,
+    "y": -0.7980172272802395
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765377,
+    "y": -0.8951632913550626
+  },
+  {
+    "entity": "railing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -0.0615901171123409,
+    "y": -1.9990514394267318
+  },
+  {
+    "entity": "utility pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 0.8914767115530771,
+    "y": -1.7903265827101245
+  },
+  {
+    "entity": "road layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.632393824712444,
+    "y": -1.1555476628165011
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839018,
+    "y": -0.18374951781657006
+  },
+  {
+    "entity": "Moin greeting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "#MOIN",
+    "x": 2.885476929518457,
+    "y": 0.8209889702162485
+  },
+  {
+    "entity": "geographical indicator",
+    "type": "i",
+    "granularity": 3,
+    "parent": "#MOIN",
+    "x": 2.0210869309396715,
+    "y": 2.2170267516619773
+  },
+  {
+    "entity": "city park association",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical vase",
+    "x": 0.3457293093980928,
+    "y": 2.98001195377185
+  },
+  {
+    "entity": "sea connection",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park setting",
+    "x": -2.7443816054640626,
+    "y": 1.2117630146156855
+  },
+  {
+    "entity": "contemporary art installation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sculpture",
+    "x": -1.8079039091377695,
+    "y": -2.3940516818407183
+  },
+  {
+    "entity": "historical context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical vase",
+    "x": -1.6377898149874028,
+    "y": 2.513492494900975
+  }
+]

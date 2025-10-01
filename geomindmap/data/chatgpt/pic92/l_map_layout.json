@@ -1,0 +1,135 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Christ Church Cathedral",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.903926402016152,
+    "y": 0.9754516100806412
+  },
+  {
+    "entity": "Dublin Castle",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.157348061512726,
+    "y": 2.777851165098011
+  },
+  {
+    "entity": "Centenary Bridge",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 2.7778511650980113,
+    "y": 4.157348061512726
+  },
+  {
+    "entity": "St. Patrick's Cathedral",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.9754516100806416,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Lower Clanbrassil Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.975451610080641,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Archbishop's Palace",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.77785116509801,
+    "y": 4.157348061512727
+  },
+  {
+    "entity": "Synod Hall",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.157348061512726,
+    "y": 2.777851165098011
+  },
+  {
+    "entity": "Winetavern Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.903926402016152,
+    "y": 0.9754516100806431
+  },
+  {
+    "entity": "Christchurch area",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.903926402016152,
+    "y": -0.9754516100806419
+  },
+  {
+    "entity": "Dublin 8",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.157348061512727,
+    "y": -2.77785116509801
+  },
+  {
+    "entity": "Christ Church Cathedral Precinct",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.777851165098011,
+    "y": -4.157348061512726
+  },
+  {
+    "entity": "Christ Church Quarter",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.9754516100806433,
+    "y": -4.903926402016151
+  },
+  {
+    "entity": "Cathedral Quarter",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.9754516100806415,
+    "y": -4.903926402016152
+  },
+  {
+    "entity": "Christchurch Place",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 2.777851165098013,
+    "y": -4.157348061512725
+  },
+  {
+    "entity": "High Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.157348061512728,
+    "y": -2.7778511650980073
+  },
+  {
+    "entity": "Temple Bar area",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.903926402016153,
+    "y": -0.9754516100806349
+  }
+]

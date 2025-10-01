@@ -1,0 +1,10 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Spain","granularity":2,"parent":"Europe"},  
+{"entity":"Barcelona","granularity":4,"parent":"Spain"},  
+{"entity":"Mount Tibidabo","granularity":4,"parent":"Barcelona"},  
+{"entity":"Eixample district","granularity":5,"parent":"Barcelona"},  
+{"entity":"Bunkers del Carmel","granularity":5,"parent":"Barcelona"},  
+{"entity":"Park Güell","granularity":5,"parent":"Barcelona"},  
+{"entity":"El Carmel","granularity":5,"parent":"Barcelona"}  
+]

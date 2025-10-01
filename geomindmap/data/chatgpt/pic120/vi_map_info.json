@@ -1,0 +1,23 @@
+[
+{"entity": "building facade", "type": "v", "granularity": 1, "parent": null},
+{"entity": "colored bicycle installation", "type": "v", "granularity": 1, "parent": null},
+{"entity": "café sign", "type": "v", "granularity": 1, "parent": null},
+{"entity": "large sign", "type": "v", "granularity": 1, "parent": null},
+{"entity": "narrow medieval street", "type": "v", "granularity": 1, "parent": null},
+{"entity": "brick facade", "type": "v", "granularity": 2, "parent": "building facade"},
+{"entity": "wrought-iron window guard", "type": "v", "granularity": 2, "parent": "building facade"},
+{"entity": "clustered buildings", "type": "v", "granularity": 1, "parent": null},
+{"entity": "pedestrian lane", "type": "v", "granularity": 1, "parent": null},
+{"entity": "17th century facade", "type": "v", "granularity": 2, "parent": "building facade"},
+{"entity": "19th century facade", "type": "v", "granularity": 2, "parent": "building facade"},
+{"entity": "colorful bicycle", "type": "v", "granularity": 2, "parent": "colored bicycle installation"},
+{"entity": "artistic installation", "type": "v", "granularity": 3, "parent": "colored bicycle installation"},
+{"entity": "Belgian context", "type": "i", "granularity": 3, "parent": "café sign"},
+{"entity": "French-speaking context", "type": "i", "granularity": 3, "parent": "café sign"},
+{"entity": "well-known tavern", "type": "i", "granularity": 3, "parent": "café sign"},
+{"entity": "proximity to Manneken Pis", "type": "i", "granularity": 3, "parent": "café sign"},
+{"entity": "historic core", "type": "i", "granularity": 3, "parent": "narrow medieval street"},
+{"entity": "protected district", "type": "i", "granularity": 3, "parent": "clustered buildings"},
+{"entity": "UNESCO zone", "type": "i", "granularity": 3, "parent": "clustered buildings"},
+{"entity": "exact spot", "type": "i", "granularity": 3, "parent": "colored bicycle installation"}
+]

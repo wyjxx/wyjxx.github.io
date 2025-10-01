@@ -1,0 +1,8 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Central Europe","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Würzburg","granularity":4,"parent":"Germany"},
+{"entity":"Marktplatz","granularity":5,"parent":"Würzburg"},
+{"entity":"Altes Rathaus","granularity":5,"parent":"Würzburg"},
+{"entity":"Vierröhrenbrunnen","granularity":5,"parent":"Würzburg"},
+{"entity":"Falkenhaus","granularity":5,"parent":"Würzburg"}]

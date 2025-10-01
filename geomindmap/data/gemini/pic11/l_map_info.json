@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Harz district","granularity":3,"parent":"Germany"},
+{"entity":"Quedlinburg","granularity":4,"parent":"Harz district"},
+{"entity":"Thale","granularity":4,"parent":"Harz district"},
+{"entity":"Poststraße","granularity":5,"parent":"Thale"}
+]

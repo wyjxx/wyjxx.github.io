@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "tall spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.5176380902050413,
+    "y": 1.9318516525781366
+  },
+  {
+    "entity": "stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.732050807568877,
+    "y": 1.0000000000000007
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844388,
+    "y": -0.4999999999999997
+  },
+  {
+    "entity": "red-brick building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252063,
+    "y": -0.9659258262890683
+  },
+  {
+    "entity": "modern urban setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2588190451025203,
+    "y": -0.9659258262890684
+  },
+  {
+    "entity": "tower battlements",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.414213562373096,
+    "y": -1.414213562373094
+  },
+  {
+    "entity": "surrounding modern buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "fountain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": -1.7320508075688776,
+    "y": -0.9999999999999994
+  },
+  {
+    "entity": "Gothic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pointed arches",
+    "x": 2.77163859753386,
+    "y": 1.1480502970952693
+  },
+  {
+    "entity": "Northern European origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stonework",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "Gothic structures",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pointed arches",
+    "x": 1.1480502970952695,
+    "y": 2.77163859753386
+  }
+]

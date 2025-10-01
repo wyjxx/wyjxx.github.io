@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "ornate column",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545184,
+    "y": 0.4154150130018864
+  },
+  {
+    "entity": "statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "square plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684142945,
+    "y": 0.9594929736144975
+  },
+  {
+    "entity": "classical buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809327,
+    "y": 0.14231483827328517
+  },
+  {
+    "entity": "modern buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545186,
+    "y": -0.4154150130018861
+  },
+  {
+    "entity": "construction crane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542586,
+    "y": -0.6548607339452847
+  },
+  {
+    "entity": "pedestrians",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555982,
+    "y": -0.8412535328311808
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14231483827328612,
+    "y": -0.9898214418809326
+  },
+  {
+    "entity": "clear sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452839,
+    "y": -0.7557495743542593
+  },
+  {
+    "entity": "cloudy sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809326,
+    "y": -0.14231483827328617
+  },
+  {
+    "entity": "relief sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ornate column",
+    "x": 1.954293731942319,
+    "y": 0.4251305791059533
+  },
+  {
+    "entity": "wave-pattern pavement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "square plaza",
+    "x": 0.1426783663984647,
+    "y": 1.994904229220507
+  },
+  {
+    "entity": "ornate facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classical buildings",
+    "x": -1.8738994499995232,
+    "y": 0.6989283591981973
+  },
+  {
+    "entity": "golden light",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear sky",
+    "x": 1.3097214678905678,
+    "y": -1.5114991487085185
+  },
+  {
+    "entity": "classical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical buildings",
+    "x": -2.9923563438307603,
+    "y": -0.21401754959769653
+  },
+  {
+    "entity": "neoclassical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate column",
+    "x": 2.4016237227730812,
+    "y": 1.7978329995340405
+  },
+  {
+    "entity": "Portuguese pavement",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wave-pattern pavement",
+    "x": 0.21401754959769706,
+    "y": 2.9923563438307603
+  },
+  {
+    "entity": "European city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "square plaza",
+    "x": -1.3428516301881372,
+    "y": 2.682675809579134
+  },
+  {
+    "entity": "tourist gathering place",
+    "type": "i",
+    "granularity": 3,
+    "parent": "square plaza",
+    "x": -2.1956835665451746,
+    "y": 2.044253818781675
+  },
+  {
+    "entity": "late afternoon",
+    "type": "i",
+    "granularity": 3,
+    "parent": "golden light",
+    "x": 1.2462450390056556,
+    "y": -2.7288959860635567
+  },
+  {
+    "entity": "winter season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": -0.42694451481985835,
+    "y": -2.9694643256427975
+  },
+  {
+    "entity": "latitude and hemisphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "golden light",
+    "x": 2.523760598493541,
+    "y": -1.621922452366797
+  }
+]

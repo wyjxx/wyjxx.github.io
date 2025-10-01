@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "train station platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963936,
+    "y": 0.6142127126896678
+  },
+  {
+    "entity": "train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963935,
+    "y": 0.6142127126896679
+  },
+  {
+    "entity": "modern architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6772815716257414,
+    "y": -0.7357239106731313
+  },
+  {
+    "entity": "interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.08257934547233149,
+    "y": -0.99658449300667
+  },
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8794737512064892,
+    "y": -0.4759473930370734
+  },
+  {
+    "entity": "arched concrete ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -0.32918918056146906,
+    "y": -1.9727226068054446
+  },
+  {
+    "entity": "vaulted architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern architecture",
+    "x": -1.3545631432514829,
+    "y": -1.4714478213462625
+  },
+  {
+    "entity": "wooden slat paneling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural details",
+    "x": 1.4714478213462636,
+    "y": -1.3545631432514817
+  },
+  {
+    "entity": "train livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -0.6493989384093669,
+    "y": 1.8916344834012693
+  },
+  {
+    "entity": "\"Train Express Régional\" text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.784508477236788,
+    "y": 0.9030667166217786
+  },
+  {
+    "entity": "\"Zou!\" livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.9931689860133397,
+    "y": 0.16515869094466534
+  },
+  {
+    "entity": "platform features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station platform",
+    "x": 1.9515927652548712,
+    "y": 0.43736218241275154
+  },
+  {
+    "entity": "\"G\" platform sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station platform",
+    "x": 1.5782810187927874,
+    "y": 1.2284254253793354
+  },
+  {
+    "entity": "double-decker train platforms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station platform",
+    "x": 0.9030667166217793,
+    "y": 1.7845084772367876
+  },
+  {
+    "entity": "wall designs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural details",
+    "x": 1.9388005318786607,
+    "y": -0.4909709742815984
+  },
+  {
+    "entity": "playing card motif",
+    "type": "v",
+    "granularity": 3,
+    "parent": "train livery",
+    "x": -0.12397492274643981,
+    "y": 2.997437275161903
+  },
+  {
+    "entity": "color scheme",
+    "type": "v",
+    "granularity": 3,
+    "parent": "train livery",
+    "x": -1.7432304462058146,
+    "y": 2.441546151810585
+  },
+  {
+    "entity": "TER train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.863215005638522,
+    "y": -0.8955444330050841
+  },
+  {
+    "entity": "built into rock",
+    "type": "i",
+    "granularity": 3,
+    "parent": "interior",
+    "x": 0.9740984076140475,
+    "y": -2.837451725101905
+  }
+]

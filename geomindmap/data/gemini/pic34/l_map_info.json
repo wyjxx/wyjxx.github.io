@@ -1,0 +1,8 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Central Europe","granularity":2,"parent":"Europe"},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Munich","granularity":4,"parent":"Germany"},  
+{"entity":"Kuckucksweg","granularity":5,"parent":"Munich"},  
+{"entity":"Fasanerie","granularity":5,"parent":"Munich"}  
+]

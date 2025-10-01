@@ -1,0 +1,442 @@
+[
+  {
+    "entity": "European-style houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5644432188667693,
+    "y": 0.8254718969627739
+  },
+  {
+    "entity": "countryside houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5163974616389618,
+    "y": 0.856349030251589
+  },
+  {
+    "entity": "semi-detached houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6969375686552933,
+    "y": 0.7171318047589637
+  },
+  {
+    "entity": "row houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7741416106390827,
+    "y": 0.6330124538088701
+  },
+  {
+    "entity": "tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8707460771197775,
+    "y": 0.4917329246456033
+  },
+  {
+    "entity": "flowering shrub",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9740119169423336,
+    "y": 0.22649676742576402
+  },
+  {
+    "entity": "ornamental shrub",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": -7.657137397853899e-16
+  },
+  {
+    "entity": "ivy",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9934817353485501,
+    "y": -0.11399140989054114
+  },
+  {
+    "entity": "small road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8707460771197767,
+    "y": -0.49173292464560464
+  },
+  {
+    "entity": "side street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6106478796354377,
+    "y": -0.7919022459222754
+  },
+  {
+    "entity": "narrow alley",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5163974616389616,
+    "y": -0.8563490302515891
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188555,
+    "y": -0.9096319953545188
+  },
+  {
+    "entity": "parked Mercedes",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.02855605079369571,
+    "y": -0.9995921928281892
+  },
+  {
+    "entity": "blue trash bins",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4154150130018868,
+    "y": -0.9096319953545182
+  },
+  {
+    "entity": "black trash bins",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6106478796354395,
+    "y": -0.7919022459222741
+  },
+  {
+    "entity": "dark grey bins",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7741416106390833,
+    "y": -0.6330124538088694
+  },
+  {
+    "entity": "wooden picket fences",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8707460771197783,
+    "y": -0.49173292464560187
+  },
+  {
+    "entity": "sign \"Landgasthof\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9418443636395252,
+    "y": -0.3360493932154288
+  },
+  {
+    "entity": "sign \"Gaststube\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9853538358476934,
+    "y": -0.17052219263262147
+  },
+  {
+    "entity": "red-brown tiled roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.996317871520345,
+    "y": 0.12130521772982157
+  },
+  {
+    "entity": "white plaster walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.9669421421813926,
+    "y": 0.3621306522663802
+  },
+  {
+    "entity": "steep gabled roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.868861390689126,
+    "y": 0.7122900409183788
+  },
+  {
+    "entity": "pastel facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.7090000850607734,
+    "y": 1.0389026466720879
+  },
+  {
+    "entity": "metal chimney caps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.57063386176149,
+    "y": 1.238187898619668
+  },
+  {
+    "entity": "roughcast plaster",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.4091558305322591,
+    "y": 1.419253270306938
+  },
+  {
+    "entity": "horizontal window slats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.226942133473119,
+    "y": 1.5794343927838317
+  },
+  {
+    "entity": "dormer windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.0266740370912828,
+    "y": 1.7163742079053412
+  },
+  {
+    "entity": "window boxes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 0.6989283591981968,
+    "y": 1.8738994499995234
+  },
+  {
+    "entity": "shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 0.22798281978108131,
+    "y": 1.9869634706971004
+  },
+  {
+    "entity": "potted plant",
+    "type": "v",
+    "granularity": 2,
+    "parent": "window boxes",
+    "x": 0.6989283591981968,
+    "y": 1.8738994499995234
+  },
+  {
+    "entity": "pink blossoms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "flowering shrub",
+    "x": -1.9021130325903073,
+    "y": 0.6180339887498942
+  },
+  {
+    "entity": "tall poplars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": -1.741492154239555,
+    "y": 0.9834658492912066
+  },
+  {
+    "entity": "concrete curb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small road",
+    "x": -1.9427218462531608,
+    "y": -0.47521766390856146
+  },
+  {
+    "entity": "no sidewalk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small road",
+    "x": -1.8047605186062297,
+    "y": -0.8618813552224996
+  },
+  {
+    "entity": "flat terrain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small road",
+    "x": -1.5039934202420513,
+    "y": -1.318333717944215
+  },
+  {
+    "entity": "license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parked Mercedes",
+    "x": -0.05711210158739142,
+    "y": -1.9991843856563785
+  },
+  {
+    "entity": "Bavarian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -0.2033335213141926,
+    "y": 2.9931013145414855
+  },
+  {
+    "entity": "floodplain proximity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "flat terrain",
+    "x": -2.255990130363077,
+    "y": -1.9775005769163223
+  },
+  {
+    "entity": "paper recycling",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue trash bins",
+    "x": 1.2462450390056605,
+    "y": -2.728895986063555
+  },
+  {
+    "entity": "farmhouse inn",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign \"Landgasthof\"",
+    "x": 2.8255330909185754,
+    "y": -1.0081481796462866
+  },
+  {
+    "entity": "village sidewalk absence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "no sidewalk",
+    "x": -2.7071407779093444,
+    "y": -1.2928220328337494
+  },
+  {
+    "entity": "rural vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "countryside houses",
+    "x": -1.3236633037296635,
+    "y": 2.6921952860740754
+  },
+  {
+    "entity": "modern Puchheim buildings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -0.5642478546605777,
+    "y": 2.946459631237281
+  },
+  {
+    "entity": "Zoller+Fröhlich bins",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dark grey bins",
+    "x": 2.3224248319172496,
+    "y": -1.899037361426608
+  },
+  {
+    "entity": "Japanese quince",
+    "type": "i",
+    "granularity": 3,
+    "parent": "flowering shrub",
+    "x": -2.9694643256427984,
+    "y": 0.4269445148198542
+  },
+  {
+    "entity": "Munich license prefix",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": -0.8451976705242892,
+    "y": -2.878478920843492
+  },
+  {
+    "entity": "gable street orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "steep gabled roofs",
+    "x": 2.803292086033689,
+    "y": 1.0684350613775682
+  },
+  {
+    "entity": "Ingolstadt bin absence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "black trash bins",
+    "x": 1.8319436389063186,
+    "y": -2.3757067377668224
+  },
+  {
+    "entity": "Munich street signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9951073117784075,
+    "y": -0.17126643258830032
+  },
+  {
+    "entity": "Alsace shutter style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shutters",
+    "x": 0.34197422967162194,
+    "y": 2.9804452060456508
+  },
+  {
+    "entity": "Austrian plate style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": -0.34197422967161906,
+    "y": -2.980445206045651
+  },
+  {
+    "entity": "EU license design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": 0.17126643258830435,
+    "y": -2.995107311778407
+  },
+  {
+    "entity": "Landshut plate prefix",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": 0.6794903022772963,
+    "y": -2.922035750827
+  },
+  {
+    "entity": "Landshut historical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -0.9168593057380319,
+    "y": 2.8564609245500936
+  },
+  {
+    "entity": "country village inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "countryside houses",
+    "x": -1.7633557568774192,
+    "y": 2.4270509831248424
+  }
+]

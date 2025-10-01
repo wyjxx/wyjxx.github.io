@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "WELT balloon",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "yellow car",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.5176380902050419,
+    "y": 1.9318516525781364
+  },
+  {
+    "entity": "Trabant-like car",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.5176380902050413,
+    "y": 1.9318516525781366
+  },
+  {
+    "entity": "Zimmerstraße sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9615705608064609,
+    "y": 0.3901806440322572
+  },
+  {
+    "entity": "Berlin ♥ You sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.7937454830653767,
+    "y": -0.8845773804380022
+  },
+  {
+    "entity": "Deutsche Post logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.414213562373095,
+    "y": 1.4142135623730951
+  },
+  {
+    "entity": "LANDING LOUNGE sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.8845773804380027,
+    "y": -1.7937454830653765
+  },
+  {
+    "entity": "yellow kiosk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.3901806440322566,
+    "y": -1.9615705608064609
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865479,
+    "y": -0.7071067811865471
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844379,
+    "y": -0.5000000000000012
+  },
+  {
+    "entity": "German translation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "WELT balloon",
+    "x": 2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "architectural analysis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  }
+]

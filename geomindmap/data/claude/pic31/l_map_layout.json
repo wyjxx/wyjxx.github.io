@@ -1,0 +1,177 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749473,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.2965272954236837,
+    "y": 1.977895741202937
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8180130700983252,
+    "y": -0.8335637209905803
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.5368022217137185,
+    "y": -1.2799370810066324
+  },
+  {
+    "entity": "Cyprus",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.148657325365889,
+    "y": -1.6372496293733838
+  },
+  {
+    "entity": "Malta",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.6805863488832866,
+    "y": -1.8806387802323223
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.16515869094466726,
+    "y": -1.9931689860133395
+  },
+  {
+    "entity": "North Africa",
+    "granularity": 2,
+    "parent": "Mediterranean",
+    "x": 0.9079809994790933,
+    "y": -1.782013048376736
+  },
+  {
+    "entity": "Morocco",
+    "granularity": 2,
+    "parent": "Mediterranean",
+    "x": 1.4142135623730947,
+    "y": -1.4142135623730954
+  },
+  {
+    "entity": "Tunisia",
+    "granularity": 2,
+    "parent": "Mediterranean",
+    "x": 1.7820130483767356,
+    "y": -0.9079809994790939
+  },
+  {
+    "entity": "Southern France",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 0.5426416029963279,
+    "y": -2.9505152246171473
+  },
+  {
+    "entity": "Costa del Sol",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 2.5205048654484625,
+    "y": 1.6269773272085346
+  },
+  {
+    "entity": "Costa Brava",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 0.8322087262855336,
+    "y": 2.8822610284105443
+  },
+  {
+    "entity": "Balearic Islands",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -0.4447909431355256,
+    "y": 2.9668436118044053
+  },
+  {
+    "entity": "Canary Islands",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -1.64084447436728,
+    "y": 2.511499434787586
+  },
+  {
+    "entity": "French Riviera",
+    "granularity": 3,
+    "parent": "Mediterranean",
+    "x": 2.963065021785413,
+    "y": -0.46930339512069336
+  },
+  {
+    "entity": "Marbella",
+    "granularity": 4,
+    "parent": "Costa del Sol",
+    "x": 3.9272081813226785,
+    "y": 0.7596287912870473
+  },
+  {
+    "entity": "Torremolinos",
+    "granularity": 4,
+    "parent": "Costa del Sol",
+    "x": 3.3606731539312835,
+    "y": 2.169303102944713
+  },
+  {
+    "entity": "Málaga",
+    "granularity": 4,
+    "parent": "Costa del Sol",
+    "x": 2.3093308615797863,
+    "y": 3.266035972207771
+  },
+  {
+    "entity": "Barcelona",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -3.0452004496973784,
+    "y": 2.5935987008716066
+  },
+  {
+    "entity": "Valencia",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -3.654181830570404,
+    "y": 1.6269465723032002
+  },
+  {
+    "entity": "Palma de Mallorca",
+    "granularity": 4,
+    "parent": "Balearic Islands",
+    "x": -0.5930545908473674,
+    "y": 3.955791482405874
+  },
+  {
+    "entity": "Alicante",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -3.999756983577372,
+    "y": -0.044091635533776534
+  },
+  {
+    "entity": "Explanada de España",
+    "granularity": 5,
+    "parent": "Alicante",
+    "x": -4.999696229471715,
+    "y": -0.05511454441722067
+  }
+]

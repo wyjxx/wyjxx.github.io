@@ -1,0 +1,21 @@
+[
+{"entity":"grand library","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"buildings","type":"v","granularity":1,"parent":null},
+{"entity":"long hall","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"wooden barrel-vaulted ceiling","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"bookshelves","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"busts","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"sphere of the Earth","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"Gaia installation","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"Latin text","type":"v","granularity":2,"parent":"grand library"},
+{"entity":"old library","type":"i","granularity":3,"parent":"grand library"},
+{"entity":"Latin legal terms","type":"i","granularity":3,"parent":"Latin text"},
+{"entity":"subject headings","type":"i","granularity":3,"parent":"Latin text"},
+{"entity":"law college","type":"i","granularity":3,"parent":"Latin text"},
+{"entity":"Mary P. Clancy","type":"i","granularity":3,"parent":"Latin text"},
+{"entity":"STEPH","type":"i","granularity":3,"parent":"Latin text"},
+{"entity":"Gaia by Luke Jerram","type":"i","granularity":3,"parent":"Gaia installation"},
+{"entity":"historical context","type":"i","granularity":3,"parent":"architecture"},
+{"entity":"architectural details","type":"i","granularity":3,"parent":"architecture"}
+]

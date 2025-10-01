@@ -1,0 +1,16 @@
+[
+{"entity":"commemorative plaque","type":"v","granularity":1,"parent":null},
+{"entity":"marker","type":"v","granularity":1,"parent":null},
+{"entity":"entrance building","type":"v","granularity":1,"parent":null},
+{"entity":"mosaic tilework","type":"v","granularity":2,"parent":"entrance building"},
+{"entity":"German language text","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"historic tunnel","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"St. Pauli Elbe Tunnel","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"renovations in 1983","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"early 20th-century engineering","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"innovative urban infrastructure","type":"i","granularity":3,"parent":"entrance building"},
+{"entity":"construction dates 1907-1911","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"tunnel length 426.50m","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"4 elevators","type":"i","granularity":3,"parent":"commemorative plaque"},
+{"entity":"130 person capacity","type":"i","granularity":3,"parent":"commemorative plaque"}
+]

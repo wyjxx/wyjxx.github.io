@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": 0.3681245526846779
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.18738131458572482,
+    "y": 0.9822872507286886
+  },
+  {
+    "entity": "stepped gables",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.2469796037174672,
+    "y": 1.5636629649360596
+  },
+  {
+    "entity": "dormer windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.7529105307487839,
+    "y": 1.852869594085775
+  },
+  {
+    "entity": "Ratskeller sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -1.9447398407953533,
+    "y": 0.46689072771181017
+  },
+  {
+    "entity": "clock tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.19715084440488678,
+    "y": 1.9902591651718227
+  },
+  {
+    "entity": "sundial",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.37476262917144965,
+    "y": 1.9645745014573772
+  },
+  {
+    "entity": "tree mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -1.9977797499239398,
+    "y": -0.09421290141928632
+  },
+  {
+    "entity": "oriel window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.9159694842061356,
+    "y": 1.7779201061923862
+  },
+  {
+    "entity": "fountain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -1.7820130483767351,
+    "y": -0.9079809994790949
+  },
+  {
+    "entity": "column",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -1.2504853126714102,
+    "y": -1.5608608146766596
+  },
+  {
+    "entity": "man-made elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214116,
+    "y": -0.6845471059286887
+  },
+  {
+    "entity": "mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -0.765366864730179,
+    "y": -1.8477590650225737
+  },
+  {
+    "entity": "signage fragments",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": -0.21946862218208965,
+    "y": -1.9879219109103594
+  },
+  {
+    "entity": "street views",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4257792915650726,
+    "y": -0.9048270524660196
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.3821252979737293,
+    "y": 1.445589727654783
+  },
+  {
+    "entity": "FONTANA sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made elements",
+    "x": 0.34385820055882027,
+    "y": -1.9702186523095477
+  },
+  {
+    "entity": "red facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.7350350434354356,
+    "y": 0.9948132478264433
+  },
+  {
+    "entity": "background architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 1.9645745014573774,
+    "y": 0.3747626291714492
+  },
+  {
+    "entity": "central square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.63742398974869,
+    "y": -0.770513242775789
+  },
+  {
+    "entity": "Germanic influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.5329837765060454,
+    "y": 1.6074803849369896
+  },
+  {
+    "entity": "German-speaking city",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4270509831248432,
+    "y": -1.7633557568774179
+  },
+  {
+    "entity": "fountain's style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fountain",
+    "x": -2.673019572565103,
+    "y": -1.3619714992186425
+  },
+  {
+    "entity": "search results",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7893294576647554,
+    "y": -1.104373658054031
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.976344103943434,
+    "y": -0.37599970069290867
+  }
+]

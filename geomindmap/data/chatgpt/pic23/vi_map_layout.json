@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6801727377709194,
+    "y": 0.7330518718298263
+  },
+  {
+    "entity": "coaches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": 1.8926547675983283,
+    "y": 0.6464193149089201
+  },
+  {
+    "entity": "tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.29475517441090443,
+    "y": 0.9555728057861407
+  },
+  {
+    "entity": "glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 0.6098982123984558,
+    "y": -1.904737296981704
+  },
+  {
+    "entity": "footbridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5633200580636224,
+    "y": 0.8262387743159946
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818237,
+    "y": 0.2225209339563141
+  },
+  {
+    "entity": "platform indicators",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.3739938520698034,
+    "y": 1.453320644068054
+  },
+  {
+    "entity": "platforms",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7330518718298262,
+    "y": -0.6801727377709195
+  },
+  {
+    "entity": "rectangular tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platforms",
+    "x": -1.706581763264311,
+    "y": -1.0428704067589967
+  },
+  {
+    "entity": "tactile strips",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platforms",
+    "x": -1.4661037436596525,
+    "y": -1.360345475541839
+  },
+  {
+    "entity": "DB benches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platforms",
+    "x": -1.1674873444695797,
+    "y": -1.623876011431713
+  },
+  {
+    "entity": "window markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coaches",
+    "x": 1.9879765698335705,
+    "y": 0.21897296132799401
+  },
+  {
+    "entity": "pantograph",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": 1.4762379949746811,
+    "y": 1.3493410918641489
+  },
+  {
+    "entity": "overhead catenary",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tracks",
+    "x": -0.3718232143258296,
+    "y": 1.9651329464665763
+  },
+  {
+    "entity": "station hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14904226617617344,
+    "y": -0.9888308262251287
+  },
+  {
+    "entity": "glass panels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station hall",
+    "x": -0.8339215655226551,
+    "y": -1.817848954824422
+  },
+  {
+    "entity": "red stripe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coaches",
+    "x": 1.8926547675983283,
+    "y": 0.6464193149089201
+  },
+  {
+    "entity": "class-2 door markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coaches",
+    "x": 1.7065817632643112,
+    "y": 1.0428704067589962
+  },
+  {
+    "entity": "platform numbers 12–14",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.5980209707164987,
+    "y": 1.2026341825968108
+  },
+  {
+    "entity": "long-distance tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tracks",
+    "x": -0.7997840486394824,
+    "y": 1.8331245117399522
+  },
+  {
+    "entity": "platform zones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.7768912719577448,
+    "y": 0.9179637289350752
+  },
+  {
+    "entity": "blue-on-white letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.9055502454457929,
+    "y": 0.6073534902192284
+  },
+  {
+    "entity": "train shed",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298266,
+    "y": -0.6801727377709191
+  },
+  {
+    "entity": "steel and glass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 0.9250765804816715,
+    "y": -1.7731986127459995
+  },
+  {
+    "entity": "glazed side-walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 1.2132797549885115,
+    "y": -1.5899535326967948
+  },
+  {
+    "entity": "parallel roof bays",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 1.4661037436596531,
+    "y": -1.3603454755418383
+  },
+  {
+    "entity": "skylight bays",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 1.6761762097836816,
+    "y": -1.0910698024210967
+  },
+  {
+    "entity": "full-height window walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train shed",
+    "x": 1.837371449220717,
+    "y": -0.7899785804618769
+  },
+  {
+    "entity": "hall B",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station hall",
+    "x": -0.4814241508179443,
+    "y": -1.9411931349067824
+  },
+  {
+    "entity": "station design features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9972037971811801,
+    "y": -0.0747300935864239
+  },
+  {
+    "entity": "ICE 1",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 1.852872985468853,
+    "y": 2.35941978031035
+  },
+  {
+    "entity": "ICE 2",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 1.4413265513380125,
+    "y": 2.6310792029903
+  },
+  {
+    "entity": "ICE 3",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 0.9908371858655001,
+    "y": 2.831649990925103
+  },
+  {
+    "entity": "Class 411",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 0.5135765765939243,
+    "y": 2.955712959672178
+  },
+  {
+    "entity": "Bordrestaurant",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": 0.02243973827319715,
+    "y": 2.999916075183809
+  },
+  {
+    "entity": "GRUPPE",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.9705433760093367,
+    "y": 0.41937101860649817
+  },
+  {
+    "entity": "GRUNDIG",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.9988198791491585,
+    "y": -0.0841387688276085
+  },
+  {
+    "entity": "DB stations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station hall",
+    "x": -0.16821134171157193,
+    "y": -2.99528044505345
+  },
+  {
+    "entity": "DB Gruppe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.9423558412096913,
+    "y": -0.585270966048385
+  },
+  {
+    "entity": "Deutsche Bahn",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.802746820883799,
+    "y": -1.0698645979869406
+  },
+  {
+    "entity": "DB’s major terminals",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station hall",
+    "x": 0.39157857666015905,
+    "y": -2.974334584121431
+  },
+  {
+    "entity": "1924 extension",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train shed",
+    "x": 2.9174835235102536,
+    "y": -0.6987774252551354
+  }
+]

@@ -1,0 +1,17 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Austria","granularity":2,"parent":"Europe"},  
+  {"entity":"Switzerland","granularity":2,"parent":"Europe"},  
+  {"entity":"France","granularity":2,"parent":"Europe"},  
+  {"entity":"Alsace","granularity":3,"parent":"France"},  
+  {"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+  {"entity":"Baden-Württemberg","granularity":3,"parent":"Germany"},  
+  {"entity":"Hesse","granularity":3,"parent":"Germany"},  
+  {"entity":"Thuringia","granularity":3,"parent":"Germany"},  
+  {"entity":"Franconia","granularity":3,"parent":"Germany"},  
+  {"entity":"southern German regions","granularity":3,"parent":"Germany"},  
+  {"entity":"Romantic Road","granularity":3,"parent":"Germany"},  
+  {"entity":"Rothenburg ob der Tauber","granularity":4,"parent":"Bavaria"},  
+  {"entity":"Plönlein","granularity":5,"parent":"Rothenburg ob der Tauber"}  
+]

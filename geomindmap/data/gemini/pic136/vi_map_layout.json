@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "historic-looking building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3653410243663952,
+    "y": 0.9308737486442041
+  },
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159945,
+    "y": 0.5633200580636226
+  },
+  {
+    "entity": "monastery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861406,
+    "y": 0.2947551744109046
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9009688679024196,
+    "y": -0.4338837391175572
+  },
+  {
+    "entity": "cobblestone street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2225209339563163,
+    "y": -0.9749279121818232
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631248,
+    "y": -0.9749279121818241
+  },
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6234898018587319,
+    "y": -0.781831482468031
+  },
+  {
+    "entity": "sunlight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9009688679024183,
+    "y": -0.43388373911755995
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic-looking building",
+    "x": 1.7426374082467788,
+    "y": 0.9814351040078755
+  },
+  {
+    "entity": "azulejos tilework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic-looking building",
+    "x": 0.06410315514331111,
+    "y": 1.9989724324013758
+  },
+  {
+    "entity": "multi-story structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding buildings",
+    "x": -1.997513842437845,
+    "y": -0.0996917713213927
+  },
+  {
+    "entity": "arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding buildings",
+    "x": -1.8019377358048392,
+    "y": -0.8677674782351144
+  },
+  {
+    "entity": "iron railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding buildings",
+    "x": -1.3233716751937208,
+    "y": -1.4995624059354666
+  },
+  {
+    "entity": "building materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic-looking building",
+    "x": -1.2132797549885095,
+    "y": 1.5899535326967962
+  },
+  {
+    "entity": "street details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone street",
+    "x": -0.4450418679126326,
+    "y": -1.9498558243636464
+  },
+  {
+    "entity": "Portuguese city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "azulejos tilework",
+    "x": 0.8535827598930981,
+    "y": 2.8760035591099817
+  },
+  {
+    "entity": "Baroque style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": 2.9018845891170884,
+    "y": 0.7609637517285219
+  },
+  {
+    "entity": "Baroque architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": 2.1550480502931832,
+    "y": 2.087047651810459
+  },
+  {
+    "entity": "search results",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9664924786753852,
+    "y": -0.4471267985285258
+  },
+  {
+    "entity": "tiles indicate Portugal",
+    "type": "i",
+    "granularity": 3,
+    "parent": "azulejos tilework",
+    "x": -0.6675628018689417,
+    "y": 2.9247837365454714
+  },
+  {
+    "entity": "street view verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": 1.8704694055761957,
+    "y": -2.345494447404093
+  }
+]

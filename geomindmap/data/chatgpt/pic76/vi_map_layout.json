@@ -1,0 +1,162 @@
+[
+  {
+    "entity": "airport interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8910065241883679,
+    "y": 0.45399049973954675
+  },
+  {
+    "entity": "seating area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "curved wooden bench",
+    "type": "v",
+    "granularity": 2,
+    "parent": "seating area",
+    "x": 0.6180339887498949,
+    "y": 1.902113032590307
+  },
+  {
+    "entity": "living tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1564344650402308,
+    "y": 0.9876883405951378
+  },
+  {
+    "entity": "yellow sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8910065241883678,
+    "y": 0.45399049973954686
+  },
+  {
+    "entity": "yellow lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow sign",
+    "x": -1.7820130483767356,
+    "y": 0.9079809994790937
+  },
+  {
+    "entity": "glass façade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "steel truss roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.15643446504023104,
+    "y": -0.9876883405951377
+  },
+  {
+    "entity": "exposed steel trusses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "steel truss roof",
+    "x": -0.7653668647301807,
+    "y": -1.847759065022573
+  },
+  {
+    "entity": "linear skylights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "steel truss roof",
+    "x": 0.15691819145569041,
+    "y": -1.993834667466256
+  },
+  {
+    "entity": "banks of glass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "glass façade",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "small apron",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "regional jet stands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small apron",
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "tiny unique design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport interior",
+    "x": 2.9171097611930294,
+    "y": 0.7003360915677161
+  },
+  {
+    "entity": "renovated passenger hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport interior",
+    "x": 2.2812178968000927,
+    "y": 1.948344144990551
+  },
+  {
+    "entity": "typography matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow lettering",
+    "x": -1.6339171050450803,
+    "y": 2.5160117038362726
+  },
+  {
+    "entity": "color matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow lettering",
+    "x": -2.6730195725651034,
+    "y": 1.3619714992186407
+  },
+  {
+    "entity": "placement matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow lettering",
+    "x": -2.9958886042637216,
+    "y": -0.15700786872882935
+  },
+  {
+    "entity": "7 km northwest",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6730195725651034,
+    "y": -1.361971499218641
+  },
+  {
+    "entity": "borough within district",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.963065021785413,
+    "y": -0.46930339512069336
+  }
+]

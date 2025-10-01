@@ -1,0 +1,13 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Southern Germany","granularity":3,"parent":"Germany"},
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},
+{"entity":"Swabia","granularity":3,"parent":"Germany"},
+{"entity":"Baden-Württemberg","granularity":3,"parent":"Germany"},
+{"entity":"Ulm","granularity":4,"parent":"Baden-Württemberg"},
+{"entity":"Augsburg","granularity":4,"parent":"Bavaria"},
+{"entity":"Lechviertel","granularity":5,"parent":"Augsburg"},
+{"entity":"Vorderer Lech","granularity":5,"parent":"Augsburg"},
+{"entity":"Fishermen's Quarter","granularity":5,"parent":"Ulm"}
+]

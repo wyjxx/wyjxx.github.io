@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Belgium","granularity":2,"parent":"Europe"},
+{"entity":"Brussels","granularity":4,"parent":"Belgium"},
+{"entity":"Antwerp","granularity":4,"parent":"Belgium"},
+{"entity":"Bruges","granularity":4,"parent":"Belgium"},
+{"entity":"Grand-Place","granularity":5,"parent":"Brussels"},
+{"entity":"Grote Markt","granularity":5,"parent":"Antwerp"},
+{"entity":"Markt","granularity":5,"parent":"Bruges"},
+{"entity":"Îlot Sacré","granularity":5,"parent":"Brussels"}
+]

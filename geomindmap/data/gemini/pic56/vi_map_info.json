@@ -1,0 +1,13 @@
+[
+{"entity":"traditional windmills","type":"v","granularity":1,"parent":null},
+{"entity":"rolling terrain","type":"v","granularity":1,"parent":null},
+{"entity":"arid environment","type":"v","granularity":1,"parent":null},
+{"entity":"path","type":"v","granularity":1,"parent":null},
+{"entity":"stone wall","type":"v","granularity":1,"parent":null},
+{"entity":"hill silhouette","type":"v","granularity":1,"parent":null},
+{"entity":"overall scenery","type":"v","granularity":1,"parent":null},
+{"entity":"windmill arrangement","type":"v","granularity":2,"parent":"traditional windmills"},
+{"entity":"modern wind turbines","type":"i","granularity":3,"parent":"traditional windmills"},
+{"entity":"regional architecture","type":"i","granularity":3,"parent":"traditional windmills"},
+{"entity":"windmill design","type":"i","granularity":3,"parent":"traditional windmills"}
+]

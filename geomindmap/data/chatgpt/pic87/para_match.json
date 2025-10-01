@@ -1,0 +1,54 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "white chalk cliffs",
+    "pebble beach",
+    "sunset",
+    "grassland vegetation",
+    "walkers",
+    "sun",
+    "time of day"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Seven Sisters cliffs",
+      "status": 3,
+      "related_clue": [
+        "white chalk cliffs",
+        "pebble beach",
+        "sunset",
+        "grassland vegetation",
+        "walkers"
+      ]
+    },
+    {
+      "loc": "East Sussex",
+      "status": 3,
+      "related_clue": [
+        "white chalk cliffs",
+        "pebble beach",
+        "sunset",
+        "grassland vegetation",
+        "walkers"
+      ]
+    },
+    {
+      "loc": "England",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Beachy Head",
+      "status": 1,
+      "related_clue": [
+        "white chalk cliffs",
+        "pebble beach"
+      ]
+    },
+    {
+      "loc": "Eastbourne",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{"paragraph":2,"clue":["sun","water","golden hue","sunrise","pebble beach","sand","time of day","popular spot","rural area"],"loc-clue":[{"loc":"Seven Sisters cliffs","status":3,"related_clue":["pebble beach"]},{"loc":"Seaford Head","status":2,"related_clue":[]},{"loc":"Beachy Head","status":2,"related_clue":[]},{"loc":"Cuckmere Haven","status":2,"related_clue":["pebble beach","sand"]},{"loc":"Birling Gap","status":3,"related_clue":["pebble beach","popular spot","rural area"]}]},{"paragraph":3,"clue":["white chalk cliffs","pebble beach","grassland vegetation","typical chalk coastlines"],"loc-clue":[{"loc":"Seven Sisters Country Park","status":2,"related_clue":["white chalk cliffs"]},{"loc":"Seaford","status":2,"related_clue":[]},{"loc":"Eastbourne","status":2,"related_clue":[]},{"loc":"Birling Gap","status":3,"related_clue":["pebble beach","grassland vegetation"]},{"loc":"Beachy Head","status":2,"related_clue":["white chalk cliffs"]},{"loc":"East Sussex","status":3,"related_clue":["white chalk cliffs"]},{"loc":"England","status":3,"related_clue":[]}] },{"paragraph":4,"clue":["hill"],"loc-clue":[{"loc":"Seven Sisters cliffs","status":2,"related_clue":["hill"]},{"loc":"Beachy Head","status":1,"related_clue":["hill"]},{"loc":"Birling Gap","status":3,"related_clue":[]},{"loc":"East Dean","status":3,"related_clue":[]},{"loc":"East Sussex","status":3,"related_clue":[]},{"loc":"England","status":3,"related_clue":[]}]},{"paragraph":5,"clue":["white chalk cliffs","summits","bedding planes","fluting","pebble beach","pebbles","flints","tussocky grass","heathland","chalk-grass downland","trees","urban structures","sun","water","reflections","headlands","promontory","sunset","typical chalk coastlines","protected landscape"],"loc-clue":[{"loc":"Seven Sisters cliffs","status":3,"related_clue":["white chalk cliffs","summits","bedding planes","fluting","headlands"]},{"loc":"Birling Gap","status":3,"related_clue":["pebble beach","pebbles","flints","tussocky grass","heathland","chalk-grass downland","protected landscape"]},{"loc":"Beachy Head","status":1,"related_clue":["promontory","summits"]},{"loc":"Dover","status":1,"related_clue":["summits"]},{"loc":"West Sussex","status":1,"related_clue":["pebbles","flints"]},{"loc":"South Downs chalk escarpment","status":2,"related_clue":["bedding planes","fluting"]},{"loc":"South Downs National Park","status":2,"related_clue":["chalk-grass downland"]},{"loc":"Seven Sisters Country Park","status":2,"related_clue":["chalk-grass downland"]},{"loc":"English Channel","status":2,"related_clue":["sun","water","reflections","sunset"]},{"loc":"East Sussex","status":2,"related_clue":["bedding planes","fluting"]}]},{"paragraph":6,"clue":[],"loc-clue":[{"loc":"Birling Gap","status":3,"related_clue":[]},{"loc":"Seven Sisters Country Park","status":3,"related_clue":[]},{"loc":"East Sussex","status":3,"related_clue":[]},{"loc":"England","status":3,"related_clue":[]}] }]

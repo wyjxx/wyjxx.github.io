@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9396926207859083,
+    "y": 0.3420201433256689
+  },
+  {
+    "entity": "Aegean Sea",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859084,
+    "y": -0.3420201433256686
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8793852415718166,
+    "y": 0.6840402866513378
+  },
+  {
+    "entity": "Cyclades islands",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": -2.0587249136062002,
+    "y": 2.1821209247191464
+  },
+  {
+    "entity": "Thera municipality",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": 1.1882392981174696,
+    "y": -2.7546483206408223
+  },
+  {
+    "entity": "Santorini",
+    "granularity": 4,
+    "parent": "Cyclades islands",
+    "x": -2.744966551474934,
+    "y": 2.9094945662921954
+  },
+  {
+    "entity": "Oia",
+    "granularity": 4,
+    "parent": "Santorini",
+    "x": -2.744966551474934,
+    "y": 2.9094945662921954
+  },
+  {
+    "entity": "Kasteli neighborhood",
+    "granularity": 5,
+    "parent": "Oia",
+    "x": 1.9803988301957844,
+    "y": 4.59108053440137
+  },
+  {
+    "entity": "Byzantine Castle ruins",
+    "granularity": 5,
+    "parent": "Oia",
+    "x": -4.698463103929543,
+    "y": -1.710100716628341
+  }
+]

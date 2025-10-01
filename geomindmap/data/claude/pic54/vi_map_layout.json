@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "architectural complex",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.142314838273285,
+    "y": 0.9898214418809328
+  },
+  {
+    "entity": "white/cream buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545186,
+    "y": -0.4154150130018861
+  },
+  {
+    "entity": "palace",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542586,
+    "y": -0.6548607339452847
+  },
+  {
+    "entity": "fortress complex",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555982,
+    "y": -0.8412535328311808
+  },
+  {
+    "entity": "reflecting pool",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684143056,
+    "y": -0.9594929736144971
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414285,
+    "y": -0.9594929736144977
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311803,
+    "y": -0.540640817455599
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809325,
+    "y": -0.14231483827328706
+  },
+  {
+    "entity": "central tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural complex",
+    "x": 1.9757811763634503,
+    "y": 0.31030427507184105
+  },
+  {
+    "entity": "crenellated battlements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural complex",
+    "x": 1.7855356901957273,
+    "y": 0.9010340165816536
+  },
+  {
+    "entity": "horseshoe arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural complex",
+    "x": 1.4233632166091204,
+    "y": 1.4050043251193707
+  },
+  {
+    "entity": "lighting and shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue sky",
+    "x": 0.563465113682857,
+    "y": -1.9189859472289954
+  },
+  {
+    "entity": "layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural complex",
+    "x": 0.9241368878807924,
+    "y": 1.773688533102135
+  },
+  {
+    "entity": "design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural complex",
+    "x": 0.02596284639586175,
+    "y": 1.9998314755516338
+  },
+  {
+    "entity": "color palette",
+    "type": "v",
+    "granularity": 3,
+    "parent": "design",
+    "x": 0.03894426959379263,
+    "y": 2.9997472133274505
+  },
+  {
+    "entity": "Islamic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural complex",
+    "x": -1.3166689485328669,
+    "y": 2.6956229113081367
+  },
+  {
+    "entity": "Moorish architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural complex",
+    "x": -2.0796129840761672,
+    "y": 2.162223354896949
+  },
+  {
+    "entity": "Nasrid architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural complex",
+    "x": -2.6423136991903924,
+    "y": 1.4206260292810295
+  },
+  {
+    "entity": "warm dry climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting and shadows",
+    "x": 0.8451976705242855,
+    "y": -2.8784789208434933
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 2.523760598493541,
+    "y": -1.621922452366797
+  },
+  {
+    "entity": "Nasrid dynasty",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural complex",
+    "x": -2.9505893492600475,
+    "y": 0.5422384088509133
+  },
+  {
+    "entity": "mid-13th to late-14th centuries",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural complex",
+    "x": -2.974756459402999,
+    "y": -0.38836066644310585
+  }
+]

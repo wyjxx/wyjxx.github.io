@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.7653668647301795,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.7653668647301807,
+    "y": -1.847759065022573
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "Salzburg",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -1.5307337294603613,
+    "y": -3.695518130045146
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.7803612880645133,
+    "y": 3.9231411216129217
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.3258784492101814,
+    "y": 2.2222809320784087
+  },
+  {
+    "entity": "Kapitelplatz",
+    "granularity": 5,
+    "parent": "Salzburg",
+    "x": -1.9134171618254516,
+    "y": -4.619397662556432
+  }
+]

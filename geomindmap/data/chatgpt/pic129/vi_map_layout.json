@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "red tiled roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red-tiled houses",
+    "x": 1.9645745014573774,
+    "y": 0.3747626291714492
+  },
+  {
+    "entity": "red-tiled houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": 0.3681245526846779
+  },
+  {
+    "entity": "densely packed houses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red-tiled houses",
+    "x": 1.6886558510040304,
+    "y": 1.071653589957993
+  },
+  {
+    "entity": "steep slope",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6374239897486897,
+    "y": 0.7705132427757893
+  },
+  {
+    "entity": "wide river",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572452,
+    "y": 0.9822872507286887
+  },
+  {
+    "entity": "far shore",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide river",
+    "x": 0.37476262917144904,
+    "y": 1.9645745014573774
+  },
+  {
+    "entity": "low relief",
+    "type": "v",
+    "granularity": 3,
+    "parent": "far shore",
+    "x": 0.5621439437571736,
+    "y": 2.946861752186066
+  },
+  {
+    "entity": "large white church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "bell tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large white church",
+    "x": -0.9414078643306653,
+    "y": 1.7645824528699066
+  },
+  {
+    "entity": "triangular pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large white church",
+    "x": -1.7762728976270894,
+    "y": 0.9191597212429752
+  },
+  {
+    "entity": "circular oculus",
+    "type": "v",
+    "granularity": 3,
+    "parent": "triangular pediment",
+    "x": -2.664409346440634,
+    "y": 1.3787395818644628
+  },
+  {
+    "entity": "small dome",
+    "type": "v",
+    "granularity": 3,
+    "parent": "bell tower",
+    "x": -1.412111796495998,
+    "y": 2.6468736793048597
+  },
+  {
+    "entity": "twin towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large white church",
+    "x": -1.9993683785665999,
+    "y": 0.05026019088667474
+  },
+  {
+    "entity": "pink station hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9685831611286311,
+    "y": -0.24868988716485502
+  },
+  {
+    "entity": "railroad tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438637,
+    "y": -0.481753674101715
+  },
+  {
+    "entity": "modern white terminal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214116,
+    "y": -0.6845471059286887
+  },
+  {
+    "entity": "large cruise ship",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789963,
+    "y": -0.8443279255020153
+  },
+  {
+    "entity": "old European riverside city",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.9270509831248401,
+    "y": -2.8531695488854614
+  },
+  {
+    "entity": "Porto vs Lisbon comparison",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.18837155858793697,
+    "y": -2.994080185284815
+  },
+  {
+    "entity": "riverside city identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.562143943757178,
+    "y": -2.946861752186065
+  },
+  {
+    "entity": "inferred Lisbon location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.2773378746952226,
+    "y": -2.7144811573980565
+  },
+  {
+    "entity": "inferred church identity",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.912271969246074,
+    "y": -2.3115397283273635
+  },
+  {
+    "entity": "inferred viewpoint",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124847,
+    "y": -1.7633557568774134
+  },
+  {
+    "entity": "pediment match inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.789329457664757,
+    "y": -1.1043736580540262
+  },
+  {
+    "entity": "geolocation conclusion",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9763441039434344,
+    "y": -0.37599970069290334
+  }
+]

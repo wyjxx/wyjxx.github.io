@@ -1,0 +1,450 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5956993044924334,
+    "y": 0.8032075314806449
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9974801873267292,
+    "y": 0.10036384427260113
+  },
+  {
+    "entity": "Austrian Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.937321596386321,
+    "y": 0.4967746291580883
+  },
+  {
+    "entity": "Swiss Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7993017761442642,
+    "y": 0.8732199713497718
+  },
+  {
+    "entity": "Kalkalpen",
+    "granularity": 3,
+    "parent": "Austrian Alps",
+    "x": 2.9538077456445606,
+    "y": 0.5244233039922971
+  },
+  {
+    "entity": "Tatra Mountains",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7027103862105304,
+    "y": 1.0491793653569377
+  },
+  {
+    "entity": "Vancouver",
+    "granularity": 4,
+    "parent": "Canada",
+    "x": 2.8629233011352726,
+    "y": -2.7935049976358934
+  },
+  {
+    "entity": "North Vancouver",
+    "granularity": 4,
+    "parent": "Canada",
+    "x": 3.704840968553244,
+    "y": -1.5080296408656764
+  },
+  {
+    "entity": "Zinal",
+    "granularity": 4,
+    "parent": "Valais",
+    "x": 3.077838914973142,
+    "y": 2.5547813240034754
+  },
+  {
+    "entity": "Valais",
+    "granularity": 3,
+    "parent": "Switzerland",
+    "x": 2.126048244135723,
+    "y": 2.1165818820937234
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.2374868816359037,
+    "y": 1.5711862454142878
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.2705105539360517,
+    "y": 1.544604458214823
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7803894680101056,
+    "y": -0.9111604371342588
+  },
+  {
+    "entity": "Tyrol",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": -1.090605961527605,
+    "y": 2.7947412468206156
+  },
+  {
+    "entity": "Innsbruck",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -0.1257871378301106,
+    "y": 3.998021710290792
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.6705842020151582,
+    "y": -1.3667406557013881
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.87849313585048,
+    "y": -0.9784124872264822
+  },
+  {
+    "entity": "Scandinavia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.3579291479229385,
+    "y": -1.468342068191633
+  },
+  {
+    "entity": "Banff",
+    "granularity": 4,
+    "parent": "Canada",
+    "x": 3.9939023222931787,
+    "y": -0.22078097739876265
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.20390722060485,
+    "y": -1.5970621165676384
+  },
+  {
+    "entity": "Slovenia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.0377584547548873,
+    "y": -1.7096951159738243
+  },
+  {
+    "entity": "Slovakia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.8611564504821353,
+    "y": -1.8051065253311256
+  },
+  {
+    "entity": "Hungerburg",
+    "granularity": 5,
+    "parent": "Innsbruck",
+    "x": 1.4761430826774504,
+    "y": 4.777133198840442
+  },
+  {
+    "entity": "Patscherkofel",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -1.8669425254465482,
+    "y": 3.5375875404969506
+  },
+  {
+    "entity": "Bern",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 1.8698259672137458,
+    "y": 3.5360643167698718
+  },
+  {
+    "entity": "Bremgarten Woods",
+    "granularity": 4,
+    "parent": "Bern",
+    "x": 1.8698259672137458,
+    "y": 3.5360643167698718
+  },
+  {
+    "entity": "Hafelekar",
+    "granularity": 4,
+    "parent": "Innsbruck",
+    "x": 0.6658305442648612,
+    "y": 3.9441944280580232
+  },
+  {
+    "entity": "Seegrube",
+    "granularity": 4,
+    "parent": "Innsbruck",
+    "x": 0.13908149078385704,
+    "y": 3.9975813111081733
+  },
+  {
+    "entity": "Karwendel mountain group",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.6758801023339207,
+    "y": -1.8823352749361866
+  },
+  {
+    "entity": "Seefeld",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -2.439491430687542,
+    "y": 3.1699970914185474
+  },
+  {
+    "entity": "Rosshütte",
+    "granularity": 4,
+    "parent": "Seefeld",
+    "x": -2.439491430687542,
+    "y": 3.1699970914185474
+  },
+  {
+    "entity": "Grundlsee",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -3.6716031024855624,
+    "y": 1.5872399496668395
+  },
+  {
+    "entity": "Bad Ischl",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -3.8182446454737518,
+    "y": 1.1920603287212534
+  },
+  {
+    "entity": "Hintersee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.6877868488700467,
+    "y": -1.5492669741852538
+  },
+  {
+    "entity": "Ramsau bei Berchtesgaden",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.4135882071841315,
+    "y": -2.085045695368192
+  },
+  {
+    "entity": "United States",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.1960342806591209,
+    "y": -1.9903694533443939
+  },
+  {
+    "entity": "Boulder",
+    "granularity": 4,
+    "parent": "Colorado",
+    "x": -0.7803612880645111,
+    "y": -3.923141121612922
+  },
+  {
+    "entity": "Colorado",
+    "granularity": 3,
+    "parent": "United States",
+    "x": -0.29405142098868137,
+    "y": -2.9855541800165906
+  },
+  {
+    "entity": "Flatirons region",
+    "granularity": 3,
+    "parent": "Colorado",
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "Pacific Northwest",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.6737797067844392,
+    "y": -1.8830881303660418
+  },
+  {
+    "entity": "Seattle",
+    "granularity": 4,
+    "parent": "Pacific Northwest",
+    "x": 0.6354325733354447,
+    "y": -3.9492056726314337
+  },
+  {
+    "entity": "Snoqualmie Pass",
+    "granularity": 4,
+    "parent": "Pacific Northwest",
+    "x": 1.1140787575402131,
+    "y": -3.841722077662263
+  },
+  {
+    "entity": "Mt. Si",
+    "granularity": 4,
+    "parent": "Pacific Northwest",
+    "x": 1.5759681602441948,
+    "y": -3.6764554067602297
+  },
+  {
+    "entity": "Cascades",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.1913986089848658,
+    "y": -1.6064150629612906
+  },
+  {
+    "entity": "Leavenworth",
+    "granularity": 4,
+    "parent": "Pacific Northwest",
+    "x": 2.0141535349028743,
+    "y": -3.4558914244863446
+  },
+  {
+    "entity": "Canada",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.8079785862468862,
+    "y": -0.8551101868605651
+  },
+  {
+    "entity": "Vals",
+    "granularity": 4,
+    "parent": "Valais",
+    "x": 2.568490664781437,
+    "y": 3.0664076221093977
+  },
+  {
+    "entity": "Wies",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.06210513201747,
+    "y": -2.573618495517988
+  },
+  {
+    "entity": "Mount Washington",
+    "granularity": 5,
+    "parent": "Vancouver",
+    "x": 3.5786541264190905,
+    "y": -3.4918812470448666
+  },
+  {
+    "entity": "Kitzbühel",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -2.9414574650467293,
+    "y": 2.710687732167036
+  },
+  {
+    "entity": "Salzburg",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -3.9831720386409564,
+    "y": 0.36652491128004755
+  },
+  {
+    "entity": "Gaisbergweg",
+    "granularity": 5,
+    "parent": "Salzburg",
+    "x": -4.927220303603526,
+    "y": 0.8500000469159883
+  },
+  {
+    "entity": "Arzl",
+    "granularity": 5,
+    "parent": "Innsbruck",
+    "x": -0.4876302806987389,
+    "y": 4.976164859542504
+  },
+  {
+    "entity": "Ampass",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -3.229619456554614,
+    "y": 2.359991136814687
+  },
+  {
+    "entity": "Aldrans",
+    "granularity": 4,
+    "parent": "Tyrol",
+    "x": -3.476194963404742,
+    "y": 1.9789059038770647
+  },
+  {
+    "entity": "Hötting",
+    "granularity": 5,
+    "parent": "Innsbruck",
+    "x": -1.1405693031364958,
+    "y": 4.868172312556606
+  },
+  {
+    "entity": "Wilten",
+    "granularity": 5,
+    "parent": "Innsbruck",
+    "x": -1.7735259274414796,
+    "y": 4.674890991744389
+  },
+  {
+    "entity": "Nordkette",
+    "granularity": 3,
+    "parent": "Austrian Alps",
+    "x": 2.841685673349925,
+    "y": 0.9616769384142378
+  },
+  {
+    "entity": "Gaisberg mountain",
+    "granularity": 4,
+    "parent": "Salzburg",
+    "x": -3.999677921731715,
+    "y": 0.050759456378760524
+  },
+  {
+    "entity": "Salzburg Basin",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": -2.9787505297357377,
+    "y": -0.3564341195776014
+  },
+  {
+    "entity": "Lynn Canyon",
+    "granularity": 5,
+    "parent": "North Vancouver",
+    "x": 4.144520573859324,
+    "y": -2.7969535592956825
+  },
+  {
+    "entity": "Grouse Mountain",
+    "granularity": 4,
+    "parent": "North Vancouver",
+    "x": 3.592002318962959,
+    "y": -1.7599770852385337
+  },
+  {
+    "entity": "The Lions",
+    "granularity": 4,
+    "parent": "North Vancouver",
+    "x": 3.8000329800073724,
+    "y": -1.2488992556872993
+  },
+  {
+    "entity": "Lynn Valley",
+    "granularity": 5,
+    "parent": "North Vancouver",
+    "x": 4.919687067246095,
+    "y": -0.8925688546949855
+  }
+]

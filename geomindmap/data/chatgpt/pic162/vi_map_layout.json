@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "street intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9870502626379128,
+    "y": 0.16041128085776024
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7485107481711012,
+    "y": 0.6631226582407951
+  },
+  {
+    "entity": "street sign \"Quintinsstraße\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0402659401094149,
+    "y": 0.9991889981715697
+  },
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6324453755953768,
+    "y": 0.7746049618276549
+  },
+  {
+    "entity": "tram stop shelter",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8451900855437946,
+    "y": 0.5344658261278012
+  },
+  {
+    "entity": "bus shelter",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9870502626379128,
+    "y": 0.16041128085776052
+  },
+  {
+    "entity": "rail viaduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9709418174260521,
+    "y": -0.23931566428755743
+  },
+  {
+    "entity": "public transport",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7485107481711016,
+    "y": -0.6631226582407946
+  },
+  {
+    "entity": "light rail",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4286925614030541,
+    "y": -0.9034504346103823
+  },
+  {
+    "entity": "parking garages",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20002569377604457,
+    "y": -0.9797906520422677
+  },
+  {
+    "entity": "bus stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1205366802553232,
+    "y": -0.992708874098054
+  },
+  {
+    "entity": "old parish church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6927243535095993,
+    "y": -0.7212024473438147
+  },
+  {
+    "entity": "rail overpass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9709418174260522,
+    "y": -0.23931566428755693
+  },
+  {
+    "entity": "red brick corner blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": -1.2648907511907537,
+    "y": 1.5492099236553099
+  },
+  {
+    "entity": "green pedestrian light",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic lights",
+    "x": 1.6227556771131462,
+    "y": 1.1690440592197773
+  },
+  {
+    "entity": "speed limit sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street intersection",
+    "x": 1.9741005252758257,
+    "y": 0.3208225617155205
+  },
+  {
+    "entity": "bike racks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public transport",
+    "x": -1.7453199177512289,
+    "y": -0.9766567384198215
+  },
+  {
+    "entity": "entrance ramp",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parking garages",
+    "x": -0.40005138755208913,
+    "y": -1.9595813040845353
+  },
+  {
+    "entity": "orange stripe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": -1.9210362232627443,
+    "y": 0.5564349278329065
+  },
+  {
+    "entity": "green H sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop",
+    "x": 0.2410733605106464,
+    "y": -1.985417748196108
+  },
+  {
+    "entity": "lamp-post street sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": 0.6789914482728546,
+    "y": 1.8812151958700343
+  },
+  {
+    "entity": "brick-red façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "old parish church",
+    "x": 0.7392440244598228,
+    "y": -1.858364407832986
+  },
+  {
+    "entity": "white joints",
+    "type": "v",
+    "granularity": 2,
+    "parent": "old parish church",
+    "x": 1.0825134548558617,
+    "y": -1.681714785585245
+  },
+  {
+    "entity": "bus and tram stop signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram stop shelter",
+    "x": -1.6903801710875892,
+    "y": 1.0689316522556025
+  },
+  {
+    "entity": "yield sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic lights",
+    "x": 1.034675628355314,
+    "y": 1.7115625446028948
+  },
+  {
+    "entity": "shelter design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": -1.9983779963431392,
+    "y": 0.08053188021883105
+  },
+  {
+    "entity": "Subway",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.99351461626842,
+    "y": -0.16093313743345153
+  },
+  {
+    "entity": "East German Ampelmännchen",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green pedestrian light",
+    "x": 2.670271359477254,
+    "y": 1.3673517714017485
+  },
+  {
+    "entity": "generic design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green pedestrian light",
+    "x": 2.1425724584467343,
+    "y": 2.099853152081239
+  },
+  {
+    "entity": "postal code 55116",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": 0.45736533453103645,
+    "y": 2.964931188201391
+  },
+  {
+    "entity": "381 meters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": -0.12079782032824538,
+    "y": 2.9975669945147088
+  },
+  {
+    "entity": "local railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public transport",
+    "x": -2.245532244513305,
+    "y": -1.9893679747223838
+  },
+  {
+    "entity": "Mainzer Verkehrsgesellschaft",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public transport",
+    "x": -1.7698663200693696,
+    "y": -2.4223074142404197
+  },
+  {
+    "entity": "St. Quintin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "old parish church",
+    "x": 2.0781730605287976,
+    "y": -2.163607342031444
+  },
+  {
+    "entity": "church history",
+    "type": "i",
+    "granularity": 3,
+    "parent": "old parish church",
+    "x": 2.4551437348175584,
+    "y": -1.7240270419532546
+  },
+  {
+    "entity": "German “ß” (Eszett)",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": -0.6944600788768291,
+    "y": 2.9185142108350934
+  },
+  {
+    "entity": "late-Gothic hall church",
+    "type": "i",
+    "granularity": 3,
+    "parent": "old parish church",
+    "x": 2.740636372927802,
+    "y": -1.2202099292274027
+  },
+  {
+    "entity": "freight bypass",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rail viaduct",
+    "x": -2.9128254522781565,
+    "y": -0.7179469928626723
+  },
+  {
+    "entity": "Eastern end of Quintinsstraße",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": -1.2422469300840364,
+    "y": 2.7307183239391035
+  }
+]

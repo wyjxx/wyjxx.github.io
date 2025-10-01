@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Scandinavia","granularity":3,"parent":"Northern Europe"},
+{"entity":"European cities","granularity":3,"parent":"Europe"},
+{"entity":"Sweden","granularity":2,"parent":"Europe"},
+{"entity":"Norway","granularity":2,"parent":"Europe"},
+{"entity":"Denmark","granularity":2,"parent":"Europe"},
+{"entity":"Gothenburg","granularity":4,"parent":"Sweden"},
+{"entity":"Oslo","granularity":4,"parent":"Norway"},
+{"entity":"Nordstan","granularity":5,"parent":"Gothenburg"}
+]

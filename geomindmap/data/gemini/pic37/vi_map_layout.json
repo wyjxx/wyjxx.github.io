@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296142,
+    "y": 0.5264321628773557
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.923651286345638,
+    "y": 0.5473259801441657
+  },
+  {
+    "entity": "plants",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.3473912872931144,
+    "y": 1.4780178344413182
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.273662990072083,
+    "y": 0.961825643172819
+  },
+  {
+    "entity": "street lamp",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720829,
+    "y": 0.961825643172819
+  },
+  {
+    "entity": "landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.739008917220659,
+    "y": 0.6736956436465574
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720831,
+    "y": -0.961825643172819
+  },
+  {
+    "entity": "pond",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": -1.8793852415718164,
+    "y": 0.6840402866513386
+  },
+  {
+    "entity": "canal",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": -1.9291690085549107,
+    "y": -0.5275480418229825
+  },
+  {
+    "entity": "bank",
+    "type": "v",
+    "granularity": 2,
+    "parent": "canal",
+    "x": -1.9291690085549107,
+    "y": -0.5275480418229825
+  },
+  {
+    "entity": "European origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street lamp",
+    "x": -0.8209889702162487,
+    "y": 2.885476929518457
+  },
+  {
+    "entity": "reverse image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": -1.9046675022297674,
+    "y": -2.317809678543477
+  },
+  {
+    "entity": "promising match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": -0.8209889702162494,
+    "y": -2.885476929518457
+  },
+  {
+    "entity": "cross-referencing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": 0.3992113860493637,
+    "y": -2.97331973881864
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": 1.5530270907997283,
+    "y": -2.566730771865669
+  },
+  {
+    "entity": "street view",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": 2.4485907370686677,
+    "y": -1.7333214942247497
+  },
+  {
+    "entity": "user-submitted photos",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": 2.936979516928214,
+    "y": -0.6116790965401007
+  }
+]

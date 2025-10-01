@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Mediterranean Sea",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112867,
+    "y": 0.3826834323650898
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "Catalonia",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -2.7716385975338604,
+    "y": -1.148050297095269
+  },
+  {
+    "entity": "Barcelona",
+    "granularity": 4,
+    "parent": "Catalonia",
+    "x": -3.6955181300451474,
+    "y": -1.5307337294603587
+  },
+  {
+    "entity": "Platja de la Barceloneta",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": 0.49008570164780385,
+    "y": 4.975923633360984
+  },
+  {
+    "entity": "Barceloneta Beach",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -4.784701678661044,
+    "y": 1.4514233862723138
+  },
+  {
+    "entity": "Port Vell",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -2.356983684129989,
+    "y": -4.409606321741775
+  },
+  {
+    "entity": "La Barceloneta",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": 3.86505226681368,
+    "y": -3.171966420818233
+  }
+]

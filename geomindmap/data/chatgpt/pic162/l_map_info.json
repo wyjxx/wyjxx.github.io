@@ -1,0 +1,14 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Mainz","granularity":4,"parent":"Germany"},  
+{"entity":"Quintinsstraße","granularity":5,"parent":"Mainz"},  
+{"entity":"Mainz Hauptbahnhof","granularity":5,"parent":"Mainz"},  
+{"entity":"Rheinstraße","granularity":5,"parent":"Mainz"},  
+{"entity":"Christofsstraße","granularity":5,"parent":"Mainz"},  
+{"entity":"Rheingoldhalle","granularity":5,"parent":"Mainz"},  
+{"entity":"Brand garage","granularity":5,"parent":"Mainz"},  
+{"entity":"Church of St. Quintin","granularity":5,"parent":"Mainz"},  
+{"entity":"Quintinsstraße 5","granularity":5,"parent":"Mainz"},  
+{"entity":"Altstadt","granularity":5,"parent":"Mainz"}  
+]

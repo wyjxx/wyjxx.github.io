@@ -1,0 +1,514 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "birthplace of Johannes Gutenberg",
+    "Gutenbergstadt moniker",
+    "civic sign",
+    "coat of arms",
+    "red flags",
+    "wheel",
+    "red sandstone building",
+    "Baroque architecture"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "birthplace of Johannes Gutenberg",
+        "Gutenbergstadt moniker",
+        "civic sign",
+        "coat of arms",
+        "red flags",
+        "wheel",
+        "red sandstone building",
+        "Baroque architecture"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "birthplace of Johannes Gutenberg"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "white car",
+    "license plate \"LIE\"",
+    "white Toyota",
+    "license plate \"MZ\"",
+    "silver SUV",
+    "bus line 9",
+    "sign \"Willkommen in der Gutenberg-Stadt!\"",
+    "red sandstone facade",
+    "Electoral Palace",
+    "Mainz plate code",
+    "German vehicle registration system",
+    "Mainzer Mobilität line 9",
+    "Gutenbergstadt moniker"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Liechtenstein",
+      "status": 1,
+      "related_clue": [
+        "license plate \"LIE\"",
+        "license plate \"MZ\"",
+        "Mainz plate code"
+      ]
+    },
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "license plate \"MZ\"",
+        "Mainz plate code",
+        "bus line 9",
+        "Mainzer Mobilität line 9",
+        "sign \"Willkommen in der Gutenberg-Stadt!\"",
+        "Gutenbergstadt moniker"
+      ]
+    },
+    {
+      "loc": "Bretzenheim",
+      "status": 2,
+      "related_clue": [
+        "bus line 9",
+        "Mainzer Mobilität line 9"
+      ]
+    },
+    {
+      "loc": "Gutenbergviertel",
+      "status": 3,
+      "related_clue": [
+        "sign \"Willkommen in der Gutenberg-Stadt!\"",
+        "Electoral Palace",
+        "red sandstone facade"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "red flags",
+    "wheel",
+    "four-lane road",
+    "Electoral Palace"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Schillerplatz",
+      "status": 2,
+      "related_clue": [
+        "red flags",
+        "wheel"
+      ]
+    },
+    {
+      "loc": "Münsterplatz",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Rhine promenade",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Bassenheimer Straße",
+      "status": 2,
+      "related_clue": [
+        "four-lane road"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "Electoral Palace",
+    "Mainz has no trams"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Binger Straße",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Stephanstraße",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Rheinstraße",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Schlossstraße",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Bundesstraße 9",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Rhine",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "grassy median",
+    "bus line 9",
+    "Electoral Palace",
+    "Mainz has no trams",
+    "Rheinallee border",
+    "Gutenbergstadt moniker"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mainz",
+      "status": 2,
+      "related_clue": [
+        "Mainz has no trams",
+        "Gutenbergstadt moniker"
+      ]
+    },
+    {
+      "loc": "Altstadt",
+      "status": 2,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Neustadt",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Rheinallee",
+      "status": 2,
+      "related_clue": [
+        "Rheinallee border"
+      ]
+    },
+    {
+      "loc": "Rhine",
+      "status": 2,
+      "related_clue": [
+        "Rheinallee border"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "parked cars",
+    "sign \"Willkommen in der Gutenberg-Stadt!\"",
+    "Bundesstraße 9 arterial",
+    "Electoral Palace",
+    "red sandstone facade",
+    "scaffolding",
+    "Hecht Gerüstbau contract"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "sign \"Willkommen in der Gutenberg-Stadt!\"",
+        "Bundesstraße 9 arterial"
+      ]
+    },
+    {
+      "loc": "Wiesbaden",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Bundesstraße 9",
+      "status": 2,
+      "related_clue": [
+        "Bundesstraße 9 arterial"
+      ]
+    },
+    {
+      "loc": "Theodor Heuss Bridge",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Altstadt",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [
+    "portrait",
+    "sign \"Willkommen in der Gutenberg-Stadt!\"",
+    "civic sign",
+    "German civic sign style",
+    "Gutenbergstadt moniker"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Gutenbergplatz",
+      "status": 1,
+      "related_clue": [
+        "civic sign",
+        "German civic sign style"
+      ]
+    },
+    {
+      "loc": "Mainz-Altstadt",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "German civic sign style"
+      ]
+    }
+  ]
+},{
+  "paragraph": 8,
+  "clue": [
+    "German civic sign style",
+    "civic sign",
+    "birthplace of Johannes Gutenberg",
+    "Gutenbergstadt moniker",
+    "Bundesstraße 9 arterial",
+    "Wikipedia",
+    "Electoral Palace"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "civic sign",
+        "birthplace of Johannes Gutenberg",
+        "Gutenbergstadt moniker",
+        "Bundesstraße 9 arterial"
+      ]
+    },
+    {
+      "loc": "Rheinallee",
+      "status": 3,
+      "related_clue": [
+        "Bundesstraße 9 arterial"
+      ]
+    },
+    {
+      "loc": "Wiesbaden",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Rhine",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Theodor Heuss Bridge",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Mainz-Altstadt",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Gutenbergplatz",
+      "status": 2,
+      "related_clue": [
+        "Wikipedia"
+      ]
+    },
+    {
+      "loc": "Altstadt",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "German civic sign style"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 9,
+  "clue": [
+    "Wikipedia",
+    "birthplace of Johannes Gutenberg",
+    "civic sign",
+    "license plate \"MZ\"",
+    "Mainz plate code",
+    "German vehicle registration system"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Gutenbergplatz",
+      "status": 3,
+      "related_clue": [
+        "Wikipedia",
+        "birthplace of Johannes Gutenberg"
+      ]
+    },
+    {
+      "loc": "Mainz-Altstadt",
+      "status": 3,
+      "related_clue": [
+        "Wikipedia"
+      ]
+    },
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "civic sign",
+        "birthplace of Johannes Gutenberg",
+        "license plate \"MZ\"",
+        "Mainz plate code",
+        "German vehicle registration system"
+      ]
+    }
+  ]
+},{
+  "paragraph": 10,
+  "clue": [
+    "sign \"Willkommen in der Gutenberg-Stadt!\"",
+    "birthplace of Johannes Gutenberg",
+    "Gutenbergstadt moniker",
+    "German civic sign style",
+    "Electoral Palace",
+    "red sandstone facade",
+    "scaffolding",
+    "Hecht Gerüstbau contract",
+    "license plate \"MZ\"",
+    "Mainz plate code",
+    "German vehicle registration system",
+    "four-lane road",
+    "grassy median",
+    "bus line 9",
+    "Bundesstraße 9 arterial",
+    "Mainzer Mobilität line 9"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Rheinallee",
+      "status": 3,
+      "related_clue": [
+        "four-lane road",
+        "grassy median",
+        "Bundesstraße 9 arterial",
+        "bus line 9",
+        "Mainzer Mobilität line 9"
+      ]
+    },
+    {
+      "loc": "Bundesstraße 9",
+      "status": 3,
+      "related_clue": [
+        "four-lane road",
+        "grassy median",
+        "Bundesstraße 9 arterial",
+        "bus line 9",
+        "Mainzer Mobilität line 9"
+      ]
+    },
+    {
+      "loc": "Rhine",
+      "status": 2,
+      "related_clue": [
+        "Bundesstraße 9 arterial"
+      ]
+    },
+    {
+      "loc": "Theodor Heuss Bridge",
+      "status": 2,
+      "related_clue": [
+        "bus line 9",
+        "Mainzer Mobilität line 9"
+      ]
+    },
+    {
+      "loc": "Altstadt",
+      "status": 3,
+      "related_clue": [
+        "Electoral Palace"
+      ]
+    },
+    {
+      "loc": "Mainz",
+      "status": 3,
+      "related_clue": [
+        "birthplace of Johannes Gutenberg",
+        "Gutenbergstadt moniker",
+        "sign \"Willkommen in der Gutenberg-Stadt!\"",
+        "license plate \"MZ\"",
+        "Mainz plate code",
+        "German vehicle registration system"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "German civic sign style",
+        "German vehicle registration system"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "red utility box",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": -1.2611053341690448,
+    "y": -1.5522929285835139
+  },
+  {
+    "entity": "graffiti",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red utility box",
+    "x": -1.2611053341690448,
+    "y": -1.5522929285835139
+  },
+  {
+    "entity": "brick paved sidewalk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": -0.253184907147498,
+    "y": -1.9839096256615907
+  },
+  {
+    "entity": "cobblestone sidewalk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 0.624066891396975,
+    "y": -1.9001422354818904
+  },
+  {
+    "entity": "paving pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "brick paved sidewalk",
+    "x": -0.5786711421269051,
+    "y": -1.9144554602469976
+  },
+  {
+    "entity": "blue circular sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": 1.9358974027927125,
+    "y": 0.5022959743621583
+  },
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9283679330160726,
+    "y": 0.3716624556603275
+  },
+  {
+    "entity": "utility poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "power lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "residential buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.142314838273285,
+    "y": 0.9898214418809328
+  },
+  {
+    "entity": "cars parked",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7860530947427873,
+    "y": 0.6181589862206055
+  },
+  {
+    "entity": "license plates",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cars parked",
+    "x": -1.5721061894855746,
+    "y": 1.236317972441211
+  },
+  {
+    "entity": "urban planning",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9954719225730846,
+    "y": -0.09505604330418263
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23575893550942698,
+    "y": -0.9718115683235418
+  },
+  {
+    "entity": "mature deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.6105405150621175,
+    "y": -1.1858158581092804
+  },
+  {
+    "entity": "grass areas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.856735866032146,
+    "y": -0.7433249113206528
+  },
+  {
+    "entity": "landscaping",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000009,
+    "y": -0.8660254037844382
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452853,
+    "y": -0.7557495743542582
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.928367933016073,
+    "y": -0.3716624556603264
+  },
+  {
+    "entity": "European traffic signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue circular sign",
+    "x": 2.9038461041890686,
+    "y": 0.7534439615432376
+  },
+  {
+    "entity": "EU traffic standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": 2.4158107725931757,
+    "y": 1.7787237871639212
+  },
+  {
+    "entity": "common brick paving",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick paved sidewalk",
+    "x": 0.11896851775263778,
+    "y": -2.99764015381829
+  },
+  {
+    "entity": "European-style architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": 0.9270509831248424,
+    "y": 2.8531695488854605
+  },
+  {
+    "entity": "well-developed European city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": -2.8058270136898393,
+    "y": 1.0617602221068365
+  },
+  {
+    "entity": "German urban design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": -2.9733942063010836,
+    "y": 0.39865636071076205
+  },
+  {
+    "entity": "German urban environment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": -2.986415767719254,
+    "y": -0.2851681299125466
+  },
+  {
+    "entity": "German municipal design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": -2.8442148871049984,
+    "y": -0.9541706744447244
+  },
+  {
+    "entity": "medium-sized city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": -2.5541826210508716,
+    "y": -1.5735790854995817
+  },
+  {
+    "entity": "German residential neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": 0.25672502543651954,
+    "y": 2.988995192588074
+  },
+  {
+    "entity": "affluent residential district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -0.426944514819855,
+    "y": 2.9694643256427984
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 2.975864438492386,
+    "y": -0.3797773607212471
+  },
+  {
+    "entity": "Central European appearance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -1.0884231160519224,
+    "y": 2.795592087634357
+  },
+  {
+    "entity": "Northern European appearance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -1.6933296566003069,
+    "y": 2.4764156908883224
+  }
+]

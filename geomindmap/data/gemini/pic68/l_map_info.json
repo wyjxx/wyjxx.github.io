@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"London","granularity":4,"parent":"United Kingdom"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Natural History Museum","granularity":5,"parent":"London"},
+{"entity":"Cromwell Road","granularity":5,"parent":"London"},
+{"entity":"South Kensington","granularity":5,"parent":"London"},
+{"entity":"Kurfürstenstrasse","granularity":5,"parent":"Berlin"}
+]

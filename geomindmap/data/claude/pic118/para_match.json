@@ -1,0 +1,65 @@
+[{
+    "paragraph": 1,
+    "clue": [],
+    "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "white building",
+    "cream-colored building",
+    "blue dome",
+    "cubic building",
+    "flat roof",
+    "terraced construction",
+    "cliff face",
+    "narrow pathway",
+    "steps",
+    "small window",
+    "blue shutter",
+    "people gathering",
+    "Cycladic architecture",
+    "Greek Orthodox church",
+    "tourist destination"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Greek islands",
+      "status": 2,
+      "related_clue": [
+        "white building",
+        "cream-colored building",
+        "blue dome",
+        "cubic building",
+        "flat roof",
+        "terraced construction",
+        "narrow pathway",
+        "steps",
+        "small window",
+        "blue shutter",
+        "Cycladic architecture",
+        "Greek Orthodox church",
+        "tourist destination"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "cliff face",
+    "caldera",
+    "rocky cliff",
+    "large body of water",
+    "sea",
+    "large lake",
+    "volcanic rock",
+    "volcanic island",
+    "palm tree",
+    "Mediterranean climate",
+    "subtropical climate",
+    "bright lighting",
+    "sunny climate",
+    "terrain",
+    "geology"
+  ],
+  "loc-clue": []
+},{"paragraph":4,"clue":["white building","cubic building","blue dome","terraced construction","people gathering","cliff face","caldera","volcanic rock","geology","sunset view","clifftop","Cycladic architecture","Greek Orthodox church","Mediterranean climate"],"loc-clue":[{"loc":"Greek islands","status":2,"related_clue":["white building","cubic building","blue dome","terraced construction","people gathering","cliff face","caldera","volcanic rock","sunset view","clifftop","Cycladic architecture","Greek Orthodox church","Mediterranean climate"]},{"loc":"Cyclades","status":2,"related_clue":["white building","cubic building","blue dome","terraced construction","people gathering","cliff face","caldera","volcanic rock","sunset view","clifftop","Cycladic architecture","Greek Orthodox church","Mediterranean climate"]},{"loc":"Santorini","status":3,"related_clue":["white building","cubic building","blue dome","terraced construction","cliff face","caldera","volcanic rock","people gathering","sunset view","clifftop"]},{"loc":"Thira","status":3,"related_clue":["white building","cubic building","blue dome","terraced construction","cliff face","caldera","volcanic rock","people gathering","sunset view","clifftop"]},{"loc":"Greece","status":3,"related_clue":["Cycladic architecture","Greek Orthodox church","Mediterranean climate"]},{"loc":"Europe","status":3,"related_clue":["Cycladic architecture","Greek Orthodox church","Mediterranean climate"]},{"loc":"Oia","status":3,"related_clue":["white building","blue dome","Cycladic architecture","Greek Orthodox church","sunset view","clifftop","caldera"]}]}]

@@ -1,0 +1,522 @@
+[
+  {
+    "entity": "mailboxes on posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9813701261394134,
+    "y": 0.1921267173537084
+  },
+  {
+    "entity": "paper collection containers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6810158587867972,
+    "y": 0.7322686665977735
+  },
+  {
+    "entity": "wooden fences",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16835704134703863,
+    "y": 0.9857260809316508
+  },
+  {
+    "entity": "tower crane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.16835704134703852,
+    "y": 0.9857260809316509
+  },
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4859834132426061,
+    "y": 0.8739680326265179
+  },
+  {
+    "entity": "bamboo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7485107481711012,
+    "y": 0.6631226582407952
+  },
+  {
+    "entity": "curb",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.88545602565321,
+    "y": 0.4647231720437683
+  },
+  {
+    "entity": "flowering cherry tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.943311813257743,
+    "y": 0.3319078531285286
+  },
+  {
+    "entity": "narrow street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9953316347176486,
+    "y": 0.09651392091451506
+  },
+  {
+    "entity": "cul-de-sac",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9813701261394134,
+    "y": -0.19212671735370834
+  },
+  {
+    "entity": "mid-20th century houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9068743608505454,
+    "y": -0.4214011077725293
+  },
+  {
+    "entity": "paved road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6810158587867968,
+    "y": -0.7322686665977738
+  },
+  {
+    "entity": "green foliage barrier",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.39936458356569515,
+    "y": -0.9167921953165826
+  },
+  {
+    "entity": "cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494673,
+    "y": -0.9510565162951538
+  },
+  {
+    "entity": "decorative fences",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2157841967678052,
+    "y": -0.9764410788292723
+  },
+  {
+    "entity": "villas",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07243480016176186,
+    "y": -0.9973731496914912
+  },
+  {
+    "entity": "gated villas",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07243480016176326,
+    "y": -0.997373149691491
+  },
+  {
+    "entity": "late 19th-century houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16835704134703972,
+    "y": -0.9857260809316507
+  },
+  {
+    "entity": "half-timbered house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.568064746731157,
+    "y": -0.8229838658936556
+  },
+  {
+    "entity": "apartments",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8619696668800502,
+    "y": -0.5069598538135889
+  },
+  {
+    "entity": "narrow lane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9261746489577773,
+    "y": -0.37709484168831836
+  },
+  {
+    "entity": "small containers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9813701261394137,
+    "y": -0.1921267173537074
+  },
+  {
+    "entity": "red flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mailboxes on posts",
+    "x": 1.9958485462687603,
+    "y": 0.12879666283283892
+  },
+  {
+    "entity": "white bins",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paper collection containers",
+    "x": 1.7595525041070357,
+    "y": 0.9507759911202324
+  },
+  {
+    "entity": "yellow bins",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small containers",
+    "x": 1.9627402522788273,
+    "y": -0.3842534347074148
+  },
+  {
+    "entity": "red lids",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white bins",
+    "x": 1.7595525041070357,
+    "y": 0.9507759911202324
+  },
+  {
+    "entity": "red and white color scheme",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paper collection containers",
+    "x": 1.5817900279158807,
+    "y": 1.2239037166321038
+  },
+  {
+    "entity": "vertical slats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden fences",
+    "x": 0.47863132857511564,
+    "y": 1.941883634852104
+  },
+  {
+    "entity": "horizontal lattice",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden fences",
+    "x": 0.19302784182903046,
+    "y": 1.9906632694352973
+  },
+  {
+    "entity": "textured slabs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -0.8428022155450579,
+    "y": 1.813748721701091
+  },
+  {
+    "entity": "street incline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow street",
+    "x": -1.9714521618633019,
+    "y": 0.33671408269407654
+  },
+  {
+    "entity": "granite setts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved road",
+    "x": -1.5950058745753408,
+    "y": -1.206630125626802
+  },
+  {
+    "entity": "white line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved road",
+    "x": -1.3620317175735936,
+    "y": -1.4645373331955476
+  },
+  {
+    "entity": "gravel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved road",
+    "x": -1.1833770568677868,
+    "y": -1.6123333220146927
+  },
+  {
+    "entity": "asphalt",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved road",
+    "x": -0.9888174706330742,
+    "y": -1.7384590906233053
+  },
+  {
+    "entity": "barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cul-de-sac",
+    "x": -1.985417748196108,
+    "y": -0.24107336051064654
+  },
+  {
+    "entity": "electric Liebherr crane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tower crane",
+    "x": -0.0805318802188298,
+    "y": 1.9983779963431394
+  },
+  {
+    "entity": "upward-sloping lane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow lane",
+    "x": 1.8523492979155547,
+    "y": -0.7541896833766367
+  },
+  {
+    "entity": "single-family home paths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": -1.0960250147093396,
+    "y": 1.6729402760204537
+  },
+  {
+    "entity": "cherry blossoms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "flowering cherry tree",
+    "x": -1.886623626515486,
+    "y": 0.6638157062570572
+  },
+  {
+    "entity": "steep gable",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered house",
+    "x": 0.5387262844232938,
+    "y": -1.9260773583819193
+  },
+  {
+    "entity": "white plaster infill",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered house",
+    "x": 0.7477903369509177,
+    "y": -1.8549419430167708
+  },
+  {
+    "entity": "dark timber framing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered house",
+    "x": 0.9477373249460002,
+    "y": -1.7611910637134744
+  },
+  {
+    "entity": "timber frames",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered house",
+    "x": 1.1361294934623125,
+    "y": -1.645967731787312
+  },
+  {
+    "entity": "roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mid-20th century houses",
+    "x": -1.8137487217010908,
+    "y": -0.8428022155450586
+  },
+  {
+    "entity": "Swiss mailbox colors",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mailboxes on posts",
+    "x": 2.94411037841824,
+    "y": 0.5763801520611251
+  },
+  {
+    "entity": "Deutsche Post mailboxes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mailboxes on posts",
+    "x": 2.8456093258414366,
+    "y": 0.9500039814044174
+  },
+  {
+    "entity": "private collection boxes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paper collection containers",
+    "x": 2.1594178465065452,
+    "y": 2.082526005645316
+  },
+  {
+    "entity": "paper recycling practice",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paper collection containers",
+    "x": 1.9206385213874642,
+    "y": 2.304592734120842
+  },
+  {
+    "entity": "older Munich suburbs",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.99649668049698,
+    "y": -0.144940138576517
+  },
+  {
+    "entity": "southern German influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered house",
+    "x": 1.966004945979053,
+    "y": -2.2660151262482566
+  },
+  {
+    "entity": "volunteer fire brigades fundraiser",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paper collection containers",
+    "x": 1.6591680903097923,
+    "y": 2.4994321851368078
+  },
+  {
+    "entity": "newspapers fundraising",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paper collection containers",
+    "x": 1.3780956578554449,
+    "y": 2.664742456185957
+  },
+  {
+    "entity": "classic German design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "granite setts",
+    "x": -2.3925088118630113,
+    "y": -1.809945188440203
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bamboo",
+    "x": -1.971215043131192,
+    "y": 2.2614843032250507
+  },
+  {
+    "entity": "regional recycling system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paper collection containers",
+    "x": 1.080741913615848,
+    "y": 2.798570512985863
+  },
+  {
+    "entity": "traditional Bavarian style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered house",
+    "x": 2.203846106989719,
+    "y": -2.0354513840193436
+  },
+  {
+    "entity": "upper-middle-class neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "villas",
+    "x": -0.2173044004852856,
+    "y": -2.9921194490744734
+  },
+  {
+    "entity": "quieter neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow street",
+    "x": -2.9991240422405787,
+    "y": 0.07249123570839744
+  },
+  {
+    "entity": "larger developments",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tower crane",
+    "x": -0.5050711240411155,
+    "y": 2.957178242794953
+  },
+  {
+    "entity": "warmer climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bamboo",
+    "x": -2.245532244513304,
+    "y": 1.9893679747223847
+  },
+  {
+    "entity": "garden-city suburb",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cul-de-sac",
+    "x": -2.8946266600306547,
+    "y": -0.7881221345957599
+  },
+  {
+    "entity": "continental-borderline climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bamboo",
+    "x": -2.48259925381335,
+    "y": 1.6842508557116422
+  },
+  {
+    "entity": "Munich building boom",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tower crane",
+    "x": -0.8809660148268914,
+    "y": 2.867734102164987
+  },
+  {
+    "entity": "Fachwerk revival",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered house",
+    "x": 2.414817962281422,
+    "y": -1.7800714056023152
+  }
+]

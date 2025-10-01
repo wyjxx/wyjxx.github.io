@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Aegean Ionian",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9189859472289952,
+    "y": -0.563465113682858
+  },
+  {
+    "entity": "Crete",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": 1.8916580012535675,
+    "y": 2.3284393928752705
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -3.2947063257193325,
+    "y": -2.268239455451081
+  },
+  {
+    "entity": "Syntagma Square",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 0.011333297126512284,
+    "y": 4.999987155621126
+  },
+  {
+    "entity": "Syntagma neighborhood",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -3.308429187984294,
+    "y": 3.7489060148386733
+  },
+  {
+    "entity": "City Centre",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.962592512455139,
+    "y": 0.6104715843708027
+  },
+  {
+    "entity": "Hellenic Parliament",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.118382907149168,
+    "y": -2.8352993193138474
+  },
+  {
+    "entity": "Tomb of the Unknown Soldier",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -1.2008101667776037,
+    "y": -4.8536640740129045
+  },
+  {
+    "entity": "Presidential Mansion",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 2.3212997397925466,
+    "y": -4.428494949532974
+  },
+  {
+    "entity": "Vasilissis Olgas Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.674772000366149,
+    "y": -1.7738395487170409
+  }
+]

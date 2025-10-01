@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "shoreline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.46840844069979015,
+    "y": 0.8835120444460229
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9941379571543596,
+    "y": -0.10811901842394168
+  },
+  {
+    "entity": "rocks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.16178199655276476,
+    "y": -0.9868265225415261
+  },
+  {
+    "entity": "conifer trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.267528338529221,
+    "y": -0.9635499925192229
+  },
+  {
+    "entity": "alpine trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7259954919231308,
+    "y": -0.6876994588534233
+  },
+  {
+    "entity": "conifer forests",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9766205557100868,
+    "y": -0.21497044021102352
+  },
+  {
+    "entity": "purple flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.9998551183153532,
+    "y": 0.024072925619546076
+  },
+  {
+    "entity": "pink bell-shaped flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "purple flowers",
+    "x": -1.6920747179334306,
+    "y": 1.0662472269274612
+  },
+  {
+    "entity": "white limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocks",
+    "x": -0.3235639931055295,
+    "y": -1.9736530450830523
+  },
+  {
+    "entity": "overhanging branches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "alpine trees",
+    "x": 1.2103484303875305,
+    "y": -1.5921861314112875
+  },
+  {
+    "entity": "rocky limestone beach",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shoreline",
+    "x": 1.9855291408381377,
+    "y": 0.24015418148049614
+  },
+  {
+    "entity": "clear water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shoreline",
+    "x": 1.3310896882043488,
+    "y": 1.4927157271081621
+  },
+  {
+    "entity": "turquoise water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear water",
+    "x": 1.8489085396389646,
+    "y": 0.7625858719187704
+  },
+  {
+    "entity": "water clarity",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear water",
+    "x": 1.5397981688134195,
+    "y": 1.2763313046849711
+  },
+  {
+    "entity": "water color",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear water",
+    "x": 0.8288387987955036,
+    "y": 1.8201720373665855
+  },
+  {
+    "entity": "Alpine",
+    "type": "i",
+    "granularity": 3,
+    "parent": "alpine trees",
+    "x": 2.483066994470671,
+    "y": -1.683561196087148
+  },
+  {
+    "entity": "Rhododendron ferrugineum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pink bell-shaped flowers",
+    "x": -2.5381120769001457,
+    "y": 1.5993708403911917
+  },
+  {
+    "entity": "Alpine Heather",
+    "type": "i",
+    "granularity": 3,
+    "parent": "purple flowers",
+    "x": -2.896773709730382,
+    "y": -0.7801936135440228
+  },
+  {
+    "entity": "Erica carnea",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Alpine Heather",
+    "x": -2.995171355281373,
+    "y": -0.17014274154939438
+  },
+  {
+    "entity": "evergreen shrub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Rhododendron ferrugineum",
+    "x": -2.5381120769001457,
+    "y": 1.5993708403911917
+  },
+  {
+    "entity": "glacial lake",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shoreline",
+    "x": -0.6977023667229312,
+    "y": 2.9177408053953697
+  },
+  {
+    "entity": "Alpine roses",
+    "type": "i",
+    "granularity": 3,
+    "parent": "purple flowers",
+    "x": -2.061225050964879,
+    "y": -2.1797594567462792
+  },
+  {
+    "entity": "Erica species",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Alpine Heather",
+    "x": -2.6754742716461477,
+    "y": -1.3571431102722793
+  },
+  {
+    "entity": "Western hemlock",
+    "type": "i",
+    "granularity": 3,
+    "parent": "conifer trees",
+    "x": 0.8025850155876629,
+    "y": -2.890649977557669
+  },
+  {
+    "entity": "Caribbean-like hue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water color",
+    "x": 1.2432581981932553,
+    "y": 2.730258056049878
+  },
+  {
+    "entity": "post-glacial landslide basin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "glacial lake",
+    "x": -0.16241672575625246,
+    "y": 2.9956002415533716
+  },
+  {
+    "entity": "glacially-fed basin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "glacial lake",
+    "x": -1.2103054859694253,
+    "y": 2.7450247049220367
+  },
+  {
+    "entity": "subalpine forest",
+    "type": "i",
+    "granularity": 3,
+    "parent": "conifer forests",
+    "x": 2.92986166713026,
+    "y": -0.6449113206330706
+  },
+  {
+    "entity": "heath shrubs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -1.4370266059882657,
+    "y": -2.6334301839391614
+  }
+]

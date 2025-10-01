@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.4450418679126289,
+    "y": 1.9498558243636472
+  },
+  {
+    "entity": "Monaco",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.4450418679126292,
+    "y": -1.9498558243636472
+  },
+  {
+    "entity": "Centre-Val de Loire region",
+    "granularity": 3,
+    "parent": "France",
+    "x": 2.3454944474040893,
+    "y": 1.8704694055762006
+  },
+  {
+    "entity": "PACA region",
+    "granularity": 3,
+    "parent": "France",
+    "x": -1.3016512173526742,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "La Condamine",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -4.944154131125643,
+    "y": -0.7452113308808701
+  },
+  {
+    "entity": "Monaco-Monte-Carlo station",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -1.112604669781573,
+    "y": -4.874639560909118
+  },
+  {
+    "entity": "Sainte-Dévote valley",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 4.131193871579972,
+    "y": -2.8166002903181138
+  }
+]

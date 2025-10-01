@@ -1,0 +1,322 @@
+[
+  {
+    "entity": "distinctive sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.996917333733128,
+    "y": 0.07845909572784494
+  },
+  {
+    "entity": "tall narrow structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7604059656000309,
+    "y": 0.6494480483301837
+  },
+  {
+    "entity": "art installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650897,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "wooden boardwalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "wooden deck",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.996917333733128,
+    "y": 0.07845909572784507
+  },
+  {
+    "entity": "waterfront",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9876883405951378,
+    "y": -0.15643446504023073
+  },
+  {
+    "entity": "jackets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8910065241883679,
+    "y": -0.4539904997395467
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "sand",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5224985647159486,
+    "y": -0.8526401643540924
+  },
+  {
+    "entity": "beach",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23344536385590514,
+    "y": -0.9723699203976767
+  },
+  {
+    "entity": "body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07845909572784521,
+    "y": -0.996917333733128
+  },
+  {
+    "entity": "ocean",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.23344536385590478,
+    "y": -0.9723699203976768
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236509,
+    "y": -0.9238795325112866
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7604059656000305,
+    "y": -0.6494480483301842
+  },
+  {
+    "entity": "flat terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9723699203976767,
+    "y": -0.2334453638559052
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.996917333733128,
+    "y": -0.07845909572784562
+  },
+  {
+    "entity": "rust-colored material",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall narrow structure",
+    "x": 1.9384618194135088,
+    "y": 0.49230658605798605
+  },
+  {
+    "entity": "large rectangular windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall narrow structure",
+    "x": 1.8162863476501625,
+    "y": 0.8373194750748562
+  },
+  {
+    "entity": "weathering steel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tall narrow structure",
+    "x": 1.633283110323358,
+    "y": 1.154290380074467
+  },
+  {
+    "entity": "parallel planks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden boardwalk",
+    "x": -1.902113032590307,
+    "y": 0.618033988749895
+  },
+  {
+    "entity": "sunset lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.078276645822001,
+    "y": -1.6844344674325726
+  },
+  {
+    "entity": "sunrise lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.3861747250912713,
+    "y": -1.441707193405838
+  },
+  {
+    "entity": "cloudy sky",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.640802887051028,
+    "y": -1.1435759204552232
+  },
+  {
+    "entity": "soft diffused light",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.832375914234272,
+    "y": -0.8014976662062817
+  },
+  {
+    "entity": "modern art installation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": 0.6716641435754952,
+    "y": 2.923844605692135
+  },
+  {
+    "entity": "contemporary art",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": 0.1472030229822537,
+    "y": 2.996386368615517
+  },
+  {
+    "entity": "modern architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -0.3818430101217402,
+    "y": 2.9756000933628783
+  },
+  {
+    "entity": "developed area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": -2.121320343559643,
+    "y": -2.1213203435596424
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "jackets",
+    "x": -2.673019572565104,
+    "y": -1.36197149921864
+  },
+  {
+    "entity": "public art installation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -0.8989958309887707,
+    "y": 2.8621332072188412
+  },
+  {
+    "entity": "coastal art scene",
+    "type": "i",
+    "granularity": 3,
+    "parent": "beach",
+    "x": -1.03835117123248,
+    "y": -2.814574007767452
+  },
+  {
+    "entity": "innovative beach design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "beach",
+    "x": -0.3526121923735128,
+    "y": -2.9792053708647788
+  },
+  {
+    "entity": "creative public space",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -1.3881477511330513,
+    "y": 2.659519847834239
+  },
+  {
+    "entity": "cutting-edge design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -1.8340632223104507,
+    "y": 2.3740707859219796
+  },
+  {
+    "entity": "artistic expression",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -2.2228533760648785,
+    "y": 2.0146768645410535
+  },
+  {
+    "entity": "urban coastal landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront",
+    "x": -2.9630650217854133,
+    "y": -0.4693033951206922
+  },
+  {
+    "entity": "architectural landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall narrow structure",
+    "x": 2.0933713795250406,
+    "y": 2.1489058302739625
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art installation",
+    "x": -2.5424086184227046,
+    "y": 1.5925320772185265
+  },
+  {
+    "entity": "observation tower",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall narrow structure",
+    "x": 1.6667106990588072,
+    "y": 2.4944088369076356
+  },
+  {
+    "entity": "unique architectural feature",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall narrow structure",
+    "x": 1.184231569152802,
+    "y": 2.756373630446695
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196023,
+    "y": 0.8314696123025452
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112866,
+    "y": -0.38268343236509006
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.707106781186548,
+    "y": -0.707106781186547
+  },
+  {
+    "entity": "natural light",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032305,
+    "y": -0.19509032201612786
+  },
+  {
+    "entity": "blue background",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.940062506389088,
+    "y": 0.48596035980652774
+  },
+  {
+    "entity": "white text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.4819022507099182,
+    "y": 1.3431179096940367
+  },
+  {
+    "entity": "stone blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.1573425923596115,
+    "y": 1.6311217379185203
+  },
+  {
+    "entity": "light-colored stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.7504468438175074,
+    "y": 0.9674377742104797
+  },
+  {
+    "entity": "limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9968536300356332,
+    "y": 0.11214089447438381
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "institutional style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.3326931559040074,
+    "y": -1.4912843297663316
+  },
+  {
+    "entity": "utility box",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -0.5536710228496983,
+    "y": -1.9218346438901992
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.414213562373096,
+    "y": -1.414213562373094
+  },
+  {
+    "entity": "British street signage style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": 1.0106695601766609,
+    "y": 2.824632195549062
+  },
+  {
+    "entity": "British naming convention",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -0.4401914233660849,
+    "y": 2.967529529894343
+  },
+  {
+    "entity": "limestone construction common",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": 0.50251866991421,
+    "y": -2.9576130555547078
+  }
+]

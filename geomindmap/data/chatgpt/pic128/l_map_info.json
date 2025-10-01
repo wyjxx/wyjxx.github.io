@@ -1,0 +1,15 @@
+[
+{"entity":"Lisbon","granularity":4,"parent":"Portugal"},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Alcântara","granularity":5,"parent":"Lisbon"},
+{"entity":"Alcântara valley","granularity":3,"parent":"Portugal"},
+{"entity":"Caneças","granularity":4,"parent":"Portugal"},
+{"entity":"Calçada da Quintinha","granularity":5,"parent":"Lisbon"},
+{"entity":"Praça Dr. Sousa Martins","granularity":5,"parent":"Lisbon"},
+{"entity":"Largo dos Moinhos","granularity":5,"parent":"Lisbon"},
+{"entity":"Alfornelos","granularity":4,"parent":"Portugal"},
+{"entity":"Calçoens","granularity":5,"parent":"Lisbon"},
+{"entity":"Aqueduto Museum","granularity":5,"parent":"Lisbon"},
+{"entity":"Alcântara railway viaduct","granularity":5,"parent":"Lisbon"}
+]

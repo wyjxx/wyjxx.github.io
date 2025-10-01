@@ -1,0 +1,19 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"France","granularity":2,"parent":"Europe"},  
+{"entity":"Rhône","granularity":2,"parent":"Europe"},  
+{"entity":"Occitanie","granularity":3,"parent":"France"},  
+{"entity":"Ariège","granularity":3,"parent":"France"},  
+{"entity":"Foix","granularity":4,"parent":"Ariège"},  
+{"entity":"Carcassonne","granularity":4,"parent":"Occitanie"},  
+{"entity":"Château de Foix","granularity":5,"parent":"Foix"},  
+{"entity":"Château de Lourdes","granularity":5,"parent":null},  
+{"entity":"Château de Tarascon","granularity":5,"parent":null},  
+{"entity":"Place du Palais de Justice","granularity":5,"parent":"Foix"},  
+{"entity":"Le Rocher","granularity":5,"parent":"Foix"},  
+{"entity":"Rue du Rocher","granularity":5,"parent":"Foix"},  
+{"entity":"Old Town","granularity":5,"parent":"Foix"},  
+{"entity":"Centre historique de Foix","granularity":5,"parent":"Foix"},  
+{"entity":"Historic town centre","granularity":5,"parent":"Foix"},  
+{"entity":"Quartier historique","granularity":5,"parent":"Foix"}  
+]

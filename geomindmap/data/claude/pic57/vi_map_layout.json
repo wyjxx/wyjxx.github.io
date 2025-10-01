@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "supersonic aircraft",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508984,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "industrial-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "modern architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738104,
+    "y": 0.13052619222005157
+  },
+  {
+    "entity": "courtyard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738105,
+    "y": -0.13052619222005132
+  },
+  {
+    "entity": "outdoor exhibition space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844386,
+    "y": -0.5000000000000001
+  },
+  {
+    "entity": "asphalt",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999996,
+    "y": -0.8660254037844388
+  },
+  {
+    "entity": "concrete ground",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13052619222005163,
+    "y": -0.9914448613738104
+  },
+  {
+    "entity": "evergreen trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "lighting conditions",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9914448613738103,
+    "y": -0.13052619222005257
+  },
+  {
+    "entity": "delta wing shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 1.978353019929562,
+    "y": 0.2934609489107235
+  },
+  {
+    "entity": "poles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 1.8079785862468867,
+    "y": 0.8551101868605642
+  },
+  {
+    "entity": "stands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 1.4819022507099182,
+    "y": 1.3431179096940367
+  },
+  {
+    "entity": "Air France markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 1.0282054883864433,
+    "y": 1.7154572200005442
+  },
+  {
+    "entity": "white painted lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "asphalt",
+    "x": -0.9999999999999992,
+    "y": -1.7320508075688776
+  },
+  {
+    "entity": "spruce",
+    "type": "v",
+    "granularity": 2,
+    "parent": "evergreen trees",
+    "x": 0.34729635533385994,
+    "y": -1.9696155060244163
+  },
+  {
+    "entity": "fir",
+    "type": "v",
+    "granularity": 2,
+    "parent": "evergreen trees",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "Concorde aircraft",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic aircraft",
+    "x": 0.7289405397097919,
+    "y": 2.910093759583632
+  },
+  {
+    "entity": "static displays",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic aircraft",
+    "x": -0.14720302298225335,
+    "y": 2.996386368615517
+  },
+  {
+    "entity": "aviation museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "outdoor exhibition space",
+    "x": -2.598076211353316,
+    "y": -1.5000000000000004
+  },
+  {
+    "entity": "industrial architecture suggests airport",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial-style buildings",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "evergreen trees",
+    "x": 2.298133329356932,
+    "y": -1.9283628290596209
+  },
+  {
+    "entity": "Concorde operated by British Airways",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic aircraft",
+    "x": -1.010669560176659,
+    "y": 2.8246321955490625
+  },
+  {
+    "entity": "Concorde operated by Air France",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic aircraft",
+    "x": -1.7870979134772988,
+    "y": 2.4096225944419354
+  }
+]

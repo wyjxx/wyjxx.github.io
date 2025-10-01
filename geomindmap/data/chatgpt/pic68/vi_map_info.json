@@ -1,0 +1,19 @@
+[
+{"entity":"Neo-Romanesque architecture","type":"v","granularity":1,"parent":null},
+{"entity":"terracotta tiles","type":"v","granularity":2,"parent":"Neo-Romanesque architecture"},
+{"entity":"central hall","type":"v","granularity":1,"parent":null},
+{"entity":"blue-whale skeleton","type":"v","granularity":1,"parent":null},
+{"entity":"diving posture","type":"v","granularity":2,"parent":"blue-whale skeleton"},
+{"entity":"rounded arches","type":"v","granularity":2,"parent":"Neo-Romanesque architecture"},
+{"entity":"paired colonnettes","type":"v","granularity":2,"parent":"Neo-Romanesque architecture"},
+{"entity":"ornamental arcading","type":"v","granularity":2,"parent":"Neo-Romanesque architecture"},
+{"entity":"central staircases","type":"v","granularity":1,"parent":null},
+{"entity":"galleried landing","type":"v","granularity":2,"parent":"central staircases"},
+{"entity":"dinosaur banner","type":"v","granularity":1,"parent":null},
+{"entity":"Hope","type":"i","granularity":3,"parent":"blue-whale skeleton"},
+{"entity":"Dippy","type":"i","granularity":3,"parent":"blue-whale skeleton"},
+{"entity":"Alfred Waterhouse","type":"i","granularity":3,"parent":"Neo-Romanesque architecture"},
+{"entity":"19th-century design","type":"i","granularity":3,"parent":"Neo-Romanesque architecture"},
+{"entity":"opened 1881","type":"i","granularity":3,"parent":"Neo-Romanesque architecture"},
+{"entity":"free admission","type":"i","granularity":3,"parent":"dinosaur banner"}
+]

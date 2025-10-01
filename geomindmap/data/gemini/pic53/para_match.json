@@ -1,0 +1,177 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "Roman aqueduct",
+        "granite blocks",
+        "mortar",
+        "Roman presence",
+        "well-documented aqueducts",
+        "neighborhood-level precision"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "Spanish flag",
+        "inscription \"MCMXXI\"",
+        "points to Spain",
+        "possibilities"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag",
+                "inscription \"MCMXXI\"",
+                "points to Spain"
+            ]
+        },
+        {
+            "loc": "Aqueduct of Segovia",
+            "status": 3,
+            "related_clue": [
+                "possibilities"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "Spanish flag",
+        "architectural details",
+        "image searches",
+        "unique features"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Aqueduct of Segovia",
+            "status": 3,
+            "related_clue": [
+                "image searches"
+            ]
+        },
+        {
+            "loc": "Plaza del Azoguejo",
+            "status": 3,
+            "related_clue": [
+                "image searches"
+            ]
+        },
+        {
+            "loc": "Segovia",
+            "status": 3,
+            "related_clue": [
+                "image searches"
+            ]
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "Spanish flag",
+        "Roman aqueduct",
+        "architectural details"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Plaza del Azoguejo",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag",
+                "Roman aqueduct",
+                "architectural details"
+            ]
+        },
+        {
+            "loc": "Segovia",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag",
+                "Roman aqueduct",
+                "architectural details"
+            ]
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag"
+            ]
+        },
+        {
+            "loc": "Casco Antiguo",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag",
+                "Roman aqueduct",
+                "architectural details"
+            ]
+        },
+        {
+            "loc": "Old Town",
+            "status": 3,
+            "related_clue": [
+                "Spanish flag",
+                "Roman aqueduct",
+                "architectural details"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [
+        "blue \"i\" sign",
+        "tourist information",
+        "inscription \"MCMXXI\"",
+        "Spanish flag",
+        "cross-referencing"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Plaza del Azoguejo",
+            "status": 3,
+            "related_clue": [
+                "blue \"i\" sign",
+                "tourist information",
+                "inscription \"MCMXXI\"",
+                "Spanish flag",
+                "cross-referencing"
+            ]
+        },
+        {
+            "loc": "Segovia",
+            "status": 3,
+            "related_clue": [
+                "blue \"i\" sign",
+                "tourist information",
+                "inscription \"MCMXXI\"",
+                "Spanish flag",
+                "cross-referencing"
+            ]
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "inscription \"MCMXXI\"",
+                "Spanish flag",
+                "cross-referencing"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "cross-referencing"
+            ]
+        }
+    ]
+}]

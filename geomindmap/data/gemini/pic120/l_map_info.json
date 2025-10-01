@@ -1,0 +1,9 @@
+[  
+  {"entity":"Northern Europe","granularity":1,"parent":null},  
+  {"entity":"Belgium","granularity":2,"parent":"Northern Europe"},  
+  {"entity":"Netherlands","granularity":2,"parent":"Northern Europe"},  
+  {"entity":"Brussels","granularity":4,"parent":"Belgium"},  
+  {"entity":"Manneken Pis","granularity":5,"parent":"Brussels"},  
+  {"entity":"Rue du Chêne","granularity":5,"parent":"Brussels"},  
+  {"entity":"Poechenellekelder","granularity":5,"parent":"Rue du Chêne"}  
+]

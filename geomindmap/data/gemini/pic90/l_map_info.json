@@ -1,0 +1,9 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Northern Europe","granularity":2,"parent":"Europe"},  
+  {"entity":"Vatican","granularity":2,"parent":"Europe"},  
+  {"entity":"United States","granularity":2,"parent":null},  
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},  
+  {"entity":"Trinity College","granularity":5,"parent":"Dublin"}  
+]

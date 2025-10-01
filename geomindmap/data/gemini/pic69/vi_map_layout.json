@@ -1,0 +1,130 @@
+[
+  {
+    "entity": "Chinese archway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8314696123025452,
+    "y": 0.5555702330196022
+  },
+  {
+    "entity": "road signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865475,
+    "y": 0.7071067811865476
+  },
+  {
+    "entity": "Pedestrian Zone sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": 0.31286893008046185,
+    "y": 1.9753766811902755
+  },
+  {
+    "entity": "one-way sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -0.6180339887498947,
+    "y": 1.9021130325903073
+  },
+  {
+    "entity": "blue plaque",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.662939224605091,
+    "y": -1.111140466039204
+  },
+  {
+    "entity": "Georgian architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.38268343236509034,
+    "y": -0.9238795325112865
+  },
+  {
+    "entity": "architectural style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Georgian architecture",
+    "x": -0.7653668647301807,
+    "y": -1.847759065022573
+  },
+  {
+    "entity": "Fogo de Chão",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.3901806440322566,
+    "y": -1.9615705608064609
+  },
+  {
+    "entity": "Chinese signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196026,
+    "y": -0.831469612302545
+  },
+  {
+    "entity": "Wardour Street signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -1.414213562373095,
+    "y": 1.4142135623730951
+  },
+  {
+    "entity": "provided image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8314696123025457,
+    "y": -0.5555702330196015
+  },
+  {
+    "entity": "street view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032307,
+    "y": -0.19509032201612697
+  },
+  {
+    "entity": "中國太平 inscription",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinese archway",
+    "x": 1.6629392246050905,
+    "y": 1.1111404660392044
+  },
+  {
+    "entity": "Peace in China",
+    "type": "i",
+    "granularity": 3,
+    "parent": "中國太平 inscription",
+    "x": 2.4944088369076356,
+    "y": 1.6667106990588065
+  },
+  {
+    "entity": "UK-style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road signs",
+    "x": -2.8531695488854605,
+    "y": 0.9270509831248426
+  },
+  {
+    "entity": "English",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road signs",
+    "x": -2.9630650217854133,
+    "y": -0.4693033951206922
+  }
+]

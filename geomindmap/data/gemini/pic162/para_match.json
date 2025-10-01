@@ -1,0 +1,75 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "text",
+        "buildings",
+        "maps"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "street sign \"Quintinsstraße\"",
+        "Ampelmännchen",
+        "traffic signals",
+        "German-speaking regions",
+        "yield sign",
+        "speed limit sign"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Quintinsstraße",
+            "status": 2,
+            "related_clue": [
+                "street sign \"Quintinsstraße\""
+            ]
+        },
+        {
+            "loc": "West Germany",
+            "status": 2,
+            "related_clue": [
+                "German-speaking regions"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "street sign \"Quintinsstraße\"",
+        "historical figure \"Quintin\"",
+        "red and white building"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Quintinsstraße",
+            "status": 2,
+            "related_clue": [
+                "street sign \"Quintinsstraße\""
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "hypothesis: Mainz, Germany",
+        "St. Quintin connection",
+        "red and white building",
+        "architectural features"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Mainz",
+            "status": 3,
+            "related_clue": [
+                "hypothesis: Mainz, Germany"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": [
+                "hypothesis: Mainz, Germany"
+            ]
+        }
+    ]
+},{"paragraph":5,"clue":["hypothesis: Mainz, Germany","Google Street View","bus stop","traffic light pole","overpass","red and white building","St. Quintin connection"],"loc-clue":[{"loc":"Mainz","status":3,"related_clue":["hypothesis: Mainz, Germany"]},{"loc":"Germany","status":3,"related_clue":["hypothesis: Mainz, Germany"]},{"loc":"intersection of Quintinsstraße and Rheinstraße","status":3,"related_clue":["Google Street View"]},{"loc":"Fischtor","status":3,"related_clue":["bus stop"]}]},{"paragraph":6,"clue":["street sign \"Quintinsstraße\"","Ampelmännchen","red and white building","bus stop","architectural features","maps"],"loc-clue":[{"loc":"Quintinsstraße","status":2,"related_clue":["street sign \"Quintinsstraße\""]},{"loc":"Mainz","status":3,"related_clue":["street sign \"Quintinsstraße\"","Ampelmännchen","red and white building","bus stop","architectural features","maps"]},{"loc":"Germany","status":3,"related_clue":["street sign \"Quintinsstraße\"","Ampelmännchen","red and white building","bus stop","architectural features","maps"]}]},{"paragraph":7,"clue":["red and white building","traffic signals"],"loc-clue":[{"loc":"Fischtorstraße","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"intersection of Fischtorstraße and Quintinsstraße","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"Quintinsstraße","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"Altstadt","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"Mainz","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"Germany","status":3,"related_clue":["red and white building","traffic signals"]},{"loc":"Europe","status":3,"related_clue":["red and white building","traffic signals"]}]},{"paragraph":8,"clue":["text","buildings","street sign \"Quintinsstraße\"","environment"],"loc-clue":[{"loc":"Quintinsstraße","status":2,"related_clue":["street sign \"Quintinsstraße\""]},{"loc":"Mainz","status":2,"related_clue":["environment"]},{"loc":"Germany","status":2,"related_clue":["environment"]},{"loc":"Europe","status":2,"related_clue":["environment"]}]}]

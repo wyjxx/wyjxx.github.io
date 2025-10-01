@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Southern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7320508075688776,
+    "y": -0.9999999999999993
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Southern Europe",
+    "x": -3.464101615137755,
+    "y": 1.9999999999999998
+  },
+  {
+    "entity": "Baixa",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.2139380484326967,
+    "y": 3.83022221559489
+  },
+  {
+    "entity": "Rossio Square",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.330127018922194,
+    "y": 2.4999999999999996
+  },
+  {
+    "entity": "Praça de Dom Pedro IV",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -1.7101007166283426,
+    "y": -4.698463103929543
+  }
+]

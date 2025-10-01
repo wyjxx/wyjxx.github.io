@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "stone building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9438833303083676,
+    "y": 0.3302790619551671
+  },
+  {
+    "entity": "cathedral",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8467241992282841,
+    "y": 0.5320320765153367
+  },
+  {
+    "entity": "gray stone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": 1.9717420370364718,
+    "y": 0.3350124466094728
+  },
+  {
+    "entity": "pointed arch windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 1.391365101206973,
+    "y": 1.436698700195455
+  },
+  {
+    "entity": "flying buttresses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 0.9814351040078758,
+    "y": 1.7426374082467786
+  },
+  {
+    "entity": "connecting bridge structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 0.5073091678190146,
+    "y": 1.934589726078059
+  },
+  {
+    "entity": "multiple levels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": 1.7504468438175074,
+    "y": 0.9674377742104795
+  },
+  {
+    "entity": "towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "ornate construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": -0.5073091678190144,
+    "y": 1.934589726078059
+  },
+  {
+    "entity": "stone arch bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9438833303083676,
+    "y": 0.3302790619551672
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7818314824680299,
+    "y": -0.6234898018587334
+  },
+  {
+    "entity": "BUS LANE marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.9743635668289001,
+    "y": -0.3191997900667587
+  },
+  {
+    "entity": "white text",
+    "type": "v",
+    "granularity": 3,
+    "parent": "BUS LANE marking",
+    "x": -2.998458648602064,
+    "y": 0.0961547327149655
+  },
+  {
+    "entity": "red brick buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.1962210609824324,
+    "y": -1.602827243735913
+  },
+  {
+    "entity": "lane configurations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -0.2557543233690114,
+    "y": -1.9835800276464923
+  },
+  {
+    "entity": "urban setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5320320765153363,
+    "y": -0.8467241992282842
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overcast sky",
+    "x": 1.652477548631989,
+    "y": -1.1266401161272455
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.4787163229479834,
+    "y": -1.689960174190868
+  },
+  {
+    "entity": "Gothic Revival style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cathedral",
+    "x": -1.4721526560118128,
+    "y": 2.6139561123701687
+  },
+  {
+    "entity": "English-speaking country",
+    "type": "i",
+    "granularity": 3,
+    "parent": "BUS LANE marking",
+    "x": -2.815405266149281,
+    "y": -1.0360951632639237
+  },
+  {
+    "entity": "English road signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road markings",
+    "x": -2.2208339912259474,
+    "y": -2.0169026707839492
+  },
+  {
+    "entity": "British/Irish architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cathedral",
+    "x": -2.087047651810458,
+    "y": 2.1550480502931837
+  },
+  {
+    "entity": "British/Irish road markings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road markings",
+    "x": -1.3016512173526749,
+    "y": -2.702906603707257
+  },
+  {
+    "entity": "Georgian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red brick buildings",
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overcast sky",
+    "x": 2.9664924786753852,
+    "y": -0.4471267985285258
+  }
+]

@@ -1,0 +1,245 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "barrel-vaulted ceiling",
+    "famous busts of thinkers",
+    "Museum of the Moon"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Long Room",
+      "status": 3,
+      "related_clue": [
+        "barrel-vaulted ceiling",
+        "famous busts of thinkers"
+      ]
+    },
+    {
+      "loc": "Trinity College Library",
+      "status": 2,
+      "related_clue": [
+        "barrel-vaulted ceiling",
+        "famous busts of thinkers"
+      ]
+    },
+    {
+      "loc": "Dublin",
+      "status": 2,
+      "related_clue": [
+        "barrel-vaulted ceiling",
+        "famous busts of thinkers"
+      ]
+    },
+    {
+      "loc": "College Green",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Dublin 2",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Ireland",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "neighborhood feel"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Trinity College",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Long Room",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "College Green",
+      "status": 1,
+      "related_clue": [
+        "neighborhood feel"
+      ]
+    },
+    {
+      "loc": "Dublin City Centre",
+      "status": 3,
+      "related_clue": [
+        "neighborhood feel"
+      ]
+    },
+    {
+      "loc": "Dublin 2",
+      "status": 1,
+      "related_clue": [
+        "neighborhood feel"
+      ]
+    },
+    {
+      "loc": "Dublin",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "part of historic center"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Trinity College",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Dublin City Centre",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "College Green",
+      "status": 3,
+      "related_clue": [
+        "part of historic center"
+      ]
+    },
+    {
+      "loc": "Dublin",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Ireland",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "barrel-vaulted ceiling",
+    "oak ceiling",
+    "Corinthian columns",
+    "wooden bookcases",
+    "double-height hall",
+    "neoclassical style"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Long Room",
+      "status": 3,
+      "related_clue": [
+        "barrel-vaulted ceiling",
+        "oak ceiling",
+        "Corinthian columns",
+        "wooden bookcases",
+        "double-height hall",
+        "neoclassical style"
+      ]
+    },
+    {
+      "loc": "Old Library",
+      "status": 3,
+      "related_clue": [
+        "double-height hall",
+        "neoclassical style"
+      ]
+    },
+    {
+      "loc": "Trinity College",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Dublin",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "marble busts",
+    "plinths",
+    "Latin inscriptions",
+    "famous busts of thinkers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Long Room",
+      "status": 3,
+      "related_clue": [
+        "marble busts",
+        "plinths",
+        "Latin inscriptions"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "Museum of the Moon",
+    "Luke Jerram",
+    "suspended illuminated globe"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Long Room",
+      "status": 3,
+      "related_clue": [
+        "Museum of the Moon",
+        "Luke Jerram",
+        "suspended illuminated globe"
+      ]
+    },
+    {
+      "loc": "Trinity College",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "College Green",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Dublin City Centre",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Dublin",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Ireland",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

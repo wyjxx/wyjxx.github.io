@@ -1,0 +1,11 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "England", "granularity": 2, "parent": "Europe"},  
+  {"entity": "France", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Spain", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Seville", "granularity": 4, "parent": "Spain"},  
+  {"entity": "Casco Antiguo", "granularity": 5, "parent": "Seville"},  
+  {"entity": "Seville Cathedral", "granularity": 5, "parent": "Seville"},  
+  {"entity": "Westminster Abbey", "granularity": 5, "parent": "England"},  
+  {"entity": "Canterbury Cathedral", "granularity": 5, "parent": "England"}  
+]

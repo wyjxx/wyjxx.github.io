@@ -1,0 +1,10 @@
+[
+{"entity":"Spain","granularity":2,"parent":null},
+{"entity":"Catalonia","granularity":3,"parent":"Spain"},
+{"entity":"Barcelona","granularity":4,"parent":"Catalonia"},
+{"entity":"Casa Milà","granularity":5,"parent":"Barcelona"},
+{"entity":"Dreta de l’Eixample","granularity":5,"parent":"Barcelona"},
+{"entity":"Eixample","granularity":5,"parent":"Barcelona"},
+{"entity":"La Pedrera","granularity":5,"parent":"Barcelona"},
+{"entity":"Passeig de Gràcia","granularity":5,"parent":"Barcelona"}
+]

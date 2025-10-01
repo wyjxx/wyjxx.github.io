@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "Philosophenweg street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": 0.20791169081775931
+  },
+  {
+    "entity": "exception plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "no entry sign",
+    "x": 1.1755705045849465,
+    "y": 1.6180339887498947
+  },
+  {
+    "entity": "no entry sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765346,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "no stopping sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.913545457642601,
+    "y": 0.40673664307580004
+  },
+  {
+    "entity": "metal pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "tree leaves",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426008,
+    "y": -0.4067366430758006
+  },
+  {
+    "entity": "building facade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588581,
+    "y": -0.7431448254773944
+  },
+  {
+    "entity": "hiking path",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.9270509831248427,
+    "y": -2.8531695488854605
+  },
+  {
+    "entity": "trail markers",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.31358538980296163,
+    "y": -2.9835656861048196
+  },
+  {
+    "entity": "vehicle access restriction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exception plate",
+    "x": 1.7633557568774196,
+    "y": 2.427050983124842
+  },
+  {
+    "entity": "pedestrian use",
+    "type": "i",
+    "granularity": 3,
+    "parent": "no entry sign",
+    "x": -0.46930339512069175,
+    "y": 2.9630650217854133
+  },
+  {
+    "entity": "vehicle-accessible street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "street intersection",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124842,
+    "y": -1.76335575687742
+  },
+  {
+    "entity": "German traffic standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "no entry sign",
+    "x": -1.887961173149511,
+    "y": 2.331437884370914
+  },
+  {
+    "entity": "inner-city street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.934442802201416,
+    "y": -0.6237350724532822
+  }
+]

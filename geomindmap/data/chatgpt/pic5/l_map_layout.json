@@ -1,0 +1,506 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7677382654911222,
+    "y": 0.9354685589149635
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.5193741691665694,
+    "y": 1.3005776155498743
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.6516011459202352,
+    "y": -1.8908770310719405
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.9743456879215917,
+    "y": -1.7466111417337862
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.2484400463707135,
+    "y": -2.7278924924963395
+  },
+  {
+    "entity": "French Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.6283737734071482,
+    "y": -1.1612057759414418
+  },
+  {
+    "entity": "Swiss Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7677382654911216,
+    "y": -0.9354685589149647
+  },
+  {
+    "entity": "Alpine region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.843497600217756,
+    "y": -0.7755750111958059
+  },
+  {
+    "entity": "Bernese Oberland",
+    "granularity": 3,
+    "parent": "Switzerland",
+    "x": 0.9053822757308803,
+    "y": -2.8601193917024466
+  },
+  {
+    "entity": "Savoie",
+    "granularity": 3,
+    "parent": "France",
+    "x": 0.5567643361701375,
+    "y": 2.9478828799613166
+  },
+  {
+    "entity": "Rhône valley",
+    "granularity": 3,
+    "parent": "France",
+    "x": -0.7991387335030619,
+    "y": 2.89160462107376
+  },
+  {
+    "entity": "Arve valley",
+    "granularity": 3,
+    "parent": "France",
+    "x": -1.0593379295978713,
+    "y": 2.8067424447061926
+  },
+  {
+    "entity": "Jura mountains",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9687558284454507,
+    "y": -0.35213703009207536
+  },
+  {
+    "entity": "Jura plateau",
+    "granularity": 3,
+    "parent": "Jura mountains",
+    "x": 2.8704193130925018,
+    "y": -0.8721771419990143
+  },
+  {
+    "entity": "Fillière plain",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 2.0771285443333745,
+    "y": 3.4184114746934013
+  },
+  {
+    "entity": "Salzkammergut valley",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": 2.96807503638807,
+    "y": 0.4364980851847534
+  },
+  {
+    "entity": "Munich plain",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.02654832378838716,
+    "y": -2.99988252878409
+  },
+  {
+    "entity": "Carinthian plain",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": 2.7167376793532045,
+    "y": 1.272531485497536
+  },
+  {
+    "entity": "Bornes Massif",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.0917860717485235,
+    "y": 2.1504490298630383
+  },
+  {
+    "entity": "Chartreuse Mountains",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.8253302686676256,
+    "y": 1.0087164482402982
+  },
+  {
+    "entity": "Chaîne de l'Épine",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.9365531442207455,
+    "y": 0.6137227640940601
+  },
+  {
+    "entity": "Mont Granier",
+    "granularity": 4,
+    "parent": "Chartreuse Mountains",
+    "x": -3.7671070248901675,
+    "y": 1.3449552643203975
+  },
+  {
+    "entity": "Dent de Rossanaz",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -1.7710442596835565,
+    "y": 3.5865585496743146
+  },
+  {
+    "entity": "Mont Bange",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -2.1348144478342475,
+    "y": 3.382686398902233
+  },
+  {
+    "entity": "Dent du Chat",
+    "granularity": 4,
+    "parent": "Jura mountains",
+    "x": 3.9375116568909014,
+    "y": -0.7042740601841507
+  },
+  {
+    "entity": "Montagne de la Tournette",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -2.4753828583200317,
+    "y": 3.1420502390533716
+  },
+  {
+    "entity": "Mont Tournette",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -2.7890480956646964,
+    "y": 2.867265373150719
+  },
+  {
+    "entity": "Mont Sulens",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -3.07240115581851,
+    "y": 2.561318242180203
+  },
+  {
+    "entity": "Mont Salève",
+    "granularity": 4,
+    "parent": "French Alps",
+    "x": 3.2567475468142963,
+    "y": -2.3224115518828836
+  },
+  {
+    "entity": "Mont Revard",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 1.7158432351165418,
+    "y": 3.613292403405072
+  },
+  {
+    "entity": "Mont Veyrier",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -3.3223624761951225,
+    "y": 2.2275339675907557
+  },
+  {
+    "entity": "Mont Baron",
+    "granularity": 4,
+    "parent": "Bornes Massif",
+    "x": -3.536215405243813,
+    "y": 1.869540212917694
+  },
+  {
+    "entity": "Mont du Chat",
+    "granularity": 4,
+    "parent": "Jura mountains",
+    "x": 3.9930407162513757,
+    "y": -0.23585130561160886
+  },
+  {
+    "entity": "Herzogstand",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.7642505959474604,
+    "y": -2.8911794553095644
+  },
+  {
+    "entity": "Fockenstein",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.426176624796223,
+    "y": -3.180199205284538
+  },
+  {
+    "entity": "Jochberg",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.0581050380103885,
+    "y": -3.429898490118368
+  },
+  {
+    "entity": "Pfänder",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 3.2256330546368166,
+    "y": 2.3654368300240782
+  },
+  {
+    "entity": "Harder Kulm",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 1.9486913758431834,
+    "y": -3.4932222834675724
+  },
+  {
+    "entity": "Annecy",
+    "granularity": 4,
+    "parent": "France",
+    "x": -3.974315242931026,
+    "y": -0.45256861336829485
+  },
+  {
+    "entity": "Chambéry",
+    "granularity": 4,
+    "parent": "France",
+    "x": -3.6311820878692718,
+    "y": -1.6776521226813847
+  },
+  {
+    "entity": "Aix-les-Bains",
+    "granularity": 4,
+    "parent": "France",
+    "x": -3.463179418379615,
+    "y": -2.0015964418712953
+  },
+  {
+    "entity": "Talloires",
+    "granularity": 4,
+    "parent": "Annecy",
+    "x": -3.9948225607328847,
+    "y": 0.20345198023012057
+  },
+  {
+    "entity": "Doussard",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 1.3364873458121351,
+    "y": 3.7701195703165746
+  },
+  {
+    "entity": "Menthon-Saint-Bernard",
+    "granularity": 4,
+    "parent": "Annecy",
+    "x": -3.974315242931026,
+    "y": -0.45256861336829485
+  },
+  {
+    "entity": "Angon",
+    "granularity": 4,
+    "parent": "Talloires",
+    "x": -3.9948225607328847,
+    "y": 0.20345198023012057
+  },
+  {
+    "entity": "Le Bourget-du-Lac",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 0.9430561021138949,
+    "y": 3.8872413339366707
+  },
+  {
+    "entity": "Buisson",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 0.5396929657627885,
+    "y": 3.9634242143260625
+  },
+  {
+    "entity": "Tresserve",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": 0.13064599725212325,
+    "y": 3.9978658836186587
+  },
+  {
+    "entity": "Possenhofen",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.664586728494288,
+    "y": -3.6371899899951177
+  },
+  {
+    "entity": "Feldafing",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.2504872162901817,
+    "y": -3.7995107213817456
+  },
+  {
+    "entity": "Starnberg",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.6020022238233157,
+    "y": -3.9544396976704275
+  },
+  {
+    "entity": "Bregenz",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 2.9804617030457146,
+    "y": 2.6677421233466023
+  },
+  {
+    "entity": "Klagenfurt",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 2.7070695737518564,
+    "y": 2.944787653272633
+  },
+  {
+    "entity": "Geneva",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 2.291428221699717,
+    "y": -3.278621159084726
+  },
+  {
+    "entity": "Salzburg",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 2.4080453054546087,
+    "y": 3.1939501885405193
+  },
+  {
+    "entity": "Lake Annecy",
+    "granularity": 4,
+    "parent": "Annecy",
+    "x": -3.9010435044072125,
+    "y": -0.8842282379127548
+  },
+  {
+    "entity": "Lac du Bourget",
+    "granularity": 4,
+    "parent": "Savoie",
+    "x": -0.4841528569622193,
+    "y": 3.9705913931170658
+  },
+  {
+    "entity": "Lake Constance",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.31798558610595573,
+    "y": -2.9830999257532174
+  },
+  {
+    "entity": "Lake Starnberg",
+    "granularity": 4,
+    "parent": "Starnberg",
+    "x": -0.6020022238233157,
+    "y": -3.9544396976704275
+  },
+  {
+    "entity": "Lake Thun",
+    "granularity": 4,
+    "parent": "Bernese Oberland",
+    "x": 0.9147163034484495,
+    "y": -3.894007458159987
+  },
+  {
+    "entity": "Lake Brienz",
+    "granularity": 4,
+    "parent": "Bernese Oberland",
+    "x": 1.4926939949444238,
+    "y": -3.7110462995571556
+  },
+  {
+    "entity": "Lake Joux",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 2.6107463577642043,
+    "y": -3.0305120780853096
+  },
+  {
+    "entity": "Lake Geneva",
+    "granularity": 3,
+    "parent": "Switzerland",
+    "x": 2.177536731763066,
+    "y": -2.0635730619056414
+  },
+  {
+    "entity": "Lake Millstättersee",
+    "granularity": 4,
+    "parent": "Carinthian plain",
+    "x": 3.7364319083975595,
+    "y": 1.427962392329914
+  },
+  {
+    "entity": "Mondsee",
+    "granularity": 4,
+    "parent": "Salzkammergut valley",
+    "x": 3.9893441520758173,
+    "y": 0.29177600363717315
+  },
+  {
+    "entity": "Attersee",
+    "granularity": 4,
+    "parent": "Salzkammergut valley",
+    "x": 3.90443770748216,
+    "y": 0.8691180520455521
+  },
+  {
+    "entity": "Wörthersee",
+    "granularity": 4,
+    "parent": "Carinthian plain",
+    "x": 3.488902474170262,
+    "y": 1.9564149676713845
+  },
+  {
+    "entity": "Lac de Gérardmer",
+    "granularity": 4,
+    "parent": "France",
+    "x": -3.2663533951377217,
+    "y": -2.308881871831532
+  },
+  {
+    "entity": "River Fier",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.281756621501665,
+    "y": -1.9477132027671082
+  },
+  {
+    "entity": "Leysse river",
+    "granularity": 4,
+    "parent": "Annecy",
+    "x": -3.7810326860633525,
+    "y": -1.3052937703523104
+  },
+  {
+    "entity": "Savière lagoon",
+    "granularity": 5,
+    "parent": "Lac du Bourget",
+    "x": -0.6051910712027742,
+    "y": 4.963239241396332
+  }
+]

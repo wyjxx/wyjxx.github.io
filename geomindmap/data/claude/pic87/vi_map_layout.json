@@ -1,0 +1,130 @@
+[
+  {
+    "entity": "coastal scene",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032304,
+    "y": 0.19509032201612825
+  },
+  {
+    "entity": "chalk cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "pebble beach",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9807852804032304,
+    "y": 0.1950903220161286
+  },
+  {
+    "entity": "ocean",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": -0.38268343236508967
+  },
+  {
+    "entity": "green vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5555702330196022,
+    "y": -0.8314696123025452
+  },
+  {
+    "entity": "small human figures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.19509032201612866,
+    "y": -0.9807852804032303
+  },
+  {
+    "entity": "pathway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1950903220161283,
+    "y": -0.9807852804032304
+  },
+  {
+    "entity": "cleared area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196026,
+    "y": -0.831469612302545
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112872,
+    "y": -0.3826834323650887
+  },
+  {
+    "entity": "stepped cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "chalk cliffs",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "terraced cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "chalk cliffs",
+    "x": 0.9079809994790936,
+    "y": 1.7820130483767356
+  },
+  {
+    "entity": "stratification",
+    "type": "v",
+    "granularity": 2,
+    "parent": "chalk cliffs",
+    "x": -0.46689072771181067,
+    "y": 1.9447398407953533
+  },
+  {
+    "entity": "calm sea",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ocean",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "chalk cliff coastline",
+    "type": "i",
+    "granularity": 3,
+    "parent": "chalk cliffs",
+    "x": -2.427050983124842,
+    "y": 1.7633557568774196
+  },
+  {
+    "entity": "golden hour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.7716385975338618,
+    "y": -1.1480502970952662
+  },
+  {
+    "entity": "chalk deposits",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stratification",
+    "x": -0.700336091567716,
+    "y": 2.91710976119303
+  }
+]

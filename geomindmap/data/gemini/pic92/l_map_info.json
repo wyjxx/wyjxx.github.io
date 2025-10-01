@@ -1,0 +1,9 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},
+  {"entity":"Dublinia museum","granularity":5,"parent":"Dublin"},
+  {"entity":"Christ Church Place","granularity":5,"parent":"Dublin"},
+  {"entity":"Winetavern Street","granularity":5,"parent":"Dublin"},
+  {"entity":"Christchurch neighborhood","granularity":5,"parent":"Dublin"}
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Northern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.427050983124843,
+    "y": -1.7633557568774192
+  },
+  {
+    "entity": "North Sea",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": 0.3090169943749474
+  },
+  {
+    "entity": "Baltic Sea",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924731,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Northern Germany",
+    "x": -3.9684588052579115,
+    "y": -0.5013329342572171
+  },
+  {
+    "entity": "Bremen",
+    "granularity": 4,
+    "parent": "Northern Germany",
+    "x": 3.5052267201754543,
+    "y": -1.9270146964068613
+  },
+  {
+    "entity": "Planten un Blomen park",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -1.742860236609076,
+    "y": 4.686409947459457
+  },
+  {
+    "entity": "Glacischaussee entrance",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.9605735065723895,
+    "y": -0.6266661678215214
+  },
+  {
+    "entity": "St. Pauli district",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -0.5226423163382667,
+    "y": -4.972609476841367
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  }
+]

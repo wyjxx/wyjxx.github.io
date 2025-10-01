@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": 0.25881904510252074
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "steep terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2588190451025203,
+    "y": -0.9659258262890684
+  },
+  {
+    "entity": "dense vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.707106781186548,
+    "y": -0.707106781186547
+  },
+  {
+    "entity": "surrounding landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "azulejos",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 1.360345475541839,
+    "y": 1.4661037436596525
+  },
+  {
+    "entity": "Triton Arch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 0.2980845323523493,
+    "y": 1.977661652450257
+  },
+  {
+    "entity": "color scheme",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -0.8677674782351161,
+    "y": 1.8019377358048383
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "Romantic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.9916113915435405,
+    "y": -0.22419028075927194
+  },
+  {
+    "entity": "architectural mix",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.34549444740409,
+    "y": -1.8704694055761992
+  },
+  {
+    "entity": "Moorish elements",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -0.8842655232327165,
+    "y": -2.8667184173584213
+  }
+]

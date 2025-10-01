@@ -1,0 +1,22 @@
+[  
+  {"entity": "large windows", "type": "v"},  
+  {"entity": "high ceilings", "type": "v"},  
+  {"entity": "orange ceiling", "type": "v"},  
+  {"entity": "concrete pillars", "type": "v"},  
+  {"entity": "distinctive mural", "type": "v"},  
+  {"entity": "businesses", "type": "v"},  
+  {"entity": "signs", "type": "v"},  
+  {"entity": "Herzlich willkommen in der ältesten Universitätsstadt Deutschlands", "type": "v"},  
+  {"entity": "DB Reisezentrum", "type": "v"},  
+  {"entity": "DB Travel Center", "type": "v"},  
+  {"entity": "Herz in Heidelberg verloren", "type": "v"},  
+  {"entity": "mid-century modern design", "type": "i"},  
+  {"entity": "transportation hub", "type": "i"},  
+  {"entity": "German language", "type": "i"},  
+  {"entity": "mural style", "type": "i"},  
+  {"entity": "Heidelberg", "type": "l"},  
+  {"entity": "Heidelberg Hauptbahnhof", "type": "l"},  
+  {"entity": "Bergheim", "type": "l"},  
+  {"entity": "Germany", "type": "l"},  
+  {"entity": "Europe", "type": "l"}  
+]

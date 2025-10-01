@@ -1,0 +1,386 @@
+[
+  {
+    "entity": "snow",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032304,
+    "y": 0.19509032201612825
+  },
+  {
+    "entity": "mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4999999999999999,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "coniferous forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650897,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6593458151000688,
+    "y": 0.7518398074789774
+  },
+  {
+    "entity": "dirt road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8968727415326883,
+    "y": 0.4422886902190013
+  },
+  {
+    "entity": "forest road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8968727415326883,
+    "y": -0.44228869021900147
+  },
+  {
+    "entity": "signpost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.321439465303161,
+    "y": -0.9469301294951059
+  },
+  {
+    "entity": "grassy meadow",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 7.044813998280222e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196026,
+    "y": -0.831469612302545
+  },
+  {
+    "entity": "white cylindrical posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "thin snow cover",
+    "type": "v",
+    "granularity": 2,
+    "parent": "snow",
+    "x": 1.9903694533443939,
+    "y": 0.1960342806591212
+  },
+  {
+    "entity": "mountain ridge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.7872652806468246,
+    "y": 0.8975983604009243
+  },
+  {
+    "entity": "mountain tops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.6383040885779836,
+    "y": 1.147152872702092
+  },
+  {
+    "entity": "bare rock faces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.4547472831460972,
+    "y": 1.3724832757374672
+  },
+  {
+    "entity": "rocky crest",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.24047098253652,
+    "y": 1.5688313298391514
+  },
+  {
+    "entity": "forested slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 0.8715096198341584,
+    "y": 1.8001308237282425
+  },
+  {
+    "entity": "spruces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coniferous forest",
+    "x": -0.43287922787620603,
+    "y": 1.9525920142398667
+  },
+  {
+    "entity": "seed pods",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 0.4115544213844711,
+    "y": -1.9571977310018764
+  },
+  {
+    "entity": "bare branches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 0.7045000958424688,
+    "y": -1.8718118535146506
+  },
+  {
+    "entity": "lilac branches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 0.9810471363186181,
+    "y": -1.7428558507005216
+  },
+  {
+    "entity": "seed ball clusters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 1.2347583631414123,
+    "y": -1.5733314287372322
+  },
+  {
+    "entity": "grass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassy meadow",
+    "x": 1.4089627996560444e-15,
+    "y": -2.0
+  },
+  {
+    "entity": "gravel road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dirt road",
+    "x": -1.5250544078127761,
+    "y": 1.2939123050697148
+  },
+  {
+    "entity": "icy road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dirt road",
+    "x": -1.715457220000544,
+    "y": 1.0282054883864435
+  },
+  {
+    "entity": "road markers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest road",
+    "x": -1.996721201880445,
+    "y": 0.1144746345751377
+  },
+  {
+    "entity": "roadside reflectors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest road",
+    "x": -1.9919066272930954,
+    "y": -0.17974422979847027
+  },
+  {
+    "entity": "flexible red poles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest road",
+    "x": -1.943973289642559,
+    "y": -0.47007217441185273
+  },
+  {
+    "entity": "colored markers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signpost",
+    "x": -0.8254140596087893,
+    "y": -1.8217276498423518
+  },
+  {
+    "entity": "colored stripes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cylindrical posts",
+    "x": 1.8126155740733,
+    "y": -0.8452365234813984
+  },
+  {
+    "entity": "alpine region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": 0.6918476122273207,
+    "y": 2.919134611739471
+  },
+  {
+    "entity": "ski track",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dirt road",
+    "x": -2.790051671052036,
+    "y": 1.1025478097841108
+  },
+  {
+    "entity": "early winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow",
+    "x": 2.8708210071966267,
+    "y": 0.870854031763387
+  },
+  {
+    "entity": "temperate region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": 0.2614672282429744,
+    "y": 2.988584094275237
+  },
+  {
+    "entity": "moderate altitude",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": -0.17443448673142664,
+    "y": 2.9949244748138044
+  },
+  {
+    "entity": "horse chestnut",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tree",
+    "x": 2.1895922180935106,
+    "y": -2.0507769060686103
+  },
+  {
+    "entity": "alder catkins",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tree",
+    "x": 2.4760797992545944,
+    "y": -1.6938207779228962
+  },
+  {
+    "entity": "cross-country skiing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forest road",
+    "x": -2.780938201400499,
+    "y": -1.1253367140511141
+  },
+  {
+    "entity": "BC Parks",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white cylindrical posts",
+    "x": 2.897777478867205,
+    "y": -0.776457135307562
+  },
+  {
+    "entity": "municipal border",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white cylindrical posts",
+    "x": 2.988584094275237,
+    "y": -0.26146722824297497
+  },
+  {
+    "entity": "hiking trail",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forest road",
+    "x": -2.5857175545143236,
+    "y": -1.5212050250628502
+  },
+  {
+    "entity": "biking trail",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forest road",
+    "x": -2.334523931257794,
+    "y": -1.8841438412140024
+  },
+  {
+    "entity": "ski trail",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forest road",
+    "x": -2.0327949149873663,
+    "y": -2.2062966331845555
+  },
+  {
+    "entity": "outskirts of city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forest road",
+    "x": -1.6870620277049198,
+    "y": -2.480689765907088
+  },
+  {
+    "entity": "remote cabin road",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dirt road",
+    "x": -2.9323859248307156,
+    "y": 0.6333346570768954
+  },
+  {
+    "entity": "parking information",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signpost",
+    "x": -0.6812287891031161,
+    "y": -2.921630937832002
+  },
+  {
+    "entity": "alpine forest",
+    "type": "i",
+    "granularity": 3,
+    "parent": "coniferous forest",
+    "x": -1.1480502970952697,
+    "y": 2.77163859753386
+  },
+  {
+    "entity": "boreal forest",
+    "type": "i",
+    "granularity": 3,
+    "parent": "coniferous forest",
+    "x": -1.611898825040472,
+    "y": 2.5301743374386567
+  },
+  {
+    "entity": "sunlit south exposure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forested slopes",
+    "x": 1.3072644297512377,
+    "y": 2.700196235592364
+  }
+]

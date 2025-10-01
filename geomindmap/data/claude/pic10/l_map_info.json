@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Austria","granularity":2,"parent":"Europe"},  
+  {"entity":"Switzerland","granularity":2,"parent":"Europe"},  
+  {"entity":"North Rhine-Westphalia","granularity":3,"parent":"Germany"},  
+  {"entity":"southern Germany","granularity":3,"parent":"Germany"},  
+  {"entity":"central Germany","granularity":3,"parent":"Germany"},  
+  {"entity":"Koblenz","granularity":4,"parent":"Germany"},  
+  {"entity":"Mehlgasse","granularity":5,"parent":"Koblenz"}  
+]

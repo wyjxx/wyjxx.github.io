@@ -1,0 +1,23 @@
+[
+{"entity":"Gare de l'Est","type":"l"},
+{"entity":"Gare d'Austerlitz","type":"l"},
+{"entity":"Paris","type":"l"},
+{"entity":"France","type":"l"},
+{"entity":"Gare de Nice-Ville","type":"l"},
+{"entity":"Avenue Thiers","type":"l"},
+{"entity":"Thiers neighborhood","type":"l"},
+{"entity":"Jean-Médecin area","type":"l"},
+{"entity":"Nice","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"architecture","type":"v"},
+{"entity":"signage","type":"v"},
+{"entity":"GARE text","type":"v"},
+{"entity":"SNCF logo","type":"v"},
+{"entity":"tricolor flag","type":"v"},
+{"entity":"preliminary location ideas","type":"i"},
+{"entity":"French location","type":"i"},
+{"entity":"strong hypothesis","type":"i"},
+{"entity":"photos of Nice-Ville station","type":"i"},
+{"entity":"online sources","type":"i"},
+{"entity":"street address","type":"i"}
+]

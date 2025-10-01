@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "French Riviera",
+    "granularity": 3,
+    "parent": "France",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Cannes Riviera Hotel",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 4.504844339512096,
+    "y": 2.1694186955877908
+  },
+  {
+    "entity": "Boulevard d'Alsace",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 1.1126046697815721,
+    "y": 4.874639560909118
+  },
+  {
+    "entity": "Voie Rapide (D6285)",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -3.1174490092936673,
+    "y": 3.9091574123401496
+  },
+  {
+    "entity": "Campus Riera International",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Prado - République",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -3.1174490092936686,
+    "y": -3.9091574123401482
+  },
+  {
+    "entity": "Rue de Mimont",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 1.1126046697815712,
+    "y": -4.874639560909118
+  },
+  {
+    "entity": "Le Suquet",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 4.504844339512095,
+    "y": -2.1694186955877917
+  }
+]

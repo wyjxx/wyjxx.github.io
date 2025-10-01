@@ -1,0 +1,11 @@
+[  
+  {"entity":"Evzones uniforms","type":"v","granularity":1,"parent":null},  
+  {"entity":"guardhouse","type":"v","granularity":1,"parent":null},  
+  {"entity":"building architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"M1 Garand rifles","type":"v","granularity":1,"parent":null},  
+  {"entity":"Greek inscription","type":"v","granularity":1,"parent":null},  
+  {"entity":"changing of the guard ceremony","type":"v","granularity":1,"parent":null},  
+  {"entity":"neoclassical architecture","type":"v","granularity":2,"parent":"building architecture"},  
+  {"entity":"modern era","type":"i","granularity":3,"parent":"M1 Garand rifles"},  
+  {"entity":"Greek battles and locations","type":"i","granularity":3,"parent":"Greek inscription"}  
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9829730996839018,
+    "y": 0.18374951781657037
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.4098510938122943,
+    "y": 1.4185626152117068
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8559021797131494,
+    "y": 0.7454039839818278
+  },
+  {
+    "entity": "European Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.0841067129448991,
+    "y": -1.680688143275785
+  },
+  {
+    "entity": "Dolomites",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": -0.720983103610299,
+    "y": 2.9120754393230373
+  },
+  {
+    "entity": "Pacific Northwest",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9489192990517052,
+    "y": -0.5512485534497102
+  },
+  {
+    "entity": "Scandinavian fjords",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -0.5330729092808075,
+    "y": -2.952259011907813
+  },
+  {
+    "entity": "Cairngorms",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 1.7182054202415151,
+    "y": -2.4592214487216637
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.1147766407184414,
+    "y": 2.12784392281756
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": -2.9683546680622603,
+    "y": 0.43459241202877225
+  },
+  {
+    "entity": "Eibsee",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -2.8544406176470103,
+    "y": 2.802172150373163
+  },
+  {
+    "entity": "Zugspitze",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -3.957806224083014,
+    "y": 0.5794565493716963
+  },
+  {
+    "entity": "Lake Königssee",
+    "granularity": 4,
+    "parent": "Bavarian Alps",
+    "x": -3.5379407682741864,
+    "y": -1.866273056169289
+  },
+  {
+    "entity": "Loch Morlich",
+    "granularity": 4,
+    "parent": "Cairngorms",
+    "x": 1.236067977499789,
+    "y": -3.8042260651806146
+  },
+  {
+    "entity": "Loch Avon",
+    "granularity": 4,
+    "parent": "Cairngorms",
+    "x": 3.146979752133933,
+    "y": -2.469112885159172
+  },
+  {
+    "entity": "Grainau",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.6931564244219572,
+    "y": 1.5364229966877034
+  },
+  {
+    "entity": "Garmisch-Partenkirchen district",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 1.5136442001692414,
+    "y": 3.702550639126225
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "German-speaking region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traditional residential neighborhood",
+    "x": 2.9457860917881202,
+    "y": -0.5677537330812292
+  },
+  {
+    "entity": "European-style houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.41541501300188644,
+    "y": 0.9096319953545183
+  },
+  {
+    "entity": "red clay tile roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.9892239746533227,
+    "y": 0.2073354254931775
+  },
+  {
+    "entity": "white buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7237340381050702,
+    "y": 0.6900790114821119
+  },
+  {
+    "entity": "light-colored buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311813,
+    "y": 0.5406408174555974
+  },
+  {
+    "entity": "colorful shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 1.6241165495417,
+    "y": 1.1671527035931342
+  },
+  {
+    "entity": "red shutters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "colorful shutters",
+    "x": 2.82202614959256,
+    "y": 1.0179235781804994
+  },
+  {
+    "entity": "blue shutters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "colorful shutters",
+    "x": 2.43617482431255,
+    "y": 1.7507290553897012
+  },
+  {
+    "entity": "green shutters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "colorful shutters",
+    "x": 1.8646639386098522,
+    "y": 2.350112422001976
+  },
+  {
+    "entity": "wooden shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 0.8308300260037729,
+    "y": 1.8192639907090367
+  },
+  {
+    "entity": "steep-pitched roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style houses",
+    "x": 0.43780664761318977,
+    "y": 1.9514931051135436
+  },
+  {
+    "entity": "narrow residential street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9819286972627068,
+    "y": 0.18925124436040963
+  },
+  {
+    "entity": "concrete paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow residential street",
+    "x": -1.8900016374293374,
+    "y": 0.654135926634842
+  },
+  {
+    "entity": "asphalt paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow residential street",
+    "x": -1.997734678366016,
+    "y": 0.0951638316474836
+  },
+  {
+    "entity": "European-style utility poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144973,
+    "y": -0.2817325568414303
+  },
+  {
+    "entity": "utility wiring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style utility poles",
+    "x": -1.9189859472289945,
+    "y": -0.5634651136828606
+  },
+  {
+    "entity": "low concrete walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.841253532831181,
+    "y": -0.5406408174555979
+  },
+  {
+    "entity": "wooden fencing",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7237340381050698,
+    "y": -0.6900790114821124
+  },
+  {
+    "entity": "European-style car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5800569095711975,
+    "y": -0.8145759520503362
+  },
+  {
+    "entity": "bare deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23575893550942698,
+    "y": -0.9718115683235418
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32706796331742155,
+    "y": -0.9450008187146686
+  },
+  {
+    "entity": "moderate shadow angles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear blue sky",
+    "x": 0.6541359266348431,
+    "y": -1.8900016374293371
+  },
+  {
+    "entity": "evergreen shrubs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7237340381050701,
+    "y": -0.690079011482112
+  },
+  {
+    "entity": "flat area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8888354486549238,
+    "y": -0.45822652172740985
+  },
+  {
+    "entity": "traditional residential neighborhood",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9819286972627068,
+    "y": -0.18925124436040974
+  },
+  {
+    "entity": "traditional Germanic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": 0.038944269593793296,
+    "y": 2.9997472133274505
+  },
+  {
+    "entity": "Alpine architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -0.5804955676625981,
+    "y": 2.9433016997793615
+  },
+  {
+    "entity": "winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare deciduous trees",
+    "x": -1.1149873669809816,
+    "y": -2.785103799048218
+  },
+  {
+    "entity": "early spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare deciduous trees",
+    "x": -0.2851681299125475,
+    "y": -2.9864157677192535
+  },
+  {
+    "entity": "mid-latitude",
+    "type": "i",
+    "granularity": 3,
+    "parent": "moderate shadow angles",
+    "x": 0.9812038899522646,
+    "y": -2.8350024561440055
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "evergreen shrubs",
+    "x": 2.1712021143152103,
+    "y": -2.070237034446336
+  },
+  {
+    "entity": "traditional Austrian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -1.1749810738415096,
+    "y": 2.760329595558156
+  },
+  {
+    "entity": "traditional Swiss architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -1.7189565186870044,
+    "y": 2.4586965015762834
+  }
+]

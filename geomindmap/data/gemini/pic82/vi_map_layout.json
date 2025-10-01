@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.17364817766693041,
+    "y": 0.984807753012208
+  },
+  {
+    "entity": "dark blue enamel finish",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.8429524237408152,
+    "y": 0.7768695925493894
+  },
+  {
+    "entity": "white serif font",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.0850925277315189,
+    "y": 1.6800518463015428
+  },
+  {
+    "entity": "ashlar masonry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.6383040885779836,
+    "y": -1.1471528727020923
+  },
+  {
+    "entity": "building stone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -0.8452365234813983,
+    "y": -1.8126155740733
+  },
+  {
+    "entity": "electrical box",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.984807753012208,
+    "y": 0.17364817766693028
+  },
+  {
+    "entity": "terracotta building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "shape of letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": -0.04986138347614538,
+    "y": 1.9993783640016325
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865395,
+    "y": -0.7660444431189779
+  },
+  {
+    "entity": "UK signage database",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -1.7512310167043688,
+    "y": 2.4358140171475697
+  },
+  {
+    "entity": "certain era",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dark blue enamel finish",
+    "x": 2.764428635611223,
+    "y": 1.165304388824084
+  },
+  {
+    "entity": "fingerprint",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shape of letters",
+    "x": -0.07479207521421807,
+    "y": 2.9990675460024487
+  },
+  {
+    "entity": "quick search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "comparing images",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.0260604299770044,
+    "y": -2.8190778623577257
+  },
+  {
+    "entity": "matching street sign",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -2.5598726448964664,
+    "y": 1.5643056101384953
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.9283628290596158,
+    "y": -2.298133329356936
+  },
+  {
+    "entity": "city centre",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "junction",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9544232590366235,
+    "y": -0.5209445330007965
+  }
+]

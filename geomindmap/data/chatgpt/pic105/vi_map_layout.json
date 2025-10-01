@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9796428837618654,
+    "y": 0.2846296765465703
+  },
+  {
+    "entity": "UNESCO sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542583,
+    "y": 0.6548607339452851
+  },
+  {
+    "entity": "mosaic tiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.28462967654657023,
+    "y": 1.9796428837618654
+  },
+  {
+    "entity": "art nouveau tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.8308300260037726,
+    "y": 1.8192639907090369
+  },
+  {
+    "entity": "bicycles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542582,
+    "y": 0.6548607339452852
+  },
+  {
+    "entity": "header \"ELBTUNNEL\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "German text plaque",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311812,
+    "y": -0.5406408174555976
+  },
+  {
+    "entity": "Art-Nouveau lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "header \"ELBTUNNEL\"",
+    "x": -1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "lifts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "public-ferry signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "UNESCO designation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "UNESCO sign",
+    "x": 2.633036968701767,
+    "y": 1.4377469601601705
+  },
+  {
+    "entity": "historic site",
+    "type": "i",
+    "granularity": 3,
+    "parent": "UNESCO sign",
+    "x": 1.797832999534041,
+    "y": 2.4016237227730812
+  },
+  {
+    "entity": "start date 22.7.1907",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text plaque",
+    "x": -2.9457860917881202,
+    "y": -0.5677537330812308
+  },
+  {
+    "entity": "opening date 7.9.1911",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text plaque",
+    "x": -2.5237605984935443,
+    "y": -1.6219224523667917
+  },
+  {
+    "entity": "cost in Goldmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text plaque",
+    "x": -1.7401707287135948,
+    "y": -2.443727856151007
+  },
+  {
+    "entity": "two tunnels",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.2672487230627754,
+    "y": -1.9645822018358547
+  },
+  {
+    "entity": "modern tunnel irrelevant",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.728895986063555,
+    "y": -1.2462450390056592
+  },
+  {
+    "entity": "art nouveau era",
+    "type": "i",
+    "granularity": 3,
+    "parent": "art nouveau tiles",
+    "x": -1.246245039005659,
+    "y": 2.7288959860635553
+  },
+  {
+    "entity": "transport hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public-ferry signage",
+    "x": 0.2140175495976977,
+    "y": -2.9923563438307603
+  },
+  {
+    "entity": "station architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mosaic tiling",
+    "x": 0.42694451481985535,
+    "y": 2.969464325642798
+  },
+  {
+    "entity": "riverside context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public-ferry signage",
+    "x": 1.4377469601601702,
+    "y": -2.633036968701767
+  },
+  {
+    "entity": "St. Pauli-Steinwerder connection",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.969464325642798,
+    "y": -0.42694451481985596
+  }
+]

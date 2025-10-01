@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Paris","granularity":4,"parent":"France"},
+{"entity":"Nice","granularity":4,"parent":"France"},
+{"entity":"Gare de l'Est","granularity":5,"parent":"Paris"},
+{"entity":"Gare d'Austerlitz","granularity":5,"parent":"Paris"},
+{"entity":"Gare de Nice-Ville","granularity":5,"parent":"Nice"},
+{"entity":"Avenue Thiers","granularity":5,"parent":"Nice"},
+{"entity":"Thiers neighborhood","granularity":5,"parent":"Nice"},
+{"entity":"Jean-Médecin area","granularity":5,"parent":"Nice"}
+]

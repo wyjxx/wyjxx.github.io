@@ -1,0 +1,135 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Franconia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.8079039091377689,
+    "y": 2.3940516818407187
+  },
+  {
+    "entity": "Würzburg",
+    "granularity": 4,
+    "parent": "Franconia",
+    "x": -1.722549816932854,
+    "y": 3.6101000163686034
+  },
+  {
+    "entity": "Regensburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -0.3690734378532112,
+    "y": -3.982936705180138
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.7829534231061508,
+    "y": -3.5806531654202503
+  },
+  {
+    "entity": "Augsburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.4008685429184555,
+    "y": -2.1057286515094247
+  },
+  {
+    "entity": "Bamberg",
+    "granularity": 4,
+    "parent": "Franconia",
+    "x": -1.8428538226943372,
+    "y": -3.5501957394178802
+  },
+  {
+    "entity": "Landshut",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.931892398735606,
+    "y": -0.7349980712662872
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": 4.875084211755128,
+    "y": 1.1106547295608482
+  },
+  {
+    "entity": "Stachus",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.2286917788826885,
+    "y": -4.475816456775313
+  },
+  {
+    "entity": "Rathausplatz",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": 3.9128955269257255,
+    "y": 3.112755787941715
+  },
+  {
+    "entity": "Marktplatz",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": 2.178424018376226,
+    "y": 4.500496505515983
+  },
+  {
+    "entity": "Beim Grafeneckart 1",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": 0.013999948968790855,
+    "y": 4.999980400104472
+  },
+  {
+    "entity": "Grafeneckart",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": -2.1531872711660673,
+    "y": 4.512625020460755
+  },
+  {
+    "entity": "Vierröhrenbrunnen",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": -3.8954028726283507,
+    "y": 3.134619029470534
+  },
+  {
+    "entity": "Altes Rathaus",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": -4.868788151558513,
+    "y": 1.1379375796780091
+  },
+  {
+    "entity": "Würzburg Town Hall",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": -4.881227390425402,
+    "y": -1.0833370495652859
+  },
+  {
+    "entity": "Alte Mainbrücke",
+    "granularity": 5,
+    "parent": "Würzburg",
+    "x": -3.9302654737139395,
+    "y": -3.090794931103023
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "entity": "mountainous area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.766044443118978,
+    "y": 0.6427876096865393
+  },
+  {
+    "entity": "wooden hut",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.37460659341591207,
+    "y": 0.9271838545667874
+  },
+  {
+    "entity": "frozen lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9781476007338056,
+    "y": 0.20791169081775973
+  },
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9612616959383189,
+    "y": -0.275637355816999
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8829475928589271,
+    "y": -0.4694715627858905
+  },
+  {
+    "entity": "snow dust",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassy meadow",
+    "x": 1.4862896509547874,
+    "y": -1.3382612127177176
+  },
+  {
+    "entity": "karst cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588585,
+    "y": -0.743144825477394
+  },
+  {
+    "entity": "low-angle sun",
+    "type": "v",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 2.990978823503376,
+    "y": 0.2324772620157928
+  },
+  {
+    "entity": "bright lighting",
+    "type": "v",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 2.919134611739471,
+    "y": 0.6918476122273204
+  },
+  {
+    "entity": "limestone mountain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.43837114678907774,
+    "y": -0.8987940462991668
+  },
+  {
+    "entity": "grey rock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "karst cliffs",
+    "x": -1.4862896509547892,
+    "y": -1.3382612127177158
+  },
+  {
+    "entity": "conifer forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10452846326765423,
+    "y": -0.9945218953682733
+  },
+  {
+    "entity": "snow patches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous area",
+    "x": 1.7872652806468246,
+    "y": 0.8975983604009242
+  },
+  {
+    "entity": "shallow water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "frozen lake",
+    "x": -1.7107285203210132,
+    "y": 1.0360540187462604
+  },
+  {
+    "entity": "island hut",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden hut",
+    "x": 0.18920950800507483,
+    "y": 1.9910298245080302
+  },
+  {
+    "entity": "dark wood cabin",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden hut",
+    "x": -0.12956223858030338,
+    "y": 1.9957989944716528
+  },
+  {
+    "entity": "rocky shore",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3746065934159111,
+    "y": -0.9271838545667878
+  },
+  {
+    "entity": "gravel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky shore",
+    "x": 0.551274711633997,
+    "y": -1.922523391876638
+  },
+  {
+    "entity": "soil",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky shore",
+    "x": 0.9389431255717793,
+    "y": -1.765895185717855
+  },
+  {
+    "entity": "reed margin",
+    "type": "v",
+    "granularity": 2,
+    "parent": "frozen lake",
+    "x": -1.8595529717765023,
+    "y": 0.7362491053693571
+  },
+  {
+    "entity": "reflections",
+    "type": "v",
+    "granularity": 2,
+    "parent": "frozen lake",
+    "x": -1.9562952014676112,
+    "y": 0.41582338163551946
+  },
+  {
+    "entity": "karst ridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6156614753256578,
+    "y": -0.7880107536067223
+  },
+  {
+    "entity": "tree line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "conifer forest",
+    "x": -0.5736064654221813,
+    "y": -1.9159790246309776
+  },
+  {
+    "entity": "grassy meadow",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749473,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "timber shed",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden hut",
+    "x": -0.4450418679126287,
+    "y": 1.9498558243636472
+  },
+  {
+    "entity": "pitched roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wooden hut",
+    "x": -0.7492131868318241,
+    "y": 1.8543677091335748
+  },
+  {
+    "entity": "Norway spruce",
+    "type": "v",
+    "granularity": 2,
+    "parent": "conifer forest",
+    "x": -0.20905692653530847,
+    "y": -1.9890437907365466
+  },
+  {
+    "entity": "fir",
+    "type": "v",
+    "granularity": 2,
+    "parent": "conifer forest",
+    "x": 0.16271734933571436,
+    "y": -1.9933697760890123
+  },
+  {
+    "entity": "birch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous trees",
+    "x": -1.7658951857178542,
+    "y": -0.938943125571781
+  },
+  {
+    "entity": "thin snow",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassy meadow",
+    "x": 1.7320508075688767,
+    "y": -1.0000000000000009
+  },
+  {
+    "entity": "frozen water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "frozen lake",
+    "x": -1.9982456601977165,
+    "y": 0.0837513074584014
+  },
+  {
+    "entity": "narrow valley",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859081,
+    "y": -0.34202014332566943
+  },
+  {
+    "entity": "floodplain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338056,
+    "y": -0.20791169081775987
+  },
+  {
+    "entity": "limestone massif",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9975640502598242,
+    "y": -0.06975647374412564
+  },
+  {
+    "entity": "morning light",
+    "type": "v",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 2.141789203673697,
+    "y": 2.1006520433015052
+  },
+  {
+    "entity": "early winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow patches",
+    "x": 2.680897920970237,
+    "y": 1.3463975406013864
+  },
+  {
+    "entity": "backwater",
+    "type": "i",
+    "granularity": 3,
+    "parent": "frozen lake",
+    "x": -2.976344103943434,
+    "y": -0.3759997006929103
+  },
+  {
+    "entity": "fisherman’s shack",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden hut",
+    "x": -1.5515210117637381,
+    "y": 2.5676414372056753
+  },
+  {
+    "entity": "sub-alpine elevation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 1.5996132984050742,
+    "y": 2.537959277759523
+  },
+  {
+    "entity": "secluded charm",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden hut",
+    "x": -1.9397988036473994,
+    "y": 2.2884887155867992
+  },
+  {
+    "entity": "karst landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "karst cliffs",
+    "x": -1.7633557568774196,
+    "y": -2.427050983124842
+  },
+  {
+    "entity": "rural area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 1.1882392981174708,
+    "y": 2.754648320640822
+  },
+  {
+    "entity": "hunting cabin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden hut",
+    "x": -2.278787194707835,
+    "y": 1.951186541885628
+  },
+  {
+    "entity": "winter scene",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 0.7483234321739441,
+    "y": 2.9051698815834177
+  },
+  {
+    "entity": "morning light direction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "morning light",
+    "x": 2.141789203673697,
+    "y": 2.1006520433015052
+  }
+]

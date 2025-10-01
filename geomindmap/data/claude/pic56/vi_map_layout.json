@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "windmills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5971585917027863,
+    "y": 0.8021231927550437
+  },
+  {
+    "entity": "ridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3960797660391566,
+    "y": 0.9182161068802741
+  },
+  {
+    "entity": "hillside",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.597158591702786,
+    "y": 0.802123192755044
+  },
+  {
+    "entity": "rocky terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189779,
+    "y": 0.6427876096865395
+  },
+  {
+    "entity": "arid terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9932383577419429,
+    "y": 0.1160929141252308
+  },
+  {
+    "entity": "sparse vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8936326403234125,
+    "y": -0.4487991802004617
+  },
+  {
+    "entity": "scrubby vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189783,
+    "y": -0.6427876096865389
+  },
+  {
+    "entity": "path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5971585917027862,
+    "y": -0.8021231927550437
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3960797660391576,
+    "y": -0.9182161068802737
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05814482891047624,
+    "y": -0.9983081582712682
+  },
+  {
+    "entity": "clear sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3960797660391565,
+    "y": -0.9182161068802741
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.835487811412936,
+    "y": -0.5495089780708067
+  },
+  {
+    "entity": "windmill complex",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9932383577419429,
+    "y": -0.11609291412523093
+  },
+  {
+    "entity": "windmill blades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "windmills",
+    "x": 1.9823430353580256,
+    "y": 0.2651718125433585
+  },
+  {
+    "entity": "white cylindrical base",
+    "type": "v",
+    "granularity": 2,
+    "parent": "windmills",
+    "x": 1.8429524237408155,
+    "y": 0.7768695925493893
+  },
+  {
+    "entity": "dark conical roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "windmills",
+    "x": 1.5739726033213781,
+    "y": 1.2339409402373047
+  },
+  {
+    "entity": "silhouettes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": -0.11628965782095248,
+    "y": -1.9966163165425364
+  },
+  {
+    "entity": "gradient sky",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear sky",
+    "x": 0.792159532078313,
+    "y": -1.8364322137605482
+  },
+  {
+    "entity": "traditional European windmills",
+    "type": "i",
+    "granularity": 3,
+    "parent": "windmills",
+    "x": 1.7914757751083592,
+    "y": 2.4063695782651306
+  },
+  {
+    "entity": "Spanish style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "windmills",
+    "x": 1.0960230730991856,
+    "y": 2.7926212459326125
+  },
+  {
+    "entity": "windmills of La Mancha",
+    "type": "i",
+    "granularity": 3,
+    "parent": "windmills",
+    "x": 0.32350231385627737,
+    "y": 2.9825067062673365
+  },
+  {
+    "entity": "Mediterranean-like landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arid terrain",
+    "x": -2.73108882289844,
+    "y": 1.241432173515418
+  },
+  {
+    "entity": "sunrise or sunset",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.182120924719145,
+    "y": -2.058724913606202
+  },
+  {
+    "entity": "semi-arid climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arid terrain",
+    "x": -2.979715073225829,
+    "y": 0.34827874237569106
+  },
+  {
+    "entity": "golden hour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.754648320640821,
+    "y": -1.188239298117473
+  },
+  {
+    "entity": "arid Spanish landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arid terrain",
+    "x": -2.943765931882154,
+    "y": -0.5781367816442688
+  },
+  {
+    "entity": "Cervantes' Don Quixote",
+    "type": "i",
+    "granularity": 3,
+    "parent": "windmills",
+    "x": -0.47176586325715475,
+    "y": 2.962673956118903
+  }
+]

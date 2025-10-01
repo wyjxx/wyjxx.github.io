@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9396926207859083,
+    "y": 0.3420201433256689
+  },
+  {
+    "entity": "Indonesia",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.8793852415718169,
+    "y": -0.6840402866513372
+  },
+  {
+    "entity": "Monaco",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4661037436596522,
+    "y": 1.3603454755418394
+  },
+  {
+    "entity": "Poland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.9124213147063241,
+    "y": -1.7797436176229382
+  },
+  {
+    "entity": "La Condamine",
+    "granularity": 3,
+    "parent": "Monaco",
+    "x": -1.0119899621484894,
+    "y": 2.8241593999827095
+  },
+  {
+    "entity": "Boulevard Albert 1er",
+    "granularity": 5,
+    "parent": "La Condamine",
+    "x": 4.015573460686509,
+    "y": 2.9791223173663366
+  },
+  {
+    "entity": "Circuit de Monaco",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -1.9651251582696188,
+    "y": -4.597638862757253
+  },
+  {
+    "entity": "Quai Albert Ier",
+    "granularity": 5,
+    "parent": "La Condamine",
+    "x": -1.6866499369141488,
+    "y": 4.706932333304516
+  },
+  {
+    "entity": "Rascasse corner",
+    "granularity": 5,
+    "parent": "La Condamine",
+    "x": -4.993784606094612,
+    "y": -0.249229428303484
+  }
+]

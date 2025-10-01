@@ -1,0 +1,128 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859084,
+    "y": 0.3420201433256687
+  },
+  {
+    "entity": "Vatican",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8793852415718169,
+    "y": 0.6840402866513374
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": null,
+    "x": -3.0641777724759116,
+    "y": 2.571150438746158
+  },
+  {
+    "entity": "Washington, D.C.",
+    "granularity": 4,
+    "parent": null,
+    "x": 1.3680805733026726,
+    "y": -3.758770483143634
+  },
+  {
+    "entity": "Campanile area",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.1390606233604936,
+    "y": 3.8918245596207997
+  },
+  {
+    "entity": "College Green",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.4340161635554527,
+    "y": 4.789947561577444
+  },
+  {
+    "entity": "Dublin 2",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.48405435351589415,
+    "y": 4.976513978965829
+  },
+  {
+    "entity": "East Building",
+    "granularity": 5,
+    "parent": "Washington, D.C.",
+    "x": -1.5035289975213688,
+    "y": -4.768584753741133
+  },
+  {
+    "entity": "Hirshhorn Museum",
+    "granularity": 5,
+    "parent": "Washington, D.C.",
+    "x": 0.6526309611002563,
+    "y": -4.957224306869053
+  },
+  {
+    "entity": "Library Square",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.330217598512693,
+    "y": 4.42380898588329
+  },
+  {
+    "entity": "National Gallery of Art",
+    "granularity": 5,
+    "parent": "Washington, D.C.",
+    "x": 2.6864980417341155,
+    "y": -4.21695722906443
+  },
+  {
+    "entity": "National Gallery of Ireland",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.8302222155948895,
+    "y": 3.2139380484326976
+  },
+  {
+    "entity": "Pearse Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.761239426692077,
+    "y": 1.5266299884755663
+  },
+  {
+    "entity": "South-East Inner City",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.98496470583896,
+    "y": -0.3874621033596542
+  },
+  {
+    "entity": "Temple Bar",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.468163201617061,
+    "y": -2.2439959010023105
+  },
+  {
+    "entity": "Trinity College Dublin",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.2876068428453187,
+    "y": -3.7671794816383035
+  },
+  {
+    "entity": "UN Headquarters",
+    "granularity": 5,
+    "parent": null,
+    "x": 4.92403876506104,
+    "y": -0.8682408883346564
+  },
+  {
+    "entity": "West Sculpture Garden",
+    "granularity": 5,
+    "parent": "Washington, D.C.",
+    "x": 4.216957229064425,
+    "y": -2.686498041734125
+  }
+]

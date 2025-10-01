@@ -1,0 +1,378 @@
+[
+  {
+    "entity": "modern towers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9446690916079188,
+    "y": 0.3280248578395691
+  },
+  {
+    "entity": "tram wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.7430834966120097,
+    "y": -0.9806426075991448
+  },
+  {
+    "entity": "advertisements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5931797447293553,
+    "y": 0.8050700531275629
+  },
+  {
+    "entity": "skyline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.29627558088563394,
+    "y": 0.9551024972069124
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.29627558088563405,
+    "y": 0.9551024972069124
+  },
+  {
+    "entity": "prominent towers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9799617050365869,
+    "y": 0.19918598510383587
+  },
+  {
+    "entity": "triangular top",
+    "type": "v",
+    "granularity": 2,
+    "parent": "prominent towers",
+    "x": -1.6701978398664301,
+    "y": 1.1001996072102147
+  },
+  {
+    "entity": "yellow light",
+    "type": "v",
+    "granularity": 3,
+    "parent": "triangular top",
+    "x": -2.505296759799645,
+    "y": 1.6502994108153222
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8244415603417605,
+    "y": -0.5659470943305949
+  },
+  {
+    "entity": "wiring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram wires",
+    "x": -1.7430834966120097,
+    "y": -0.9806426075991448
+  },
+  {
+    "entity": "station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5931797447293558,
+    "y": -0.8050700531275625
+  },
+  {
+    "entity": "tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.35940777283751335,
+    "y": -0.9331806110416024
+  },
+  {
+    "entity": "railway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10009569162409879,
+    "y": -0.994977815088504
+  },
+  {
+    "entity": "bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.03341497700767507,
+    "y": -0.9994415637302546
+  },
+  {
+    "entity": "twin towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.009548877562126164,
+    "y": 1.9999772046044184
+  },
+  {
+    "entity": "wide front faces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "twin towers",
+    "x": 0.009548877562126164,
+    "y": 1.9999772046044184
+  },
+  {
+    "entity": "parallelogram shapes",
+    "type": "v",
+    "granularity": 3,
+    "parent": "wide front faces",
+    "x": 0.014323316343189247,
+    "y": 2.9999658069066277
+  },
+  {
+    "entity": "dark towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "prominent towers",
+    "x": -1.9846100614333309,
+    "y": 0.24763461805165807
+  },
+  {
+    "entity": "silhouette",
+    "type": "v",
+    "granularity": 3,
+    "parent": "dark towers",
+    "x": -2.84021437052509,
+    "y": 0.9660136279901879
+  },
+  {
+    "entity": "rectangular bulging structure",
+    "type": "v",
+    "granularity": 3,
+    "parent": "dark towers",
+    "x": -2.976915092149996,
+    "y": 0.3714519270774871
+  },
+  {
+    "entity": "glowing strip",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dark towers",
+    "x": -1.993671274193465,
+    "y": -0.15898066063457528
+  },
+  {
+    "entity": "forecourt",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1663293545831297,
+    "y": -0.9860702539900286
+  },
+  {
+    "entity": "straight tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tracks",
+    "x": -0.9020202384322051,
+    "y": -1.7850376717197618
+  },
+  {
+    "entity": "loops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tracks",
+    "x": -0.5283908037425725,
+    "y": -1.928938350108753
+  },
+  {
+    "entity": "fence",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.29627558088563455,
+    "y": -0.9551024972069122
+  },
+  {
+    "entity": "mainline tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4209347624283348,
+    "y": -0.9070909137343408
+  },
+  {
+    "entity": "cluster of high-rises",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6456278515588023,
+    "y": -0.7636521965473321
+  },
+  {
+    "entity": "railway gateway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8244415603417603,
+    "y": -0.5659470943305952
+  },
+  {
+    "entity": "cylindrical crown-shaped tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cluster of high-rises",
+    "x": 1.1318941886611897,
+    "y": -1.648883120683521
+  },
+  {
+    "entity": "building with lit red letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.7366042261628941,
+    "y": 1.8594123302804475
+  },
+  {
+    "entity": "illuminated red letters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "building with lit red letters",
+    "x": -1.1049063392443412,
+    "y": 2.7891184954206714
+  },
+  {
+    "entity": "dark block",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.2618538092737552,
+    "y": 1.551684556867572
+  },
+  {
+    "entity": "few lights",
+    "type": "v",
+    "granularity": 3,
+    "parent": "dark block",
+    "x": -1.892780713910633,
+    "y": 2.3275268353013576
+  },
+  {
+    "entity": "rails on the road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8925188358598817,
+    "y": -0.451010119216101
+  },
+  {
+    "entity": "skyscrapers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9446690916079188,
+    "y": -0.32802485783956903
+  },
+  {
+    "entity": "ads in German",
+    "type": "i",
+    "granularity": 3,
+    "parent": "advertisements",
+    "x": 2.17957091831449,
+    "y": 2.0614244133699717
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "advertisements",
+    "x": 1.779539234188066,
+    "y": 2.4152101593826885
+  },
+  {
+    "entity": "Krombacher",
+    "type": "i",
+    "granularity": 3,
+    "parent": "advertisements",
+    "x": 1.3231179651078944,
+    "y": 2.692463342444748
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.939885115109761,
+    "y": -0.5975579553115054
+  },
+  {
+    "entity": "German Wikipedia",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9933006358694594,
+    "y": -0.20037790123536414
+  },
+  {
+    "entity": "146 meters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern towers",
+    "x": 2.989534435820255,
+    "y": 0.2503674440594694
+  },
+  {
+    "entity": "125 meters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern towers",
+    "x": 2.9062475250621755,
+    "y": 0.74412722236858
+  },
+  {
+    "entity": "118 meters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern towers",
+    "x": 2.7419940345716487,
+    "y": 1.2171559942642909
+  },
+  {
+    "entity": "111 meters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern towers",
+    "x": 2.501349983156241,
+    "y": 1.6562754184507695
+  },
+  {
+    "entity": "trams underground",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.1331035513322822,
+    "y": -2.1094713174854034
+  },
+  {
+    "entity": "number of buildings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cluster of high-rises",
+    "x": 2.156471051633788,
+    "y": -2.0855772830239268
+  },
+  {
+    "entity": "absence of twisting shapes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "prominent towers",
+    "x": -2.9008438355501927,
+    "y": -0.7649215918971344
+  }
+]

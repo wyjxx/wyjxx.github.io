@@ -1,0 +1,107 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.883767269704208,
+    "y": 0.9572626571502311
+  },
+  {
+    "entity": "Frankfurt am Main",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.5418241026128383,
+    "y": 1.8588926881750762
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.994042992684403,
+    "y": -2.652490632963182
+  },
+  {
+    "entity": "Concourse A",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": 3.640704769378942,
+    "y": 3.4271371116751985
+  },
+  {
+    "entity": "Concourse B",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": 1.3426593373718845,
+    "y": 4.8163540052375815
+  },
+  {
+    "entity": "Concourse C",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -1.342659337371884,
+    "y": 4.8163540052375815
+  },
+  {
+    "entity": "Concourse Z",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -3.640704769378943,
+    "y": 3.427137111675198
+  },
+  {
+    "entity": "Flughafen district",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.888634581854235,
+    "y": 1.049405510324236
+  },
+  {
+    "entity": "FRA",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.726499075173201,
+    "y": -1.6310139461043494
+  },
+  {
+    "entity": "Frankfurt Airport",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -3.2010642023124367,
+    "y": -3.840987890201405
+  },
+  {
+    "entity": "Terminal 1",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -0.7523225163739102,
+    "y": -4.9430770610376715
+  },
+  {
+    "entity": "MUC",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.32361586021884,
+    "y": -4.427280128266051
+  },
+  {
+    "entity": "Munich Airport",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.675081213427074,
+    "y": -1.7730244352126798
+  }
+]

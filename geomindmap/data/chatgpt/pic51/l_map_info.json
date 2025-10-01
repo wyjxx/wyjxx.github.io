@@ -1,0 +1,7 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Madrid","granularity":4,"parent":"Spain"},
+{"entity":"Sol neighborhood","granularity":5,"parent":"Madrid"},
+{"entity":"Puerta del Sol","granularity":5,"parent":"Madrid"}
+]

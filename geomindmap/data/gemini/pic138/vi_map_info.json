@@ -1,0 +1,14 @@
+[  
+  {"entity":"structure","type":"v","granularity":1,"parent":null},  
+  {"entity":"building","type":"v","granularity":1,"parent":null},  
+  {"entity":"steep terrain","type":"v","granularity":1,"parent":null},  
+  {"entity":"dense vegetation","type":"v","granularity":1,"parent":null},  
+  {"entity":"surrounding landscape","type":"v","granularity":1,"parent":null},  
+  {"entity":"azulejos","type":"v","granularity":2,"parent":"building"},  
+  {"entity":"Triton Arch","type":"v","granularity":2,"parent":"building"},  
+  {"entity":"color scheme","type":"v","granularity":2,"parent":"building"},  
+  {"entity":"architectural style","type":"i","granularity":3,"parent":"building"},  
+  {"entity":"Romantic style","type":"i","granularity":3,"parent":"building"},  
+  {"entity":"architectural mix","type":"i","granularity":3,"parent":"building"},  
+  {"entity":"Moorish elements","type":"i","granularity":3,"parent":"building"}  
+]

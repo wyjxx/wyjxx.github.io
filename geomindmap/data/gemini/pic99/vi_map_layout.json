@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765346,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "hazel tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426008,
+    "y": -0.4067366430758006
+  },
+  {
+    "entity": "street view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": -0.8660254037844386
+  },
+  {
+    "entity": "ivy",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": -0.20791169081775898
+  },
+  {
+    "entity": "No Entry sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.765895185717854,
+    "y": 0.9389431255717816
+  },
+  {
+    "entity": "No Stopping sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 0.6840402866513376,
+    "y": 1.8793852415718166
+  },
+  {
+    "entity": "stickers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "No Entry sign",
+    "x": 1.765895185717854,
+    "y": 0.9389431255717816
+  },
+  {
+    "entity": "German-speaking locale",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -0.41751930288019673,
+    "y": 2.970804206224711
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -1.7633557568774192,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "German sign style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -2.6963821388975004,
+    "y": 1.315113440367233
+  },
+  {
+    "entity": "prevalent Hazel trees",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hazel tree",
+    "x": -2.9835656861048196,
+    "y": -0.3135853898029618
+  },
+  {
+    "entity": "region's flora",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hazel tree",
+    "x": -2.2294344764321816,
+    "y": -2.0073918190765756
+  },
+  {
+    "entity": "Heidelberg hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": 0.6237350724532783,
+    "y": -2.9344428022014166
+  },
+  {
+    "entity": "intersection hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": 2.229434476432183,
+    "y": -2.0073918190765743
+  }
+]

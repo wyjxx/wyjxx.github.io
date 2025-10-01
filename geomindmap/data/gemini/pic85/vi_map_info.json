@@ -1,0 +1,20 @@
+[
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"vehicle details","type":"v","granularity":2,"parent":null},
+{"entity":"UK license plates","type":"v","granularity":2,"parent":null},
+{"entity":"left-hand driving","type":"v","granularity":2,"parent":null},
+{"entity":"red telephone box","type":"v","granularity":1,"parent":null},
+{"entity":"UK bus stop sign","type":"v","granularity":1,"parent":null},
+{"entity":"bus route destination 'Abingdon'","type":"v","granularity":2,"parent":"UK bus stop sign"},
+{"entity":"Queen's Lane bus stop sign","type":"v","granularity":2,"parent":"UK bus stop sign"},
+{"entity":"curved street","type":"v","granularity":2,"parent":null},
+{"entity":"street curvature","type":"v","granularity":2,"parent":null},
+{"entity":"building details","type":"v","granularity":2,"parent":"architecture"},
+{"entity":"landmarks","type":"v","granularity":1,"parent":null},
+{"entity":"Gothic architecture","type":"i","granularity":3,"parent":"architecture"},
+{"entity":"cross-reference with outside knowledge","type":"i","granularity":3,"parent":null},
+{"entity":"Google Maps","type":"i","granularity":3,"parent":null},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null},
+{"entity":"shot perspective","type":"i","granularity":3,"parent":null},
+{"entity":"angle of view","type":"i","granularity":3,"parent":null}
+]

@@ -1,0 +1,14 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Greece","granularity":2,"parent":"Europe"},  
+  {"entity":"Athens","granularity":4,"parent":"Greece"},  
+  {"entity":"Elefsina","granularity":4,"parent":"Greece"},  
+  {"entity":"Markopoulo","granularity":4,"parent":"Greece"},  
+  {"entity":"Athina-Center","granularity":5,"parent":"Athens"},  
+  {"entity":"Leoforos Katechaki","granularity":5,"parent":"Athens"},  
+  {"entity":"Attiki Odos","granularity":5,"parent":"Athens"},  
+  {"entity":"Hymettus Ring Road","granularity":5,"parent":"Athens"},  
+  {"entity":"A621","granularity":5,"parent":"Athens"},  
+  {"entity":"Katechaki interchange","granularity":5,"parent":"Athens"},  
+  {"entity":"Papagou","granularity":5,"parent":"Athens"}  
+]

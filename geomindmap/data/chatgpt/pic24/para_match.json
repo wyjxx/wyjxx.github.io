@@ -1,0 +1,425 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "shoreline",
+    "clear water",
+    "turquoise water",
+    "rocks",
+    "conifer trees",
+    "Alpine",
+    "purple flowers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Eibsee",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    },
+    {
+      "loc": "Zugspitze",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    },
+    {
+      "loc": "Bavaria",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    },
+    {
+      "loc": "Lake Königssee",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    },
+    {
+      "loc": "Dolomites",
+      "status": 2,
+      "related_clue": [
+        "shoreline",
+        "clear water",
+        "turquoise water",
+        "rocks",
+        "conifer trees",
+        "Alpine",
+        "purple flowers"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "Rhododendron ferrugineum",
+    "pink bell-shaped flowers",
+    "Alpine Heather",
+    "Erica carnea",
+    "evergreen shrub",
+    "Alpine",
+    "white limestone",
+    "glacial lake",
+    "clear water"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Pacific Northwest",
+      "status": 2,
+      "related_clue": [
+        "clear water",
+        "glacial lake"
+      ]
+    },
+    {
+      "loc": "Scandinavian fjords",
+      "status": 2,
+      "related_clue": [
+        "clear water",
+        "glacial lake"
+      ]
+    },
+    {
+      "loc": "Eibsee",
+      "status": 3,
+      "related_clue": [
+        "Rhododendron ferrugineum",
+        "pink bell-shaped flowers",
+        "Alpine Heather",
+        "Erica carnea",
+        "evergreen shrub",
+        "Alpine",
+        "white limestone",
+        "glacial lake",
+        "clear water"
+      ]
+    },
+    {
+      "loc": "Zugspitze",
+      "status": 3,
+      "related_clue": [
+        "Rhododendron ferrugineum",
+        "pink bell-shaped flowers",
+        "Alpine Heather",
+        "Erica carnea",
+        "evergreen shrub",
+        "Alpine",
+        "white limestone",
+        "glacial lake",
+        "clear water"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "Alpine roses",
+    "Erica species",
+    "clear water",
+    "turquoise water",
+    "heath shrubs",
+    "overhanging branches",
+    "Western hemlock"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Loch Morlich",
+      "status": 2,
+      "related_clue": [
+        "clear water",
+        "turquoise water",
+        "heath shrubs"
+      ]
+    },
+    {
+      "loc": "Loch Avon",
+      "status": 2,
+      "related_clue": [
+        "clear water",
+        "turquoise water",
+        "heath shrubs"
+      ]
+    },
+    {
+      "loc": "Cairngorms",
+      "status": 2,
+      "related_clue": [
+        "clear water",
+        "turquoise water",
+        "heath shrubs"
+      ]
+    },
+    {
+      "loc": "Pacific Northwest",
+      "status": 2,
+      "related_clue": [
+        "overhanging branches",
+        "Western hemlock"
+      ]
+    },
+    {
+      "loc": "Eibsee",
+      "status": 3,
+      "related_clue": [
+        "Alpine roses",
+        "Erica species",
+        "clear water",
+        "turquoise water",
+        "heath shrubs"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "water clarity",
+    "alpine trees"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Eibsee",
+      "status": 3,
+      "related_clue": [
+        "water clarity",
+        "alpine trees"
+      ]
+    },
+    {
+      "loc": "Grainau",
+      "status": 3,
+      "related_clue": [
+        "water clarity",
+        "alpine trees"
+      ]
+    },
+    {
+      "loc": "Bavaria",
+      "status": 3,
+      "related_clue": [
+        "water clarity",
+        "alpine trees"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "water clarity",
+        "alpine trees"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": [
+        "water clarity",
+        "alpine trees"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "water color",
+    "water clarity",
+    "conifer forests",
+    "rocky limestone beach",
+    "Caribbean-like hue",
+    "glacially-fed basin",
+    "post-glacial landslide basin",
+    "subalpine forest",
+    "Alpine"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Eibsee",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Grainau",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Bavaria",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "European Alps",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Bavarian Alps",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    },
+    {
+      "loc": "Garmisch-Partenkirchen district",
+      "status": 3,
+      "related_clue": [
+        "water color",
+        "water clarity",
+        "conifer forests",
+        "rocky limestone beach",
+        "Caribbean-like hue",
+        "glacially-fed basin",
+        "post-glacial landslide basin",
+        "subalpine forest",
+        "Alpine"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Eibsee",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Grainau",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Garmisch-Partenkirchen district",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Bavaria",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

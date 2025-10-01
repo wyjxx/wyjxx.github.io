@@ -1,0 +1,17 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Frankfurt","granularity":4,"parent":"Germany"},  
+  {"entity":"Frankfurt am Main","granularity":4,"parent":"Germany"},  
+  {"entity":"Munich","granularity":4,"parent":"Germany"},  
+  {"entity":"Concourse A","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Concourse B","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Concourse C","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Concourse Z","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Flughafen district","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"FRA","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Frankfurt Airport","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"Terminal 1","granularity":5,"parent":"Frankfurt am Main"},  
+  {"entity":"MUC","granularity":5,"parent":"Munich"},  
+  {"entity":"Munich Airport","granularity":5,"parent":"Munich"}  
+]

@@ -1,0 +1,18 @@
+[
+{"entity":"station building","type":"v","granularity":1,"parent":null},
+{"entity":"signage “GARE DE NICE VILLE”","type":"v","granularity":1,"parent":null},
+{"entity":"SNCF logo","type":"v","granularity":1,"parent":null},
+{"entity":"stone façade","type":"v","granularity":2,"parent":"station building"},
+{"entity":"clock","type":"v","granularity":2,"parent":"station building"},
+{"entity":"mansard roof","type":"v","granularity":2,"parent":"station building"},
+{"entity":"sculpted ornamentation","type":"v","granularity":2,"parent":"station building"},
+{"entity":"central pediment","type":"v","granularity":2,"parent":"station building"},
+{"entity":"French tricolor flag","type":"v","granularity":2,"parent":"station building"},
+{"entity":"French railway station","type":"i","granularity":3,"parent":"station building"},
+{"entity":"principal SNCF station","type":"i","granularity":3,"parent":"station building"},
+{"entity":"late 19th-century architecture","type":"i","granularity":3,"parent":"station building"},
+{"entity":"Louis-XIII style","type":"i","granularity":3,"parent":"station building"},
+{"entity":"built by PLM","type":"i","granularity":3,"parent":"station building"},
+{"entity":"English Wikipedia address","type":"i","granularity":3,"parent":"station building"},
+{"entity":"French Wikipedia data","type":"i","granularity":3,"parent":"station building"}
+]

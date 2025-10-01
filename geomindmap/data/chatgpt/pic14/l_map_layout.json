@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112867,
+    "y": 0.3826834323650899
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.695518130045146,
+    "y": -1.5307337294603616
+  },
+  {
+    "entity": "Barer Straße",
+    "granularity": 5,
+    "parent": "Maxvorstadt",
+    "x": 0.9754516100806416,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Schellingstraße",
+    "granularity": 5,
+    "parent": "Maxvorstadt",
+    "x": -2.777851165098011,
+    "y": -4.157348061512726
+  },
+  {
+    "entity": "Maxvorstadt",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.619397662556434,
+    "y": 1.9134171618254494
+  }
+]

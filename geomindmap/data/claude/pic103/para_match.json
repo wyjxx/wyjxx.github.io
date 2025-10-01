@@ -1,0 +1,219 @@
+[{
+    "paragraph": 1,
+    "clue": [],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "#MOIN sign",
+        "Moin greeting",
+        "sculptural installations",
+        "monument",
+        "statue",
+        "urban park",
+        "paved paths",
+        "European-style street furniture",
+        "lamp posts"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Northern Germany",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Hamburg",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Bremen",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 2,
+            "related_clue": [
+                "urban park",
+                "paved paths",
+                "European-style street furniture",
+                "lamp posts"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 2,
+            "related_clue": [
+                "urban park",
+                "paved paths",
+                "European-style street furniture",
+                "lamp posts"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "lush deciduous trees",
+        "green space",
+        "temperate climate",
+        "spring",
+        "summer",
+        "overcast sky"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Northern Germany",
+            "status": 2,
+            "related_clue": [
+                "overcast sky"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "#MOIN sign",
+        "Moin greeting"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Northern Germany",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Hamburg",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Bremen",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Schleswig-Holstein",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Lower Saxony",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [
+        "tourist attraction",
+        "city landmark",
+        "recent installation",
+        "hashtag format"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 6,
+    "clue": [
+        "urban park",
+        "Moin greeting"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Northern Germany",
+            "status": 2,
+            "related_clue": [
+                "urban park",
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Hamburg",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Bremen",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Schleswig-Holstein",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        },
+        {
+            "loc": "Lower Saxony",
+            "status": 2,
+            "related_clue": [
+                "Moin greeting"
+            ]
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [
+        "formal park",
+        "public space",
+        "tourism infrastructure"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 8,
+    "clue": [
+        "hashtag format"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Wallanlagen",
+            "status": 3,
+            "related_clue": [
+                "hashtag format"
+            ]
+        },
+        {
+            "loc": "Bremen",
+            "status": 3,
+            "related_clue": [
+                "hashtag format"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": [
+                "hashtag format"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "hashtag format"
+            ]
+        }
+    ]
+}]

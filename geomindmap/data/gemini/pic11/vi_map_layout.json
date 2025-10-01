@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6473862847818277,
+    "y": 0.7621620551276365
+  },
+  {
+    "entity": "forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.26752833852922087,
+    "y": 0.9635499925192229
+  },
+  {
+    "entity": "streetlights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.46840844069979004,
+    "y": 0.8835120444460229
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6473862847818276,
+    "y": 0.7621620551276365
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8568571761675893,
+    "y": 0.5155538571770216
+  },
+  {
+    "entity": "car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9476531711828025,
+    "y": -0.31930153013597995
+  },
+  {
+    "entity": "road layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05413890858541795,
+    "y": -0.9985334138511238
+  },
+  {
+    "entity": "modern school building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5611870653623829,
+    "y": -0.8276889981568901
+  },
+  {
+    "entity": "mountainous terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675897,
+    "y": -0.515553857177021
+  },
+  {
+    "entity": "rooflines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "houses",
+    "x": 1.9846914932121271,
+    "y": 0.24698112634656333
+  },
+  {
+    "entity": "window shapes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "houses",
+    "x": 1.8636259536352062,
+    "y": 0.7258776101639092
+  },
+  {
+    "entity": "construction materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "houses",
+    "x": 1.628879833263714,
+    "y": 1.1604957943856475
+  },
+  {
+    "entity": "dormer window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "houses",
+    "x": 1.2947725695636554,
+    "y": 1.524324110255273
+  },
+  {
+    "entity": "satellite dish",
+    "type": "v",
+    "granularity": 2,
+    "parent": "houses",
+    "x": 0.8816845976277164,
+    "y": 1.7951691481044487
+  },
+  {
+    "entity": "white railing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -1.7137143523351785,
+    "y": 1.0311077143540432
+  },
+  {
+    "entity": "curve",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road layout",
+    "x": -0.8886234127078063,
+    "y": -1.7917445215173762
+  },
+  {
+    "entity": "license plate HY-Z 20 19",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car",
+    "x": -1.9957766862697688,
+    "y": -0.12990542152682122
+  },
+  {
+    "entity": "license plate HZ-Z 2019",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car",
+    "x": -1.6674393921582606,
+    "y": -1.1043757845402489
+  },
+  {
+    "entity": "forested hills",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": 1.5243241102552731,
+    "y": -1.294772569563655
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "houses",
+    "x": 0.622221225333226,
+    "y": 2.934764172253849
+  },
+  {
+    "entity": "European plates",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate HY-Z 20 19",
+    "x": -2.974686872186908,
+    "y": 0.3888933175549162
+  },
+  {
+    "entity": "S-Max model",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car",
+    "x": -1.9912385165715134,
+    "y": -2.243873697453152
+  },
+  {
+    "entity": "vehicle registration database",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate HY-Z 20 19",
+    "x": -2.8991746583740876,
+    "y": -0.7712238976078813
+  },
+  {
+    "entity": "European context",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9824138714630792,
+    "y": -0.3243570552718222
+  },
+  {
+    "entity": "topography",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": 2.7869301594503755,
+    "y": -1.110414466019741
+  },
+  {
+    "entity": "mapping tools",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road layout",
+    "x": -0.5653359716349553,
+    "y": -2.946251048226468
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road layout",
+    "x": 0.243476176582297,
+    "y": -2.9901035686806683
+  },
+  {
+    "entity": "European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "houses",
+    "x": -0.11603973940076592,
+    "y": 2.997754956443205
+  },
+  {
+    "entity": "visual search",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road layout",
+    "x": 1.0345389078839127,
+    "y": -2.8159774942414506
+  }
+]

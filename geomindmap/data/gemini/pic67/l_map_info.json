@@ -1,0 +1,17 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Scotland","granularity":2,"parent":"Europe"},
+{"entity":"Edinburgh","granularity":4,"parent":"Scotland"},
+{"entity":"Arthur's Seat","granularity":4,"parent":"Scotland"},
+{"entity":"Salisbury Crags","granularity":4,"parent":"Scotland"},
+{"entity":"Holyrood","granularity":5,"parent":"Edinburgh"},
+{"entity":"Holyrood Park","granularity":5,"parent":"Edinburgh"},
+{"entity":"Dynamic Earth","granularity":5,"parent":"Edinburgh"},
+{"entity":"Scottish Parliament Building","granularity":5,"parent":"Edinburgh"},
+{"entity":"Canongate","granularity":5,"parent":"Edinburgh"},
+{"entity":"Old Town","granularity":5,"parent":"Edinburgh"},
+{"entity":"Royal Mile","granularity":5,"parent":"Edinburgh"},
+{"entity":"City Chambers","granularity":5,"parent":"Edinburgh"},
+{"entity":"National Museum of Scotland","granularity":5,"parent":"Edinburgh"},
+{"entity":"Chambers Street","granularity":5,"parent":"Edinburgh"}
+]

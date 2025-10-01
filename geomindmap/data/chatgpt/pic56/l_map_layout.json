@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "La Mancha",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 2.7029066037072575,
+    "y": 1.3016512173526744
+  },
+  {
+    "entity": "Toledo",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Castilla-La Mancha",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "Consuegra",
+    "granularity": 4,
+    "parent": "Toledo",
+    "x": 0.44785790441323164,
+    "y": 3.9748488395729704
+  },
+  {
+    "entity": "Campo de Criptana",
+    "granularity": 4,
+    "parent": "Toledo",
+    "x": -3.3868967969131365,
+    "y": 2.1281283060613467
+  },
+  {
+    "entity": "Cerro Calderico",
+    "granularity": 4,
+    "parent": "Toledo",
+    "x": -1.7355349564702331,
+    "y": -3.603875471609676
+  },
+  {
+    "entity": "Molino Rucio",
+    "granularity": 5,
+    "parent": "Cerro Calderico",
+    "x": -2.169418695587791,
+    "y": -4.504844339512095
+  }
+]

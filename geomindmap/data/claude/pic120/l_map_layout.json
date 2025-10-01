@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7320508075688776,
+    "y": -0.9999999999999994
+  },
+  {
+    "entity": "Flanders",
+    "granularity": 3,
+    "parent": "Belgium",
+    "x": 0.6918476122273207,
+    "y": 2.919134611739471
+  },
+  {
+    "entity": "Brussels-City",
+    "granularity": 3,
+    "parent": "Belgium",
+    "x": -2.058724913606202,
+    "y": -2.182120924719145
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Brussels-City",
+    "x": -1.5230519832977973,
+    "y": 3.6986906678137665
+  },
+  {
+    "entity": "Pentagon district",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": -4.350754959646304,
+    "y": 2.46392598937409
+  },
+  {
+    "entity": "Îlot Sacré",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": -4.944154131125643,
+    "y": -0.7452113308808701
+  },
+  {
+    "entity": "Grand Place",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": -3.4312081893436694,
+    "y": -3.636868207865242
+  },
+  {
+    "entity": "Rue de l'Étuve",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": -0.45647355519323973,
+    "y": -4.979119590189539
+  },
+  {
+    "entity": "Rue du Chêne",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": 2.7127313193287943,
+    "y": -4.200129615753859
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Brussels-City",
+    "x": 4.7262383319886245,
+    "y": -1.6317693554057768
+  }
+]

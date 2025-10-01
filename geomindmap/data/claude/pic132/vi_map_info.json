@@ -1,0 +1,23 @@
+[  
+  {"entity": "multi-story residential buildings", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "street signs", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "utility poles", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "European-style cars", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "motorcycles", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "scooters", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "bright sunlight", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "clear sky", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "street layout", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "urban layout", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "light-colored walls", "type": "v", "granularity": 2, "parent": "multi-story residential buildings"},  
+  {"entity": "balconies", "type": "v", "granularity": 2, "parent": "multi-story residential buildings"},  
+  {"entity": "metal railings", "type": "v", "granularity": 2, "parent": "multi-story residential buildings"},  
+  {"entity": "shuttered windows", "type": "v", "granularity": 2, "parent": "multi-story residential buildings"},  
+  {"entity": "blue directional signs", "type": "v", "granularity": 2, "parent": "street signs"},  
+  {"entity": "road markings", "type": "v", "granularity": 2, "parent": "street layout"},  
+  {"entity": "Greek text", "type": "v", "granularity": 3, "parent": "blue directional signs"},  
+  {"entity": "Greek urban architecture", "type": "i", "granularity": 3, "parent": "multi-story residential buildings"},  
+  {"entity": "Mediterranean climate", "type": "i", "granularity": 3, "parent": "bright sunlight"},  
+  {"entity": "strategic junction", "type": "i", "granularity": 3, "parent": "street layout"},  
+  {"entity": "central urban setting", "type": "i", "granularity": 3, "parent": "urban layout"}  
+]

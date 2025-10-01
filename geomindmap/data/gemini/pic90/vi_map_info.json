@@ -1,0 +1,23 @@
+[  
+  {"entity":"classical building","type":"v","granularity":1,"parent":null},  
+  {"entity":"Brutalist building","type":"v","granularity":1,"parent":null},  
+  {"entity":"ashlar stone","type":"v","granularity":2,"parent":"classical building"},  
+  {"entity":"arched windows","type":"v","granularity":2,"parent":"classical building"},  
+  {"entity":"ornate cornices","type":"v","granularity":2,"parent":"classical building"},  
+  {"entity":"pavements","type":"v","granularity":1,"parent":null},  
+  {"entity":"golden sculpture","type":"v","granularity":1,"parent":null},  
+  {"entity":"background buildings","type":"v","granularity":1,"parent":null},  
+  {"entity":"Sphere within a Sphere sculpture","type":"v","granularity":1,"parent":null},  
+  {"entity":"Old Library","type":"v","granularity":1,"parent":null},  
+  {"entity":"Berkeley Library","type":"v","granularity":1,"parent":null},  
+  {"entity":"roofline details","type":"v","granularity":2,"parent":"classical building"},  
+  {"entity":"sky","type":"v","granularity":1,"parent":null},  
+  {"entity":"exact location","type":"i","granularity":3,"parent":null},  
+  {"entity":"architectural style","type":"i","granularity":3,"parent":"classical building"},  
+  {"entity":"probable location","type":"i","granularity":3,"parent":null},  
+  {"entity":"critical clue","type":"i","granularity":3,"parent":"golden sculpture"},  
+  {"entity":"visual match","type":"i","granularity":3,"parent":"Old Library"},  
+  {"entity":"identification","type":"i","granularity":3,"parent":null},  
+  {"entity":"confidence","type":"i","granularity":3,"parent":null},  
+  {"entity":"style contrast","type":"i","granularity":3,"parent":"classical building"}  
+]

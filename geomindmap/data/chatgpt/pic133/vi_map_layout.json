@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "highway photo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4338837391175582,
+    "y": 0.9009688679024191
+  },
+  {
+    "entity": "overhead signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818236,
+    "y": -0.22252093395631428
+  },
+  {
+    "entity": "overhead gantries",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.11196447610330804,
+    "y": -0.9937122098932426
+  },
+  {
+    "entity": "rocky cuttings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.43388373911755795,
+    "y": -0.9009688679024193
+  },
+  {
+    "entity": "cypress stands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.846724199228284,
+    "y": -0.5320320765153368
+  },
+  {
+    "entity": "pine stands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9438833303083675,
+    "y": -0.3302790619551673
+  },
+  {
+    "entity": "blue sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead signs",
+    "x": -1.4317336985194369,
+    "y": 1.3964736361721457
+  },
+  {
+    "entity": "green sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead signs",
+    "x": -1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "Greek lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead signs",
+    "x": -1.9252484939000243,
+    "y": 0.54168093628601
+  },
+  {
+    "entity": "Latin lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead signs",
+    "x": -1.9993783640016325,
+    "y": 0.049861383476145306
+  },
+  {
+    "entity": "arrows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead signs",
+    "x": -1.6524775486319891,
+    "y": -1.1266401161272448
+  },
+  {
+    "entity": "multiple lanes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway photo",
+    "x": 1.9844784132003441,
+    "y": 0.24868740929497032
+  },
+  {
+    "entity": "central concrete divider",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway photo",
+    "x": 1.8617474972884085,
+    "y": 0.73068204873279
+  },
+  {
+    "entity": "single-entry toll booths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway photo",
+    "x": 1.623876011431713,
+    "y": 1.1674873444695797
+  },
+  {
+    "entity": "near Athens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": 1.9283628290596184,
+    "y": 2.2981333293569337
+  },
+  {
+    "entity": "important road",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": 1.3016512173526746,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "motorway signage conventions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead signs",
+    "x": -1.0260604299770058,
+    "y": -2.8190778623577253
+  },
+  {
+    "entity": "eastbound",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arrows",
+    "x": -2.894525864748705,
+    "y": -0.7884922436528862
+  },
+  {
+    "entity": "westward",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arrows",
+    "x": -2.478716322947984,
+    "y": -1.6899601741908672
+  },
+  {
+    "entity": "camera orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": 0.5944384295981926,
+    "y": 2.9405174635456315
+  },
+  {
+    "entity": "mapping data",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9811366296797277,
+    "y": -0.3358934283099243
+  },
+  {
+    "entity": "deciphering arrows",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arrows",
+    "x": -1.7914757751083585,
+    "y": -2.406369578265131
+  },
+  {
+    "entity": "neighborhood determination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": -0.14953765698209187,
+    "y": 2.996270763656767
+  },
+  {
+    "entity": "border alignment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": -0.8842655232327132,
+    "y": 2.866718417358422
+  },
+  {
+    "entity": "terrain characteristic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky cuttings",
+    "x": 0.4471267985285245,
+    "y": -2.9664924786753857
+  },
+  {
+    "entity": "road design standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "highway photo",
+    "x": -1.564305610138495,
+    "y": 2.5598726448964664
+  },
+  {
+    "entity": "view toward Hymettus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky cuttings",
+    "x": 1.3016512173526738,
+    "y": -2.702906603707258
+  },
+  {
+    "entity": "south-easterly aspect",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rocky cuttings",
+    "x": 2.0405182133127604,
+    "y": -2.199155615489477
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "river",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "stream",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542583,
+    "y": 0.6548607339452851
+  },
+  {
+    "entity": "rocky cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "limestone mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "mixed forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545182,
+    "y": 0.4154150130018867
+  },
+  {
+    "entity": "snow",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555974,
+    "y": -0.8412535328311812
+  },
+  {
+    "entity": "frost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "wooden cabin",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542578,
+    "y": -0.6548607339452855
+  },
+  {
+    "entity": "golden hour lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": -0.1423148382732853
+  },
+  {
+    "entity": "partially frozen water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "river",
+    "x": 1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mixed forest",
+    "x": -1.6428415502409826,
+    "y": 1.1406452738699289
+  },
+  {
+    "entity": "evergreen conifers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mixed forest",
+    "x": -1.9885406035437947,
+    "y": -0.21379024313022477
+  },
+  {
+    "entity": "yellow leaves",
+    "type": "v",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": -1.9238010855739827,
+    "y": 2.3019533842248774
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow",
+    "x": -2.682675809579134,
+    "y": -1.3428516301881372
+  },
+  {
+    "entity": "late fall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": -2.829114158393736,
+    "y": 0.9980546471892724
+  },
+  {
+    "entity": "winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow",
+    "x": -2.044253818781673,
+    "y": -2.1956835665451764
+  },
+  {
+    "entity": "temperate continental climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow",
+    "x": -1.1480502970952684,
+    "y": -2.7716385975338604
+  },
+  {
+    "entity": "remote setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden cabin",
+    "x": 1.7978329995340405,
+    "y": -2.4016237227730817
+  },
+  {
+    "entity": "rural setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden cabin",
+    "x": 2.6330369687017665,
+    "y": -1.4377469601601716
+  },
+  {
+    "entity": "dramatic limestone formations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "limestone mountains",
+    "x": 0.6376958686589298,
+    "y": 2.9314405979134786
+  },
+  {
+    "entity": "German-speaking mountain territory",
+    "type": "i",
+    "granularity": 3,
+    "parent": "limestone mountains",
+    "x": -0.6376958686589295,
+    "y": 2.9314405979134786
+  },
+  {
+    "entity": "pristine winter landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow",
+    "x": -0.10707700151693986,
+    "y": -2.9980884769709752
+  }
+]

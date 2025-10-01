@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "half-timbered buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7485107481711011,
+    "y": 0.6631226582407952
+  },
+  {
+    "entity": "timber framing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered buildings",
+    "x": 1.9790127989021022,
+    "y": 0.2889780991384427
+  },
+  {
+    "entity": "white walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered buildings",
+    "x": 1.8137487217010908,
+    "y": 0.8428022155450583
+  },
+  {
+    "entity": "cream walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "half-timbered buildings",
+    "x": 1.4970214963422022,
+    "y": 1.3262453164815904
+  },
+  {
+    "entity": "medieval tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3546048870425357,
+    "y": 0.9350162426854148
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval tower",
+    "x": -0.08053188021883025,
+    "y": 1.9983779963431392
+  },
+  {
+    "entity": "conical roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval tower",
+    "x": -0.7092097740850709,
+    "y": 1.8700324853708297
+  },
+  {
+    "entity": "cobblestone streets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854147,
+    "y": 0.35460488704253584
+  },
+  {
+    "entity": "sloping street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone streets",
+    "x": -1.7115625446028948,
+    "y": 1.034675628355314
+  },
+  {
+    "entity": "hilly street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone streets",
+    "x": -1.967239813894287,
+    "y": 0.36051007562781184
+  },
+  {
+    "entity": "medieval town layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9709418174260521,
+    "y": -0.23931566428755743
+  },
+  {
+    "entity": "medieval gate tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval tower",
+    "x": -1.2648907511907537,
+    "y": 1.5492099236553099
+  },
+  {
+    "entity": "European-style license plates",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.748510748171101,
+    "y": -0.6631226582407953
+  },
+  {
+    "entity": "car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.46472317204376834,
+    "y": -0.88545602565321
+  },
+  {
+    "entity": "blue stripe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style license plates",
+    "x": -1.497021496342202,
+    "y": -1.3262453164815906
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.12053668025532357,
+    "y": -0.992708874098054
+  },
+  {
+    "entity": "people walking",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.23931566428755652,
+    "y": -0.9709418174260523
+  },
+  {
+    "entity": "people taking photos",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6631226582407946,
+    "y": -0.7485107481711016
+  },
+  {
+    "entity": "preserved medieval infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9709418174260518,
+    "y": -0.23931566428755865
+  },
+  {
+    "entity": "European medieval architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered buildings",
+    "x": 1.582920732318398,
+    "y": 2.548403805364563
+  },
+  {
+    "entity": "characteristic German style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered buildings",
+    "x": 0.7881221345957605,
+    "y": 2.8946266600306543
+  },
+  {
+    "entity": "Germanic aesthetic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -0.3616100407659707,
+    "y": -2.978126622294162
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "people taking photos",
+    "x": 1.5520134425329681,
+    "y": -2.567343816904344
+  },
+  {
+    "entity": "historic German center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval town layout",
+    "x": -2.9128254522781565,
+    "y": -0.7179469928626723
+  },
+  {
+    "entity": "major tourist destination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "people taking photos",
+    "x": 2.3615504418271493,
+    "y": -1.8501566178856308
+  },
+  {
+    "entity": "cultural preservation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "preserved medieval infrastructure",
+    "x": 2.912825452278155,
+    "y": -0.7179469928626759
+  }
+]

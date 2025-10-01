@@ -1,0 +1,15 @@
+[
+{"entity":"Barcelona","granularity":4,"parent":"Spain"},
+{"entity":"Montjuïc","granularity":4,"parent":"Barcelona"},
+{"entity":"Bunkers del Carmel","granularity":5,"parent":"Turó de la Rovira"},
+{"entity":"Turó de la Rovira","granularity":4,"parent":"Barcelona"},
+{"entity":"Sagrada Família","granularity":5,"parent":"Barcelona"},
+{"entity":"Eixample","granularity":5,"parent":"Barcelona"},
+{"entity":"Hotel Arts","granularity":5,"parent":"Barcelona"},
+{"entity":"Torre Mapfre","granularity":5,"parent":"Barcelona"},
+{"entity":"Port Olímpic","granularity":5,"parent":"Barcelona"},
+{"entity":"Mediterranean","granularity":1,"parent":null},
+{"entity":"El Carmel","granularity":5,"parent":"Barcelona"},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null}
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "blue street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "background building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9009688679024191,
+    "y": -0.433883739117558
+  },
+  {
+    "entity": "corner building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4338837391175583,
+    "y": -0.900968867902419
+  },
+  {
+    "entity": "Tiefgarage Hauptzollamt Hamburg sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "dark blue lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "white lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "ß character",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue street sign",
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "garage entrance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "background building",
+    "x": -1.8019377358048383,
+    "y": -0.867767478235116
+  },
+  {
+    "entity": "Asian-themed street names",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue street sign",
+    "x": -2.1213203435596424,
+    "y": 2.121320343559643
+  },
+  {
+    "entity": "customs office",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Tiefgarage Hauptzollamt Hamburg sign",
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ß character",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "cluster of new streets",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.3454944474040893,
+    "y": -1.870469405576201
+  },
+  {
+    "entity": "world ports",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9247837365454705,
+    "y": -0.6675628018689439
+  },
+  {
+    "entity": "Asian cities",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue street sign",
+    "x": -2.897777478867204,
+    "y": 0.7764571353075644
+  }
+]

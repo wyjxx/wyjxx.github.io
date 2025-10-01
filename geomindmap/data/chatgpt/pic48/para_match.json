@@ -1,0 +1,43 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "beach",
+        "sculpture",
+        "Rebecca Horn",
+        "rusty iron cubes",
+        "iconic public art",
+        "1992 Olympics",
+        "boardwalk",
+        "sailboats",
+        "coastal atmosphere"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Platja de la Barceloneta",
+            "status": 3,
+            "related_clue": [
+                "sculpture",
+                "rusty iron cubes",
+                "Rebecca Horn"
+            ]
+        },
+        {
+            "loc": "Barcelona",
+            "status": 3,
+            "related_clue": [
+                "sculpture",
+                "rusty iron cubes",
+                "Rebecca Horn"
+            ]
+        },
+        {
+            "loc": "Mediterranean Sea",
+            "status": 2,
+            "related_clue": [
+                "boardwalk",
+                "sailboats",
+                "coastal atmosphere"
+            ]
+        }
+    ]
+},{"paragraph":2,"clue":["tourists","cooler clothing","sculpture","The Wounded Star","Rebecca Horn","rusty iron cubes","boardwalk","wooden-plank decking","yellow guiding line","calm waters","sailboats","architectural style","beach"],"loc-clue":[{"loc":"La Barceloneta","status":3,"related_clue":["tourists","cooler clothing","sculpture","The Wounded Star","Rebecca Horn","architectural style"]},{"loc":"Barcelona","status":3,"related_clue":["tourists","cooler clothing","sculpture","The Wounded Star","Rebecca Horn","architectural style"]},{"loc":"Catalonia","status":3,"related_clue":["tourists","cooler clothing","sculpture","The Wounded Star","Rebecca Horn","architectural style"]},{"loc":"Spain","status":3,"related_clue":["tourists","cooler clothing","sculpture","The Wounded Star","Rebecca Horn","architectural style"]},{"loc":"Port Vell","status":2,"related_clue":["sculpture","rusty iron cubes"]},{"loc":"Barceloneta Beach","status":2,"related_clue":["boardwalk","wooden-plank decking","yellow guiding line"]},{"loc":"Mediterranean Sea","status":2,"related_clue":["calm waters","sailboats"]}]},{"paragraph":3,"clue":[],"loc-clue":[{"loc":"La Barceloneta","status":3,"related_clue":[]},{"loc":"Barcelona","status":3,"related_clue":[]},{"loc":"Catalonia","status":3,"related_clue":[]},{"loc":"Spain","status":3,"related_clue":[]}]}]

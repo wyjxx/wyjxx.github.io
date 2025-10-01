@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "large historic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555972,
+    "y": 0.8412535328311814
+  },
+  {
+    "entity": "azulejos",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.7392305211568106,
+    "y": 0.9874599709743218
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large historic building",
+    "x": 0.3851773876517208,
+    "y": 1.962559140520814
+  },
+  {
+    "entity": "Baroque style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large historic building",
+    "x": -1.9452150564925688,
+    "y": 0.46490685518135005
+  },
+  {
+    "entity": "neoclassical style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large historic building",
+    "x": -1.994904229220507,
+    "y": -0.14267836639846435
+  },
+  {
+    "entity": "decorative patterns",
+    "type": "v",
+    "granularity": 3,
+    "parent": "azulejos",
+    "x": 2.900563509493082,
+    "y": 0.7659838949985671
+  },
+  {
+    "entity": "ornate stone framing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 0.7156248141759071,
+    "y": 1.8675869793227031
+  },
+  {
+    "entity": "windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": -0.29976543294105457,
+    "y": 1.9774075667938722
+  },
+  {
+    "entity": "baroque-style frames",
+    "type": "v",
+    "granularity": 3,
+    "parent": "windows",
+    "x": -0.4496481494115818,
+    "y": 2.9661113501908085
+  },
+  {
+    "entity": "decorative stone sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roofline",
+    "x": -1.4878811253356985,
+    "y": 1.3364915850351529
+  },
+  {
+    "entity": "roofline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": -1.4878811253356985,
+    "y": 1.3364915850351529
+  },
+  {
+    "entity": "cobblestone street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684143056,
+    "y": -0.9594929736144971
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.142314838273284,
+    "y": -0.9898214418809329
+  },
+  {
+    "entity": "casual modern clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": 0.284629676546568,
+    "y": -1.9796428837618658
+  },
+  {
+    "entity": "traffic light",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555964,
+    "y": -0.841253532831182
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311803,
+    "y": -0.540640817455599
+  },
+  {
+    "entity": "bright sunlight",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear blue sky",
+    "x": 1.6825070656623606,
+    "y": -1.081281634911198
+  },
+  {
+    "entity": "daytime",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809325,
+    "y": -0.14231483827328706
+  },
+  {
+    "entity": "Portuguese azulejo tiles",
+    "type": "i",
+    "granularity": 3,
+    "parent": "azulejos",
+    "x": 2.144185074770999,
+    "y": 2.0982064638946487
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large historic building",
+    "x": -2.788878642118049,
+    "y": -1.1055116098611486
+  },
+  {
+    "entity": "Portuguese architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large historic building",
+    "x": -2.3262940239110717,
+    "y": -1.8942956776373734
+  },
+  {
+    "entity": "18th century",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large historic building",
+    "x": -1.647579932627826,
+    "y": -2.507086030754048
+  }
+]

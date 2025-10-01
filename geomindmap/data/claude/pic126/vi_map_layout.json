@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "guards",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545184,
+    "y": 0.4154150130018864
+  },
+  {
+    "entity": "military dress uniforms",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 2.83276944882399e-16,
+    "y": 1.0
+  },
+  {
+    "entity": "guard house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545181,
+    "y": 0.4154150130018871
+  },
+  {
+    "entity": "neoclassical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809328,
+    "y": -0.1423148382732845
+  },
+  {
+    "entity": "ceremonial area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6548607339452855,
+    "y": -0.7557495743542578
+  },
+  {
+    "entity": "wall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.142314838273284,
+    "y": -0.9898214418809329
+  },
+  {
+    "entity": "monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542573,
+    "y": -0.6548607339452862
+  },
+  {
+    "entity": "marble paving",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809325,
+    "y": -0.14231483827328706
+  },
+  {
+    "entity": "white fustanellas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "military dress uniforms",
+    "x": 1.0205400661217996,
+    "y": 1.720028480415401
+  },
+  {
+    "entity": "white stockings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "military dress uniforms",
+    "x": 0.3551063925086073,
+    "y": 1.968222408672232
+  },
+  {
+    "entity": "pom-pom shoes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "military dress uniforms",
+    "x": -0.3551063925086053,
+    "y": 1.9682224086722324
+  },
+  {
+    "entity": "red caps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "military dress uniforms",
+    "x": -1.0205400661217983,
+    "y": 1.7200284804154016
+  },
+  {
+    "entity": "rifles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guards",
+    "x": 1.954293731942319,
+    "y": 0.4251305791059533
+  },
+  {
+    "entity": "Greek text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wall",
+    "x": 0.284629676546568,
+    "y": -1.9796428837618658
+  },
+  {
+    "entity": "sentry box",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guard house",
+    "x": -1.6010824818487202,
+    "y": 1.1985553330226948
+  },
+  {
+    "entity": "blue and white striped awning",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guard house",
+    "x": -1.9542937319423186,
+    "y": 0.4251305791059551
+  },
+  {
+    "entity": "marble steps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ceremonial area",
+    "x": -1.7776708973098478,
+    "y": -0.916453043454819
+  },
+  {
+    "entity": "Evzones",
+    "type": "i",
+    "granularity": 3,
+    "parent": "guards",
+    "x": 2.4016237227730812,
+    "y": 1.7978329995340405
+  },
+  {
+    "entity": "changing of the guard ceremony",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ceremonial area",
+    "x": -1.5000000000000036,
+    "y": -2.598076211353314
+  },
+  {
+    "entity": "symbol of Greek national pride",
+    "type": "i",
+    "granularity": 3,
+    "parent": "changing of the guard ceremony",
+    "x": -1.5000000000000036,
+    "y": -2.598076211353314
+  },
+  {
+    "entity": "remembrance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "monument",
+    "x": 1.797832999534036,
+    "y": -2.401623722773085
+  },
+  {
+    "entity": "fallen soldiers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "monument",
+    "x": 2.6330369687017647,
+    "y": -1.4377469601601738
+  }
+]

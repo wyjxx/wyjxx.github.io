@@ -1,0 +1,8 @@
+[
+{"entity":"man-made objects","type":"v","granularity":1,"parent":null},
+{"entity":"bare trees","type":"v","granularity":1,"parent":null},
+{"entity":"gate","type":"v","granularity":2,"parent":"man-made objects"},
+{"entity":"quadriga sculpture","type":"v","granularity":2,"parent":"gate"},
+{"entity":"Neoclassical style","type":"i","granularity":3,"parent":"gate"},
+{"entity":"winter","type":"i","granularity":3,"parent":"bare trees"}
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9888308262251285,
+    "y": 0.14904226617617472
+  },
+  {
+    "entity": "Poland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9752533568453587,
+    "y": 0.31364657860582773
+  },
+  {
+    "entity": "Monaco",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.999938005707171,
+    "y": -0.015747168889157
+  },
+  {
+    "entity": "Indonesia",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9776616524502568,
+    "y": -0.29808453235235055
+  },
+  {
+    "entity": "harbor",
+    "granularity": 4,
+    "parent": "Monaco",
+    "x": 1.638954214390704,
+    "y": 3.6488120098370307
+  },
+  {
+    "entity": "Rock",
+    "granularity": 4,
+    "parent": "Monaco",
+    "x": -2.7118511681468274,
+    "y": 2.94038487987894
+  },
+  {
+    "entity": "Monte Carlo",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -4.737296070648186,
+    "y": 1.5993829869738088
+  },
+  {
+    "entity": "Prince's Palace",
+    "granularity": 5,
+    "parent": "Rock",
+    "x": -3.389813960183534,
+    "y": 3.6754810998486747
+  },
+  {
+    "entity": "Hotel de Paris",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -4.999845014267928,
+    "y": -0.03936792222288806
+  },
+  {
+    "entity": "Yacht Club de Monaco",
+    "granularity": 5,
+    "parent": "harbor",
+    "x": 4.330705848822379,
+    "y": 2.4989971690611497
+  },
+  {
+    "entity": "Quai Albert Ier",
+    "granularity": 5,
+    "parent": "harbor",
+    "x": 2.9480988775616557,
+    "y": 4.038404760313124
+  },
+  {
+    "entity": "La Condamine",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -4.711523735784135,
+    "y": -1.6737813737590435
+  },
+  {
+    "entity": "Monaco-Ville",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -3.9040987412109547,
+    "y": -3.123781845595982
+  },
+  {
+    "entity": "port hairpin",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -2.6665300652740997,
+    "y": -4.229611969316961
+  },
+  {
+    "entity": "start/finish line",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -1.1351698807781783,
+    "y": -4.8694341911328936
+  },
+  {
+    "entity": "harbor chicane",
+    "granularity": 5,
+    "parent": "harbor",
+    "x": 1.06061490649469,
+    "y": 4.886214897046718
+  },
+  {
+    "entity": "pit straight",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 0.521260437404893,
+    "y": -4.972754524043637
+  },
+  {
+    "entity": "harbor straight",
+    "granularity": 5,
+    "parent": "harbor",
+    "x": -1.0085047878570084,
+    "y": 4.897235760392744
+  },
+  {
+    "entity": "starting grid",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 2.1202596048007707,
+    "y": -4.52818939624328
+  },
+  {
+    "entity": "start line",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 3.4856539552311823,
+    "y": -3.584719864142973
+  },
+  {
+    "entity": "pit lane",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 4.467007807803198,
+    "y": -2.2462950040066563
+  }
+]

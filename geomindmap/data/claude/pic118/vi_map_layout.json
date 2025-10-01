@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7587581226927909,
+    "y": 0.6513724827222221
+  },
+  {
+    "entity": "cream-colored building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.05064916883871277,
+    "y": 0.9987165071710528
+  },
+  {
+    "entity": "cubic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1514277775045766,
+    "y": 0.9884683243281114
+  },
+  {
+    "entity": "narrow pathway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448204,
+    "y": 0.9377521321470804
+  },
+  {
+    "entity": "steps",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5289640103269625,
+    "y": 0.8486442574947509
+  },
+  {
+    "entity": "people gathering",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7587581226927909,
+    "y": 0.6513724827222223
+  },
+  {
+    "entity": "cliff face",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9541392564000488,
+    "y": 0.29936312297335804
+  },
+  {
+    "entity": "caldera",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "rocky cliff",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9189578116202307,
+    "y": -0.3943558551133184
+  },
+  {
+    "entity": "large body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6889669190756867,
+    "y": -0.7247927872291198
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5289640103269619,
+    "y": -0.8486442574947513
+  },
+  {
+    "entity": "large lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3473052528448206,
+    "y": -0.9377521321470803
+  },
+  {
+    "entity": "volcanic island",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.15142777750457617,
+    "y": -0.9884683243281115
+  },
+  {
+    "entity": "palm tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.050649168838712295,
+    "y": -0.9987165071710529
+  },
+  {
+    "entity": "terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6121059825476631,
+    "y": -0.7907757369376983
+  },
+  {
+    "entity": "clifftop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9795299412524945,
+    "y": -0.20129852008866028
+  },
+  {
+    "entity": "blue dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.9443448515159814,
+    "y": 0.46853292134416424
+  },
+  {
+    "entity": "flat roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.6605895854247528,
+    "y": 1.1146489262448729
+  },
+  {
+    "entity": "small window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": 1.1700979971906154,
+    "y": 1.6219958930190022
+  },
+  {
+    "entity": "blue shutter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small window",
+    "x": 1.1700979971906154,
+    "y": 1.6219958930190022
+  },
+  {
+    "entity": "volcanic rock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocky cliff",
+    "x": -1.8379156232404614,
+    "y": -0.7887117102266368
+  },
+  {
+    "entity": "terraced construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cliff face",
+    "x": -1.9082785128000976,
+    "y": 0.5987262459467161
+  },
+  {
+    "entity": "bright lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terrain",
+    "x": 1.2242119650953263,
+    "y": -1.5815514738753966
+  },
+  {
+    "entity": "Cycladic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white building",
+    "x": 0.8009012969224555,
+    "y": 2.8911169316698224
+  },
+  {
+    "entity": "Greek Orthodox church",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue dome",
+    "x": 2.916517277273972,
+    "y": 0.7027993820162464
+  },
+  {
+    "entity": "tourist destination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "people gathering",
+    "x": -2.2762743680783726,
+    "y": 1.9541174481666668
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright lighting",
+    "x": 0.9463060154557668,
+    "y": -2.846841218809407
+  },
+  {
+    "entity": "subtropical climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright lighting",
+    "x": 1.8363179476429894,
+    "y": -2.372327210813095
+  },
+  {
+    "entity": "sunny climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright lighting",
+    "x": 2.5187678459089176,
+    "y": -1.6296651614412547
+  },
+  {
+    "entity": "sunset view",
+    "type": "v",
+    "granularity": 3,
+    "parent": "clifftop",
+    "x": 2.9385898237574835,
+    "y": -0.6038955602659808
+  },
+  {
+    "entity": "geology",
+    "type": "v",
+    "granularity": 3,
+    "parent": "volcanic rock",
+    "x": -2.756873434860692,
+    "y": -1.1830675653399552
+  }
+]

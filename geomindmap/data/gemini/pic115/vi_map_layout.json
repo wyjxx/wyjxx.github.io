@@ -1,0 +1,106 @@
+[
+  {
+    "entity": "half-timbered building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7485107481711011,
+    "y": 0.6631226582407952
+  },
+  {
+    "entity": "towers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3546048870425357,
+    "y": 0.9350162426854148
+  },
+  {
+    "entity": "Gasthof sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.970941817426052,
+    "y": 0.23931566428755768
+  },
+  {
+    "entity": "Chocolaterie sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.748510748171101,
+    "y": -0.6631226582407953
+  },
+  {
+    "entity": "Volkswagen Golf",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.35460488704253557,
+    "y": -0.9350162426854148
+  },
+  {
+    "entity": "NEA license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Volkswagen Golf",
+    "x": 0.7092097740850711,
+    "y": -1.8700324853708297
+  },
+  {
+    "entity": "German style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered building",
+    "x": 2.8050487280562444,
+    "y": 1.063814661127607
+  },
+  {
+    "entity": "French influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "half-timbered building",
+    "x": 1.394169516131306,
+    "y": 2.65636807695963
+  },
+  {
+    "entity": "German inn",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gasthof sign",
+    "x": -2.912825452278156,
+    "y": 0.717946992862673
+  },
+  {
+    "entity": "French word",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Chocolaterie sign",
+    "x": -2.245532244513303,
+    "y": -1.989367974722386
+  },
+  {
+    "entity": "border region",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.912825452278156,
+    "y": -0.7179469928626734
+  },
+  {
+    "entity": "license plate inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "NEA license plate",
+    "x": 1.0638146611276067,
+    "y": -2.8050487280562444
+  },
+  {
+    "entity": "medieval town",
+    "type": "i",
+    "granularity": 3,
+    "parent": "towers",
+    "x": -1.0638146611276071,
+    "y": 2.8050487280562444
+  }
+]

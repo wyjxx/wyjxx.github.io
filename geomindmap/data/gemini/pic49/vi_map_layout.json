@@ -1,0 +1,274 @@
+[
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8951632913550623,
+    "y": 0.44573835577653825
+  },
+  {
+    "entity": "curvy facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 1.9866746358479,
+    "y": 0.23048620626539532
+  },
+  {
+    "entity": "stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 1.7903265827101247,
+    "y": 0.8914767115530765
+  },
+  {
+    "entity": "texture",
+    "type": "v",
+    "granularity": 3,
+    "parent": "stone",
+    "x": 2.685489874065187,
+    "y": 1.3372150673296148
+  },
+  {
+    "entity": "light",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765383,
+    "y": 0.8951632913550623
+  },
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1837495178165703,
+    "y": 0.9829730996839018
+  },
+  {
+    "entity": "surrounding structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "PEDR... banner",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720829,
+    "y": 0.961825643172819
+  },
+  {
+    "entity": "street view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6736956436465569,
+    "y": 0.7390089172206594
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043557,
+    "y": 0.3612416661871533
+  },
+  {
+    "entity": "crosswalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9957341762950345,
+    "y": 0.09226835946330274
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9957341762950346,
+    "y": -0.09226835946330161
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.932472229404356,
+    "y": -0.36124166618715225
+  },
+  {
+    "entity": "cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7980172272802402,
+    "y": -0.6026346363792555
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6026346363792572,
+    "y": -0.7980172272802389
+  },
+  {
+    "entity": "light conditions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "light",
+    "x": 0.8914767115530766,
+    "y": 1.7903265827101247
+  },
+  {
+    "entity": "shot angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": "photo",
+    "x": -0.9533742587457065,
+    "y": -2.844481942772897
+  },
+  {
+    "entity": "building corner",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 1.381170910028343,
+    "y": 1.4465016133041397
+  },
+  {
+    "entity": "banner angle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PEDR... banner",
+    "x": -0.5473259801441658,
+    "y": 1.923651286345638
+  },
+  {
+    "entity": "buildings in background",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding buildings",
+    "x": -1.8649444588087114,
+    "y": 0.7224833323743066
+  },
+  {
+    "entity": "tree type",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -1.2052692727585144,
+    "y": -1.5960344545604779
+  },
+  {
+    "entity": "street shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street view",
+    "x": -1.130272828845183,
+    "y": 1.649994949196605
+  },
+  {
+    "entity": "photo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.18374951781657087,
+    "y": -0.9829730996839017
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -2.797416688213068,
+    "y": -1.0837249985614568
+  },
+  {
+    "entity": "external verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.5512485534497089,
+    "y": -2.9489192990517057
+  },
+  {
+    "entity": "search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.0837249985614603,
+    "y": -2.7974166882130667
+  },
+  {
+    "entity": "initial hunch",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.5792964886320675,
+    "y": -2.5506514071888424
+  },
+  {
+    "entity": "season",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.021086930939674,
+    "y": -2.217026751661975
+  },
+  {
+    "entity": "specified format",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.39405168184072,
+    "y": -1.8079039091377676
+  },
+  {
+    "entity": "vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "photo",
+    "x": -0.13855037593722028,
+    "y": -2.996798924407117
+  },
+  {
+    "entity": "street-level identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street view",
+    "x": -2.308001912948636,
+    "y": 1.9165404169558848
+  },
+  {
+    "entity": "final check",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6854898740651896,
+    "y": -1.3372150673296095
+  },
+  {
+    "entity": "confidence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8854769295184584,
+    "y": -0.8209889702162445
+  },
+  {
+    "entity": "clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9872025288851045,
+    "y": -0.276805078389898
+  }
+]

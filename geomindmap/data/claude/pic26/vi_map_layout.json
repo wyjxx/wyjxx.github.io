@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "Mediterranean-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256694,
+    "y": -0.9396926207859082
+  },
+  {
+    "entity": "bird",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0718754395722282e-15,
+    "y": -1.0
+  },
+  {
+    "entity": "clear deep blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "sunlight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9396926207859079,
+    "y": -0.34202014332567027
+  },
+  {
+    "entity": "terracotta roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.9638573945254134,
+    "y": 0.3785024887208204
+  },
+  {
+    "entity": "white/cream buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.6825070656623624,
+    "y": 1.081281634911195
+  },
+  {
+    "entity": "blue shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.1601138191423963,
+    "y": 1.6291519041006715
+  },
+  {
+    "entity": "balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 0.47151787101885456,
+    "y": 1.9436231366470833
+  },
+  {
+    "entity": "windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": -0.28462967654657,
+    "y": 1.9796428837618656
+  },
+  {
+    "entity": "white-washed walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "clustered buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": -1.9189859472289947,
+    "y": 0.5634651136828593
+  },
+  {
+    "entity": "sunny climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sunlight",
+    "x": 2.8190778623577235,
+    "y": -1.0260604299770109
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear deep blue sky",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "coastal architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Mediterranean-style buildings",
+    "x": -2.6665063459647707,
+    "y": -1.3746795651822308
+  },
+  {
+    "entity": "Southern European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Mediterranean-style buildings",
+    "x": -1.9645822018358565,
+    "y": -2.2672487230627736
+  },
+  {
+    "entity": "hillside pattern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clustered buildings",
+    "x": -2.523760598493544,
+    "y": 1.6219224523667923
+  },
+  {
+    "entity": "coastal town pattern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clustered buildings",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  }
+]

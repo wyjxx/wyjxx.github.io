@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "Concourse A",
+    "granularity": 5,
+    "parent": "Terminal 1",
+    "x": 0.7404080986665567,
+    "y": 4.944875716075074
+  },
+  {
+    "entity": "Concourse B",
+    "granularity": 5,
+    "parent": "Terminal 1",
+    "x": -4.444177243274616,
+    "y": 2.2911326086370547
+  },
+  {
+    "entity": "Concourse C",
+    "granularity": 5,
+    "parent": "Terminal 1",
+    "x": -4.947012470266646,
+    "y": -0.7259942279565998
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Flughafen district",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": 4.850929777870323,
+    "y": 1.2118086854660617
+  },
+  {
+    "entity": "Frankfurt Airport",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.896320793787106,
+    "y": 1.0129376507604042
+  },
+  {
+    "entity": "Frankfurt am Main",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.603875471609676,
+    "y": 1.735534956470233
+  },
+  {
+    "entity": "Gate A5",
+    "granularity": 5,
+    "parent": "Concourse A",
+    "x": 2.8844366823783254,
+    "y": 4.084118635072972
+  },
+  {
+    "entity": "Gate A6",
+    "granularity": 5,
+    "parent": "Concourse A",
+    "x": -1.561705353456243,
+    "y": 4.749850143845183
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.603875471609676,
+    "y": -1.7355349564702334
+  },
+  {
+    "entity": "Munich Airport",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.504844339512095,
+    "y": -2.1694186955877917
+  },
+  {
+    "entity": "Pier A",
+    "granularity": 5,
+    "parent": "Terminal 1",
+    "x": -2.364209101742065,
+    "y": -4.405736637980075
+  },
+  {
+    "entity": "Pier A-Plus",
+    "granularity": 5,
+    "parent": "Pier A",
+    "x": -2.364209101742065,
+    "y": -4.405736637980075
+  },
+  {
+    "entity": "Terminal 1",
+    "granularity": 5,
+    "parent": "Frankfurt Airport",
+    "x": -4.444177243274617,
+    "y": 2.2911326086370525
+  },
+  {
+    "entity": "Terminal 2",
+    "granularity": 5,
+    "parent": "Frankfurt Airport",
+    "x": 1.9526123558739197,
+    "y": -4.602966976601993
+  }
+]

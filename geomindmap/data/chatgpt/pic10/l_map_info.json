@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Cologne","granularity":4,"parent":"Germany"},
+{"entity":"Bonn","granularity":4,"parent":"Germany"},
+{"entity":"Freiburg","granularity":4,"parent":"Germany"},
+{"entity":"Koblenz","granularity":4,"parent":"Germany"},
+{"entity":"Altstadt","granularity":5,"parent":"Koblenz"},
+{"entity":"Mehlgasse","granularity":5,"parent":"Altstadt"},
+{"entity":"Martinskirche","granularity":5,"parent":"Koblenz"}
+]

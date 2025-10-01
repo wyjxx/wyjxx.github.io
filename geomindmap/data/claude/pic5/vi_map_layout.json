@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "large lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": 0.25881904510252074
+  },
+  {
+    "entity": "body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912353,
+    "y": 0.6087614290087205
+  },
+  {
+    "entity": "mountainous terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1305261922200515,
+    "y": 0.9914448613738104
+  },
+  {
+    "entity": "hilly terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6087614290087207,
+    "y": 0.7933533402912352
+  },
+  {
+    "entity": "agricultural fields",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890683,
+    "y": 0.2588190451025206
+  },
+  {
+    "entity": "pastures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112866,
+    "y": -0.38268343236509006
+  },
+  {
+    "entity": "valley",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912346,
+    "y": -0.6087614290087213
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6087614290087202,
+    "y": -0.7933533402912355
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650895,
+    "y": -0.9238795325112868
+  },
+  {
+    "entity": "small towns",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13052619222005163,
+    "y": -0.9914448613738104
+  },
+  {
+    "entity": "villages",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.13052619222005127,
+    "y": -0.9914448613738105
+  },
+  {
+    "entity": "rectangular field divisions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "agricultural fields",
+    "x": -1.6383040885779843,
+    "y": 1.1471528727020912
+  },
+  {
+    "entity": "road networks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508917,
+    "y": -0.923879532511287
+  },
+  {
+    "entity": "settlement pattern",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865468,
+    "y": -0.7071067811865483
+  },
+  {
+    "entity": "complex topographical setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "mountain contours",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": 1.1649553937356043,
+    "y": 1.6256933691832305
+  },
+  {
+    "entity": "lake shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large lake",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "pre-Alpine foothills",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": 0.870854031763387,
+    "y": 2.8708210071966267
+  },
+  {
+    "entity": "Alpine foothills",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": -0.09815724846532878,
+    "y": 2.998393762429097
+  },
+  {
+    "entity": "temperate landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "complex topographical setting",
+    "x": 2.897777478867205,
+    "y": -0.776457135307562
+  },
+  {
+    "entity": "Central European Alpine mountains",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": -1.056750143763701,
+    "y": 2.807717780271977
+  },
+  {
+    "entity": "European-style agricultural patterns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "agricultural fields",
+    "x": -2.897777478867205,
+    "y": 0.7764571353075618
+  },
+  {
+    "entity": "Central European settlement pattern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "settlement pattern",
+    "x": 2.12132034355964,
+    "y": -2.121320343559645
+  },
+  {
+    "entity": "organized agricultural land use",
+    "type": "i",
+    "granularity": 3,
+    "parent": "agricultural fields",
+    "x": -2.9885840942752364,
+    "y": -0.2614672282429765
+  }
+]

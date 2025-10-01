@@ -1,0 +1,19 @@
+[
+{"entity": "Acropolis", "type": "l"},
+{"entity": "Athens", "type": "l"},
+{"entity": "Greece", "type": "l"},
+{"entity": "Europe", "type": "l"},
+{"entity": "Plaka", "type": "l"},
+{"entity": "columns", "type": "v"},
+{"entity": "stone blocks", "type": "v"},
+{"entity": "Propylaea", "type": "v"},
+{"entity": "Doric columns", "type": "v"},
+{"entity": "Temple of Athena Nike", "type": "v"},
+{"entity": "tourists", "type": "v"},
+{"entity": "Mediterranean cityscape", "type": "v"},
+{"entity": "city view", "type": "v"},
+{"entity": "Greco-Roman origin", "type": "i"},
+{"entity": "ancient sites", "type": "i"},
+{"entity": "Doric order", "type": "i"},
+{"entity": "Ionic order", "type": "i"}
+]

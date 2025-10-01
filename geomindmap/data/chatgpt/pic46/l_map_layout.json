@@ -1,0 +1,44 @@
+[
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Stuttgart",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Stuttgart City Library",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": 3.5355339059327378,
+    "y": 3.5355339059327373
+  },
+  {
+    "entity": "Stuttgart-Mitte",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": -3.5355339059327373,
+    "y": 3.5355339059327378
+  },
+  {
+    "entity": "Europaviertel",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  },
+  {
+    "entity": "Mailänder Platz",
+    "granularity": 5,
+    "parent": "Stuttgart",
+    "x": 3.535533905932737,
+    "y": -3.5355339059327386
+  }
+]

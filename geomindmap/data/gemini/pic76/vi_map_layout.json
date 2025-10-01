@@ -1,0 +1,106 @@
+[
+  {
+    "entity": "airport terminal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.120536680255323,
+    "y": 0.992708874098054
+  },
+  {
+    "entity": "modern design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "reversed sign \"Köln Bonn Airport\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8854560256532097,
+    "y": -0.46472317204376884
+  },
+  {
+    "entity": "D-gate signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3546048870425359,
+    "y": -0.9350162426854147
+  },
+  {
+    "entity": "tree-like installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.35460488704253557,
+    "y": -0.9350162426854148
+  },
+  {
+    "entity": "high ceilings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport terminal",
+    "x": 1.9164916582183325,
+    "y": 0.5718913567973786
+  },
+  {
+    "entity": "exposed metal trusses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport terminal",
+    "x": 1.2896844254723412,
+    "y": 1.5286314410916968
+  },
+  {
+    "entity": "glass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport terminal",
+    "x": 0.241073360510646,
+    "y": 1.985417748196108
+  },
+  {
+    "entity": "airport recognition",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport terminal",
+    "x": -1.3295746367977248,
+    "y": 2.689280811887111
+  },
+  {
+    "entity": "characteristic matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport terminal",
+    "x": -2.585909000640148,
+    "y": 1.5208795614407706
+  },
+  {
+    "entity": "online image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.245532244513304,
+    "y": -1.9893679747223847
+  },
+  {
+    "entity": "gate detail research",
+    "type": "i",
+    "granularity": 3,
+    "parent": "D-gate signage",
+    "x": -1.0638146611276076,
+    "y": -2.805048728056244
+  },
+  {
+    "entity": "format requirement",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.912825452278156,
+    "y": -0.7179469928626734
+  }
+]

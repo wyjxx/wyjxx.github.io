@@ -1,0 +1,17 @@
+[  
+  {"entity": "symmetrical courtyard", "type": "v", "granularity": 2, "parent": "courtyard"},  
+  {"entity": "reflecting pool", "type": "v", "granularity": 2, "parent": "courtyard"},  
+  {"entity": "arched colonnades", "type": "v", "granularity": 2, "parent": "courtyard"},  
+  {"entity": "stucco designs", "type": "v", "granularity": 2, "parent": "arched colonnades"},  
+  {"entity": "tower", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "courtyard", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "Comares Tower", "type": "v", "granularity": 2, "parent": "tower"},  
+  {"entity": "building materials", "type": "v", "granularity": 2, "parent": "courtyard"},  
+  {"entity": "architectural style", "type": "i", "granularity": 3, "parent": "courtyard"},  
+  {"entity": "historical clues", "type": "i", "granularity": 3, "parent": "stucco designs"},  
+  {"entity": "cultural clues", "type": "i", "granularity": 3, "parent": "stucco designs"},  
+  {"entity": "fortress-palace combination", "type": "i", "granularity": 3, "parent": "courtyard"},  
+  {"entity": "place of power", "type": "i", "granularity": 3, "parent": "courtyard"},  
+  {"entity": "defense", "type": "i", "granularity": 3, "parent": "courtyard"},  
+  {"entity": "beauty", "type": "i", "granularity": 3, "parent": "courtyard"}  
+]

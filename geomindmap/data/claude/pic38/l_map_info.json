@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"EU","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"Central Europe","granularity":3,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Prenzlauer Berg","granularity":5,"parent":"Berlin"}
+]

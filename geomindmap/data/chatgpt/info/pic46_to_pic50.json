@@ -1,0 +1,38 @@
+[
+    {
+        "picture": "pic46",
+        "tokens_total": 49708,
+        "time_total": 268.9626281261444,
+        "tokens_response": 4950,
+        "tokens_reasoning": 448,
+        "time_response": 17.476056337356567,
+        "accuracy": "3"
+    },
+    {
+        "picture": "pic48",
+        "tokens_total": 41862,
+        "time_total": 198.7545838356018,
+        "tokens_response": 5008,
+        "tokens_reasoning": 512,
+        "time_response": 13.50660490989685,
+        "accuracy": "3"
+    },
+    {
+        "picture": "pic49",
+        "tokens_total": 34770,
+        "time_total": 150.98173570632935,
+        "tokens_response": 5075,
+        "tokens_reasoning": 640,
+        "time_response": 15.793034076690674,
+        "accuracy": "2"
+    },
+    {
+        "picture": "pic50",
+        "tokens_total": 52321,
+        "time_total": 255.83040976524353,
+        "tokens_response": 5154,
+        "tokens_reasoning": 832,
+        "time_response": 17.11011791229248,
+        "accuracy": "3"
+    }
+]

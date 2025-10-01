@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "granite blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": 1.9773034894758281,
+    "y": 0.3004511782415141
+  },
+  {
+    "entity": "stone aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7289686274214116,
+    "y": 0.6845471059286886
+  },
+  {
+    "entity": "two-tiered aqueduct",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone aqueduct",
+    "x": 1.7988105031327422,
+    "y": 0.8742315333018658
+  },
+  {
+    "entity": "urban plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4257792915650727,
+    "y": 0.9048270524660195
+  },
+  {
+    "entity": "pedestrianized plaza",
+    "type": "v",
+    "granularity": 2,
+    "parent": "urban plaza",
+    "x": -0.20905692653530666,
+    "y": 1.9890437907365468
+  },
+  {
+    "entity": "stone-paved plaza",
+    "type": "v",
+    "granularity": 2,
+    "parent": "urban plaza",
+    "x": -0.8515585831301454,
+    "y": 1.809654104932039
+  },
+  {
+    "entity": "information booth",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9297764858882513,
+    "y": 0.36812455268467814
+  },
+  {
+    "entity": "café",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "souvenir stall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9685831611286313,
+    "y": -0.24868988716485416
+  },
+  {
+    "entity": "stone façade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438637,
+    "y": -0.481753674101715
+  },
+  {
+    "entity": "wrought-iron balcony",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214121,
+    "y": -0.6845471059286881
+  },
+  {
+    "entity": "clear sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5358267949789971,
+    "y": -0.8443279255020149
+  },
+  {
+    "entity": "ground-level viewpoint",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "public square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.06279051952931321,
+    "y": -0.9980267284282716
+  },
+  {
+    "entity": "local signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572513,
+    "y": -0.9822872507286886
+  },
+  {
+    "entity": "architectural feature",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5358267949789968,
+    "y": -0.844327925502015
+  },
+  {
+    "entity": "tourist-info building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": -0.36812455268467786
+  },
+  {
+    "entity": "inscription MCMXXXI",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tourist-info building",
+    "x": 1.859552971776503,
+    "y": -0.7362491053693557
+  },
+  {
+    "entity": "Roman architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone aqueduct",
+    "x": 2.1869058822642344,
+    "y": 2.0536413177860657
+  },
+  {
+    "entity": "Roman engineering",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone aqueduct",
+    "x": 1.4781820246448747,
+    "y": 2.610551264008577
+  },
+  {
+    "entity": "restoration date 1931",
+    "type": "i",
+    "granularity": 3,
+    "parent": "inscription MCMXXXI",
+    "x": 2.7893294576647545,
+    "y": -1.1043736580540335
+  },
+  {
+    "entity": "old Spanish hill-town aesthetic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural feature",
+    "x": 1.6074803849369903,
+    "y": -2.532983776506045
+  },
+  {
+    "entity": "foot of aqueduct",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone aqueduct",
+    "x": 0.6360213297661642,
+    "y": 2.9318043707045804
+  },
+  {
+    "entity": "tourist information",
+    "type": "i",
+    "granularity": 3,
+    "parent": "information booth",
+    "x": -2.789329457664754,
+    "y": 1.1043736580540344
+  },
+  {
+    "entity": "historic old-town",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban plaza",
+    "x": -2.0989900215400956,
+    "y": 2.1434180388984108
+  }
+]

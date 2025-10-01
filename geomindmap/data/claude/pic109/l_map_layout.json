@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.6180339887498947,
+    "y": 1.9021130325903073
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.1755705045849465,
+    "y": -1.6180339887498947
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": null,
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Korea",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.2360679774997894,
+    "y": 3.8042260651806146
+  },
+  {
+    "entity": "Hong Kong",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.804226065180614,
+    "y": -1.2360679774997905
+  },
+  {
+    "entity": "Koreastraße",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 4.455032620941839,
+    "y": 2.2699524986977337
+  },
+  {
+    "entity": "Hongkongstraße",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 0.7821723252011547,
+    "y": 4.938441702975689
+  },
+  {
+    "entity": "Elbtorquartier",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -3.5355339059327373,
+    "y": 3.5355339059327378
+  },
+  {
+    "entity": "HafenCity",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.938441702975689,
+    "y": -0.7821723252011537
+  }
+]

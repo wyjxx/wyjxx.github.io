@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "Gothic style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": -0.1162896578209511,
+    "y": 1.9966163165425364
+  },
+  {
+    "entity": "ashlar stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "archway",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone building",
+    "x": -1.6709756228258725,
+    "y": 1.0990179561416125
+  },
+  {
+    "entity": "BUS LANE text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved street",
+    "x": -1.9460897411596476,
+    "y": -0.46123174148488016
+  },
+  {
+    "entity": "traffic direction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved street",
+    "x": -1.532088886237956,
+    "y": -1.2855752193730785
+  },
+  {
+    "entity": "Georgian townhouses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "red brick",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Georgian townhouses",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "red doors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Georgian townhouses",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved street",
+    "x": -0.7921595320783137,
+    "y": -1.836432213760548
+  },
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3420201433256688,
+    "y": 0.9396926207859083
+  },
+  {
+    "entity": "stone building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "sidewalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.984807753012208,
+    "y": 0.17364817766693028
+  },
+  {
+    "entity": "paved street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.766044443118978,
+    "y": -0.6427876096865393
+  },
+  {
+    "entity": "cross-reference landmarks",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "historical periods",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.0260604299770044,
+    "y": -2.8190778623577257
+  },
+  {
+    "entity": "suggests Dublin",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.9283628290596158,
+    "y": -2.298133329356936
+  },
+  {
+    "entity": "image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9544232590366235,
+    "y": -0.5209445330007965
+  }
+]

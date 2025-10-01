@@ -1,0 +1,7 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "Germany", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Heidelberg", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Heidelberg Hauptbahnhof", "granularity": 5, "parent": "Heidelberg"},  
+  {"entity": "Bergheim", "granularity": 5, "parent": "Heidelberg"}  
+]

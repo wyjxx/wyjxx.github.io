@@ -1,0 +1,19 @@
+[
+{"entity":"large building","type":"v","granularity":1,"parent":null},
+{"entity":"elevated roadway","type":"v","granularity":1,"parent":null},
+{"entity":"bridge-like overpass","type":"v","granularity":1,"parent":null},
+{"entity":"foreground railing","type":"v","granularity":1,"parent":null},
+{"entity":"pink building","type":"v","granularity":1,"parent":null},
+{"entity":"Cannes sign","type":"v","granularity":2,"parent":"large building"},
+{"entity":"Marilyn Monroe mural","type":"v","granularity":2,"parent":"large building"},
+{"entity":"Campus Riviera signage","type":"v","granularity":2,"parent":"pink building"},
+{"entity":"Campus Riviera logo","type":"v","granularity":2,"parent":"pink building"},
+{"entity":"building design","type":"v","granularity":2,"parent":"large building"},
+{"entity":"Cannes Riviera Hotel sign","type":"v","granularity":2,"parent":"large building"},
+{"entity":"Campus Riera International sign","type":"v","granularity":2,"parent":"pink building"},
+{"entity":"architectural nuances","type":"v","granularity":2,"parent":"large building"},
+{"entity":"geographic searches","type":"i","granularity":3,"parent":null},
+{"entity":"photo's vantage point","type":"i","granularity":3,"parent":"elevated roadway"},
+{"entity":"Google Maps","type":"i","granularity":3,"parent":null},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null}
+]

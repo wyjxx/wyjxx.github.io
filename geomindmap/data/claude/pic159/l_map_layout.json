@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.298133329356934,
+    "y": 1.9283628290596178
+  },
+  {
+    "entity": "Scandinavia",
+    "granularity": 3,
+    "parent": "Northern Europe",
+    "x": 2.298133329356934,
+    "y": 1.9283628290596178
+  },
+  {
+    "entity": "European cities",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -0.5209445330007902,
+    "y": 2.9544232590366244
+  },
+  {
+    "entity": "Sweden",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Norway",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.34729635533385994,
+    "y": -1.9696155060244163
+  },
+  {
+    "entity": "Denmark",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8793852415718169,
+    "y": -0.6840402866513372
+  },
+  {
+    "entity": "Gothenburg",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Oslo",
+    "granularity": 4,
+    "parent": "Norway",
+    "x": 0.6945927106677199,
+    "y": -3.9392310120488325
+  },
+  {
+    "entity": "Nordstan",
+    "granularity": 5,
+    "parent": "Gothenburg",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  }
+]

@@ -1,0 +1,90 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "houses",
+    "architectural style",
+    "rooflines",
+    "window shapes",
+    "construction materials",
+    "streetlights",
+    "signage"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "license plate HY-Z 20 19",
+    "European plates",
+    "vehicle registration database",
+    "S-Max model",
+    "European context",
+    "architectural style",
+    "forest"
+  ],
+  "loc-clue": []
+},{"paragraph":3,"clue":["houses","street furniture","car","architectural style"],"loc-clue":[]},{
+  "paragraph": 4,
+  "clue": [
+    "license plate HZ-Z 2019",
+    "architectural style",
+    "topography",
+    "mountainous terrain",
+    "forested hills"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Harz district",
+      "status": 3,
+      "related_clue": [
+        "license plate HZ-Z 2019",
+        "topography",
+        "mountainous terrain",
+        "forested hills"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "mapping tools",
+    "Google Street View",
+    "road layout",
+    "houses",
+    "architectural style",
+    "street furniture"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Harz district",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Quedlinburg",
+      "status": 3,
+      "related_clue": [
+        "mapping tools",
+        "Google Street View",
+        "road layout",
+        "houses",
+        "architectural style",
+        "street furniture"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "houses",
+    "rooflines",
+    "window shapes",
+    "dormer window",
+    "satellite dish"
+  ],
+  "loc-clue": []
+},{"paragraph":7,"clue":["Google Street View","houses","white railing","road layout"],"loc-clue":[{"loc":"Poststraße","status":3,"related_clue":["Google Street View","houses","white railing","road layout"]},{"loc":"Thale","status":3,"related_clue":["Google Street View","houses","white railing","road layout"]},{"loc":"Germany","status":3,"related_clue":["Google Street View","houses","white railing","road layout"]}]},{"paragraph":8,"clue":[],"loc-clue":[{"loc":"Poststraße","status":3,"related_clue":[]},{"loc":"Thale","status":3,"related_clue":[]},{"loc":"Germany","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}] },{"paragraph":9,"clue":["license plate HZ-Z 2019","European architecture","visual search","curve","white railing","modern school building"],"loc-clue":[{"loc":"Harz district","status":3,"related_clue":["license plate HZ-Z 2019","European architecture"]},{"loc":"Germany","status":3,"related_clue":["license plate HZ-Z 2019","European architecture"]}]},{"paragraph":10,"clue":[],"loc-clue":[{"loc":"Poststraße","status":3,"related_clue":[]},{"loc":"Thale","status":3,"related_clue":[]},{"loc":"Germany","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[] }]}]

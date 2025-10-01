@@ -1,0 +1,13 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"French Riviera","granularity":3,"parent":"France"},
+{"entity":"Cannes","granularity":4,"parent":"French Riviera"},
+{"entity":"Cannes Riviera Hotel","granularity":5,"parent":"Cannes"},
+{"entity":"Boulevard d'Alsace","granularity":5,"parent":"Cannes"},
+{"entity":"Voie Rapide (D6285)","granularity":5,"parent":"Cannes"},
+{"entity":"Campus Riera International","granularity":5,"parent":"Cannes"},
+{"entity":"Prado - République","granularity":5,"parent":"Cannes"},
+{"entity":"Rue de Mimont","granularity":5,"parent":"Cannes"},
+{"entity":"Le Suquet","granularity":5,"parent":"Cannes"}
+]

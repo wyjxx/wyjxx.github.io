@@ -1,0 +1,554 @@
+[
+  {
+    "entity": "small train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9343938371606711,
+    "y": 0.3562417115894168
+  },
+  {
+    "entity": "German warning sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 0.6783325424465205,
+    "y": -1.8814528858990966
+  },
+  {
+    "entity": "alpine mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6825531432186541,
+    "y": 0.730835964278124
+  },
+  {
+    "entity": "Bavarian balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.927057976848746,
+    "y": 0.5352079538493597
+  },
+  {
+    "entity": "church tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9837695951572338,
+    "y": 0.25427975406961556
+  },
+  {
+    "entity": "overhead wiring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway tracks",
+    "x": 0.2554087338391095,
+    "y": 1.9836245558771204
+  },
+  {
+    "entity": "yellow warning sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 0.9523162611459364,
+    "y": -1.7587193462167363
+  },
+  {
+    "entity": "train icon",
+    "type": "v",
+    "granularity": 3,
+    "parent": "yellow warning sign",
+    "x": 1.4284743917189044,
+    "y": -2.6380790193251045
+  },
+  {
+    "entity": "grass frost",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yard",
+    "x": -1.633939786020884,
+    "y": 1.1533606442297344
+  },
+  {
+    "entity": "turning leaves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yard",
+    "x": -1.77577043680475,
+    "y": 0.9201300754623053
+  },
+  {
+    "entity": "no platform",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small train station",
+    "x": 1.9891793475597206,
+    "y": 0.20776314216406142
+  },
+  {
+    "entity": "railway tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.11358018605047479,
+    "y": 0.9935288326650312
+  },
+  {
+    "entity": "yard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8544194045464883,
+    "y": 0.5195839500354339
+  },
+  {
+    "entity": "vertical pole",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 1.7111591533896462,
+    "y": 2.4641295322630317
+  },
+  {
+    "entity": "horizontal wire",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 1.4397219008826552,
+    "y": 2.631957607583913
+  },
+  {
+    "entity": "L-shaped pole",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 1.1519926841727106,
+    "y": 2.770002320506709
+  },
+  {
+    "entity": "parallel wires",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 0.8512274612999791,
+    "y": 2.8767015502357545
+  },
+  {
+    "entity": "church spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.935341806670296,
+    "y": -0.5044324447873615
+  },
+  {
+    "entity": "onion dome",
+    "type": "v",
+    "granularity": 3,
+    "parent": "church spire",
+    "x": -2.9990249085484164,
+    "y": -0.07648266408907509
+  },
+  {
+    "entity": "twin peaks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain range",
+    "x": 0.18186972461769463,
+    "y": -1.9917136850630623
+  },
+  {
+    "entity": "houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9343938371606709,
+    "y": 0.35624171158941736
+  },
+  {
+    "entity": "narrow tower",
+    "type": "v",
+    "granularity": 3,
+    "parent": "church tower",
+    "x": -2.9756543927358505,
+    "y": 0.38141963110442334
+  },
+  {
+    "entity": "plaster building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.662306572941874,
+    "y": -1.1120867131452663
+  },
+  {
+    "entity": "arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.548545199617808,
+    "y": -1.265704453946751
+  },
+  {
+    "entity": "bicycles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small train station",
+    "x": 1.9326908207368083,
+    "y": 0.514496055805759
+  },
+  {
+    "entity": "blue sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 1.2832485227043222,
+    "y": -1.5340382097513656
+  },
+  {
+    "entity": "\"Zugverkehr beachten\" sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 1.4984141555526624,
+    "y": -1.3246716643906147
+  },
+  {
+    "entity": "blank speed sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 1.6233696103794426,
+    "y": -1.1681913833342963
+  },
+  {
+    "entity": "red round sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "safety signage",
+    "x": 1.7799413988483708,
+    "y": -0.9120354251155515
+  },
+  {
+    "entity": "single track",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway tracks",
+    "x": -0.8743543819121126,
+    "y": 1.798750792864617
+  },
+  {
+    "entity": "platform",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small train station",
+    "x": 1.8292011694292096,
+    "y": 0.8087169354964765
+  },
+  {
+    "entity": "platform ramp",
+    "type": "v",
+    "granularity": 3,
+    "parent": "platform",
+    "x": 2.7438017541438144,
+    "y": 1.2130754032447149
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8036311154549781,
+    "y": -0.5951277428187899
+  },
+  {
+    "entity": "mountain range",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.15868254645625185,
+    "y": -0.9873296559154695
+  },
+  {
+    "entity": "safety signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7151095013548994,
+    "y": -0.6990124470078821
+  },
+  {
+    "entity": "Bavarian chalet",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.2797529373204386,
+    "y": -1.53695556845984
+  },
+  {
+    "entity": "wooden building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.9643052189247105,
+    "y": -1.7521744903846095
+  },
+  {
+    "entity": "residential area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.974199082673479,
+    "y": -0.22569037932121092
+  },
+  {
+    "entity": "blue bench",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small train station",
+    "x": 1.6812271593460573,
+    "y": 1.0832706211640686
+  },
+  {
+    "entity": "dual tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway tracks",
+    "x": -1.0440264355774684,
+    "y": 1.705874790779032
+  },
+  {
+    "entity": "light-colored building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.792624025407107,
+    "y": -1.836231781215932
+  },
+  {
+    "entity": "metre-gauge track",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway tracks",
+    "x": -1.2039330424512178,
+    "y": 1.5970426510566818
+  },
+  {
+    "entity": "DC catenary",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 0.5408297063947989,
+    "y": 2.9508478830127647
+  },
+  {
+    "entity": "thin droppers",
+    "type": "v",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": 0.2243118957961713,
+    "y": 2.9916022752706164
+  },
+  {
+    "entity": "one-story building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.6137021994587909,
+    "y": -1.903515067021914
+  },
+  {
+    "entity": "small windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.42917419465925566,
+    "y": -1.9534097139715927
+  },
+  {
+    "entity": "jagged peaks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain range",
+    "x": 0.4513807586424227,
+    "y": -1.9483981653469578
+  },
+  {
+    "entity": "chalet house",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.24072567711639634,
+    "y": -1.9854599337123005
+  },
+  {
+    "entity": "wooden balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.050078126881154865,
+    "y": -1.9993729470031536
+  },
+  {
+    "entity": "pointed steeple",
+    "type": "v",
+    "granularity": 3,
+    "parent": "church spire",
+    "x": -2.9705501949380957,
+    "y": -0.4193227150456349
+  },
+  {
+    "entity": "minaret-like tower",
+    "type": "v",
+    "granularity": 3,
+    "parent": "church spire",
+    "x": -2.9030127100054446,
+    "y": -0.7566486671810408
+  },
+  {
+    "entity": "electric tram",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": -0.09474423930413069,
+    "y": 2.998503548291828
+  },
+  {
+    "entity": "tourist rack railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": -2.028867740694972,
+    "y": 2.209908525429792
+  },
+  {
+    "entity": "tram line",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": -0.4127282439087914,
+    "y": 2.9714736069297274
+  },
+  {
+    "entity": "catenary system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": -0.7260417953021845,
+    "y": 2.9108183233369926
+  },
+  {
+    "entity": "minor stop",
+    "type": "i",
+    "granularity": 3,
+    "parent": "no platform",
+    "x": 2.983769021339581,
+    "y": 0.3116447132460921
+  },
+  {
+    "entity": "mountainous area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "alpine mountains",
+    "x": 2.0476594296559623,
+    "y": 2.192507892834372
+  },
+  {
+    "entity": "online search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.972057838108992,
+    "y": -0.4084999472887416
+  },
+  {
+    "entity": "design confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "church spire",
+    "x": -2.797300572501698,
+    "y": -1.0840246801072713
+  },
+  {
+    "entity": "Protestant church inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "church spire",
+    "x": -2.6548038983253663,
+    "y": -1.397145755258355
+  },
+  {
+    "entity": "bus stop indication",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue sign",
+    "x": 1.9248727840564834,
+    "y": -2.3010573146270485
+  },
+  {
+    "entity": "professional railway environment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red round sign",
+    "x": 2.6699120982725564,
+    "y": -1.3680531376733271
+  },
+  {
+    "entity": "local tram possibility",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wiring",
+    "x": -1.0311394218481058,
+    "y": 2.8172240757012483
+  },
+  {
+    "entity": "standard gauge track",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": -2.2328586204974536,
+    "y": 2.0035823868436773
+  },
+  {
+    "entity": "quaint atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Bavarian chalet",
+    "x": -2.079877391584731,
+    "y": -2.1619690182735494
+  },
+  {
+    "entity": "train halt",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small train station",
+    "x": 2.339398976895458,
+    "y": 1.878087438566289
+  },
+  {
+    "entity": "German railway warning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "safety signage",
+    "x": 2.844609586218027,
+    "y": -0.9529933378552566
+  },
+  {
+    "entity": "typical Bavarian construction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Bavarian chalet",
+    "x": -1.74951421976569,
+    "y": -2.43704739281731
+  },
+  {
+    "entity": "evidence convergence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9968910209401827,
+    "y": -0.13654379739889366
+  }
+]

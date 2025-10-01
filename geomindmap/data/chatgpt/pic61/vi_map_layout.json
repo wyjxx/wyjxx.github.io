@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "red tunics",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9350162426854148,
+    "y": 0.3546048870425356
+  },
+  {
+    "entity": "bearskin hats",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6631226582407952,
+    "y": 0.7485107481711011
+  },
+  {
+    "entity": "red gravel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete ground",
+    "x": 0.8208256109055113,
+    "y": -1.8237996919841812
+  },
+  {
+    "entity": "stone curtain-wall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936564,
+    "y": 0.5680647467311558
+  },
+  {
+    "entity": "crenellations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone curtain-wall",
+    "x": 0.911567847601166,
+    "y": 1.7801809063181688
+  },
+  {
+    "entity": "narrow lancet windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone curtain-wall",
+    "x": 0.4197622041296951,
+    "y": 1.9554538327416937
+  },
+  {
+    "entity": "Gothic arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone curtain-wall",
+    "x": -0.10064953986337263,
+    "y": 1.9974658120041233
+  },
+  {
+    "entity": "spectator parapet",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone curtain-wall",
+    "x": -0.6142021840459814,
+    "y": 1.903353797146801
+  },
+  {
+    "entity": "stamped concrete",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete ground",
+    "x": 1.5363951560805609,
+    "y": -1.2804256809249763
+  },
+  {
+    "entity": "cobbles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete ground",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "statues",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.46472317204376834,
+    "y": -0.88545602565321
+  },
+  {
+    "entity": "large arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone curtain-wall",
+    "x": -1.0858979644029565,
+    "y": 1.6795313664547964
+  },
+  {
+    "entity": "white facade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.12053668025532357,
+    "y": -0.992708874098054
+  },
+  {
+    "entity": "concrete ground",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6631226582407946,
+    "y": -0.7485107481711016
+  },
+  {
+    "entity": "moat",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9927088740980539,
+    "y": -0.12053668025532452
+  },
+  {
+    "entity": "medieval limestone",
+    "type": "v",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.2253873895256593,
+    "y": 2.011877473043568
+  },
+  {
+    "entity": "pale stone",
+    "type": "v",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.6702713594772534,
+    "y": 1.3673517714017493
+  },
+  {
+    "entity": "British Foot Guards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red tunics",
+    "x": 2.950859720841431,
+    "y": 0.5407651134417173
+  },
+  {
+    "entity": "Changing of the Guard",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.933180749112541,
+    "y": 0.6296433061945415
+  },
+  {
+    "entity": "Mounting of the Guard",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.996198718006185,
+    "y": -0.1509743097950601
+  },
+  {
+    "entity": "ceremonial duty",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red tunics",
+    "x": 2.5673438169043425,
+    "y": 1.5520134425329704
+  },
+  {
+    "entity": "royal precinct gravel",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red gravel",
+    "x": 1.231238416358267,
+    "y": -2.735699537976272
+  },
+  {
+    "entity": "classical facade",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white facade",
+    "x": -0.3616100407659707,
+    "y": -2.978126622294162
+  },
+  {
+    "entity": "medieval architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.8550306957202007,
+    "y": -0.9213032760689746
+  },
+  {
+    "entity": "daily ceremony",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.5192970496821934,
+    "y": -1.628846946604437
+  },
+  {
+    "entity": "11 am ceremony",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone curtain-wall",
+    "x": -2.0118774730435662,
+    "y": -2.225387389525661
+  }
+]

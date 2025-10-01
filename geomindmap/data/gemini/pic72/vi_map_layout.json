@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "large building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765383,
+    "y": 0.8951632913550623
+  },
+  {
+    "entity": "elevated roadway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.850217135729614,
+    "y": 0.5264321628773561
+  },
+  {
+    "entity": "bridge-like overpass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "foreground railing",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043559,
+    "y": -0.3612416661871527
+  },
+  {
+    "entity": "pink building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720831,
+    "y": -0.961825643172819
+  },
+  {
+    "entity": "Cannes sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large building",
+    "x": 1.9510239359608732,
+    "y": 0.43989271567933724
+  },
+  {
+    "entity": "Marilyn Monroe mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large building",
+    "x": 1.5734898760669664,
+    "y": 1.2345564425795859
+  },
+  {
+    "entity": "Campus Riviera signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pink building",
+    "x": -1.3922678919258542,
+    "y": -1.435823846128883
+  },
+  {
+    "entity": "Campus Riviera logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pink building",
+    "x": -0.5473259801441662,
+    "y": -1.923651286345638
+  },
+  {
+    "entity": "building design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large building",
+    "x": 0.8914767115530766,
+    "y": 1.7903265827101247
+  },
+  {
+    "entity": "Cannes Riviera Hotel sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large building",
+    "x": 0.03695780991825983,
+    "y": 1.9996585009161054
+  },
+  {
+    "entity": "Campus Riera International sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pink building",
+    "x": 0.4278661664129933,
+    "y": -1.9536966355192018
+  },
+  {
+    "entity": "architectural nuances",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large building",
+    "x": -0.8247126349478071,
+    "y": 1.8220452984921767
+  },
+  {
+    "entity": "geographic searches",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.8079039091377664,
+    "y": -2.3940516818407205
+  },
+  {
+    "entity": "photo's vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "elevated roadway",
+    "x": -2.550651407188842,
+    "y": 1.5792964886320682
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5506514071888415,
+    "y": -1.5792964886320684
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9489192990517044,
+    "y": -0.5512485534497155
+  }
+]

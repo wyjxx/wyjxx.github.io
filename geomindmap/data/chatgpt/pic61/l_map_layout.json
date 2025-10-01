@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "England",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9615705608064609,
+    "y": 0.3901806440322572
+  },
+  {
+    "entity": "Britain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9615705608064606,
+    "y": -0.39018064403225744
+  },
+  {
+    "entity": "Berkshire",
+    "granularity": 3,
+    "parent": "England",
+    "x": -0.33589342830992275,
+    "y": 2.9811366296797277
+  },
+  {
+    "entity": "Windsor",
+    "granularity": 4,
+    "parent": "Berkshire",
+    "x": -0.4478579044132303,
+    "y": 3.9748488395729704
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "England",
+    "x": -0.3362020997169918,
+    "y": -3.9858459764704763
+  },
+  {
+    "entity": "Castle Hill",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": 4.804586609725498,
+    "y": 1.3841775571242465
+  },
+  {
+    "entity": "Windsor Castle",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": 3.331732889760021,
+    "y": 3.7282108244158274
+  },
+  {
+    "entity": "Horse Guards Parade",
+    "granularity": 5,
+    "parent": "London",
+    "x": -4.442228179894363,
+    "y": -2.294909322337687
+  },
+  {
+    "entity": "Whitehall",
+    "granularity": 5,
+    "parent": "London",
+    "x": -2.777851165098015,
+    "y": -4.157348061512724
+  },
+  {
+    "entity": "Buckingham Palace",
+    "granularity": 5,
+    "parent": "London",
+    "x": -0.42025262464624413,
+    "y": -4.982307470588095
+  },
+  {
+    "entity": "Tower of London",
+    "granularity": 5,
+    "parent": "London",
+    "x": 2.0422212846799725,
+    "y": -4.5639163253065975
+  },
+  {
+    "entity": "Water Lane",
+    "granularity": 5,
+    "parent": "London",
+    "x": 3.9950524267912386,
+    "y": -3.0065854564920382
+  },
+  {
+    "entity": "State Apartments",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": 0.8375311165236845,
+    "y": 4.929355092591178
+  },
+  {
+    "entity": "Guard Room",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -1.9134171618254463,
+    "y": 4.619397662556435
+  },
+  {
+    "entity": "Lower Ward",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -4.0778043447962995,
+    "y": 2.8933564808990306
+  },
+  {
+    "entity": "Quadrangle",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -4.992134075089083,
+    "y": 0.2803522361859618
+  }
+]

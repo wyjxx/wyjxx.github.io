@@ -1,0 +1,17 @@
+[
+{"entity":"cobblestone pavement","type":"v","granularity":1,"parent":null},
+{"entity":"neoclassical building","type":"v","granularity":1,"parent":null},
+{"entity":"monument","type":"v","granularity":1,"parent":null},
+{"entity":"background buildings","type":"v","granularity":1,"parent":null},
+{"entity":"metro station","type":"v","granularity":1,"parent":null},
+{"entity":"wavy pattern","type":"v","granularity":2,"parent":"cobblestone pavement"},
+{"entity":"Calçada Portuguesa","type":"v","granularity":2,"parent":"cobblestone pavement"},
+{"entity":"red-tiled roof","type":"v","granularity":2,"parent":"neoclassical building"},
+{"entity":"Palácio Foz","type":"v","granularity":2,"parent":"neoclassical building"},
+{"entity":"inscription","type":"v","granularity":2,"parent":"monument"},
+{"entity":"street layouts","type":"i","granularity":3,"parent":"cobblestone pavement"},
+{"entity":"architectural styles","type":"i","granularity":3,"parent":"neoclassical building"},
+{"entity":"monument's identity","type":"i","granularity":3,"parent":"monument"},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null},
+{"entity":"confident answer","type":"i","granularity":3,"parent":null}
+]

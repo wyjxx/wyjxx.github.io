@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "businesses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": 0.20791169081775931
+  },
+  {
+    "entity": "signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10452846326765355,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "distinctive mural",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9781476007338056,
+    "y": -0.2079116908177595
+  },
+  {
+    "entity": "large windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.338261212717717,
+    "y": -1.486289650954788
+  },
+  {
+    "entity": "high ceilings",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.6180339887498951,
+    "y": -1.902113032590307
+  },
+  {
+    "entity": "orange ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.20905692653530422,
+    "y": -1.989043790736547
+  },
+  {
+    "entity": "concrete pillars",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "Herzlich willkommen in der ältesten Universitätsstadt Deutschlands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 1.5673869146516797,
+    "y": 1.2422955605566206
+  },
+  {
+    "entity": "DB Reisezentrum",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 0.7750311729042062,
+    "y": 1.843726303177001
+  },
+  {
+    "entity": "DB Travel Center",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": -0.2090569265353071,
+    "y": 1.9890437907365466
+  },
+  {
+    "entity": "Herz in Heidelberg verloren",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": -1.1414271353688632,
+    "y": 1.6422984182674083
+  },
+  {
+    "entity": "mid-century modern design",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124839,
+    "y": -1.763355756877424
+  },
+  {
+    "entity": "transportation hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.934442802201416,
+    "y": -0.6237350724532822
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signs",
+    "x": -2.687135280718238,
+    "y": 1.3339055375547835
+  },
+  {
+    "entity": "mural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "distinctive mural",
+    "x": -2.9344428022014166,
+    "y": -0.6237350724532785
+  }
+]

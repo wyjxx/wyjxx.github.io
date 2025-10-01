@@ -1,0 +1,19 @@
+[
+{"entity":"man-made objects","type":"v","granularity":1,"parent":null},
+{"entity":"signage","type":"v","granularity":1,"parent":null},
+{"entity":"Motel One","type":"v","granularity":1,"parent":null},
+{"entity":"tram tracks","type":"v","granularity":1,"parent":null},
+{"entity":"domed church","type":"v","granularity":1,"parent":null},
+{"entity":"map","type":"v","granularity":1,"parent":null},
+{"entity":"Street View","type":"v","granularity":1,"parent":null},
+{"entity":"intersection","type":"v","granularity":1,"parent":null},
+{"entity":"bilingual signage","type":"v","granularity":2,"parent":"signage"},
+{"entity":"EXCEPTÉ / UITGEZ","type":"v","granularity":2,"parent":"signage"},
+{"entity":"tram lines","type":"v","granularity":2,"parent":"tram tracks"},
+{"entity":"mixture of architecture","type":"v","granularity":2,"parent":"man-made objects"},
+{"entity":"language clues","type":"i","granularity":3,"parent":"bilingual signage"},
+{"entity":"post-war urban landscapes","type":"i","granularity":3,"parent":"mixture of architecture"},
+{"entity":"tram line data","type":"i","granularity":3,"parent":"tram lines"},
+{"entity":"church orientation","type":"i","granularity":3,"parent":"domed church"},
+{"entity":"angle of view","type":"i","granularity":3,"parent":"Street View"}
+]

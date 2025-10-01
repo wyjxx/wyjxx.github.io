@@ -1,0 +1,21 @@
+[
+{"entity": "Calle de la Victoria", "type": "l"},
+{"entity": "Spain", "type": "l"},
+{"entity": "Madrid", "type": "l"},
+{"entity": "Andalusia", "type": "l"},
+{"entity": "Sol", "type": "l"},
+{"entity": "Centro", "type": "l"},
+{"entity": "Europe", "type": "l"},
+{"entity": "street sign", "type": "v"},
+{"entity": "ceramic plaque", "type": "v"},
+{"entity": "religious imagery", "type": "v"},
+{"entity": "Our Lady of Victory", "type": "v"},
+{"entity": "text", "type": "v"},
+{"entity": "building style", "type": "v"},
+{"entity": "building", "type": "v"},
+{"entity": "architecture", "type": "v"},
+{"entity": "Spanish-speaking locale", "type": "i"},
+{"entity": "search-based clues", "type": "i"},
+{"entity": "background knowledge", "type": "i"},
+{"entity": "Google Street View", "type": "i"}
+]

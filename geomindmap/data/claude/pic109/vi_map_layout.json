@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9921147013144779,
+    "y": 0.12533323356430426
+  },
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18738131458572474,
+    "y": 0.9822872507286886
+  },
+  {
+    "entity": "blue background",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "white text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.5608608146766594,
+    "y": 1.2504853126714104
+  },
+  {
+    "entity": "house number sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.1500105040865571,
+    "y": 1.6362994348500468
+  },
+  {
+    "entity": "brick building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9297764858882515,
+    "y": -0.3681245526846779
+  },
+  {
+    "entity": "contemporary architecture",
+    "type": "v",
+    "granularity": 3,
+    "parent": "brick building",
+    "x": -2.6544403084492147,
+    "y": 1.3978364170674753
+  },
+  {
+    "entity": "large window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "brick building",
+    "x": -1.96113154455044,
+    "y": 0.39238127499818987
+  },
+  {
+    "entity": "utility pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.06279051952931283,
+    "y": -0.9980267284282716
+  },
+  {
+    "entity": "wiring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "utility pole",
+    "x": 0.12558103905862567,
+    "y": -1.9960534568565431
+  },
+  {
+    "entity": "garage door",
+    "type": "v",
+    "granularity": 2,
+    "parent": "brick building",
+    "x": -1.9919485879904781,
+    "y": -0.17927861780686674
+  },
+  {
+    "entity": "roller shutter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "brick building",
+    "x": -1.8595529717765025,
+    "y": -0.7362491053693566
+  },
+  {
+    "entity": "leafy tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.6886558510040295,
+    "y": -1.0716535899579942
+  },
+  {
+    "entity": "daylight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5358267949789968,
+    "y": -0.844327925502015
+  },
+  {
+    "entity": "overcast lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "daylight",
+    "x": 1.0716535899579935,
+    "y": -1.68865585100403
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": -0.36812455268467786
+  },
+  {
+    "entity": "German street sign design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 0.3747626291714495,
+    "y": 1.9645745014573772
+  },
+  {
+    "entity": "residential building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick building",
+    "x": -2.3621890305840356,
+    "y": -1.84934122967841
+  },
+  {
+    "entity": "commercial building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick building",
+    "x": -1.741499856004719,
+    "y": -2.4427808439431367
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 2.946861752186066,
+    "y": -0.562143943757174
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -0.700336091567716,
+    "y": 2.91710976119303
+  },
+  {
+    "entity": "Straße",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -1.4863760052972217,
+    "y": 2.6058945433145744
+  },
+  {
+    "entity": "Asian-themed street names",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -2.154378893289566,
+    "y": 2.087738389776943
+  },
+  {
+    "entity": "German urban development",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick building",
+    "x": -0.9781188343570251,
+    "y": -2.836068325318707
+  },
+  {
+    "entity": "German signage standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German street sign design",
+    "x": 0.5621439437571742,
+    "y": 2.9468617521860656
+  }
+]

@@ -1,0 +1,17 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Mediterranean","granularity":1,"parent":null},  
+  {"entity":"Portugal","granularity":2,"parent":"Europe"},  
+  {"entity":"France","granularity":2,"parent":"Europe"},  
+  {"entity":"Spain","granularity":2,"parent":"Europe"},  
+  {"entity":"Italy","granularity":2,"parent":"Europe"},  
+  {"entity":"Southern France","granularity":3,"parent":"France"},  
+  {"entity":"Lisbon","granularity":4,"parent":"Portugal"},  
+  {"entity":"Rome","granularity":4,"parent":"Italy"},  
+  {"entity":"Alcântara valley","granularity":4,"parent":"Lisbon"},  
+  {"entity":"Amoreiras","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Campolide","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Pont du Gard","granularity":5,"parent":"Southern France"},  
+  {"entity":"Aqueduct of Segovia","granularity":5,"parent":"Spain"},  
+  {"entity":"Águas Livres Aqueduct","granularity":5,"parent":"Lisbon"}  
+]

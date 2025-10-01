@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.6038754716096766,
+    "y": 1.7355349564702325
+  },
+  {
+    "entity": "Frankfurt am Main",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.6038754716096766,
+    "y": -1.735534956470232
+  },
+  {
+    "entity": "Mainhattan",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": 0.6711663290882777,
+    "y": 4.954748808839674
+  },
+  {
+    "entity": "Am Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.045084971874736,
+    "y": 2.9389262614623664
+  },
+  {
+    "entity": "Mannheimer Straße",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.504844339512096,
+    "y": -2.16941869558779
+  },
+  {
+    "entity": "Bahnhofsviertel",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -0.22432415175257553,
+    "y": -4.994965332706573
+  },
+  {
+    "entity": "Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": 4.29224396800933,
+    "y": -2.5644963870295316
+  }
+]

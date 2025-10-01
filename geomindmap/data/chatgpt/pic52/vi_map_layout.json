@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "street name sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.142314838273285,
+    "y": 0.9898214418809328
+  },
+  {
+    "entity": "small plaque",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545186,
+    "y": -0.4154150130018861
+  },
+  {
+    "entity": "tile plaque",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6548607339452855,
+    "y": -0.7557495743542578
+  },
+  {
+    "entity": "glazed-ceramic tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": 1.9757811763634503,
+    "y": 0.31030427507184105
+  },
+  {
+    "entity": "sculpted stone façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": 1.6241165495417,
+    "y": 1.1671527035931342
+  },
+  {
+    "entity": "royal crest",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": 0.9241368878807924,
+    "y": 1.773688533102135
+  },
+  {
+    "entity": "laurel wreath",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": 0.33592657974032974,
+    "y": 1.971586501532196
+  },
+  {
+    "entity": "white background",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": -0.28462967654657045,
+    "y": 1.9796428837618654
+  },
+  {
+    "entity": "blue border",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": -0.8777792990219121,
+    "y": 1.7970819408720906
+  },
+  {
+    "entity": "black text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": -1.386408656050778,
+    "y": 1.4414822365979663
+  },
+  {
+    "entity": "image of saint",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street name sign",
+    "x": -1.761542466126929,
+    "y": 0.9470840195206848
+  },
+  {
+    "entity": "granite corner",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.5634651136828611,
+    "y": -1.9189859472289943
+  },
+  {
+    "entity": "wrought-iron balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.1437508791444563e-15,
+    "y": -2.0
+  },
+  {
+    "entity": "Christmas greenery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414285,
+    "y": -0.9594929736144977
+  },
+  {
+    "entity": "historic street sign",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street name sign",
+    "x": -2.9505893492600475,
+    "y": 0.5422384088509133
+  },
+  {
+    "entity": "official city sign",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street name sign",
+    "x": -2.9747564594029985,
+    "y": -0.3883606664431085
+  },
+  {
+    "entity": "narrow street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.6219224523667894,
+    "y": -2.523760598493546
+  },
+  {
+    "entity": "pedestrian-oriented street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.267248723062772,
+    "y": -1.9645822018358587
+  },
+  {
+    "entity": "heritage street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.728895986063553,
+    "y": -1.246245039005664
+  },
+  {
+    "entity": "lively street",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9694643256427975,
+    "y": -0.4269445148198612
+  },
+  {
+    "entity": "17th–19th-century façade",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sculpted stone façade",
+    "x": 2.43617482431255,
+    "y": 1.7507290553897012
+  },
+  {
+    "entity": "plaque marking historic events",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tile plaque",
+    "x": -1.9645822018358565,
+    "y": -2.2672487230627736
+  }
+]

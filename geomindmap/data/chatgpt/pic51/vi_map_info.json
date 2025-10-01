@@ -1,0 +1,9 @@
+[
+{"entity":"statue","type":"v","granularity":1,"parent":null},
+{"entity":"buildings","type":"v","granularity":1,"parent":null},
+{"entity":"Tio Pepe signage","type":"v","granularity":1,"parent":null},
+{"entity":"bear","type":"v","granularity":2,"parent":"statue"},
+{"entity":"madroño tree","type":"v","granularity":2,"parent":"statue"},
+{"entity":"El Oso y el Madroño","type":"i","granularity":3,"parent":"statue"},
+{"entity":"symbol of Madrid","type":"i","granularity":3,"parent":"statue"}
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Doric columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Greek temples",
+    "x": 1.9651329464665765,
+    "y": 0.37182321432582915
+  },
+  {
+    "entity": "Greek temples",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298263,
+    "y": 0.6801727377709194
+  },
+  {
+    "entity": "white marble construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Greek temples",
+    "x": 1.6934483984565682,
+    "y": 1.0640641530306731
+  },
+  {
+    "entity": "limestone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Greek temples",
+    "x": 1.1876403711470034,
+    "y": 1.6091955595333365
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07473009358642405,
+    "y": 0.9972037971811801
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue sky",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "bright sunlight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159945,
+    "y": 0.5633200580636226
+  },
+  {
+    "entity": "rocky terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861406,
+    "y": 0.2947551744109046
+  },
+  {
+    "entity": "hilly terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.0106430996148606e-15
+  },
+  {
+    "entity": "modern city view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861409,
+    "y": -0.29475517441090354
+  },
+  {
+    "entity": "Mediterranean vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7330518718298271,
+    "y": -0.6801727377709185
+  },
+  {
+    "entity": "archaeological site",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07473009358642561,
+    "y": -0.99720379718118
+  },
+  {
+    "entity": "Propylaea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "Temple of Athena Nike",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298253,
+    "y": -0.6801727377709205
+  },
+  {
+    "entity": "rocky hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "urban landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9888308262251284,
+    "y": -0.14904226617617528
+  },
+  {
+    "entity": "classical Greek architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Greek temples",
+    "x": 0.7764571353075629,
+    "y": 2.8977774788672046
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Mediterranean vegetation",
+    "x": -2.1991556154894814,
+    "y": -2.0405182133127555
+  },
+  {
+    "entity": "major archaeological attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "archaeological site",
+    "x": -0.8842655232327165,
+    "y": -2.8667184173584213
+  },
+  {
+    "entity": "ancient Greek civilization",
+    "type": "i",
+    "granularity": 3,
+    "parent": "archaeological site",
+    "x": 0.4471267985285192,
+    "y": -2.966492478675386
+  }
+]

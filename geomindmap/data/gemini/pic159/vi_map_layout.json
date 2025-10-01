@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "vintage tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "destination sign 'RUNDTUR'",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256687,
+    "y": 0.9396926207859084
+  },
+  {
+    "entity": "harbor view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "CLOETTA building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9396926207859083,
+    "y": 0.3420201433256689
+  },
+  {
+    "entity": "RIVERTON building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "Otterhall building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844386,
+    "y": -0.5000000000000001
+  },
+  {
+    "entity": "Hotel Riverton",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865395,
+    "y": -0.7660444431189779
+  },
+  {
+    "entity": "Stena Line vessel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256694,
+    "y": -0.9396926207859082
+  },
+  {
+    "entity": "surrounding street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "ferry terminal view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9848077530122079,
+    "y": -0.17364817766693127
+  },
+  {
+    "entity": "number '9'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vintage tram",
+    "x": 1.8126155740732999,
+    "y": 0.8452365234813989
+  },
+  {
+    "entity": "number '208'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vintage tram",
+    "x": 0.9234972264700677,
+    "y": 1.7740216663564434
+  },
+  {
+    "entity": "curve of tram tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding street layout",
+    "x": 0.573606465422179,
+    "y": -1.9159790246309782
+  },
+  {
+    "entity": "tram routes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vintage tram",
+    "x": 0.13085816209600803,
+    "y": 2.9971446647455733
+  },
+  {
+    "entity": "AKTIEBOLAG clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "CLOETTA building",
+    "x": -2.819077862357725,
+    "y": 1.0260604299770066
+  },
+  {
+    "entity": "line 9 routes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "number '9'",
+    "x": 2.7189233611099497,
+    "y": 1.2678547852220983
+  },
+  {
+    "entity": "tram's exact position",
+    "type": "i",
+    "granularity": 3,
+    "parent": "surrounding street layout",
+    "x": 2.506463434238808,
+    "y": -1.64852693421242
+  },
+  {
+    "entity": "tram's angle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "curve of tram tracks",
+    "x": 0.8604096981332685,
+    "y": -2.8739685369464674
+  }
+]

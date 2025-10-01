@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Alpine region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7709120513064198,
+    "y": 0.9294463440875371
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4970214963422024,
+    "y": 1.3262453164815904
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.1361294934623118,
+    "y": -1.6459677317873127
+  },
+  {
+    "entity": "Italian Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.24107336051064715,
+    "y": -1.985417748196108
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 1.0638146611276043,
+    "y": -2.8050487280562457
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.6563680769596276,
+    "y": -1.39416951613131
+  },
+  {
+    "entity": "Northern Alpine region",
+    "granularity": 3,
+    "parent": "Alpine region",
+    "x": 2.65636807695963,
+    "y": 1.3941695161313057
+  },
+  {
+    "entity": "Salzkammergut",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": -1.5829207323183985,
+    "y": 2.548403805364563
+  },
+  {
+    "entity": "Upper Austria",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": -2.7206230825516364,
+    "y": -1.264203323317588
+  },
+  {
+    "entity": "Lake Attersee",
+    "granularity": 4,
+    "parent": "Salzkammergut",
+    "x": 0.8631367870712245,
+    "y": 3.9057643153170885
+  },
+  {
+    "entity": "Lake Traunsee",
+    "granularity": 4,
+    "parent": "Salzkammergut",
+    "x": -2.11056097642453,
+    "y": 3.3978717404860848
+  },
+  {
+    "entity": "Chiemsee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.5418241026128365,
+    "y": -1.8588926881750798
+  },
+  {
+    "entity": "Sankt Wolfgang im Salzkammergut",
+    "granularity": 4,
+    "parent": "Salzkammergut",
+    "x": -3.883767269704208,
+    "y": 0.9572626571502307
+  }
+]

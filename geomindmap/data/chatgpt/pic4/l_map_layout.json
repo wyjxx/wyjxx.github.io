@@ -1,0 +1,212 @@
+[
+  {
+    "entity": "southern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.1690261735194563,
+    "y": 2.0725166968175537
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9532411114201733,
+    "y": 0.42994088042204814
+  },
+  {
+    "entity": "Garmisch",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.27504464972827,
+    "y": 3.7913402829605407
+  },
+  {
+    "entity": "Zugspitze",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.1301969229897244,
+    "y": 3.3855961172716853
+  },
+  {
+    "entity": "Werdenfelsbahn",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.6511407425551317,
+    "y": 2.5047423516750156
+  },
+  {
+    "entity": "Grainau",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.9926969196985875,
+    "y": 0.2416015468274416
+  },
+  {
+    "entity": "Mittenwald",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.5228900467418485,
+    "y": -3.104033796860291
+  },
+  {
+    "entity": "Untergrainau",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -3.6508222046617096,
+    "y": 3.4163573041982915
+  },
+  {
+    "entity": "St. Anton",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -4.44528511316208,
+    "y": 2.2889823639992493
+  },
+  {
+    "entity": "Zugspitzstraße",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -4.901524846465335,
+    "y": 0.9874483173731013
+  },
+  {
+    "entity": "Gumpenau 3",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -4.984828029091462,
+    "y": -0.3892165469043378
+  },
+  {
+    "entity": "Lake Badersee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.722902038357799,
+    "y": -3.6099319337381615
+  },
+  {
+    "entity": "Bavarian Zugspitz railway",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.0497765093068656,
+    "y": 2.8103325925070672
+  },
+  {
+    "entity": "Leutasch",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 3.9064822228403466,
+    "y": 0.8598817608440963
+  },
+  {
+    "entity": "Hammersbach",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.8264408045877185,
+    "y": -3.913693344720867
+  },
+  {
+    "entity": "Bavarian Zugspitzbahn",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.39533740278817153,
+    "y": 2.9738373085891405
+  },
+  {
+    "entity": "Farchant",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 0.11629665861047185,
+    "y": -3.998309028476418
+  },
+  {
+    "entity": "Munich-Garmisch line",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -0.2790892747668534,
+    "y": 2.9869899860411504
+  },
+  {
+    "entity": "Garmisch-Partenkirchen Hausberg station",
+    "granularity": 5,
+    "parent": "Garmisch-Partenkirchen",
+    "x": 1.5992089701992445,
+    "y": -4.737354817789593
+  },
+  {
+    "entity": "Hausberg gondola",
+    "granularity": 5,
+    "parent": "Garmisch-Partenkirchen",
+    "x": 3.1491860036624346,
+    "y": -3.8836358627369565
+  },
+  {
+    "entity": "Garmisch-Partenkirchen",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 1.9298120481336425,
+    "y": -3.503687408842038
+  },
+  {
+    "entity": "Zugspitzplatt",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.317141881376245,
+    "y": -2.235300816181049
+  },
+  {
+    "entity": "Wetterstein range",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7137143523351785,
+    "y": 1.0311077143540435
+  },
+  {
+    "entity": "Waxenstein",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.749498811321637,
+    "y": -1.3932905884623032
+  },
+  {
+    "entity": "Obergrainau",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -4.688856469852583,
+    "y": -1.736267549982309
+  },
+  {
+    "entity": "Grainau station",
+    "granularity": 5,
+    "parent": "Grainau",
+    "x": -4.036129408344248,
+    "y": -2.951213208004245
+  },
+  {
+    "entity": "municipality of Grainau",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 3.9719040226805964,
+    "y": -0.4732635995021122
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.8921675350563865,
+    "y": -2.328025347645218
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.895306342365605,
+    "y": -0.6386030602719599
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  }
+]

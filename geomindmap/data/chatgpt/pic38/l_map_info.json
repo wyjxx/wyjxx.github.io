@@ -1,0 +1,9 @@
+[  
+  {"entity":"Hasenbergl","granularity":5,"parent":"Munich"},  
+  {"entity":"Feldmoching-Hasenbergl","granularity":5,"parent":"Munich"},  
+  {"entity":"Munich","granularity":4,"parent":"Germany"},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Berlin","granularity":4,"parent":"Germany"},  
+  {"entity":"Lochhauser Straße","granularity":5,"parent":"Munich"}  
+]

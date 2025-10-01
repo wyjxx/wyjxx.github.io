@@ -1,0 +1,10 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},  
+  {"entity":"Charlestown","granularity":4,"parent":"Dublin"},  
+  {"entity":"O'Connell Street","granularity":5,"parent":"Dublin"},  
+  {"entity":"Parnell Street","granularity":5,"parent":"Dublin"},  
+  {"entity":"North City","granularity":5,"parent":"Dublin"},  
+  {"entity":"GPO","granularity":5,"parent":"Dublin"}  
+]

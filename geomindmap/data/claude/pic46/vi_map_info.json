@@ -1,0 +1,22 @@
+[
+{"entity":"modern library interior","type":"v","granularity":1,"parent":null},
+{"entity":"multi-level library","type":"v","granularity":1,"parent":null},
+{"entity":"people","type":"v","granularity":1,"parent":null},
+{"entity":"geometric stepped design","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"stepped terraced floors","type":"v","granularity":2,"parent":"multi-level library"},
+{"entity":"white color scheme","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"clean lines","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"bookshelves","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"modern lighting","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"recessed ceiling lights","type":"v","granularity":2,"parent":"modern lighting"},
+{"entity":"perforated ceiling pattern","type":"v","granularity":2,"parent":"modern lighting"},
+{"entity":"glass railings","type":"v","granularity":2,"parent":"modern library interior"},
+{"entity":"casual clothing","type":"v","granularity":2,"parent":"people"},
+{"entity":"famous modern library","type":"i","granularity":3,"parent":"modern library interior"},
+{"entity":"minimalist aesthetic","type":"i","granularity":3,"parent":"modern library interior"},
+{"entity":"contemporary clothing style","type":"i","granularity":3,"parent":"casual clothing"},
+{"entity":"Western clothing style","type":"i","granularity":3,"parent":"casual clothing"},
+{"entity":"spiral-like pattern","type":"i","granularity":3,"parent":"geometric stepped design"},
+{"entity":"cube-shaped exterior","type":"i","granularity":3,"parent":"multi-level library"},
+{"entity":"architect Eun Young Yi","type":"i","granularity":3,"parent":"multi-level library"}
+]

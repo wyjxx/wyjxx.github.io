@@ -1,0 +1,13 @@
+[
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"signage","type":"v","granularity":1,"parent":null},
+{"entity":"tricolor flag","type":"v","granularity":1,"parent":null},
+{"entity":"GARE text","type":"v","granularity":2,"parent":"signage"},
+{"entity":"SNCF logo","type":"v","granularity":2,"parent":"signage"},
+{"entity":"preliminary location ideas","type":"i","granularity":3,"parent":null},
+{"entity":"French location","type":"i","granularity":3,"parent":null},
+{"entity":"strong hypothesis","type":"i","granularity":3,"parent":null},
+{"entity":"photos of Nice-Ville station","type":"i","granularity":3,"parent":null},
+{"entity":"online sources","type":"i","granularity":3,"parent":null},
+{"entity":"street address","type":"i","granularity":3,"parent":null}
+]

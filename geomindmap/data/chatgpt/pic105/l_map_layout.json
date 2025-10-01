@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Old Elbe Tunnel",
+    "granularity": 5,
+    "parent": "Landungsbrücken",
+    "x": -4.619397662556434,
+    "y": -1.9134171618254483
+  },
+  {
+    "entity": "River Elbe",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Port of Hamburg",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 1.1672268192795274,
+    "y": 4.861849601988383
+  },
+  {
+    "entity": "St. Pauli",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.619397662556434,
+    "y": -1.9134171618254483
+  },
+  {
+    "entity": "Landungsbrücken",
+    "granularity": 5,
+    "parent": "St. Pauli",
+    "x": -4.619397662556434,
+    "y": -1.9134171618254483
+  },
+  {
+    "entity": "Steinwerder",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 4.263200821770462,
+    "y": -2.6124928235797436
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.6955181300451474,
+    "y": -1.5307337294603587
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  }
+]

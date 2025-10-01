@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "#MOIN sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9458172417006346,
+    "y": 0.32469946920468346
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.546948158122427,
+    "y": 0.8371664782625285
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.879473751206489,
+    "y": 0.4759473930370737
+  },
+  {
+    "entity": "grass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.40169542465296987,
+    "y": -0.9157733266550573
+  },
+  {
+    "entity": "pathways",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2454854871407988,
+    "y": -0.9694002659393305
+  },
+  {
+    "entity": "railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963934,
+    "y": -0.614212712689668
+  },
+  {
+    "entity": "ramparts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9863613034027222,
+    "y": -0.1645945902807346
+  },
+  {
+    "entity": "large letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "#MOIN sign",
+    "x": 1.8916344834012693,
+    "y": 0.6493989384093669
+  },
+  {
+    "entity": "grassy areas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grass",
+    "x": -0.8033908493059397,
+    "y": -1.8315466533101146
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": 0.11803635638544568,
+    "y": 1.9965138162735685
+  },
+  {
+    "entity": "paved footpaths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pathways",
+    "x": 0.4909709742815976,
+    "y": -1.938800531878661
+  },
+  {
+    "entity": "metal railing barrier",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railings",
+    "x": 1.5782810187927867,
+    "y": -1.228425425379336
+  },
+  {
+    "entity": "asphalt",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -0.6270130200755616,
+    "y": 1.8991721019053864
+  },
+  {
+    "entity": "active tram tracks",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.925345380569093,
+    "y": 2.300661897263754
+  },
+  {
+    "entity": "Hamburg no trams",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.6384212536194656,
+    "y": 1.4278421791112232
+  },
+  {
+    "entity": "Bremen tram operation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.9791011278568718,
+    "y": 0.3534918245192037
+  },
+  {
+    "entity": "tram lines 1-3",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.8993002549235296,
+    "y": -0.7707516018798524
+  },
+  {
+    "entity": "Hamburg tram abolition",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.4102820089835872,
+    "y": -1.7862084528884197
+  },
+  {
+    "entity": "green oasis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": 1.640844474367281,
+    "y": 2.5114994347875856
+  }
+]

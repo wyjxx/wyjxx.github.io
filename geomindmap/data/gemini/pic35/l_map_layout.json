@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818236,
+    "y": 0.2225209339563145
+  },
+  {
+    "entity": "North America",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818235,
+    "y": -0.22252093395631464
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.941193134906782,
+    "y": 0.481424150817946
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.5159434462909056,
+    "y": 1.3045748225562426
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.186727216905902,
+    "y": -1.9912641578822676
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 1.1480502970952675,
+    "y": -2.771638597533861
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.310108705717787,
+    "y": -1.914000461799028
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.031886892581811,
+    "y": 2.609149645112485
+  },
+  {
+    "entity": "Adalbertstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.446291692419736,
+    "y": 3.6225783042963626
+  },
+  {
+    "entity": "Maxvorstadt",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.5598223805165407,
+    "y": 4.968561049466213
+  },
+  {
+    "entity": "StuCafé Mensa Arcisstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.553786456858425,
+    "y": 4.2986247490059535
+  },
+  {
+    "entity": "StuCafé Pavilion",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.631234783051543,
+    "y": 1.8845859981050301
+  },
+  {
+    "entity": "Technical University of Munich",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.829629131445342,
+    "y": -1.2940952255125995
+  },
+  {
+    "entity": "TUM Mensa",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.068473973960243,
+    "y": -3.9477167415011727
+  }
+]

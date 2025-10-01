@@ -1,0 +1,386 @@
+[
+  {
+    "entity": "two-story apartment building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.06540312923014305,
+    "y": 0.9978589232386035
+  },
+  {
+    "entity": "flat roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.9953198677150004,
+    "y": 0.13674291755624135
+  },
+  {
+    "entity": "concrete panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.9580101287523104,
+    "y": 0.4076718480633174
+  },
+  {
+    "entity": "white-framed window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.8840882916633634,
+    "y": 0.6709778753558335
+  },
+  {
+    "entity": "dark brown wood panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.7749365931962904,
+    "y": 0.9217375386370822
+  },
+  {
+    "entity": "curved path with grass edges",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": -0.11774160730237733,
+    "y": -1.9965312203694319
+  },
+  {
+    "entity": "lamppost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9978589232386035,
+    "y": -0.06540312923014331
+  },
+  {
+    "entity": "round lantern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lamppost",
+    "x": -1.9989291749527314,
+    "y": 0.06543816564355201
+  },
+  {
+    "entity": "bicycle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112866,
+    "y": -0.38268343236509006
+  },
+  {
+    "entity": "green grass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8314696123025452,
+    "y": -0.5555702330196023
+  },
+  {
+    "entity": "budding flower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "communal green space",
+    "x": -1.0745992166936484,
+    "y": -1.686782891625771
+  },
+  {
+    "entity": "budding tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "communal green space",
+    "x": -0.7653668647301807,
+    "y": -1.847759065022573
+  },
+  {
+    "entity": "double-glazed window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.6325960200836114,
+    "y": 1.1552619768724117
+  },
+  {
+    "entity": "narrow path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 0.16996435474488214,
+    "y": -1.992764943016651
+  },
+  {
+    "entity": "grass-embedded path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 0.45415252606874684,
+    "y": -1.9477539585546673
+  },
+  {
+    "entity": "shadow",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.2555194224369326,
+    "y": -1.9780374453002065
+  },
+  {
+    "entity": "square grey concrete paver",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 0.728940999758298,
+    "y": -1.8624298695176076
+  },
+  {
+    "entity": "diagonal beveled stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 0.9886424165722894,
+    "y": -1.7385586478902872
+  },
+  {
+    "entity": "metal drainage channel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 1.2278816775007315,
+    "y": -1.5787040843863012
+  },
+  {
+    "entity": "eco-house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6593458151000691,
+    "y": -0.7518398074789773
+  },
+  {
+    "entity": "yellow brick column",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.4597281453956712,
+    "y": 1.3671846040457425
+  },
+  {
+    "entity": "communal green space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.38268343236509034,
+    "y": -0.9238795325112865
+  },
+  {
+    "entity": "red clinker brick",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.2595653607825505,
+    "y": 1.5535427583162054
+  },
+  {
+    "entity": "white plaster façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 1.0358504351931264,
+    "y": 1.7108517983478904
+  },
+  {
+    "entity": "painted wood façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 0.7927665302401558,
+    "y": 1.8361702613131998
+  },
+  {
+    "entity": "dark timber infill",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 0.5348589808278694,
+    "y": 1.9271548642046836
+  },
+  {
+    "entity": "concrete slab",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story apartment building",
+    "x": 0.2669503036368112,
+    "y": 1.9821043200064457
+  },
+  {
+    "entity": "pedestrian/cycle path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196018,
+    "y": -0.8314696123025455
+  },
+  {
+    "entity": "cobble",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 1.4417071934058374,
+    "y": -1.386174725091272
+  },
+  {
+    "entity": "gravel path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 1.6256933691832292,
+    "y": -1.164955393735606
+  },
+  {
+    "entity": "asphalt path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian/cycle path",
+    "x": 1.7760322013056145,
+    "y": -0.9196247168957202
+  },
+  {
+    "entity": "bush",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032305,
+    "y": -0.19509032201612786
+  },
+  {
+    "entity": "post-war prefab",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -0.008924965964311153,
+    "y": 2.999986724134381
+  },
+  {
+    "entity": "1960s-70s social housing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -0.41810850278765754,
+    "y": 2.9707213399941543
+  },
+  {
+    "entity": "mid-latitude climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "communal green space",
+    "x": -0.649318841814311,
+    "y": -2.9288880213597994
+  },
+  {
+    "entity": "old student dorm",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -0.8194739852982609,
+    "y": 2.8859075500471922
+  },
+  {
+    "entity": "student dormitory",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -1.2055164306493114,
+    "y": 2.7471312555890997
+  },
+  {
+    "entity": "European residential area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -1.569017375727391,
+    "y": 2.5569873825784772
+  },
+  {
+    "entity": "campus residential area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -1.903179852490938,
+    "y": 2.3190313600882098
+  },
+  {
+    "entity": "sun's position midday southeast",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.99357676971581,
+    "y": -0.196209387690431
+  },
+  {
+    "entity": "private property",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -2.201755481930199,
+    "y": 2.037712638668739
+  },
+  {
+    "entity": "student housing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -2.4591613101663286,
+    "y": 1.7182914917385312
+  },
+  {
+    "entity": "German Betonplattenbauten",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -2.6705842020151587,
+    "y": 1.3667406557013875
+  },
+  {
+    "entity": "betontegel paving",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pedestrian/cycle path",
+    "x": 2.8344181394006327,
+    "y": -0.9828905386850839
+  },
+  {
+    "entity": "Philips Stork Touring lamp model",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lamppost",
+    "x": -2.959929996254637,
+    "y": -0.4886864201837673
+  },
+  {
+    "entity": "mid-60s Dutch architects",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -2.8320708399995027,
+    "y": 0.9896336479852086
+  },
+  {
+    "entity": "Dutch social-housing row block style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two-story apartment building",
+    "x": -2.940601645952148,
+    "y": 0.594021851301381
+  },
+  {
+    "entity": "Dutch everyday life",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle",
+    "x": -2.77163859753386,
+    "y": -1.1480502970952702
+  }
+]

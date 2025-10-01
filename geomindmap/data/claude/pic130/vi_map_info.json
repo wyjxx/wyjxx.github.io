@@ -1,0 +1,23 @@
+[  
+  {"entity":"Doric columns","type":"v","granularity":2,"parent":"Greek temples"},  
+  {"entity":"Greek temples","type":"v","granularity":1,"parent":null},  
+  {"entity":"white marble construction","type":"v","granularity":2,"parent":"Greek temples"},  
+  {"entity":"limestone construction","type":"v","granularity":2,"parent":"Greek temples"},  
+  {"entity":"tourists","type":"v","granularity":1,"parent":null},  
+  {"entity":"blue sky","type":"v","granularity":1,"parent":null},  
+  {"entity":"white clouds","type":"v","granularity":2,"parent":"blue sky"},  
+  {"entity":"bright sunlight","type":"v","granularity":1,"parent":null},  
+  {"entity":"rocky terrain","type":"v","granularity":1,"parent":null},  
+  {"entity":"hilly terrain","type":"v","granularity":1,"parent":null},  
+  {"entity":"modern city view","type":"v","granularity":1,"parent":null},  
+  {"entity":"Mediterranean vegetation","type":"v","granularity":1,"parent":null},  
+  {"entity":"archaeological site","type":"v","granularity":1,"parent":null},  
+  {"entity":"Propylaea","type":"v","granularity":1,"parent":null},  
+  {"entity":"Temple of Athena Nike","type":"v","granularity":1,"parent":null},  
+  {"entity":"rocky hill","type":"v","granularity":1,"parent":null},  
+  {"entity":"urban landscape","type":"v","granularity":1,"parent":null},  
+  {"entity":"classical Greek architecture","type":"i","granularity":3,"parent":"Greek temples"},  
+  {"entity":"Mediterranean climate","type":"i","granularity":3,"parent":"Mediterranean vegetation"},  
+  {"entity":"major archaeological attraction","type":"i","granularity":3,"parent":"archaeological site"},  
+  {"entity":"ancient Greek civilization","type":"i","granularity":3,"parent":"archaeological site"}  
+]

@@ -1,0 +1,10 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Greece","granularity":2,"parent":"Europe"},  
+{"entity":"Athens","granularity":4,"parent":"Greece"},  
+{"entity":"Papagou","granularity":4,"parent":"Greece"},  
+{"entity":"Attiki Odos","granularity":5,"parent":"Athens"},  
+{"entity":"Anastaseos Street","granularity":5,"parent":"Papagou"},  
+{"entity":"Exit 12","granularity":5,"parent":"Papagou"},  
+{"entity":"airport","granularity":5,"parent":"Athens"}  
+]

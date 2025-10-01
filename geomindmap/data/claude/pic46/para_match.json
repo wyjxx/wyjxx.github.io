@@ -1,0 +1,86 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "modern library interior"
+    ],
+    "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "modern library interior",
+    "multi-level library",
+    "geometric stepped design",
+    "stepped terraced floors",
+    "white color scheme",
+    "clean lines",
+    "bookshelves",
+    "modern lighting",
+    "recessed ceiling lights",
+    "perforated ceiling pattern",
+    "glass railings",
+    "famous modern library"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "people",
+    "casual clothing",
+    "contemporary clothing style",
+    "Western clothing style"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 4,
+  "clue": [
+    "geometric stepped design",
+    "clean lines",
+    "minimalist aesthetic",
+    "white color scheme"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 5,
+  "clue": [
+    "famous modern library",
+    "geometric stepped design",
+    "spiral-like pattern",
+    "cube-shaped exterior",
+    "multi-level library",
+    "architect Eun Young Yi"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Stuttgart City Library",
+      "status": 2,
+      "related_clue": [
+        "famous modern library",
+        "geometric stepped design",
+        "spiral-like pattern",
+        "cube-shaped exterior",
+        "multi-level library",
+        "architect Eun Young Yi"
+      ]
+    },
+    {
+      "loc": "Europaviertel",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Stuttgart",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+}]

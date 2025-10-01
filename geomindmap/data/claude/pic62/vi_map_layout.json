@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "teal train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20345601305263397,
+    "y": 0.9790840876823228
+  },
+  {
+    "entity": "GWR logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "teal train",
+    "x": 1.7962554107273923,
+    "y": 0.8794694420118115
+  },
+  {
+    "entity": "train number",
+    "type": "v",
+    "granularity": 2,
+    "parent": "teal train",
+    "x": 0.6982819596247377,
+    "y": 1.87414041759486
+  },
+  {
+    "entity": "800 014 text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "teal train",
+    "x": -0.19697823956233657,
+    "y": 1.9902762554828721
+  },
+  {
+    "entity": "Edith text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "teal train",
+    "x": -0.782859061453678,
+    "y": 1.8404161730162736
+  },
+  {
+    "entity": "iron roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station architecture",
+    "x": -1.9895145577161897,
+    "y": 0.2045282978840693
+  },
+  {
+    "entity": "glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station architecture",
+    "x": -1.8728123372764083,
+    "y": -0.7018361271303132
+  },
+  {
+    "entity": "metalwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station architecture",
+    "x": -1.365106286437309,
+    "y": -1.4616719285562476
+  },
+  {
+    "entity": "Victorian ironwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "metalwork",
+    "x": -1.365106286437309,
+    "y": -1.4616719285562476
+  },
+  {
+    "entity": "station architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6825531432186541,
+    "y": -0.730835964278124
+  },
+  {
+    "entity": "platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8544194045464886,
+    "y": -0.5195839500354336
+  },
+  {
+    "entity": "yellow safety line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform",
+    "x": 1.226533500567432,
+    "y": -1.579751743783118
+  },
+  {
+    "entity": "terminus platform",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform",
+    "x": 1.8687876743213416,
+    "y": -0.712483423178835
+  },
+  {
+    "entity": "arched spans",
+    "type": "v",
+    "granularity": 2,
+    "parent": "iron roof",
+    "x": -1.9895145577161897,
+    "y": 0.2045282978840693
+  },
+  {
+    "entity": "Great Western Railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "GWR logo",
+    "x": 2.922597248020437,
+    "y": 0.6770711379636317
+  },
+  {
+    "entity": "British railway station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station architecture",
+    "x": -0.8585921271790236,
+    "y": -2.8745120558359463
+  },
+  {
+    "entity": "Victorian railway architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station architecture",
+    "x": 0.051219130724925746,
+    "y": -2.999562734907837
+  },
+  {
+    "entity": "terminus station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terminus platform",
+    "x": 2.8031815114820127,
+    "y": -1.0687251347682525
+  },
+  {
+    "entity": "GWR network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "GWR logo",
+    "x": 2.3271338721132597,
+    "y": 1.8932638329781581
+  },
+  {
+    "entity": "Class 800 train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train number",
+    "x": 1.0474229394371066,
+    "y": 2.81121062639229
+  },
+  {
+    "entity": "Intercity Express Programme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "teal train",
+    "x": -1.945746268388267,
+    "y": 2.2834341372268954
+  },
+  {
+    "entity": "high-speed trains",
+    "type": "i",
+    "granularity": 3,
+    "parent": "teal train",
+    "x": -2.539307096186402,
+    "y": 1.5974728389732902
+  },
+  {
+    "entity": "main London terminal",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station architecture",
+    "x": 0.9562306200014903,
+    "y": -2.8435229911804063
+  }
+]

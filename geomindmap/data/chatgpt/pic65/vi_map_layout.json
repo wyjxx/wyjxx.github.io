@@ -1,0 +1,74 @@
+[
+  {
+    "entity": "WELT balloon",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "yellow Trabant car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189779,
+    "y": 0.6427876096865395
+  },
+  {
+    "entity": "Zimmerstraße sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.766044443118978,
+    "y": -0.6427876096865393
+  },
+  {
+    "entity": "Trabant on roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "famous attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "WELT balloon",
+    "x": 2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "panoramic rides",
+    "type": "i",
+    "granularity": 3,
+    "parent": "WELT balloon",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "street",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Zimmerstraße sign",
+    "x": -2.9544232590366244,
+    "y": -0.52094453300079
+  },
+  {
+    "entity": "neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8190778623577253,
+    "y": -1.0260604299770058
+  },
+  {
+    "entity": "junction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Zimmerstraße sign",
+    "x": -1.0260604299770058,
+    "y": -2.8190778623577253
+  }
+]

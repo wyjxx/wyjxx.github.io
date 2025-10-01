@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.2469796037174672,
+    "y": 1.5636629649360596
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.2469796037174674,
+    "y": -1.5636629649360594
+  },
+  {
+    "entity": "Versailles",
+    "granularity": 4,
+    "parent": "France",
+    "x": 2.4939592074349344,
+    "y": 3.127325929872119
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -2.493959207434935,
+    "y": -3.1273259298721188
+  },
+  {
+    "entity": "Eduardo VII Park",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.131193871579973,
+    "y": 2.8166002903181115
+  },
+  {
+    "entity": "Marquês de Pombal",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.1174490092936686,
+    "y": -3.9091574123401482
+  },
+  {
+    "entity": "Avenidas Novas",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.6652593591491267,
+    "y": -3.4008636888546024
+  }
+]

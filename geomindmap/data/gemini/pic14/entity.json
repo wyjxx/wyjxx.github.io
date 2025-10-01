@@ -1,0 +1,23 @@
+[
+{"entity":"Germany","type":"l"},
+{"entity":"Munich","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"Barer Straße","type":"l"},
+{"entity":"Schellingstraße","type":"l"},
+{"entity":"Maxvorstadt","type":"l"},
+{"entity":"signage text","type":"v"},
+{"entity":"Gaststätte sign","type":"v"},
+{"entity":"Straße sign","type":"v"},
+{"entity":"ß character","type":"v"},
+{"entity":"parking sign","type":"v"},
+{"entity":"speed limit sign","type":"v"},
+{"entity":"license plate M","type":"v"},
+{"entity":"Schelling-Salon sign","type":"v"},
+{"entity":"Barer Straße sign","type":"v"},
+{"entity":"building style","type":"v"},
+{"entity":"German-speaking region","type":"i"},
+{"entity":"Munich hypothesis","type":"i"},
+{"entity":"license plate inference","type":"i"},
+{"entity":"building style inference","type":"i"},
+{"entity":"intersection inference","type":"i"}
+]

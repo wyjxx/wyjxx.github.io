@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Münster","granularity":4,"parent":"Germany"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"University of Münster","granularity":5,"parent":"Münster"},
+{"entity":"Boeselagerstraße","granularity":5,"parent":"Münster"},
+{"entity":"Boeselagerstraße 75","granularity":5,"parent":"Münster"}
+]

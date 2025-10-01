@@ -1,0 +1,9 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Portugal","granularity":2,"parent":"Europe"},  
+{"entity":"Lisbon","granularity":4,"parent":"Portugal"},  
+{"entity":"Campolide","granularity":5,"parent":"Lisbon"},  
+{"entity":"Águas Livres Aqueduct","granularity":5,"parent":"Campolide"},  
+{"entity":"Corredor Verde de Monsanto","granularity":5,"parent":"Campolide"},  
+{"entity":"IP7 highway","granularity":5,"parent":"Lisbon"}  
+]

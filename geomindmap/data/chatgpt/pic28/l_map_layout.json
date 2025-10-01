@@ -1,0 +1,156 @@
+[
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.8192639907090369,
+    "y": 0.8308300260037728
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9796428837618651,
+    "y": 0.2846296765465721
+  },
+  {
+    "entity": "Paris",
+    "granularity": 4,
+    "parent": "Île-de-France",
+    "x": -1.3978567183963924,
+    "y": 3.7477988999990473
+  },
+  {
+    "entity": "Paris metropolitan area",
+    "granularity": 3,
+    "parent": "France",
+    "x": 1.5960962295460097,
+    "y": 2.5401725976848524
+  },
+  {
+    "entity": "Île-de-France",
+    "granularity": 3,
+    "parent": "France",
+    "x": -1.0483925387972943,
+    "y": 2.8108491749992854
+  },
+  {
+    "entity": "Hauts-de-Seine",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.4377971762407373,
+    "y": -1.7484693098572497
+  },
+  {
+    "entity": "Puteaux",
+    "granularity": 4,
+    "parent": "Hauts-de-Seine",
+    "x": -3.2503962349876496,
+    "y": -2.3312924131429997
+  },
+  {
+    "entity": "La Défense – Grande Arche RER E station",
+    "granularity": 5,
+    "parent": "Puteaux",
+    "x": -4.863037641231421,
+    "y": 1.162267137953377
+  },
+  {
+    "entity": "La Défense business district",
+    "granularity": 5,
+    "parent": "Puteaux",
+    "x": -4.906397851302035,
+    "y": -0.9629434691293013
+  },
+  {
+    "entity": "Gare de Lyon",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": 0.7620170759329524,
+    "y": 4.941591846357467
+  },
+  {
+    "entity": "Gare d'Austerlitz",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": -1.7473208979954882,
+    "y": 4.68474862499881
+  },
+  {
+    "entity": "Barcelona Sants",
+    "granularity": 5,
+    "parent": null,
+    "x": 2.703204087277982,
+    "y": -4.20626766415591
+  },
+  {
+    "entity": "Fribourg",
+    "granularity": 3,
+    "parent": "Switzerland",
+    "x": 2.9314405979134786,
+    "y": 0.63769586865893
+  },
+  {
+    "entity": "Liège-Guillemins",
+    "granularity": 5,
+    "parent": null,
+    "x": 3.7787478717712863,
+    "y": -3.274303669726431
+  },
+  {
+    "entity": "Zurich Oerlikon",
+    "granularity": 5,
+    "parent": null,
+    "x": 4.548159976772588,
+    "y": -2.0770750650094403
+  },
+  {
+    "entity": "Lausanne",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 3.2021649636974416,
+    "y": 2.3971106660453874
+  },
+  {
+    "entity": "Marseille",
+    "granularity": 4,
+    "parent": "France",
+    "x": 1.0877250622635943,
+    "y": -3.8492667079488867
+  },
+  {
+    "entity": "Magenta station",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": -3.8119485441506877,
+    "y": 3.23559087289284
+  },
+  {
+    "entity": "CNIT",
+    "granularity": 5,
+    "parent": "Puteaux",
+    "x": -4.062995293734562,
+    "y": -2.9141155164287498
+  },
+  {
+    "entity": "Place Carpeaux",
+    "granularity": 5,
+    "parent": "Puteaux",
+    "x": -2.48526318100954,
+    "y": -4.338601954675992
+  },
+  {
+    "entity": "Coupole - Regnault",
+    "granularity": 5,
+    "parent": "Puteaux",
+    "x": -0.4583545189110854,
+    "y": -4.978946789733125
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.95928576752373,
+    "y": -0.5692593530931482
+  }
+]

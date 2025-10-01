@@ -1,0 +1,6 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"Haarlemmermeer","granularity":3,"parent":"Netherlands"},
+{"entity":"Schiphol Noordwest","granularity":5,"parent":"Haarlemmermeer"}
+]

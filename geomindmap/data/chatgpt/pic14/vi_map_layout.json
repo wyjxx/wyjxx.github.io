@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.824716890706028,
+    "y": 0.8187846290521855
+  },
+  {
+    "entity": "corner building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3960797660391569,
+    "y": 0.918216106880274
+  },
+  {
+    "entity": "Schelling Salon sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ground-floor signage",
+    "x": 1.8467562102280508,
+    "y": 0.7677834981191818
+  },
+  {
+    "entity": "Gaststätte sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "above-door signage",
+    "x": 0.18626750140701148,
+    "y": 1.9913072133449397
+  },
+  {
+    "entity": "Pizzeria sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ground-floor signage",
+    "x": 1.1056957763996174,
+    "y": 1.6665643852104988
+  },
+  {
+    "entity": "building facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "corner building",
+    "x": 1.0223083908117465,
+    "y": 1.7189780551466902
+  },
+  {
+    "entity": "speed limit sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.9896434965920662,
+    "y": -0.20327015636560386
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9730448705798238,
+    "y": -0.23061587074244008
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05814482891047624,
+    "y": -0.9983081582712682
+  },
+  {
+    "entity": "bus stop sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": 0.6180339887498945,
+    "y": -1.9021130325903073
+  },
+  {
+    "entity": "bus shelter",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7660444431189778,
+    "y": -0.6427876096865396
+  },
+  {
+    "entity": "blue advertisement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": 1.118385806941494,
+    "y": -1.6580751451100832
+  },
+  {
+    "entity": "yellow H sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": 1.6960961923128528,
+    "y": -1.0598385284664087
+  },
+  {
+    "entity": "yield sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.869237850697977,
+    "y": -0.7113015236297525
+  },
+  {
+    "entity": "no-parking sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.6214467343404242,
+    "y": -1.1708588675398817
+  },
+  {
+    "entity": "30 km/h sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.263156702604995,
+    "y": -1.5506241145629318
+  },
+  {
+    "entity": "transit stop branding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus shelter",
+    "x": 1.9805361374831407,
+    "y": -0.27834620192013
+  },
+  {
+    "entity": "ground-floor signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 1.6607555876033397,
+    "y": 1.1144015785363397
+  },
+  {
+    "entity": "above-door signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 0.18626750140701148,
+    "y": 1.9913072133449397
+  },
+  {
+    "entity": "corner pub",
+    "type": "v",
+    "granularity": 2,
+    "parent": "corner building",
+    "x": -1.1734776693568347,
+    "y": 1.6195524565511459
+  },
+  {
+    "entity": "presence of trams or trolleys",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wires",
+    "x": -0.17443448673142872,
+    "y": -2.9949244748138044
+  },
+  {
+    "entity": "Haltestelle meaning stop",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow H sign",
+    "x": 2.5441442884692793,
+    "y": -1.5897577926996131
+  },
+  {
+    "entity": "historic Viennese-style café",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Schelling Salon sign",
+    "x": 2.770134315342076,
+    "y": 1.1516752471787726
+  },
+  {
+    "entity": "typical Munich architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building facade",
+    "x": -1.028663282617307,
+    "y": 2.818129140226719
+  },
+  {
+    "entity": "German street signs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traffic signs",
+    "x": -1.2281769435782786,
+    "y": -2.737075336059042
+  },
+  {
+    "entity": "Schellingstraße 54 address",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -2.444877765545963,
+    "y": 1.7385547766863658
+  },
+  {
+    "entity": "matching name and number",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign",
+    "x": -2.9240886363769043,
+    "y": 0.6706009592980425
+  }
+]

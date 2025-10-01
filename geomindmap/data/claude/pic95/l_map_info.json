@@ -1,0 +1,16 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Australia","granularity":1,"parent":null},
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Czech Republic","granularity":2,"parent":"Europe"},
+{"entity":"Central Europe","granularity":2,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},
+{"entity":"Amsterdam","granularity":4,"parent":"Netherlands"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Vienna","granularity":4,"parent":"Austria"},
+{"entity":"Prague","granularity":4,"parent":"Czech Republic"},
+{"entity":"Melbourne","granularity":4,"parent":"Australia"},
+{"entity":"Zuidas","granularity":5,"parent":"Amsterdam"}
+]

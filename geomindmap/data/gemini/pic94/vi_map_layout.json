@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "airplanes",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.42577929156507266,
+    "y": 0.9048270524660196
+  },
+  {
+    "entity": "man-made objects",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214113,
+    "y": 0.6845471059286888
+  },
+  {
+    "entity": "airplane models",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airplanes",
+    "x": 1.9205873713538861,
+    "y": 0.5579822120784586
+  },
+  {
+    "entity": "terminal details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -1.9562952014676112,
+    "y": 0.41582338163551946
+  },
+  {
+    "entity": "terminal architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "rooflines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -1.879385241571817,
+    "y": -0.6840402866513364
+  },
+  {
+    "entity": "window configurations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "Boeing 747-8",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airplanes",
+    "x": 1.0980456359962636,
+    "y": 1.6716147227365403
+  },
+  {
+    "entity": "Lufthansa 1500th 747 sticker",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airplanes",
+    "x": 0.031414634623641295,
+    "y": 1.9997532649633212
+  },
+  {
+    "entity": "TotalEnergies jet bridge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "jet bridge",
+    "x": 1.0716535899579935,
+    "y": -1.68865585100403
+  },
+  {
+    "entity": "jet bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5358267949789968,
+    "y": -0.844327925502015
+  },
+  {
+    "entity": "special livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airplanes",
+    "x": -0.5277460999307453,
+    "y": 1.9291148369155964
+  },
+  {
+    "entity": "surrounding structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": -0.36812455268467786
+  },
+  {
+    "entity": "building shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -1.2313229506513177,
+    "y": -1.5760215072134431
+  },
+  {
+    "entity": "A340 parking marking",
+    "type": "v",
+    "granularity": 3,
+    "parent": "apron markings",
+    "x": 2.7893294576647545,
+    "y": -1.1043736580540335
+  },
+  {
+    "entity": "building design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -0.7492131868318246,
+    "y": -1.8543677091335746
+  },
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": -0.20905692653530672,
+    "y": -1.9890437907365468
+  },
+  {
+    "entity": "apron markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "surrounding structures",
+    "x": 1.859552971776503,
+    "y": -0.7362491053693557
+  },
+  {
+    "entity": "Lufthansa livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airplanes",
+    "x": -1.0449971294318976,
+    "y": 1.7052803287081846
+  },
+  {
+    "entity": "Terminal 1 architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terminal architecture",
+    "x": 0.34729635533386166,
+    "y": -1.969615506024416
+  },
+  {
+    "entity": "potential airport locations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airplane models",
+    "x": 2.8808810570308294,
+    "y": 0.8369733181176878
+  },
+  {
+    "entity": "D-ABYP registration",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Boeing 747-8",
+    "x": 2.1379155567756163,
+    "y": 2.104594277312567
+  },
+  {
+    "entity": "gate maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terminal details",
+    "x": -2.7406363729278023,
+    "y": 1.2202099292274013
+  },
+  {
+    "entity": "photographs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terminal details",
+    "x": -3.0,
+    "y": 1.6996616692943939e-15
+  },
+  {
+    "entity": "typical 747-8 parking",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Boeing 747-8",
+    "x": 1.0824324794629259,
+    "y": 2.7979170694292823
+  }
+]

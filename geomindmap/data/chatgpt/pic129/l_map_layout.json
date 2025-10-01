@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9615705608064609,
+    "y": 0.3901806440322572
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9615705608064606,
+    "y": -0.39018064403225744
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -3.9231411216129217,
+    "y": 0.7803612880645144
+  },
+  {
+    "entity": "Alfama",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 4.872227562631679,
+    "y": 1.1231200193800195
+  },
+  {
+    "entity": "Lisbon Cruise Terminal",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.8888962156131908,
+    "y": 3.1426877388931604
+  },
+  {
+    "entity": "Santa Apolónia station",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.1206931636186557,
+    "y": 4.5279863632503465
+  },
+  {
+    "entity": "Miradouro das Portas do Sol",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -0.07551618290693005,
+    "y": 4.999429698087489
+  },
+  {
+    "entity": "Miradouro de Santa Luzia",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -2.256484568515767,
+    "y": 4.461869271062322
+  },
+  {
+    "entity": "Castelo de São Jorge",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.982040725988335,
+    "y": 3.023797555487188
+  },
+  {
+    "entity": "Largo das Portas do Sol",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.903926402016152,
+    "y": 0.9754516100806409
+  },
+  {
+    "entity": "Santa Engrácia",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.836083151678013,
+    "y": -1.2697636591334853
+  },
+  {
+    "entity": "National Pantheon",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.792203355693729,
+    "y": -3.2587104365170623
+  },
+  {
+    "entity": "São Vicente de Fora",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -1.9829667724931754,
+    "y": -4.58997198021818
+  },
+  {
+    "entity": "Santo Estêvão church",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 0.2264796454129278,
+    "y": -4.994868063343979
+  },
+  {
+    "entity": "Santa Luzia church",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.390217086894311,
+    "y": -4.391681030940029
+  },
+  {
+    "entity": "Madre de Deus monastery",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 4.071551898878473,
+    "y": -2.90214836539056
+  }
+]

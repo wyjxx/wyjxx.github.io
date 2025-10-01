@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Porto","granularity":4,"parent":"Portugal"},
+{"entity":"Igreja de Santo Ildefonso","granularity":5,"parent":"Porto"},
+{"entity":"Capela das Almas","granularity":5,"parent":"Porto"},
+{"entity":"Igreja do Carmo","granularity":5,"parent":"Porto"},
+{"entity":"Rua do Carmo","granularity":5,"parent":"Porto"},
+{"entity":"Vitória","granularity":5,"parent":"Porto"}
+]

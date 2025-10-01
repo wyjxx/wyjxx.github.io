@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "vintage tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7960930657056438,
+    "y": 0.6051742151937651
+  },
+  {
+    "entity": "streetcar",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16178199655276485,
+    "y": 0.9868265225415261
+  },
+  {
+    "entity": "overhead electric wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.054138908585417485,
+    "y": 0.9985334138511238
+  },
+  {
+    "entity": "modern buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.37013815533991423,
+    "y": 0.9289767198167915
+  },
+  {
+    "entity": "traditional buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6473862847818276,
+    "y": 0.7621620551276365
+  },
+  {
+    "entity": "building with GLORIA signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern buildings",
+    "x": -0.7402763106798285,
+    "y": 1.857953439633583
+  },
+  {
+    "entity": "sign with RUNDTUR text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -1.895306342365605,
+    "y": 0.6386030602719596
+  },
+  {
+    "entity": "cobblestone paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 0.4299408804220479,
+    "y": -1.9532411114201733
+  },
+  {
+    "entity": "brick paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 1.0311077143540428,
+    "y": -1.713714352335179
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9476531711828025,
+    "y": 0.3193015301359798
+  },
+  {
+    "entity": "lamp posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9766205557100867,
+    "y": -0.21497044021102402
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.907575419670957,
+    "y": -0.4198891015602646
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7259954919231311,
+    "y": -0.6876994588534231
+  },
+  {
+    "entity": "birch trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous trees",
+    "x": -1.4519909838462621,
+    "y": -1.3753989177068462
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2675283385292205,
+    "y": -0.963549992519223
+  },
+  {
+    "entity": "shadow angles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "daytime lighting",
+    "x": -0.8397782031205298,
+    "y": -1.8151508393419138
+  },
+  {
+    "entity": "light quality",
+    "type": "v",
+    "granularity": 2,
+    "parent": "daytime lighting",
+    "x": -0.2162380368478831,
+    "y": -1.9882759143087192
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3701381553399141,
+    "y": -0.9289767198167915
+  },
+  {
+    "entity": "architectural styles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675897,
+    "y": -0.515553857177021
+  },
+  {
+    "entity": "urban planning style",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9941379571543597,
+    "y": -0.10811901842394073
+  },
+  {
+    "entity": "tram number 208",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vintage tram",
+    "x": 1.9831245814579388,
+    "y": 0.2592622117032774
+  },
+  {
+    "entity": "route number 9",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vintage tram",
+    "x": 1.7356505332260028,
+    "y": 0.9937390132787842
+  },
+  {
+    "entity": "European-style vehicle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vintage tram",
+    "x": 1.841288024827613,
+    "y": 2.368471745583305
+  },
+  {
+    "entity": "Scandinavian word",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with RUNDTUR text",
+    "x": -2.570571528502768,
+    "y": 1.546661571531065
+  },
+  {
+    "entity": "sightseeing tour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign with RUNDTUR text",
+    "x": -2.982413871463079,
+    "y": 0.32435705527182446
+  },
+  {
+    "entity": "vintage tram system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vintage tram",
+    "x": 1.1705311897816641,
+    "y": 2.7622195303321426
+  },
+  {
+    "entity": "Scandinavian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural styles",
+    "x": 2.2864861653829096,
+    "y": -1.9421588543454824
+  },
+  {
+    "entity": "Scandinavian city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural styles",
+    "x": 2.7869301594503755,
+    "y": -1.110414466019741
+  },
+  {
+    "entity": "tourist tram route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route number 9",
+    "x": 2.6034757998390043,
+    "y": 1.4906085199181764
+  }
+]

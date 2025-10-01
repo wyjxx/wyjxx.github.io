@@ -1,0 +1,20 @@
+[
+{"entity":"Mainz","type":"l"},
+{"entity":"Germany","type":"l"},
+{"entity":"Rheinstraße","type":"l"},
+{"entity":"Altstadt","type":"l"},
+{"entity":"Old Town","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"Kurfürstliches Schloss","type":"l"},
+{"entity":"Electoral Palace","type":"l"},
+{"entity":"reddish-pink building","type":"v"},
+{"entity":"intricate architecture","type":"v"},
+{"entity":"HECHT GERÜSTBAU sign","type":"v"},
+{"entity":"Johannes Gutenberg sign","type":"v"},
+{"entity":"M logo","type":"v"},
+{"entity":"flags","type":"v"},
+{"entity":"Mainzer Rad seal","type":"v"},
+{"entity":"scaffolding","type":"v"},
+{"entity":"construction site","type":"v"},
+{"entity":"German-speaking location","type":"i"}
+]

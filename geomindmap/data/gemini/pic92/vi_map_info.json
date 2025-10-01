@@ -1,0 +1,20 @@
+[
+  {"entity":"Gothic style","type":"v","granularity":2,"parent":"stone building"},
+  {"entity":"ashlar stone","type":"v","granularity":2,"parent":"stone building"},
+  {"entity":"archway","type":"v","granularity":2,"parent":"stone building"},
+  {"entity":"BUS LANE text","type":"v","granularity":2,"parent":"paved street"},
+  {"entity":"traffic direction","type":"v","granularity":2,"parent":"paved street"},
+  {"entity":"Georgian townhouses","type":"v","granularity":1,"parent":null},
+  {"entity":"red brick","type":"v","granularity":2,"parent":"Georgian townhouses"},
+  {"entity":"red doors","type":"v","granularity":2,"parent":"Georgian townhouses"},
+  {"entity":"road markings","type":"v","granularity":2,"parent":"paved street"},
+  {"entity":"street signs","type":"v","granularity":1,"parent":null},
+  {"entity":"stone building","type":"v","granularity":1,"parent":null},
+  {"entity":"sidewalk","type":"v","granularity":1,"parent":null},
+  {"entity":"paved street","type":"v","granularity":1,"parent":null},
+  {"entity":"cross-reference landmarks","type":"i","granularity":3,"parent":null},
+  {"entity":"historical periods","type":"i","granularity":3,"parent":null},
+  {"entity":"suggests Dublin","type":"i","granularity":3,"parent":null},
+  {"entity":"image search","type":"i","granularity":3,"parent":null},
+  {"entity":"Google Street View","type":"i","granularity":3,"parent":null}
+]

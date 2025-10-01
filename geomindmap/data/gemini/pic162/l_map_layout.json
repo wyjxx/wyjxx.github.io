@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "West Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Mainz",
+    "granularity": 4,
+    "parent": "West Germany",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Quintinsstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 4.504844339512096,
+    "y": 2.1694186955877908
+  },
+  {
+    "entity": "Rheinstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 1.1126046697815721,
+    "y": 4.874639560909118
+  },
+  {
+    "entity": "Fischtorstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -3.1174490092936673,
+    "y": 3.9091574123401496
+  },
+  {
+    "entity": "Fischtor",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -3.1174490092936686,
+    "y": -3.9091574123401482
+  },
+  {
+    "entity": "intersection of Quintinsstraße and Rheinstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 1.1126046697815712,
+    "y": -4.874639560909118
+  },
+  {
+    "entity": "intersection of Fischtorstraße and Quintinsstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 4.504844339512095,
+    "y": -2.1694186955877917
+  }
+]

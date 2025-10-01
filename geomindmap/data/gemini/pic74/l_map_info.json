@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Indonesia","granularity":2,"parent":null},  
+  {"entity":"Monaco","granularity":2,"parent":"Europe"},  
+  {"entity":"Poland","granularity":2,"parent":"Europe"},  
+  {"entity":"La Condamine","granularity":3,"parent":"Monaco"},  
+  {"entity":"Boulevard Albert 1er","granularity":5,"parent":"La Condamine"},  
+  {"entity":"Circuit de Monaco","granularity":5,"parent":"Monaco"},  
+  {"entity":"Quai Albert Ier","granularity":5,"parent":"La Condamine"},  
+  {"entity":"Rascasse corner","granularity":5,"parent":"La Condamine"}  
+]

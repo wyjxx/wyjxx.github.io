@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "cobblestone pavement",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6691306063588582,
+    "y": 0.7431448254773941
+  },
+  {
+    "entity": "neoclassical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588588,
+    "y": -0.7431448254773937
+  },
+  {
+    "entity": "background buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765211,
+    "y": -0.9945218953682735
+  },
+  {
+    "entity": "metro station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "wavy pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone pavement",
+    "x": 1.9225233918766378,
+    "y": 0.5512747116339982
+  },
+  {
+    "entity": "Calçada Portuguesa",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone pavement",
+    "x": 1.3382612127177167,
+    "y": 1.4862896509547883
+  },
+  {
+    "entity": "red-tiled roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical building",
+    "x": -0.7492131868318233,
+    "y": 1.854367709133575
+  },
+  {
+    "entity": "Palácio Foz",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical building",
+    "x": -1.6180339887498942,
+    "y": 1.1755705045849472
+  },
+  {
+    "entity": "inscription",
+    "type": "v",
+    "granularity": 2,
+    "parent": "monument",
+    "x": -1.732050807568878,
+    "y": -0.9999999999999988
+  },
+  {
+    "entity": "street layouts",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cobblestone pavement",
+    "x": 0.5209445330007919,
+    "y": 2.954423259036624
+  },
+  {
+    "entity": "architectural styles",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": -2.9926921507794724,
+    "y": 0.2092694212323779
+  },
+  {
+    "entity": "monument's identity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "monument",
+    "x": -1.2202099292274027,
+    "y": -2.740636372927802
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124839,
+    "y": -1.763355756877424
+  },
+  {
+    "entity": "confident answer",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.934442802201416,
+    "y": -0.6237350724532822
+  }
+]

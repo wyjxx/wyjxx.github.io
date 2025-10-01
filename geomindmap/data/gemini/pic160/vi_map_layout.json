@@ -1,0 +1,82 @@
+[
+  {
+    "entity": "reddish-pink building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "intricate architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "reddish-pink building",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "HECHT GERÜSTBAU sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "Johannes Gutenberg sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "M logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Johannes Gutenberg sign",
+    "x": -1.6180339887498947,
+    "y": 1.1755705045849465
+  },
+  {
+    "entity": "flags",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "Mainzer Rad seal",
+    "type": "v",
+    "granularity": 2,
+    "parent": "flags",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "scaffolding",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "construction site",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "German-speaking location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  }
+]

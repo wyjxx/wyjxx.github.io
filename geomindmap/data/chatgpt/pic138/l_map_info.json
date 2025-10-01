@@ -1,0 +1,13 @@
+[  
+  {"entity":"Portugal","granularity":2,"parent":null},  
+  {"entity":"Sintra Mountains","granularity":2,"parent":null},  
+  {"entity":"Atlantic coast","granularity":2,"parent":null},  
+  {"entity":"Lisbon District","granularity":3,"parent":"Portugal"},  
+  {"entity":"Sintra","granularity":4,"parent":"Lisbon District"},  
+  {"entity":"Monte da Pena","granularity":4,"parent":"Lisbon District"},  
+  {"entity":"Pena Palace","granularity":5,"parent":"Sintra"},  
+  {"entity":"São Pedro de Sintra","granularity":5,"parent":"Sintra"},  
+  {"entity":"Estrada da Pena","granularity":5,"parent":"Sintra"},  
+  {"entity":"Quinta da Pena","granularity":5,"parent":"Sintra"},  
+  {"entity":"Pena Park","granularity":5,"parent":"Sintra"}  
+]

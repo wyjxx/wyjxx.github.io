@@ -1,0 +1,19 @@
+[
+  {"entity":"vegetation","type":"v","granularity":1,"parent":null},
+  {"entity":"trees","type":"v","granularity":2,"parent":"vegetation"},
+  {"entity":"plants","type":"v","granularity":2,"parent":"vegetation"},
+  {"entity":"architecture","type":"v","granularity":1,"parent":null},
+  {"entity":"street lamp","type":"v","granularity":1,"parent":null},
+  {"entity":"landscape","type":"v","granularity":1,"parent":null},
+  {"entity":"park","type":"v","granularity":1,"parent":null},
+  {"entity":"pond","type":"v","granularity":2,"parent":"park"},
+  {"entity":"canal","type":"v","granularity":2,"parent":"park"},
+  {"entity":"bank","type":"v","granularity":2,"parent":"canal"},
+  {"entity":"European origin","type":"i","granularity":3,"parent":"street lamp"},
+  {"entity":"reverse image search","type":"i","granularity":3,"parent":"park"},
+  {"entity":"promising match","type":"i","granularity":3,"parent":"park"},
+  {"entity":"cross-referencing","type":"i","granularity":3,"parent":"park"},
+  {"entity":"Google Maps","type":"i","granularity":3,"parent":"park"},
+  {"entity":"street view","type":"i","granularity":3,"parent":"park"},
+  {"entity":"user-submitted photos","type":"i","granularity":3,"parent":"park"}
+]

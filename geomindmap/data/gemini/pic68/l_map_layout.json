@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.7653668647301795,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.76536686473018,
+    "y": -1.8477590650225733
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": -1.530733729460359,
+    "y": 3.695518130045147
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.53073372946036,
+    "y": -3.6955181300451465
+  },
+  {
+    "entity": "Natural History Museum",
+    "granularity": 5,
+    "parent": "London",
+    "x": 3.9667667014561765,
+    "y": 3.0438071450436026
+  },
+  {
+    "entity": "Cromwell Road",
+    "granularity": 5,
+    "parent": "London",
+    "x": -1.9134171618254476,
+    "y": 4.619397662556434
+  },
+  {
+    "entity": "South Kensington",
+    "granularity": 5,
+    "parent": "London",
+    "x": -4.957224306869053,
+    "y": -0.6526309611002566
+  },
+  {
+    "entity": "Kurfürstenstrasse",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  }
+]

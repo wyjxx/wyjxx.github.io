@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.766044443118978,
+    "y": 0.6427876096865393
+  },
+  {
+    "entity": "yellow diamond sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "multi-story building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844388,
+    "y": -0.4999999999999997
+  },
+  {
+    "entity": "artificial street lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844384,
+    "y": -0.5000000000000004
+  },
+  {
+    "entity": "nighttime",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9848077530122079,
+    "y": -0.17364817766693127
+  },
+  {
+    "entity": "white street sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street sign",
+    "x": 1.532088886237956,
+    "y": 1.2855752193730785
+  },
+  {
+    "entity": "light-colored masonry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -0.7167358990906001,
+    "y": 1.8671608529944037
+  },
+  {
+    "entity": "concrete blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -1.3639967201249967,
+    "y": 1.4627074032383411
+  },
+  {
+    "entity": "carved balcony elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -1.940591452551993,
+    "y": 0.48384379119933546
+  },
+  {
+    "entity": "iron balcony railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -1.8910371511986335,
+    "y": -0.6511363089143135
+  },
+  {
+    "entity": "balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -1.5094191604455438,
+    "y": -1.3121180579810148
+  },
+  {
+    "entity": "balconies with plants",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story building",
+    "x": -0.9079809994790923,
+    "y": -1.7820130483767365
+  },
+  {
+    "entity": "Spanish text",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white street sign",
+    "x": 2.8190778623577253,
+    "y": 1.0260604299770062
+  },
+  {
+    "entity": "Spanish-speaking country",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white street sign",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "European-style architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story building",
+    "x": -0.26146722824297475,
+    "y": -2.988584094275237
+  },
+  {
+    "entity": "Mediterranean architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story building",
+    "x": 0.8771151141682128,
+    "y": -2.8689142678891058
+  },
+  {
+    "entity": "classical architectural details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "carved balcony elements",
+    "x": -2.9108871788279895,
+    "y": 0.7257656867990032
+  },
+  {
+    "entity": "major Spanish city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story building",
+    "x": 1.8879611731495125,
+    "y": -2.3314378843709123
+  }
+]

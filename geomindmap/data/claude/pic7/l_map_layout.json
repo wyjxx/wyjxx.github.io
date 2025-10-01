@@ -1,0 +1,177 @@
+[
+  {
+    "entity": "European Alps",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.457937254842823,
+    "y": 1.3690942118573772
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.12558103905862636,
+    "y": 1.9960534568565431
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.6180339887498942,
+    "y": 1.9021130325903073
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.6180339887498947,
+    "y": 1.1755705045849465
+  },
+  {
+    "entity": "Northern Italy",
+    "granularity": 3,
+    "parent": "Italy",
+    "x": 2.905749483385894,
+    "y": -0.7460696614945609
+  },
+  {
+    "entity": "Scandinavian Mountains",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Norway",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9371663222572626,
+    "y": -0.4973797743297083
+  },
+  {
+    "entity": "Sweden",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.7526133600877274,
+    "y": -0.96350734820343
+  },
+  {
+    "entity": "Rocky Mountains",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.4579372548428242,
+    "y": -1.3690942118573761
+  },
+  {
+    "entity": "Colorado",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.6074803849369914,
+    "y": -2.5329837765060446
+  },
+  {
+    "entity": "Montana",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.9270509831248427,
+    "y": -2.8531695488854605
+  },
+  {
+    "entity": "Alberta",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.18837155858793964,
+    "y": -2.9940801852848145
+  },
+  {
+    "entity": "British Columbia",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.5621439437571754,
+    "y": -2.9468617521860656
+  },
+  {
+    "entity": "Carpathian Mountains",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.8515585831301469,
+    "y": -1.8096541049320383
+  },
+  {
+    "entity": "Romania",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.2748479794973813,
+    "y": -1.541026485551577
+  },
+  {
+    "entity": "Appalachian Mountains",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.6180339887498967,
+    "y": -1.1755705045849438
+  },
+  {
+    "entity": "Austrian Alps",
+    "granularity": 3,
+    "parent": "European Alps",
+    "x": 2.9659552342137423,
+    "y": 0.4506767673622712
+  },
+  {
+    "entity": "Swiss Alps",
+    "granularity": 3,
+    "parent": "European Alps",
+    "x": 2.6982157546991132,
+    "y": 1.3113472999527986
+  },
+  {
+    "entity": "German Alps",
+    "granularity": 3,
+    "parent": "European Alps",
+    "x": 2.1869058822642344,
+    "y": 2.0536413177860657
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 3,
+    "parent": "European Alps",
+    "x": 1.4781820246448747,
+    "y": 2.610551264008577
+  },
+  {
+    "entity": "Northern Italian Alps",
+    "granularity": 3,
+    "parent": "European Alps",
+    "x": 0.6360213297661642,
+    "y": 2.9318043707045804
+  },
+  {
+    "entity": "Oberammergau",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.5496959589947576,
+    "y": 3.082052971103158
+  },
+  {
+    "entity": "Garmisch-Partenkirchen",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.7191059435530054,
+    "y": 1.4724982107387126
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.427050983124842,
+    "y": 1.7633557568774196
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9371663222572628,
+    "y": -0.49737977432970726
+  }
+]

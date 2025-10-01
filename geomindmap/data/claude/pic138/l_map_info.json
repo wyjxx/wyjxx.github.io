@@ -1,0 +1,11 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "Portugal", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Lisbon District", "granularity": 3, "parent": "Portugal"},  
+  {"entity": "Sintra-Cascais Natural Park", "granularity": 3, "parent": "Portugal"},  
+  {"entity": "Sintra mountains", "granularity": 3, "parent": "Portugal"},  
+  {"entity": "Sintra", "granularity": 4, "parent": "Lisbon District"},  
+  {"entity": "São Pedro de Penaferrim", "granularity": 5, "parent": "Sintra"},  
+  {"entity": "Pena Palace", "granularity": 5, "parent": "Sintra"},  
+  {"entity": "Palácio da Pena", "granularity": 5, "parent": "Sintra"}  
+]

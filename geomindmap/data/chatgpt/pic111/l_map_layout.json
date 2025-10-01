@@ -1,0 +1,212 @@
+[
+  {
+    "entity": "Sweden",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.455693668771341,
+    "y": 2.014492806543043
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.938711311997366,
+    "y": 2.713664648540553
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.976301295744018,
+    "y": -0.43477351053674124
+  },
+  {
+    "entity": "Prague",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.804226065180614,
+    "y": -1.2360679774997905
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.9780875814730936,
+    "y": -0.4181138530706101
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.4556936687713424,
+    "y": -2.014492806543041
+  },
+  {
+    "entity": "Stockholm",
+    "granularity": 4,
+    "parent": "Sweden",
+    "x": 3.9125904029352228,
+    "y": 0.8316467632710373
+  },
+  {
+    "entity": "NNIOSTRASSE",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 2.832236662752102,
+    "y": 4.120489714361976
+  },
+  {
+    "entity": "Renzer Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 1.826705121831975,
+    "y": 4.6543687432210215
+  },
+  {
+    "entity": "Grenzer Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 0.7264683828790093,
+    "y": 4.9469428628878624
+  },
+  {
+    "entity": "Briennostrasse",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -0.41143197853982744,
+    "y": 4.983043620824004
+  },
+  {
+    "entity": "Sonnstrasse",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.5280017231344338,
+    "y": 4.76079937973637
+  },
+  {
+    "entity": "Grenzkirchstraße",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -2.565352493602096,
+    "y": 4.291732352275653
+  },
+  {
+    "entity": "Georgstrasse",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -3.469703026085549,
+    "y": 3.6001612339967197
+  },
+  {
+    "entity": "Prenzlauer Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.194167430111105,
+    "y": 2.7219404049676053
+  },
+  {
+    "entity": "Senefelderplatz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.701185979135606,
+    "y": 1.7026010658926503
+  },
+  {
+    "entity": "Rosenthaler Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.964472387804183,
+    "y": 0.5949906812125989
+  },
+  {
+    "entity": "Reichenberger Platz",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.970376619680023,
+    "y": -0.5434668881709221
+  },
+  {
+    "entity": "LINIENSTRASSE",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.718592570924937,
+    "y": -1.6537485146212496
+  },
+  {
+    "entity": "Grenzkirche",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.222173940197716,
+    "y": -2.678291847188296
+  },
+  {
+    "entity": "Grenzallee",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -3.5068574619982633,
+    "y": -3.563979621326011
+  },
+  {
+    "entity": "Neukölln",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -2.609728590302915,
+    "y": -4.264893513905776
+  },
+  {
+    "entity": "Rathaus Spandau",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.577298809882504,
+    "y": -4.744694770408654
+  },
+  {
+    "entity": "Paulsternstraße",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -0.4630942567516031,
+    "y": -4.978508181108442
+  },
+  {
+    "entity": "Siemensdamm",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 0.6751193347124973,
+    "y": -4.954211731839623
+  },
+  {
+    "entity": "Rohrdamm U-Bahn station",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 1.7783314858644317,
+    "y": -4.673065067638499
+  },
+  {
+    "entity": "Siemensstadt",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 2.7893463614276626,
+    "y": -4.149644186673148
+  },
+  {
+    "entity": "Spandau",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 3.6557480772728956,
+    "y": -3.4110857502436853
+  }
+]

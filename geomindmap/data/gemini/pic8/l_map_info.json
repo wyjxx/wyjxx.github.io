@@ -1,0 +1,16 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Alps","granularity":2,"parent":"Europe"},
+{"entity":"German Alps","granularity":3,"parent":"Germany"},
+{"entity":"Berchtesgaden Alps","granularity":3,"parent":"German Alps"},
+{"entity":"valleys","granularity":3,"parent":"Alps"},
+{"entity":"Reiter Alpe massif","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"Hintersee","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"Ramsau","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"Ramsau bei Berchtesgaden","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"lake","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"bay","granularity":4,"parent":"Berchtesgaden Alps"},
+{"entity":"south shore","granularity":5,"parent":"Berchtesgaden Alps"},
+{"entity":"western side","granularity":5,"parent":"Berchtesgaden Alps"}
+]

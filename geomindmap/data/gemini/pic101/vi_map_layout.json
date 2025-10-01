@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "arched ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand train station",
+    "x": 1.982002358491817,
+    "y": 0.2677062773505232
+  },
+  {
+    "entity": "glass ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand train station",
+    "x": 1.8399588873176485,
+    "y": 0.7839332197201503
+  },
+  {
+    "entity": "steel structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand train station",
+    "x": 1.5660517248352444,
+    "y": 1.2439782936774082
+  },
+  {
+    "entity": "grand train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.35460488704253557,
+    "y": 0.9350162426854148
+  },
+  {
+    "entity": "Rossmann",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.9877444759561496,
+    "y": 0.22106989461664003
+  },
+  {
+    "entity": "Dunkin'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.9772308244150683,
+    "y": -0.30092900654956706
+  },
+  {
+    "entity": "KFC",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.8319721597185317,
+    "y": -0.8024200932281162
+  },
+  {
+    "entity": "Asia Hung",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.5618676198143142,
+    "y": -1.2492275766150733
+  },
+  {
+    "entity": "leckere Sachen sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.1853243827280329,
+    "y": -1.6109022651018925
+  },
+  {
+    "entity": "Le Crobag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -0.728003247799996,
+    "y": -1.8627966263638813
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand train station",
+    "x": 1.1799108800462457,
+    "y": 1.6148716094936135
+  },
+  {
+    "entity": "shop layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -0.22106989461664014,
+    "y": -1.9877444759561496
+  },
+  {
+    "entity": "shop lineup",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 0.5564349278329058,
+    "y": -1.9210362232627445
+  },
+  {
+    "entity": "Gourmet Station logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.2492275766150718,
+    "y": -1.5618676198143153
+  },
+  {
+    "entity": "Hamburg bridge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.6109022651018914,
+    "y": -1.1853243827280344
+  },
+  {
+    "entity": "ironwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand train station",
+    "x": 0.7092097740850711,
+    "y": 1.8700324853708297
+  },
+  {
+    "entity": "main hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936564,
+    "y": 0.5680647467311558
+  },
+  {
+    "entity": "Wandelhalle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854149,
+    "y": 0.35460488704253545
+  },
+  {
+    "entity": "interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23931566428755774,
+    "y": -0.970941817426052
+  },
+  {
+    "entity": "major European city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "interior",
+    "x": 2.7941949395458208,
+    "y": -1.0920048716999968
+  },
+  {
+    "entity": "late 19th century",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand train station",
+    "x": 0.28152296820953787,
+    "y": 2.9867615938287564
+  },
+  {
+    "entity": "early 20th century",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand train station",
+    "x": -0.5209445330007909,
+    "y": 2.954423259036624
+  },
+  {
+    "entity": "German brands",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shop lineup",
+    "x": 0.8346523917493587,
+    "y": -2.881554334894117
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand train station",
+    "x": -1.2860776842091628,
+    "y": 2.7103513038311466
+  },
+  {
+    "entity": "German train stations",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9781266222941625,
+    "y": -0.36161004076596825
+  },
+  {
+    "entity": "historical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand train station",
+    "x": -1.9590419549507556,
+    "y": 2.272037547828539
+  }
+]

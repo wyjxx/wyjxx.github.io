@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "green space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.13423326581765554,
+    "y": 0.9909497617679347
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.22252093395631434,
+    "y": 0.9749279121818236
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9839295885986297,
+    "y": -0.1785568947986365
+  },
+  {
+    "entity": "gravel path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 1.9890437907365466,
+    "y": 0.20905692653530691
+  },
+  {
+    "entity": "lawn",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green space",
+    "x": 0.2684665316353111,
+    "y": 1.9818995235358694
+  },
+  {
+    "entity": "flowering tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -0.4450418679126287,
+    "y": 1.9498558243636472
+  },
+  {
+    "entity": "wooden benches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 1.902113032590307,
+    "y": 0.6180339887498948
+  },
+  {
+    "entity": "Knieholm fence",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "modern building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -0.9590094930021077,
+    "y": 1.7550785715550858
+  },
+  {
+    "entity": "modern glass building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.2768229624992116,
+    "y": 1.5393905035548119
+  },
+  {
+    "entity": "open ground floor",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.5475450483930138,
+    "y": 1.2669271183435395
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.8440574044401414,
+    "y": 0.7742430426742554
+  },
+  {
+    "entity": "external staircase",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9881320571889607,
+    "y": 0.2175567125546614
+  },
+  {
+    "entity": "overhang",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9930570688780365,
+    "y": -0.16650381435657927
+  },
+  {
+    "entity": "ground-floor columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9244747755370575,
+    "y": -0.544423399865943
+  },
+  {
+    "entity": "recessed ground floor",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.7849146077754112,
+    "y": -0.90226373248067
+  },
+  {
+    "entity": "building structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.5795237798810837,
+    "y": -1.226827057408734
+  },
+  {
+    "entity": "building materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.315877451879424,
+    "y": -1.5061429320072228
+  },
+  {
+    "entity": "concrete ping-pong table",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 1.4862896509547887,
+    "y": 1.3382612127177163
+  },
+  {
+    "entity": "park elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 1.1755705045849463,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "park area",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": 0.8134732861516007,
+    "y": 1.8270909152852017
+  },
+  {
+    "entity": "dark facade",
+    "type": "v",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -2.7660861066602123,
+    "y": 1.161364564011383
+  },
+  {
+    "entity": "photos",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.13459449105154422,
+    "y": -2.996979199623944
+  },
+  {
+    "entity": "maps",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "images",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.1790750949617703,
+    "y": -2.758583317654352
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 3,
+    "parent": "building",
+    "x": -1.5055490172893302,
+    "y": -2.594864573834082
+  },
+  {
+    "entity": "post-WWII",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.652690944356307,
+    "y": -2.503719761163908
+  },
+  {
+    "entity": "reverse image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.0731879469605934,
+    "y": -2.168384591482175
+  },
+  {
+    "entity": "brutalist architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124842,
+    "y": -1.76335575687742
+  },
+  {
+    "entity": "late 20th century",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "targeted image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8918885820875597,
+    "y": -0.7981105367000261
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9879228819857166,
+    "y": -0.26891792671030124
+  },
+  {
+    "entity": "architect",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -0.9817546706193503,
+    "y": -2.8348117691862877
+  },
+  {
+    "entity": "building purpose",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -0.4217515564410055,
+    "y": -2.970206326947606
+  }
+]

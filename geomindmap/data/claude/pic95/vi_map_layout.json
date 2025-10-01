@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "high-rise buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6121059825476628,
+    "y": 0.7907757369376986
+  },
+  {
+    "entity": "skyscrapers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4403941515576344,
+    "y": 0.8978045395707416
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8207634412072763,
+    "y": 0.5712682150947923
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9948693233918952,
+    "y": -0.10116832198743204
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5289640103269627,
+    "y": -0.8486442574947508
+  },
+  {
+    "entity": "platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.15142777750457667,
+    "y": -0.9884683243281114
+  },
+  {
+    "entity": "station area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7587581226927905,
+    "y": -0.6513724827222226
+  },
+  {
+    "entity": "billboard advertisements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9948693233918952,
+    "y": -0.10116832198743196
+  },
+  {
+    "entity": "glass facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "high-rise buildings",
+    "x": 1.9870159274627806,
+    "y": 0.22752517225402968
+  },
+  {
+    "entity": "modern glass and steel construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "high-rise buildings",
+    "x": 1.6837511646826337,
+    "y": 1.07934332602276
+  },
+  {
+    "entity": "yellow lane markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.4495855744582395,
+    "y": 1.3779338381513735
+  },
+  {
+    "entity": "LED street lamps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.7956090791414834,
+    "y": 0.8807883031152683
+  },
+  {
+    "entity": "overhead electrical wiring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.6120565269080105,
+    "y": -1.183754093574034
+  },
+  {
+    "entity": "artificial lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform",
+    "x": 0.30285555500915334,
+    "y": -1.9769366486562228
+  },
+  {
+    "entity": "European architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern glass and steel construction",
+    "x": 2.764311464967663,
+    "y": 1.1655823113999007
+  },
+  {
+    "entity": "developed urban area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station area",
+    "x": 1.3889899323153632,
+    "y": -2.6590800980652243
+  },
+  {
+    "entity": "city center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station area",
+    "x": 2.0111545318688338,
+    "y": -2.226040756352734
+  },
+  {
+    "entity": "downtown district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station area",
+    "x": 2.504915437297222,
+    "y": -1.6508781457121746
+  },
+  {
+    "entity": "twilight hours",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.957309385944411,
+    "y": 0.5043026827264452
+  },
+  {
+    "entity": "blue hour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.9846079701756856,
+    "y": -0.3035049659622974
+  },
+  {
+    "entity": "evening twilight",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.7952577053700054,
+    "y": -1.0892815800194235
+  },
+  {
+    "entity": "major financial district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rise buildings",
+    "x": 1.5545144262846051,
+    "y": 2.5658302551948062
+  },
+  {
+    "entity": "developed tram network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.8958261153389113,
+    "y": -2.325046954450377
+  },
+  {
+    "entity": "Central European landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rise buildings",
+    "x": 0.9342766263034611,
+    "y": 2.850811671356602
+  },
+  {
+    "entity": "German-speaking region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rise buildings",
+    "x": 0.26567347046910006,
+    "y": 2.988213112729563
+  },
+  {
+    "entity": "Northern European metropolis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "skyscrapers",
+    "x": -1.3211824546729032,
+    "y": 2.6934136187122246
+  },
+  {
+    "entity": "sophisticated urban design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station area",
+    "x": 2.838748107215509,
+    "y": -0.9703139614477183
+  },
+  {
+    "entity": "advanced transit systems",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -1.2525269768551919,
+    "y": -2.726018373424874
+  },
+  {
+    "entity": "modern business district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rise buildings",
+    "x": -0.41668299094760797,
+    "y": 2.9709216221662524
+  },
+  {
+    "entity": "integrated tram infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -0.5292592987734261,
+    "y": -2.952945071392602
+  },
+  {
+    "entity": "architectural elements",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern glass and steel construction",
+    "x": 2.2132578263057496,
+    "y": 2.0252135181990933
+  }
+]

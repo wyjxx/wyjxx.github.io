@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.801937735804838,
+    "y": 0.8677674782351165
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -3.603875471609676,
+    "y": 1.735534956470233
+  },
+  {
+    "entity": "Belém",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.909157412340149,
+    "y": 3.1174490092936673
+  },
+  {
+    "entity": "Padrão dos Descobrimentos",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -2.1694186955877903,
+    "y": 4.504844339512096
+  },
+  {
+    "entity": "Monument to the Discoveries",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.874639560909118,
+    "y": -1.1126046697815715
+  },
+  {
+    "entity": "25 de Abril Bridge",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  }
+]

@@ -1,0 +1,8 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Central Europe","granularity":3,"parent":"Europe"},
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Denmark","granularity":2,"parent":"Europe"},
+{"entity":"Mezgerstraße","granularity":5,"parent":"Germany"},
+{"entity":"Stuttgart-Vaihingen","granularity":5,"parent":"Germany"}]

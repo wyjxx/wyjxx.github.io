@@ -1,0 +1,12 @@
+[  
+  {"entity":"Spain","granularity":2,"parent":null},  
+  {"entity":"Andalusia","granularity":3,"parent":"Spain"},  
+  {"entity":"Granada","granularity":4,"parent":"Andalusia"},  
+  {"entity":"Sabika Hill","granularity":4,"parent":"Granada"},  
+  {"entity":"Patio de los Arrayanes","granularity":5,"parent":"Sabika Hill"},  
+  {"entity":"Palacio de Comares","granularity":5,"parent":"Sabika Hill"},  
+  {"entity":"Torre de Comares","granularity":5,"parent":"Sabika Hill"},  
+  {"entity":"Alhambra","granularity":5,"parent":"Granada"},  
+  {"entity":"Albayzín","granularity":5,"parent":"Granada"},  
+  {"entity":"Barrio de la Alhambra","granularity":5,"parent":"Sabika Hill"}  
+]

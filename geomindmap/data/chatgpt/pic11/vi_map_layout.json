@@ -1,0 +1,346 @@
+[
+  {
+    "entity": "semi-detached stucco houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8720494081438076,
+    "y": 0.4894178478110855
+  },
+  {
+    "entity": "row houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4572423233046386,
+    "y": 0.8893421488825188
+  },
+  {
+    "entity": "detached houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3228804047714461,
+    "y": 0.9464397731576094
+  },
+  {
+    "entity": "two-family houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1816368509794365,
+    "y": 0.9833656768294661
+  },
+  {
+    "entity": "Plattenbau high-rises",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.03652202305765863,
+    "y": 0.9993328483702394
+  },
+  {
+    "entity": "pitched roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "semi-detached stucco houses",
+    "x": 1.9927390498376363,
+    "y": 0.1702676694272713
+  },
+  {
+    "entity": "stucco",
+    "type": "v",
+    "granularity": 2,
+    "parent": "semi-detached stucco houses",
+    "x": 1.9349673941148504,
+    "y": 0.5058667647833615
+  },
+  {
+    "entity": "red-tiled houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10937120837787441,
+    "y": 0.9940009752399459
+  },
+  {
+    "entity": "timber-style houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.252933382391681,
+    "y": 0.9674836970574252
+  },
+  {
+    "entity": "pink tiled roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "semi-detached stucco houses",
+    "x": 1.8210989453188688,
+    "y": 0.8268002366705659
+  },
+  {
+    "entity": "street lamps",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.581858915557953,
+    "y": 0.8132897407355653
+  },
+  {
+    "entity": "yellow sodium street lights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lamps",
+    "x": -0.8268002366705663,
+    "y": 1.8210989453188686
+  },
+  {
+    "entity": "gently curving street lamps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lamps",
+    "x": -1.163717831115906,
+    "y": 1.6265794814711305
+  },
+  {
+    "entity": "iron railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "semi-detached stucco houses",
+    "x": 1.6544348726730598,
+    "y": 1.1237638773707208
+  },
+  {
+    "entity": "satellite dish",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 1.6265794814711296,
+    "y": -1.1637178311159073
+  },
+  {
+    "entity": "overhead utility lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": 1.8406923671383182,
+    "y": -0.7822094409803135
+  },
+  {
+    "entity": "forest backdrop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.833997817889878,
+    "y": 0.5517677407704458
+  },
+  {
+    "entity": "wooded hillside",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9054482374931466,
+    "y": 0.42445669887581505
+  },
+  {
+    "entity": "densely forested ridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9576005999084058,
+    "y": 0.28809909936523775
+  },
+  {
+    "entity": "treeline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8720494081438078,
+    "y": -0.4894178478110852
+  },
+  {
+    "entity": "side street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6396730215588916,
+    "y": -0.7686471397785318
+  },
+  {
+    "entity": "A-frame roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "semi-detached stucco houses",
+    "x": 1.4398069475159918,
+    "y": 1.3881483904412675
+  },
+  {
+    "entity": "pedestrians",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4572423233046387,
+    "y": -0.8893421488825188
+  },
+  {
+    "entity": "coats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrians",
+    "x": -0.9144846466092774,
+    "y": -1.7786842977650377
+  },
+  {
+    "entity": "bare trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "treeline",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "rain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25293338239168167,
+    "y": -0.967483697057425
+  },
+  {
+    "entity": "license plate HY ZZ 2019",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.03652202305765838,
+    "y": -0.9993328483702394
+  },
+  {
+    "entity": "license plate HZ ZZ 2019",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.39110472049015554,
+    "y": -0.9203461835691596
+  },
+  {
+    "entity": "car on the right",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6396730215588906,
+    "y": -0.7686471397785326
+  },
+  {
+    "entity": "modern building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8720494081438072,
+    "y": -0.4894178478110863
+  },
+  {
+    "entity": "HY license code",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate HY ZZ 2019",
+    "x": -0.21898594398272417,
+    "y": -2.991996850990655
+  },
+  {
+    "entity": "HZ license code",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate HZ ZZ 2019",
+    "x": 1.1733141614704667,
+    "y": -2.761038550707479
+  },
+  {
+    "entity": "German license plate format",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate HY ZZ 2019",
+    "x": 0.4368035032050135,
+    "y": -2.9680301042253308
+  },
+  {
+    "entity": "car’s local presence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car on the right",
+    "x": 1.9190190646766718,
+    "y": -2.305941419335598
+  },
+  {
+    "entity": "Central Europe architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "semi-detached stucco houses",
+    "x": 1.7751561975534411,
+    "y": 2.418433475266088
+  },
+  {
+    "entity": "winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "early evening",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street lamps",
+    "x": -2.1849043164357482,
+    "y": 2.055770689551837
+  },
+  {
+    "entity": "February",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.928227632667781,
+    "y": -0.6522905267446721
+  },
+  {
+    "entity": "November",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9919968509906547,
+    "y": -0.218985943982727
+  },
+  {
+    "entity": "flat landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hills",
+    "x": -2.8509034029407476,
+    "y": -0.933996674030944
+  },
+  {
+    "entity": "hilly terrain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hills",
+    "x": -2.6161482244314236,
+    "y": -1.4682535434332555
+  },
+  {
+    "entity": "Harz foothills match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hills",
+    "x": -2.2824036955628344,
+    "y": -1.9469548968789998
+  }
+]

@@ -1,0 +1,20 @@
+[
+{"entity":"bear statue","type":"v","granularity":1,"parent":null},
+{"entity":"tree","type":"v","granularity":1,"parent":null},
+{"entity":"buildings","type":"v","granularity":1,"parent":null},
+{"entity":"background","type":"v","granularity":1,"parent":null},
+{"entity":"LEGENDS sign","type":"v","granularity":1,"parent":null},
+{"entity":"streetlights","type":"v","granularity":1,"parent":null},
+{"entity":"white buildings","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"shutters","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"balconies","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"classical building","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"architectural features","type":"v","granularity":3,"parent":"classical building"},
+{"entity":"search engines","type":"i","granularity":3,"parent":null},
+{"entity":"Madrid hypothesis","type":"i","granularity":3,"parent":null},
+{"entity":"query 'statue of bear and tree'","type":"i","granularity":3,"parent":"bear statue"},
+{"entity":"El Oso y el Madroño","type":"i","granularity":3,"parent":"bear statue"},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":"background"},
+{"entity":"reference point","type":"i","granularity":3,"parent":"LEGENDS sign"},
+{"entity":"neighborhood","type":"i","granularity":3,"parent":"background"}
+]

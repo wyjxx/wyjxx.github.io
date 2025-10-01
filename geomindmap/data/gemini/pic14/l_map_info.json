@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Barer Straße","granularity":5,"parent":"Munich"},
+{"entity":"Schellingstraße","granularity":5,"parent":"Munich"},
+{"entity":"Maxvorstadt","granularity":5,"parent":"Munich"}
+]

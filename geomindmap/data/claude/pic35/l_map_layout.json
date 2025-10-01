@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189779,
+    "y": 0.6427876096865395
+  },
+  {
+    "entity": "North America",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.6840402866513376,
+    "y": 1.8793852415718166
+  },
+  {
+    "entity": "the Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9159790246309776,
+    "y": 0.5736064654221812
+  },
+  {
+    "entity": "Scandinavian countries",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -2.598076211353317,
+    "y": -1.4999999999999982
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -0.6918476122273237,
+    "y": -2.9191346117394708
+  },
+  {
+    "entity": "Asian regions",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8190778623577253,
+    "y": -1.0260604299770058
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.3680805733026753,
+    "y": 3.7587704831436333
+  },
+  {
+    "entity": "Friedrichstadt",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 1.7101007166283442,
+    "y": 4.698463103929542
+  }
+]

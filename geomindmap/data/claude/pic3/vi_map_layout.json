@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "underground parking garage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9685831611286311,
+    "y": 0.2486898871648548
+  },
+  {
+    "entity": "tunnel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "parking structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.42577929156507266,
+    "y": 0.9048270524660196
+  },
+  {
+    "entity": "fluorescent lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3090169943749471,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "underground parking garage",
+    "x": 1.9371663222572622,
+    "y": 0.4973797743297096
+  },
+  {
+    "entity": "concrete pillars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parking structure",
+    "x": 1.1755705045849463,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "bicycle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438634,
+    "y": 0.4817536741017156
+  },
+  {
+    "entity": "asphalt pavement",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9921147013144779,
+    "y": -0.12533323356430384
+  },
+  {
+    "entity": "lane markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "asphalt pavement",
+    "x": -1.9842294026289558,
+    "y": -0.2506664671286077
+  },
+  {
+    "entity": "colored lights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fluorescent lights",
+    "x": -0.25066646712860785,
+    "y": 1.9842294026289558
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7289686274214118,
+    "y": -0.6845471059286884
+  },
+  {
+    "entity": "circular sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.6886558510040308,
+    "y": -1.0716535899579922
+  },
+  {
+    "entity": "\"H\" sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.1755705045849465,
+    "y": -1.6180339887498947
+  },
+  {
+    "entity": "smoke",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494723,
+    "y": -0.9510565162951536
+  },
+  {
+    "entity": "fog",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882511,
+    "y": -0.3681245526846787
+  },
+  {
+    "entity": "modern infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9921147013144778,
+    "y": -0.12533323356430465
+  },
+  {
+    "entity": "fire",
+    "type": "i",
+    "granularity": 3,
+    "parent": "smoke",
+    "x": -0.8550577874099283,
+    "y": -2.8755653670521277
+  },
+  {
+    "entity": "emergency situation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "smoke",
+    "x": 0.03769811965005493,
+    "y": -2.9997631326114482
+  },
+  {
+    "entity": "news event",
+    "type": "i",
+    "granularity": 3,
+    "parent": "smoke",
+    "x": 0.9270509831248417,
+    "y": -2.853169548885461
+  },
+  {
+    "entity": "significant incident",
+    "type": "i",
+    "granularity": 3,
+    "parent": "smoke",
+    "x": 1.7327181102668,
+    "y": -2.449017752151554
+  },
+  {
+    "entity": "poor visibility",
+    "type": "i",
+    "granularity": 3,
+    "parent": "smoke",
+    "x": 2.381971195943505,
+    "y": -1.8237908930838171
+  },
+  {
+    "entity": "bike-friendly area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle",
+    "x": -2.311539728327366,
+    "y": 1.9122719692460706
+  },
+  {
+    "entity": "cycling culture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle",
+    "x": -2.8531695488854605,
+    "y": 0.9270509831248426
+  },
+  {
+    "entity": "hospital parking area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "parking structure",
+    "x": 0.7460696614945642,
+    "y": 2.9057494833858932
+  },
+  {
+    "entity": "artificial lighting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fluorescent lights",
+    "x": -1.4452610223051452,
+    "y": 2.6289200401315913
+  }
+]

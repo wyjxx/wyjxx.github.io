@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "yellow color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "yellow dome",
+    "x": 2.121320343559643,
+    "y": 2.1213203435596424
+  },
+  {
+    "entity": "purple color",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.974334584121431,
+    "y": 0.3915785766601547
+  },
+  {
+    "entity": "red wall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112867,
+    "y": 0.3826834323650898
+  },
+  {
+    "entity": "yellow dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "crenellated parapet",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terrace",
+    "x": -1.1471528727020928,
+    "y": -1.6383040885779832
+  },
+  {
+    "entity": "onion-shaped dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "arched gateway façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "inner courtyard",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "Neo-Gothic battlement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "terrace",
+    "x": -0.1743114854953165,
+    "y": -1.992389396183491
+  },
+  {
+    "entity": "Neo-Manueline ornament",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 5.66553889764798e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "Hispano-Moorish dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.9999999999999988,
+    "y": 1.7320508075688779
+  },
+  {
+    "entity": "forested hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "granite-capped hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738103,
+    "y": 0.13052619222005243
+  },
+  {
+    "entity": "forested ridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738105,
+    "y": -0.13052619222005132
+  },
+  {
+    "entity": "hilly backdrop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.923879532511287,
+    "y": -0.3826834323650892
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912352,
+    "y": -0.6087614290087207
+  },
+  {
+    "entity": "terrace",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252063,
+    "y": -0.9659258262890683
+  },
+  {
+    "entity": "inner courtyard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "Moorish Revival style",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.380060020873705,
+    "y": -1.8262842870261626
+  },
+  {
+    "entity": "Romanticist style",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "Neo-Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Neo-Gothic battlement",
+    "x": -0.26146722824297475,
+    "y": -2.988584094275237
+  },
+  {
+    "entity": "Neo-Manueline style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Neo-Manueline ornament",
+    "x": 8.498308346471969e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Hispano-Moorish style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Hispano-Moorish dome",
+    "x": -1.4999999999999982,
+    "y": 2.598076211353317
+  },
+  {
+    "entity": "most-visited monument",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.974334584121431,
+    "y": -0.3915785766601577
+  },
+  {
+    "entity": "protected parkland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forested hill",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  }
+]

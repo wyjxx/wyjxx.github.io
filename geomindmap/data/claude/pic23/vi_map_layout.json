@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "railway station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9396926207859083,
+    "y": 0.3420201433256689
+  },
+  {
+    "entity": "station sign \"GRUBE\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693033,
+    "y": -0.984807753012208
+  },
+  {
+    "entity": "platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "white livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -0.7492131868318241,
+    "y": 1.8543677091335748
+  },
+  {
+    "entity": "silver metallic livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.438679600677302,
+    "y": 1.389316740917995
+  },
+  {
+    "entity": "red stripes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.8793852415718169,
+    "y": 0.684040286651337
+  },
+  {
+    "entity": "glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway station",
+    "x": 1.9525920142398667,
+    "y": 0.43287922787620575
+  },
+  {
+    "entity": "steel framework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway station",
+    "x": 1.5867066805824703,
+    "y": 1.2175228580174413
+  },
+  {
+    "entity": "paving stones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform",
+    "x": 1.414213562373096,
+    "y": -1.414213562373094
+  },
+  {
+    "entity": "bricks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "platform",
+    "x": 1.9318516525781366,
+    "y": -0.5176380902050414
+  },
+  {
+    "entity": "architectural style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway station",
+    "x": 0.5176380902050415,
+    "y": 1.9318516525781366
+  },
+  {
+    "entity": "modern European station design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural style",
+    "x": 0.7764571353075622,
+    "y": 2.897777478867205
+  },
+  {
+    "entity": "German word",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station sign \"GRUBE\"",
+    "x": -1.7914757751083585,
+    "y": -2.406369578265131
+  },
+  {
+    "entity": "pit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station sign \"GRUBE\"",
+    "x": -0.520944533000791,
+    "y": -2.954423259036624
+  },
+  {
+    "entity": "mine",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station sign \"GRUBE\"",
+    "x": 0.860409698133271,
+    "y": -2.8739685369464665
+  },
+  {
+    "entity": "InterCity Express",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.9926921507794724,
+    "y": -0.20926942123237582
+  },
+  {
+    "entity": "high-speed train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.64884277857678,
+    "y": -1.4084146883576738
+  }
+]

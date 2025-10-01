@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Tagus River","granularity":2,"parent":"Europe"},  
+  {"entity":"Portugal","granularity":2,"parent":"Europe"},  
+  {"entity":"Lisbon","granularity":4,"parent":"Portugal"},  
+  {"entity":"Belém","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Centro Cultural de Belém","granularity":5,"parent":"Belém"},  
+  {"entity":"Praça do Império","granularity":5,"parent":"Belém"},  
+  {"entity":"Avenida de Brasília","granularity":5,"parent":"Belém"},  
+  {"entity":"Padrão dos Descobrimentos","granularity":5,"parent":"Belém"}  
+]

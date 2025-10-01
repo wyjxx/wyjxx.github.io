@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Norway",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9813718920726615,
+    "y": 0.2723332981924933
+  },
+  {
+    "entity": "Nordic",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9813718920726613,
+    "y": -0.2723332981924944
+  },
+  {
+    "entity": "Oslo",
+    "granularity": 4,
+    "parent": "Norway",
+    "x": -3.962743784145323,
+    "y": 0.5446665963849866
+  },
+  {
+    "entity": "Majorstuen",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 4.943668375077924,
+    "y": 0.7484270153157213
+  },
+  {
+    "entity": "Karl Johans gate",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 4.500602579710255,
+    "y": 2.1782048616935463
+  },
+  {
+    "entity": "Stortingsgata",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 3.65417982139062,
+    "y": 3.4127657160932707
+  },
+  {
+    "entity": "Egertorget",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 2.4802589450453403,
+    "y": 4.341464679750668
+  },
+  {
+    "entity": "Stortorvet",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 1.0840501199889037,
+    "y": 4.881069077297723
+  },
+  {
+    "entity": "Frogner",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -0.40931439840906525,
+    "y": 4.983218008802648
+  },
+  {
+    "entity": "Stortinget",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -1.8659949817759576,
+    "y": 4.638756592879922
+  },
+  {
+    "entity": "Kirkeveien",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -3.1554397216302643,
+    "y": 3.878556453522099
+  },
+  {
+    "entity": "Bogstadveien",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -4.162084867351841,
+    "y": 2.770748916260874
+  },
+  {
+    "entity": "Nationaltheatret",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -4.795711982285316,
+    "y": 1.4146188825846502
+  },
+  {
+    "entity": "Prinsens Gate",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -4.999533579822611,
+    "y": -0.06829336882975509
+  },
+  {
+    "entity": "Jernbanetorget",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -4.755282581475768,
+    "y": -1.5450849718747364
+  },
+  {
+    "entity": "Solli Plass",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -4.08484946505221,
+    "y": -2.8834016105743348
+  },
+  {
+    "entity": "St. Hanshaugen",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -3.0483203769986735,
+    "y": -3.9632994940042905
+  },
+  {
+    "entity": "Hegdehaugsveien",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -1.738592038934941,
+    "y": -4.687995064220103
+  },
+  {
+    "entity": "Industrigaten",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": -0.2730460759605518,
+    "y": -4.99253901741414
+  },
+  {
+    "entity": "Jens Bjelkes gate",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 1.2169710625941812,
+    "y": -4.849637247548356
+  },
+  {
+    "entity": "Universitetsgata",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 2.5979197501771663,
+    "y": -4.272097022732444
+  },
+  {
+    "entity": "Briskeby",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 3.746035388881656,
+    "y": -3.311679160976537
+  },
+  {
+    "entity": "Homansbyen",
+    "granularity": 5,
+    "parent": "Oslo",
+    "x": 4.558420549098266,
+    "y": -2.0544590766327433
+  }
+]

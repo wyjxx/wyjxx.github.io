@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"Commonwealth countries","granularity":2,"parent":null},
+{"entity":"British Isles","granularity":2,"parent":"Europe"},
+{"entity":"England","granularity":3,"parent":"United Kingdom"},
+{"entity":"Oxford","granularity":4,"parent":"England"},
+{"entity":"Logic Lane","granularity":5,"parent":"Oxford"}
+]

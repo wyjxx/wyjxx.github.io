@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.900968867902419,
+    "y": 0.43388373911755823
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.1017939629042048,
+    "y": 1.6691465074426053
+  },
+  {
+    "entity": "Commonwealth countries",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "British Isles",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.2684665316353106,
+    "y": -1.9818995235358696
+  },
+  {
+    "entity": "England",
+    "granularity": 3,
+    "parent": "United Kingdom",
+    "x": -1.6526909443563071,
+    "y": 2.503719761163908
+  },
+  {
+    "entity": "Oxford",
+    "granularity": 4,
+    "parent": "England",
+    "x": -2.2035879258084097,
+    "y": 3.3382930148852106
+  },
+  {
+    "entity": "Logic Lane",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -2.754484907260512,
+    "y": 4.172866268606513
+  }
+]

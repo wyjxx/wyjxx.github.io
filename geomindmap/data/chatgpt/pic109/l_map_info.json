@@ -1,0 +1,9 @@
+[  
+  {"entity":"Koreastraße","granularity":5,"parent":"HafenCity"},  
+  {"entity":"Hongkongstraße","granularity":5,"parent":"HafenCity"},  
+  {"entity":"HafenCity","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Hamburg","granularity":4,"parent":"Germany"},  
+  {"entity":"Germany","granularity":2,"parent":null},  
+  {"entity":"Shanghaiallee","granularity":5,"parent":"HafenCity"},  
+  {"entity":"Singapurstraße","granularity":5,"parent":"HafenCity"}  
+]

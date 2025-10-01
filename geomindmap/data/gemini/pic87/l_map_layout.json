@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9189859472289945,
+    "y": 0.5634651136828601
+  },
+  {
+    "entity": "Normandy coast",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.8784789208434916,
+    "y": -0.8451976705242918
+  },
+  {
+    "entity": "White Cliffs of Dover",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": 3.8002844709637817,
+    "y": 1.2481337827939483
+  },
+  {
+    "entity": "Dover",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": 2.3202276382847935,
+    "y": 3.2583038082013425
+  },
+  {
+    "entity": "Seven Sisters",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": -2.422438748550666,
+    "y": 3.1830473621233293
+  },
+  {
+    "entity": "Cuckmere River",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": -3.144212378971152,
+    "y": -2.4726359448824184
+  },
+  {
+    "entity": "Seaford",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": 0.19032766329496598,
+    "y": -3.995469356732032
+  },
+  {
+    "entity": "East Dean",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": 2.5222106683380856,
+    "y": -3.104585857167031
+  },
+  {
+    "entity": "Cuckmere Haven",
+    "granularity": 5,
+    "parent": "Seven Sisters",
+    "x": -0.8682408883346504,
+    "y": 4.924038765061041
+  },
+  {
+    "entity": "Birling Gap",
+    "granularity": 5,
+    "parent": "Seven Sisters",
+    "x": -4.514632691433105,
+    "y": 2.148974560445859
+  },
+  {
+    "entity": "Cuckmere River mouth",
+    "granularity": 5,
+    "parent": "Cuckmere River",
+    "x": -3.9302654737139395,
+    "y": -3.090794931103023
+  }
+]

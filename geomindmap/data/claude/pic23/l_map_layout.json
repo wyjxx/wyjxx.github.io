@@ -1,0 +1,37 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Schleswig-Holstein",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "Ostholstein",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "Grube",
+    "granularity": 4,
+    "parent": "Ostholstein",
+    "x": -2.0000000000000018,
+    "y": -3.4641016151377535
+  }
+]

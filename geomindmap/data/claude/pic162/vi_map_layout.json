@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "street sign 'Quintumsstraße'",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "red brick building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.142314838273285,
+    "y": 0.9898214418809328
+  },
+  {
+    "entity": "white trim",
+    "type": "v",
+    "granularity": 2,
+    "parent": "red brick building",
+    "x": 0.47151787101885456,
+    "y": 1.9436231366470833
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311813,
+    "y": 0.5406408174555974
+  },
+  {
+    "entity": "white dashed lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road markings",
+    "x": -1.6825070656623626,
+    "y": 1.0812816349111949
+  },
+  {
+    "entity": "speed limit sign '30'",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "yield sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.841253532831181,
+    "y": -0.5406408174555979
+  },
+  {
+    "entity": "poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555974,
+    "y": -0.8412535328311812
+  },
+  {
+    "entity": "street lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "full foliage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous trees",
+    "x": 0.5634651136828587,
+    "y": -1.918985947228995
+  },
+  {
+    "entity": "partly cloudy sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542584,
+    "y": -0.6548607339452849
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": -0.2817325568414298
+  },
+  {
+    "entity": "German street name",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign 'Quintumsstraße'",
+    "x": 2.878478920843492,
+    "y": 0.845197670524289
+  },
+  {
+    "entity": "European-style traffic lights",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traffic lights",
+    "x": 1.9645822018358552,
+    "y": 2.267248723062775
+  },
+  {
+    "entity": "Northern European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red brick building",
+    "x": -0.426944514819855,
+    "y": 2.9694643256427984
+  },
+  {
+    "entity": "European yield sign design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yield sign",
+    "x": -2.523760598493543,
+    "y": -1.6219224523667937
+  },
+  {
+    "entity": "km/h speed limits",
+    "type": "i",
+    "granularity": 3,
+    "parent": "speed limit sign '30'",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "summer season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "full foliage",
+    "x": 0.8451976705242881,
+    "y": -2.8784789208434924
+  },
+  {
+    "entity": "mid-latitude location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "shadows",
+    "x": 2.878478920843492,
+    "y": -0.8451976705242894
+  },
+  {
+    "entity": "Germanic building style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red brick building",
+    "x": -1.4999999999999993,
+    "y": 2.598076211353316
+  }
+]

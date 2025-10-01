@@ -1,0 +1,12 @@
+[
+{"entity":"reddish-pink building","type":"v","granularity":1,"parent":null},
+{"entity":"intricate architecture","type":"v","granularity":2,"parent":"reddish-pink building"},
+{"entity":"HECHT GERÜSTBAU sign","type":"v","granularity":1,"parent":null},
+{"entity":"Johannes Gutenberg sign","type":"v","granularity":1,"parent":null},
+{"entity":"M logo","type":"v","granularity":2,"parent":"Johannes Gutenberg sign"},
+{"entity":"flags","type":"v","granularity":1,"parent":null},
+{"entity":"Mainzer Rad seal","type":"v","granularity":2,"parent":"flags"},
+{"entity":"scaffolding","type":"v","granularity":1,"parent":null},
+{"entity":"construction site","type":"v","granularity":1,"parent":null},
+{"entity":"German-speaking location","type":"i","granularity":3,"parent":null}
+]

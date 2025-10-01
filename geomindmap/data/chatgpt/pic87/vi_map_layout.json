@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "white chalk cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9135454576426009,
+    "y": 0.40673664307580015
+  },
+  {
+    "entity": "pebble beach",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "sunset",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4067366430757999,
+    "y": 0.9135454576426011
+  },
+  {
+    "entity": "sunrise",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7431448254773938,
+    "y": 0.6691306063588587
+  },
+  {
+    "entity": "sun",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9781476007338056,
+    "y": 0.20791169081775973
+  },
+  {
+    "entity": "grassland vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426011,
+    "y": -0.4067366430757998
+  },
+  {
+    "entity": "walkers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5877852522924732,
+    "y": -0.8090169943749473
+  },
+  {
+    "entity": "golden hue",
+    "type": "v",
+    "granularity": 3,
+    "parent": "sunset",
+    "x": -0.7764571353075612,
+    "y": 2.897777478867205
+  },
+  {
+    "entity": "sand",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pebble beach",
+    "x": 1.118385806941494,
+    "y": 1.6580751451100832
+  },
+  {
+    "entity": "hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4067366430758009,
+    "y": -0.9135454576426005
+  },
+  {
+    "entity": "headlands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10452846326765423,
+    "y": -0.9945218953682733
+  },
+  {
+    "entity": "summits",
+    "type": "v",
+    "granularity": 2,
+    "parent": "headlands",
+    "x": -0.20905692653530847,
+    "y": -1.9890437907365466
+  },
+  {
+    "entity": "bedding planes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white chalk cliffs",
+    "x": 1.9805361374831407,
+    "y": 0.2783462019201308
+  },
+  {
+    "entity": "fluting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white chalk cliffs",
+    "x": 1.827090915285202,
+    "y": 0.8134732861516003
+  },
+  {
+    "entity": "pebbles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pebble beach",
+    "x": 0.6180339887498953,
+    "y": 1.902113032590307
+  },
+  {
+    "entity": "flints",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pebble beach",
+    "x": 0.0697989934050026,
+    "y": 1.9987816540381915
+  },
+  {
+    "entity": "tussocky grass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassland vegetation",
+    "x": -1.980536137483141,
+    "y": -0.27834620192012927
+  },
+  {
+    "entity": "heathland",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassland vegetation",
+    "x": -1.8270909152852022,
+    "y": -0.8134732861515996
+  },
+  {
+    "entity": "chalk-grass downland",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grassland vegetation",
+    "x": -1.5320888862379574,
+    "y": -1.2855752193730772
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20791169081775857,
+    "y": -0.9781476007338058
+  },
+  {
+    "entity": "urban structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40673664307580054,
+    "y": -0.9135454576426008
+  },
+  {
+    "entity": "reflections",
+    "type": "v",
+    "granularity": 2,
+    "parent": "water",
+    "x": -1.9562952014676112,
+    "y": 0.41582338163551946
+  },
+  {
+    "entity": "coast",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "promontory",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7431448254773949,
+    "y": -0.6691306063588575
+  },
+  {
+    "entity": "popular spot",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5980762113533165,
+    "y": -1.4999999999999991
+  },
+  {
+    "entity": "rural area",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8531695488854623,
+    "y": -0.9270509831248379
+  },
+  {
+    "entity": "time of day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sunset",
+    "x": -1.6339171050450803,
+    "y": 2.5160117038362726
+  },
+  {
+    "entity": "typical chalk coastlines",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white chalk cliffs",
+    "x": 2.2981333293569346,
+    "y": 1.9283628290596178
+  },
+  {
+    "entity": "protected landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.98356568610482,
+    "y": -0.3135853898029576
+  }
+]

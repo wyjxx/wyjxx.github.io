@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.6825070656623626,
+    "y": 1.0812816349111949
+  },
+  {
+    "entity": "Sintra Mountains",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.3097214678905706,
+    "y": -1.5114991487085163
+  },
+  {
+    "entity": "Atlantic coast",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9189859472289947,
+    "y": -0.5634651136828596
+  },
+  {
+    "entity": "Lisbon District",
+    "granularity": 3,
+    "parent": "Portugal",
+    "x": -2.523760598493544,
+    "y": 1.6219224523667923
+  },
+  {
+    "entity": "Sintra",
+    "granularity": 4,
+    "parent": "Lisbon District",
+    "x": -2.364324530114706,
+    "y": 3.2264484369501205
+  },
+  {
+    "entity": "Monte da Pena",
+    "granularity": 4,
+    "parent": "Lisbon District",
+    "x": 0.24464664328736943,
+    "y": -3.9925114927734677
+  },
+  {
+    "entity": "Pena Palace",
+    "granularity": 5,
+    "parent": "Sintra",
+    "x": 4.5223965808713915,
+    "y": 2.1325874343910853
+  },
+  {
+    "entity": "São Pedro de Sintra",
+    "granularity": 5,
+    "parent": "Sintra",
+    "x": 1.2315902917032493,
+    "y": 4.84594524869837
+  },
+  {
+    "entity": "Estrada da Pena",
+    "granularity": 5,
+    "parent": "Sintra",
+    "x": -2.9554056626433822,
+    "y": 4.0330605461876505
+  },
+  {
+    "entity": "Quinta da Pena",
+    "granularity": 5,
+    "parent": "Sintra",
+    "x": -4.991845519630679,
+    "y": 0.2854440543138399
+  },
+  {
+    "entity": "Pena Park",
+    "granularity": 5,
+    "parent": "Sintra",
+    "x": -3.395875804215725,
+    "y": -3.6698811319090705
+  }
+]

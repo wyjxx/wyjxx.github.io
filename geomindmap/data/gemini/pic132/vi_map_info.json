@@ -1,0 +1,20 @@
+[
+{"entity":"road sign","type":"v","granularity":1,"parent":null},
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"store sign","type":"v","granularity":1,"parent":null},
+{"entity":"scooter","type":"v","granularity":1,"parent":null},
+{"entity":"intersection","type":"v","granularity":1,"parent":null},
+{"entity":"building","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"trolleybus network","type":"v","granularity":1,"parent":null},
+{"entity":"overhead wires","type":"v","granularity":1,"parent":null},
+{"entity":"graffiti art","type":"v","granularity":2,"parent":"building"},
+{"entity":"directional arrows","type":"v","granularity":2,"parent":"road sign"},
+{"entity":"elite strom sign","type":"v","granularity":2,"parent":"store sign"},
+{"entity":"Athenian geography knowledge","type":"i","granularity":3,"parent":null},
+{"entity":"cross-referencing online maps","type":"i","granularity":3,"parent":"intersection"},
+{"entity":"street view validation","type":"i","granularity":3,"parent":"intersection"},
+{"entity":"intersection orientation","type":"i","granularity":3,"parent":"intersection"},
+{"entity":"traffic flow analysis","type":"i","granularity":3,"parent":"intersection"},
+{"entity":"directional sign logic","type":"i","granularity":3,"parent":"directional arrows"}
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "Neo-Romanesque architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09226835946330202,
+    "y": 0.9957341762950345
+  },
+  {
+    "entity": "terracotta tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Romanesque architecture",
+    "x": 1.9555603245100817,
+    "y": 0.41926580733709307
+  },
+  {
+    "entity": "central hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "blue-whale skeleton",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6026346363792565,
+    "y": -0.7980172272802395
+  },
+  {
+    "entity": "diving posture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue-whale skeleton",
+    "x": -1.8169305436390477,
+    "y": -0.835920689773566
+  },
+  {
+    "entity": "rounded arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Romanesque architecture",
+    "x": 1.6118044658988697,
+    "y": 1.1840972779752765
+  },
+  {
+    "entity": "paired colonnettes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Romanesque architecture",
+    "x": 0.9847194656886842,
+    "y": 1.7407836091524391
+  },
+  {
+    "entity": "ornamental arcading",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Romanesque architecture",
+    "x": 0.18453671892660403,
+    "y": 1.991468352590069
+  },
+  {
+    "entity": "central staircases",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765377,
+    "y": -0.8951632913550626
+  },
+  {
+    "entity": "galleried landing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central staircases",
+    "x": 0.8914767115530754,
+    "y": -1.7903265827101251
+  },
+  {
+    "entity": "dinosaur banner",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9324722294043555,
+    "y": -0.36124166618715386
+  },
+  {
+    "entity": "Hope",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue-whale skeleton",
+    "x": -1.8079039091377695,
+    "y": -2.3940516818407183
+  },
+  {
+    "entity": "Dippy",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue-whale skeleton",
+    "x": -0.46017496463605534,
+    "y": -2.9644964162437786
+  },
+  {
+    "entity": "Alfred Waterhouse",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Neo-Romanesque architecture",
+    "x": -0.9721268950534981,
+    "y": 2.838127780758584
+  },
+  {
+    "entity": "19th-century design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Neo-Romanesque architecture",
+    "x": -2.050174692079646,
+    "y": 2.1901560976232104
+  },
+  {
+    "entity": "opened 1881",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Neo-Romanesque architecture",
+    "x": -2.7678349558010487,
+    "y": 1.1571904153793389
+  },
+  {
+    "entity": "free admission",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dinosaur banner",
+    "x": 2.797416688213066,
+    "y": -1.0837249985614616
+  }
+]

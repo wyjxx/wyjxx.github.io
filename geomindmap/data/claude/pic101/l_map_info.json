@@ -1,0 +1,7 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Leipzig","granularity":4,"parent":"Germany"},
+{"entity":"Mitte","granularity":5,"parent":"Leipzig"},
+{"entity":"Leipzig Hauptbahnhof","granularity":5,"parent":"Leipzig"}
+]

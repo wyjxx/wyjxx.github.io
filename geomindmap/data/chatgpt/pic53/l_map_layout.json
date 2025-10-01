@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Castilla y León",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Segovia",
+    "granularity": 4,
+    "parent": "Castilla y León",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Aqueduct of Segovia",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": 4.045084971874737,
+    "y": 2.938926261462366
+  },
+  {
+    "entity": "Plaza del Azoguejo",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": -1.5450849718747368,
+    "y": 4.755282581475768
+  },
+  {
+    "entity": "Ciudad Vieja",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": -1.5450849718747377,
+    "y": -4.755282581475767
+  },
+  {
+    "entity": "Casco Histórico",
+    "granularity": 5,
+    "parent": "Segovia",
+    "x": 4.045084971874736,
+    "y": -2.938926261462367
+  }
+]

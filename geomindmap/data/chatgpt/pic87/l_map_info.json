@@ -1,0 +1,18 @@
+[  
+{"entity":"English Channel","granularity":1,"parent":null},  
+{"entity":"England","granularity":2,"parent":null},  
+{"entity":"East Sussex","granularity":3,"parent":"England"},  
+{"entity":"West Sussex","granularity":3,"parent":"England"},  
+{"entity":"South Downs chalk escarpment","granularity":3,"parent":"England"},  
+{"entity":"South Downs National Park","granularity":3,"parent":"England"},  
+{"entity":"Seven Sisters cliffs","granularity":4,"parent":"East Sussex"},  
+{"entity":"Birling Gap","granularity":4,"parent":"East Sussex"},  
+{"entity":"Seaford Head","granularity":4,"parent":"East Sussex"},  
+{"entity":"Cuckmere Haven","granularity":4,"parent":"East Sussex"},  
+{"entity":"Beachy Head","granularity":4,"parent":"East Sussex"},  
+{"entity":"East Dean","granularity":4,"parent":"East Sussex"},  
+{"entity":"Eastbourne","granularity":4,"parent":"East Sussex"},  
+{"entity":"Seaford","granularity":4,"parent":"East Sussex"},  
+{"entity":"Dover","granularity":4,"parent":null},  
+{"entity":"Seven Sisters Country Park","granularity":5,"parent":"Seven Sisters cliffs"}  
+]

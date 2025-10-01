@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "commemorative plaque",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "marker",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "entrance building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680297,
+    "y": -0.6234898018587337
+  },
+  {
+    "entity": "mosaic tilework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "entrance building",
+    "x": 1.0640641530306727,
+    "y": -1.6934483984565685
+  },
+  {
+    "entity": "German language text",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": 2.9072318586872337,
+    "y": 0.7402721930708809
+  },
+  {
+    "entity": "historic tunnel",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": 2.199155615489479,
+    "y": 2.040518213312758
+  },
+  {
+    "entity": "St. Pauli Elbe Tunnel",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": 0.9554599507550533,
+    "y": 2.843782038501395
+  },
+  {
+    "entity": "renovations in 1983",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -0.5209445330007902,
+    "y": 2.9544232590366244
+  },
+  {
+    "entity": "early 20th-century engineering",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -1.8704694055762006,
+    "y": 2.3454944474040897
+  },
+  {
+    "entity": "innovative urban infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "entrance building",
+    "x": 2.8316499909251025,
+    "y": -0.990837185865502
+  },
+  {
+    "entity": "construction dates 1907-1911",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -2.7644286356112233,
+    "y": 1.165304388824084
+  },
+  {
+    "entity": "tunnel length 426.50m",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -2.985092326096204,
+    "y": -0.2987035397874508
+  },
+  {
+    "entity": "4 elevators",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -2.478716322947984,
+    "y": -1.6899601741908672
+  },
+  {
+    "entity": "130 person capacity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commemorative plaque",
+    "x": -1.3686319720594873,
+    "y": -2.6696154264344067
+  }
+]

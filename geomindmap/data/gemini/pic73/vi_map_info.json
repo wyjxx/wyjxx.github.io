@@ -1,0 +1,21 @@
+[  
+{"entity":"primary structure","type":"v","granularity":1,"parent":null},  
+{"entity":"ornate building","type":"v","granularity":1,"parent":null},  
+{"entity":"Graff store","type":"v","granularity":1,"parent":null},  
+{"entity":"luxury cars","type":"v","granularity":1,"parent":null},  
+{"entity":"partially visible signage","type":"v","granularity":1,"parent":null},  
+{"entity":"French signs","type":"v","granularity":1,"parent":null},  
+{"entity":"roof","type":"v","granularity":2,"parent":"ornate building"},  
+{"entity":"tile pattern","type":"v","granularity":2,"parent":"roof"},  
+{"entity":"twin towers","type":"v","granularity":2,"parent":"ornate building"},  
+{"entity":"sculptures","type":"v","granularity":2,"parent":"ornate building"},  
+{"entity":"French word 'RESERVE'","type":"v","granularity":2,"parent":"French signs"},  
+{"entity":"yellow tiles","type":"v","granularity":3,"parent":"tile pattern"},  
+{"entity":"green tiles","type":"v","granularity":3,"parent":"tile pattern"},  
+{"entity":"blue tiles","type":"v","granularity":3,"parent":"tile pattern"},  
+{"entity":"Beaux-Arts style","type":"i","granularity":3,"parent":"ornate building"},  
+{"entity":"European origin","type":"i","granularity":3,"parent":"ornate building"},  
+{"entity":"late 1800s","type":"i","granularity":3,"parent":"ornate building"},  
+{"entity":"architectural databases","type":"i","granularity":3,"parent":null},  
+{"entity":"luxury brands","type":"i","granularity":3,"parent":"luxury cars"}  
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.900968867902419,
+    "y": 0.43388373911755823
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7168975872037322,
+    "y": 1.0257985548118123
+  },
+  {
+    "entity": "Vatican",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.08972966070102972,
+    "y": 1.9979861330826294
+  },
+  {
+    "entity": "United States",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -3.2360679774997902,
+    "y": -2.351141009169892
+  },
+  {
+    "entity": "Trinity College",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.045084971874738,
+    "y": -2.938926261462365
+  }
+]

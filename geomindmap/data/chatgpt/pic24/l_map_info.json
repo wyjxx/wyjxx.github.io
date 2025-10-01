@@ -1,0 +1,19 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Alps","granularity":2,"parent":"Europe"},  
+  {"entity":"European Alps","granularity":2,"parent":"Europe"},  
+  {"entity":"Dolomites","granularity":3,"parent":"Alps"},  
+  {"entity":"Pacific Northwest","granularity":3,"parent":null},  
+  {"entity":"Scandinavian fjords","granularity":3,"parent":"Europe"},  
+  {"entity":"Cairngorms","granularity":3,"parent":"Europe"},  
+  {"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+  {"entity":"Bavarian Alps","granularity":3,"parent":"Alps"},  
+  {"entity":"Eibsee","granularity":4,"parent":"Bavarian Alps"},  
+  {"entity":"Zugspitze","granularity":4,"parent":"Bavarian Alps"},  
+  {"entity":"Lake Königssee","granularity":4,"parent":"Bavarian Alps"},  
+  {"entity":"Loch Morlich","granularity":4,"parent":"Cairngorms"},  
+  {"entity":"Loch Avon","granularity":4,"parent":"Cairngorms"},  
+  {"entity":"Grainau","granularity":4,"parent":"Bavaria"},  
+  {"entity":"Garmisch-Partenkirchen district","granularity":4,"parent":"Bavaria"}  
+]

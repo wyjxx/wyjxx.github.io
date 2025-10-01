@@ -1,0 +1,61 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "façade",
+    "azulejo tiles",
+    "scenes",
+    "Carmelite Order",
+    "Rococo window frames",
+    "stone statues",
+    "roofline",
+    "narrow house",
+    "church",
+    "corner"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Igreja do Carmo",
+      "status": 3,
+      "related_clue": [
+        "Rococo window frames",
+        "stone statues",
+        "roofline",
+        "narrow house"
+      ]
+    },
+    {
+      "loc": "Porto",
+      "status": 3,
+      "related_clue": [
+        "Rococo window frames",
+        "stone statues",
+        "roofline",
+        "narrow house"
+      ]
+    },
+    {
+      "loc": "Praça de Carlos Alberto",
+      "status": 3,
+      "related_clue": [
+        "corner"
+      ]
+    },
+    {
+      "loc": "Rua do Carmo",
+      "status": 3,
+      "related_clue": [
+        "corner"
+      ]
+    },
+    {
+      "loc": "Vitória parish",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Baixa district",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{"paragraph":2,"clue":["azulejo tiles","church","Carmelite Order"],"loc-clue":[{"loc":"Rua do Carmo","status":3,"related_clue":["church"]},{"loc":"Porto","status":3,"related_clue":["church"]}]},{"paragraph":3,"clue":[],"loc-clue":[{"loc":"Rua do Carmo","status":3,"related_clue":[]},{"loc":"Vitória parish","status":3,"related_clue":[]},{"loc":"Baixa district","status":3,"related_clue":[]},{"loc":"Porto","status":3,"related_clue":[]},{"loc":"Portugal","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}] }]

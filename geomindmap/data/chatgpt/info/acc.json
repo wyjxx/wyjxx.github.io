@@ -1,0 +1,346 @@
+[
+    {
+        "picture": "pic10",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic11",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic14",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic20",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic22",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic23",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic3",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic4",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic5",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic7",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic8",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic24",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic26",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic28",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic31",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic34",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic35",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic37",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic38",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic40",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic42",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic43",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic46",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic48",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic49",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic50",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic51",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic52",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic53",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic54",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic55",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic56",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic57",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic61",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic62",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic63",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic65",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic67",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic68",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic69",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic70",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic72",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic73",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic74",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic76",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic82",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic85",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic87",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic88",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic89",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic90",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic91",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic92",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic93",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic94",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic95",
+        "accuracy": 0
+    },
+    {
+        "picture": "pic97",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic99",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic101",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic103",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic105",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic107",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic109",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic111",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic115",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic118",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic120",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic121",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic123",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic124",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic126",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic127",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic128",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic129",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic130",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic131",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic132",
+        "accuracy": 1
+    },
+    {
+        "picture": "pic133",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic134",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic136",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic137",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic138",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic156",
+        "accuracy": 2
+    },
+    {
+        "picture": "pic159",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic160",
+        "accuracy": 3
+    },
+    {
+        "picture": "pic162",
+        "accuracy": 3
+    }
+]

@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Mainz","granularity":4,"parent":"Germany"},
+{"entity":"Rheinstraße","granularity":5,"parent":"Mainz"},
+{"entity":"Altstadt","granularity":5,"parent":"Mainz"},
+{"entity":"Old Town","granularity":5,"parent":"Mainz"},
+{"entity":"Kurfürstliches Schloss","granularity":5,"parent":"Mainz"},
+{"entity":"Electoral Palace","granularity":5,"parent":"Mainz"}
+]

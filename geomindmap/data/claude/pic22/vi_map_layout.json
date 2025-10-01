@@ -1,0 +1,298 @@
+[
+  {
+    "entity": "modernist residential block",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8730141131611882,
+    "y": 0.48769494381363454
+  },
+  {
+    "entity": "two-story building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2928227712765503,
+    "y": 0.956166734739251
+  },
+  {
+    "entity": "flat roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 0.8835195657603664,
+    "y": 1.794266751884628
+  },
+  {
+    "entity": "low-pitched roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 0.5312941422217522,
+    "y": 1.9281406936323016
+  },
+  {
+    "entity": "concrete exterior wall",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 0.16020977147561408,
+    "y": 1.9935728803140687
+  },
+  {
+    "entity": "rendered exterior wall",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -0.21656144462092433,
+    "y": 1.9882407149798784
+  },
+  {
+    "entity": "window pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modernist residential block",
+    "x": 1.9896275096617004,
+    "y": 0.20342657839471198
+  },
+  {
+    "entity": "white-framed window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -0.5856455425531011,
+    "y": 1.9123334694785017
+  },
+  {
+    "entity": "brown wooden shutter",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -0.9339414226382968,
+    "y": 1.768545566017555
+  },
+  {
+    "entity": "brick element",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -1.2490858888742782,
+    "y": 1.5619809352918346
+  },
+  {
+    "entity": "double-glazed window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -1.5198924959773952,
+    "y": 1.299971846107293
+  },
+  {
+    "entity": "curtain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": -1.7367486261885852,
+    "y": 0.9918186373687791
+  },
+  {
+    "entity": "paved walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9677329469334988,
+    "y": 0.2519780613851254
+  },
+  {
+    "entity": "concrete paving stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paved walkway",
+    "x": -1.9354658938669975,
+    "y": 0.5039561227702508
+  },
+  {
+    "entity": "grass lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "deciduous tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8285096492438424,
+    "y": -0.5599747861375949
+  },
+  {
+    "entity": "leafless tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous tree",
+    "x": -1.849379543458663,
+    "y": -0.76144290937445
+  },
+  {
+    "entity": "mature tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous tree",
+    "x": -1.3960876631742358,
+    "y": -1.4321100644617721
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3728564777803087,
+    "y": -0.9278890272965092
+  },
+  {
+    "entity": "bright natural lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1270178197468792,
+    "y": -0.9919004352588768
+  },
+  {
+    "entity": "organized landscaping",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.21067926999572661,
+    "y": -0.9775552389476861
+  },
+  {
+    "entity": "planned community layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7219560939545243,
+    "y": -0.6919388689775463
+  },
+  {
+    "entity": "wide building spacing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "planned community layout",
+    "x": 0.938110029647274,
+    "y": -1.7663378986692186
+  },
+  {
+    "entity": "power line",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9677329469334989,
+    "y": -0.25197806138512513
+  },
+  {
+    "entity": "utility pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9963974885425265,
+    "y": -0.08480592447550873
+  },
+  {
+    "entity": "post-war housing estate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "planned community layout",
+    "x": 1.9337777298727161,
+    "y": -2.2935787955612783
+  },
+  {
+    "entity": "mid-20th century construction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modernist residential block",
+    "x": 2.860938003493436,
+    "y": 0.902792191020166
+  },
+  {
+    "entity": "European urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "planned community layout",
+    "x": 2.3735840571239653,
+    "y": -1.834693087076674
+  },
+  {
+    "entity": "European-style landscaping",
+    "type": "i",
+    "granularity": 3,
+    "parent": "organized landscaping",
+    "x": 0.6320378099871798,
+    "y": -2.9326657168430583
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous tree",
+    "x": -1.6160739115882334,
+    "y": -2.527509666110875
+  },
+  {
+    "entity": "winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "leafless tree",
+    "x": -2.9156165884506247,
+    "y": -0.7065266514092307
+  },
+  {
+    "entity": "early spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": "leafless tree",
+    "x": -2.567850519291464,
+    "y": -1.55117494518657
+  },
+  {
+    "entity": "Northern European latitude",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright natural lighting",
+    "x": -0.3810534592406376,
+    "y": -2.9757013057766306
+  },
+  {
+    "entity": "Northern European housing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modernist residential block",
+    "x": 2.6190423394835642,
+    "y": 1.4630848314409035
+  },
+  {
+    "entity": "Central European housing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modernist residential block",
+    "x": 2.2687644890090617,
+    "y": 1.9628315499327627
+  },
+  {
+    "entity": "German urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "planned community layout",
+    "x": 2.706841330375756,
+    "y": -1.2934488827045334
+  },
+  {
+    "entity": "German residential design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modernist residential block",
+    "x": 1.8245997806609289,
+    "y": 2.3813516414868445
+  }
+]

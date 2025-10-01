@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Hasenbergl",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.345653031794291,
+    "y": 3.7157241273869706
+  },
+  {
+    "entity": "Feldmoching-Hasenbergl",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.045084971874736,
+    "y": 2.9389262614623664
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.2360679774997894,
+    "y": 2.351141009169893
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.2360679774997894,
+    "y": -2.3511410091698934
+  },
+  {
+    "entity": "Lochhauser Straße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.500000000000002,
+    "y": -4.330127018922192
+  }
+]

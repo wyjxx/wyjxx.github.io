@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Tagus River","granularity":2,"parent":"Europe"},
+{"entity":"Lisbon","granularity":4,"parent":"Portugal"},
+{"entity":"Parque Eduardo VII","granularity":5,"parent":"Lisbon"},
+{"entity":"25 de Abril Bridge","granularity":5,"parent":"Lisbon"},
+{"entity":"Estufa Fria","granularity":5,"parent":"Lisbon"},
+{"entity":"Alameda Cardeal Cerejeira","granularity":5,"parent":"Lisbon"},
+{"entity":"Avenidas Novas","granularity":5,"parent":"Lisbon"}
+]

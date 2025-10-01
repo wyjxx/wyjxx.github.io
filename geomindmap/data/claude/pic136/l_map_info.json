@@ -1,0 +1,6 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Portugal","granularity":2,"parent":"Europe"},  
+{"entity":"Porto","granularity":4,"parent":"Portugal"},  
+{"entity":"Baixa","granularity":5,"parent":"Porto"}  
+]

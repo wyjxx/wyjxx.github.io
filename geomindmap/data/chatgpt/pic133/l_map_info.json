@@ -1,0 +1,19 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Athens","granularity":4,"parent":"Greece"},
+{"entity":"Elefsina","granularity":4,"parent":"Greece"},
+{"entity":"Markopoulo","granularity":4,"parent":"Greece"},
+{"entity":"Papagou","granularity":4,"parent":"Greece"},
+{"entity":"Kaisariani","granularity":4,"parent":"Greece"},
+{"entity":"Mount Hymettus","granularity":4,"parent":"Greece"},
+{"entity":"central Athens","granularity":5,"parent":"Athens"},
+{"entity":"eastern suburbs","granularity":5,"parent":"Athens"},
+{"entity":"Kareas","granularity":5,"parent":"Kaisariani"},
+{"entity":"Ambelokipi","granularity":5,"parent":"Athens"},
+{"entity":"Ilisia","granularity":5,"parent":"Athens"},
+{"entity":"Katechaki Avenue","granularity":5,"parent":"Athens"},
+{"entity":"Junction Y1","granularity":5,"parent":"Athens"},
+{"entity":"Attiki Odos A6","granularity":5,"parent":"Athens"},
+{"entity":"Airport","granularity":5,"parent":"Athens"}
+]

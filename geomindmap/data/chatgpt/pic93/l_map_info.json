@@ -1,0 +1,16 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},  
+  {"entity":"Christ Church Cathedral","granularity":5,"parent":"Dublin"},  
+  {"entity":"Christchurch Place","granularity":5,"parent":"Dublin"},  
+  {"entity":"Dubh Linn Gardens","granularity":5,"parent":"Dublin"},  
+  {"entity":"Christchurch","granularity":5,"parent":"Dublin"},  
+  {"entity":"Medieval Quarter","granularity":5,"parent":"Dublin"},  
+  {"entity":"Liberties","granularity":5,"parent":"Dublin"},  
+  {"entity":"Cathedral Precinct","granularity":5,"parent":"Dublin"},  
+  {"entity":"Dublin 8","granularity":5,"parent":"Dublin"},  
+  {"entity":"Dame Street","granularity":5,"parent":"Dublin"},  
+  {"entity":"Roosevelt Row","granularity":5,"parent":"Dublin"},  
+  {"entity":"Christchurch Cathedral Green","granularity":5,"parent":"Dublin"}  
+]

@@ -1,0 +1,12 @@
+[  
+  {"entity":"calçada portuguesa","type":"v","granularity":1,"parent":null},  
+  {"entity":"black and white mosaic","type":"v","granularity":2,"parent":"calçada portuguesa"},  
+  {"entity":"tall white column","type":"v","granularity":1,"parent":null},  
+  {"entity":"portico","type":"v","granularity":2,"parent":"National Theatre D. Maria II"},  
+  {"entity":"columns","type":"v","granularity":2,"parent":"National Theatre D. Maria II"},  
+  {"entity":"gentle hills","type":"v","granularity":1,"parent":null},  
+  {"entity":"Pombaline architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"National Theatre D. Maria II","type":"v","granularity":1,"parent":null},  
+  {"entity":"typical of Lisbon","type":"i","granularity":3,"parent":"black and white mosaic"},  
+  {"entity":"D. Pedro IV column","type":"i","granularity":3,"parent":"tall white column"}  
+]

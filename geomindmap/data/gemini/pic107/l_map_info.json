@@ -1,0 +1,14 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "Germany", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Austria", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Central Europe", "granularity": 3, "parent": "Europe"},  
+  {"entity": "German-speaking areas", "granularity": 3, "parent": "Europe"},  
+  {"entity": "Hamburg", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Vienna", "granularity": 4, "parent": "Austria"},  
+  {"entity": "Binnenalster", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Alster lakes", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Neuer Jungfernstieg", "granularity": 5, "parent": "Hamburg"},  
+  {"entity": "Ballindamm", "granularity": 5, "parent": "Hamburg"},  
+  {"entity": "Neustadt district", "granularity": 5, "parent": "Hamburg"}  
+]

@@ -1,0 +1,8 @@
+[  
+  {"entity":"Germany","granularity":2,"parent":null},  
+  {"entity":"Stuttgart","granularity":4,"parent":"Germany"},  
+  {"entity":"Stuttgart City Library","granularity":5,"parent":"Stuttgart"},  
+  {"entity":"Stuttgart-Mitte","granularity":5,"parent":"Stuttgart"},  
+  {"entity":"Europaviertel","granularity":5,"parent":"Stuttgart"},  
+  {"entity":"Mailänder Platz","granularity":5,"parent":"Stuttgart"}  
+]

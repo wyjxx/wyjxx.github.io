@@ -1,0 +1,23 @@
+[
+{"entity":"Buckingham Palace","type":"l"},
+{"entity":"Saint James's Palace","type":"l"},
+{"entity":"Tower of London","type":"l"},
+{"entity":"Windsor Castle","type":"l"},
+{"entity":"Lower Ward","type":"l"},
+{"entity":"Castle Quadrangle","type":"l"},
+{"entity":"Windsor","type":"l"},
+{"entity":"Berkshire","type":"l"},
+{"entity":"United Kingdom","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"red tunics","type":"v"},
+{"entity":"tall hats","type":"v"},
+{"entity":"soldiers","type":"v"},
+{"entity":"GUARD ROOM sign","type":"v"},
+{"entity":"castle architecture","type":"v"},
+{"entity":"facade","type":"v"},
+{"entity":"brickwork","type":"v"},
+{"entity":"layout","type":"v"},
+{"entity":"Guard Mounting ceremony","type":"i"},
+{"entity":"British setting","type":"i"},
+{"entity":"Royal connection","type":"i"}
+]

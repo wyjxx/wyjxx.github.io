@@ -1,0 +1,346 @@
+[
+  {
+    "entity": "harbor building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9973322836635516,
+    "y": 0.07299531466090753
+  },
+  {
+    "entity": "port authority",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.957600599908406,
+    "y": 0.2880990993652376
+  },
+  {
+    "entity": "flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "port authority",
+    "x": 1.915201199816812,
+    "y": 0.5761981987304752
+  },
+  {
+    "entity": "residential area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4572423233046386,
+    "y": 0.8893421488825188
+  },
+  {
+    "entity": "white houses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential area",
+    "x": 1.7350869563218607,
+    "y": 0.9947227020641186
+  },
+  {
+    "entity": "pastel buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential area",
+    "x": 1.5489136847390512,
+    "y": 1.2652534912925926
+  },
+  {
+    "entity": "clay tile roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.9997864915349801,
+    "y": -0.029223077767658718
+  },
+  {
+    "entity": "Baroque facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 0.09129363435174688,
+    "y": -1.9979152815689782
+  },
+  {
+    "entity": "wrought-iron balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 0.4170143670188328,
+    "y": -1.9560416707472983
+  },
+  {
+    "entity": "pastel walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 0.7314916213986511,
+    "y": -1.8614295602637163
+  },
+  {
+    "entity": "tile roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.9640247989895008,
+    "y": -0.3776328758917196
+  },
+  {
+    "entity": "French flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "town hall",
+    "x": -0.5528351978735427,
+    "y": 1.9220752441026134
+  },
+  {
+    "entity": "town hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4572423233046385,
+    "y": 0.889342148882519
+  },
+  {
+    "entity": "bird notice",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow streets",
+    "x": 1.9786867361502203,
+    "y": -0.29120233547000984
+  },
+  {
+    "entity": "balcony",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 1.0262465093254722,
+    "y": -1.7166298675303548
+  },
+  {
+    "entity": "blue shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 1.2933318940947154,
+    "y": -1.525546659960742
+  },
+  {
+    "entity": "mixed architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9054482374931466,
+    "y": 0.42445669887581505
+  },
+  {
+    "entity": "rooftops",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.934016108732548,
+    "y": -0.35723088980113266
+  },
+  {
+    "entity": "seagull",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6396730215588908,
+    "y": -0.7686471397785324
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3911047204901559,
+    "y": -0.9203461835691595
+  },
+  {
+    "entity": "terracotta roof tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.868032217465096,
+    "y": -0.7144617796022653
+  },
+  {
+    "entity": "stucco walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential area",
+    "x": 1.3209788366721795,
+    "y": 1.5016707072671476
+  },
+  {
+    "entity": "wooden shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 1.5255466599607437,
+    "y": -1.2933318940947134
+  },
+  {
+    "entity": "chimney pots",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftops",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10937120837787465,
+    "y": -0.9940009752399459
+  },
+  {
+    "entity": "French tricolour",
+    "type": "v",
+    "granularity": 2,
+    "parent": "town hall",
+    "x": -0.914484646609277,
+    "y": 1.778684297765038
+  },
+  {
+    "entity": "low-rise buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5818589155579525,
+    "y": -0.8132897407355656
+  },
+  {
+    "entity": "modern facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mixed architecture",
+    "x": -1.513671805732673,
+    "y": 1.307209877766378
+  },
+  {
+    "entity": "historic dwellings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential area",
+    "x": 1.057427957018107,
+    "y": 1.6976001047704115
+  },
+  {
+    "entity": "pale shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise buildings",
+    "x": 1.7166298675303562,
+    "y": -1.0262465093254698
+  },
+  {
+    "entity": "pastel facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mixed architecture",
+    "x": -1.7259303855086885,
+    "y": 1.010526745998259
+  },
+  {
+    "entity": "narrow streets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9893433680751101,
+    "y": -0.14560116773500492
+  },
+  {
+    "entity": "Provencal style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mixed architecture",
+    "x": -2.8211543965198707,
+    "y": 1.020337135948998
+  },
+  {
+    "entity": "tourist vibe",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential area",
+    "x": 1.1480502970952695,
+    "y": 2.77163859753386
+  },
+  {
+    "entity": "Mediterranean architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mixed architecture",
+    "x": -2.9595572268853396,
+    "y": 0.4909389175760652
+  },
+  {
+    "entity": "cylindrical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "chimney pots",
+    "x": -2.427050983124843,
+    "y": -1.7633557568774192
+  },
+  {
+    "entity": "sea proximity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sea",
+    "x": -1.4682535434332564,
+    "y": -2.6161482244314227
+  },
+  {
+    "entity": "inland city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sea",
+    "x": -0.8642972980957121,
+    "y": -2.872801799725218
+  },
+  {
+    "entity": "public building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "town hall",
+    "x": -1.8622979823502455,
+    "y": 2.3519877178536044
+  },
+  {
+    "entity": "dense hillside cluster",
+    "type": "i",
+    "granularity": 3,
+    "parent": "low-rise buildings",
+    "x": 2.792144340395576,
+    "y": -1.097237432097973
+  },
+  {
+    "entity": "residential quarter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential area",
+    "x": 0.6790051002036167,
+    "y": 2.9221485372748384
+  },
+  {
+    "entity": "tourist presence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential area",
+    "x": 0.19165267050447585,
+    "y": 2.993871950148921
+  },
+  {
+    "entity": "fishermen's neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential area",
+    "x": -0.30086706950801917,
+    "y": 2.984875040346858
+  }
+]

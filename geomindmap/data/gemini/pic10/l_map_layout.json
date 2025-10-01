@@ -1,0 +1,44 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Electorate of Cologne",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Bonn",
+    "granularity": 4,
+    "parent": "Electorate of Cologne",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Mehlgasse",
+    "granularity": 5,
+    "parent": "Bonn",
+    "x": 3.061616997868383e-16,
+    "y": 5.0
+  },
+  {
+    "entity": "Mehlgasse 11",
+    "granularity": 5,
+    "parent": "Bonn",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  }
+]

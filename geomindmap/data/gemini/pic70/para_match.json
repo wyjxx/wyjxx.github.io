@@ -1,0 +1,250 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "architecture",
+        "signage",
+        "preliminary location ideas"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "signage",
+        "GARE text",
+        "SNCF logo"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Gare de l'Est",
+            "status": 2,
+            "related_clue": [
+                "signage",
+                "GARE text",
+                "SNCF logo"
+            ]
+        },
+        {
+            "loc": "Gare d'Austerlitz",
+            "status": 2,
+            "related_clue": [
+                "signage",
+                "GARE text",
+                "SNCF logo"
+            ]
+        },
+        {
+            "loc": "Paris",
+            "status": 2,
+            "related_clue": [
+                "signage",
+                "GARE text",
+                "SNCF logo"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "signage",
+        "GARE text",
+        "SNCF logo",
+        "French location",
+        "tricolor flag",
+        "architecture"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Gare de Nice-Ville",
+            "status": 3,
+            "related_clue": [
+                "signage",
+                "GARE text",
+                "SNCF logo",
+                "French location",
+                "tricolor flag",
+                "architecture"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "architecture",
+        "signage",
+        "strong hypothesis",
+        "photos of Nice-Ville station",
+        "online sources"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Gare de Nice-Ville",
+            "status": 3,
+            "related_clue": [
+                "architecture",
+                "signage",
+                "strong hypothesis",
+                "photos of Nice-Ville station",
+                "online sources"
+            ]
+        },
+        {
+            "loc": "France",
+            "status": 3,
+            "related_clue": [
+                "architecture",
+                "signage",
+                "strong hypothesis",
+                "photos of Nice-Ville station",
+                "online sources"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Gare de Nice-Ville",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Avenue Thiers",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Thiers neighborhood",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Jean-Médecin area",
+            "status": 2,
+            "related_clue": []
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Thiers neighborhood",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Avenue Thiers",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "France",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Avenue Thiers",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Nice",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "France",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+},{
+    "paragraph": 8,
+    "clue": [
+        "GARE text",
+        "SNCF logo",
+        "architecture",
+        "street address"
+    ],
+    "loc-clue": [
+        {
+            "loc": "France",
+            "status": 3,
+            "related_clue": [
+                "GARE text",
+                "SNCF logo"
+            ]
+        },
+        {
+            "loc": "Nice",
+            "status": 3,
+            "related_clue": [
+                "architecture"
+            ]
+        },
+        {
+            "loc": "Gare de Nice-Ville",
+            "status": 3,
+            "related_clue": [
+                "GARE text",
+                "SNCF logo",
+                "architecture"
+            ]
+        },
+        {
+            "loc": "Avenue Thiers",
+            "status": 3,
+            "related_clue": [
+                "street address"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "street address"
+            ]
+        }
+    ]
+},{
+    "paragraph": 9,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Avenue Thiers",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Nice",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "France",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+}]

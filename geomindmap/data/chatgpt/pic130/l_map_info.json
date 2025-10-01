@@ -1,0 +1,11 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Aegean Sea","granularity":2,"parent":"Europe"},
+{"entity":"Attica","granularity":3,"parent":"Greece"},
+{"entity":"Saronic Gulf","granularity":3,"parent":"Aegean Sea"},
+{"entity":"Athens","granularity":4,"parent":"Attica"},
+{"entity":"Municipality of Athens","granularity":4,"parent":"Attica"},
+{"entity":"Acropolis","granularity":5,"parent":"Athens"},
+{"entity":"Makrigianni","granularity":5,"parent":"Athens"},
+{"entity":"Plaka","granularity":5,"parent":"Athens"},
+{"entity":"National Garden of Athens","granularity":5,"parent":"Athens"}]

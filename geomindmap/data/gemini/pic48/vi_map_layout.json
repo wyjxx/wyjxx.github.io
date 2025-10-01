@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9135454576426009,
+    "y": 0.40673664307580015
+  },
+  {
+    "entity": "boardwalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "lamppost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765368,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "breakwater",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494734,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "sailboats",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588579,
+    "y": 0.7431448254773945
+  },
+  {
+    "entity": "beach",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.913545457642601,
+    "y": 0.40673664307580004
+  },
+  {
+    "entity": "water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749472,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": -1.6180339887498945,
+    "y": -1.1755705045849467
+  },
+  {
+    "entity": "urban location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.31358538980296163,
+    "y": -2.9835656861048196
+  },
+  {
+    "entity": "European location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "search-based confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.427050983124842,
+    "y": -1.76335575687742
+  },
+  {
+    "entity": "multiple search terms",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.934442802201416,
+    "y": -0.6237350724532822
+  },
+  {
+    "entity": "sculpture as key clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sculpture",
+    "x": 2.7406363729278027,
+    "y": 1.2202099292274005
+  }
+]

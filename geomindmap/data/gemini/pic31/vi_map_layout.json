@@ -1,0 +1,322 @@
+[
+  {
+    "entity": "sunny day",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9876883405951378,
+    "y": 0.15643446504023087
+  },
+  {
+    "entity": "coast",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112867,
+    "y": 0.3826834323650898
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924731,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "sea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508984,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "man-made objects",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.23344536385590547,
+    "y": 0.9723699203976766
+  },
+  {
+    "entity": "cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07845909572784487,
+    "y": 0.996917333733128
+  },
+  {
+    "entity": "license plates",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cars",
+    "x": 0.07851963151813733,
+    "y": 1.9984580724814458
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650897,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "red cone-shaped bin",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -1.369094211857378,
+    "y": -1.4579372548428227
+  },
+  {
+    "entity": "modern lamp post",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -0.7362491053693572,
+    "y": -1.8595529717765023
+  },
+  {
+    "entity": "restaurant",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6494480483301835,
+    "y": 0.760405965600031
+  },
+  {
+    "entity": "café",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8526401643540922,
+    "y": 0.5224985647159489
+  },
+  {
+    "entity": "outdoor seating",
+    "type": "v",
+    "granularity": 2,
+    "parent": "restaurant",
+    "x": -1.111140466039204,
+    "y": 1.662939224605091
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "sunlight",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sunny day",
+    "x": 1.9753766811902755,
+    "y": 0.31286893008046174
+  },
+  {
+    "entity": "bay",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.996917333733128,
+    "y": -0.07845909572784482
+  },
+  {
+    "entity": "water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": -0.38268343236508967
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8526401643540923,
+    "y": -0.5224985647159487
+  },
+  {
+    "entity": "zebra crossing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "hillside view",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bay",
+    "x": -1.9984580724814458,
+    "y": 0.0785196315181379
+  },
+  {
+    "entity": "restaurant terraces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "restaurant",
+    "x": -1.4686450188713713,
+    "y": 1.3576014910658833
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4539904997395469,
+    "y": -0.8910065241883678
+  },
+  {
+    "entity": "silver light pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -0.18821662663703148,
+    "y": -1.9911239292061598
+  },
+  {
+    "entity": "Cap Ferrat view",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bay",
+    "x": -1.9615705608064609,
+    "y": -0.3901806440322567
+  },
+  {
+    "entity": "right-hand driving",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cars",
+    "x": -0.5852709660483846,
+    "y": 2.9423558412096913
+  },
+  {
+    "entity": "tourist location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.23537728718353562,
+    "y": -2.990752001199384
+  },
+  {
+    "entity": "unique clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.7003360915677144,
+    "y": -2.9171097611930303
+  },
+  {
+    "entity": "region ideas",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.14805029709527,
+    "y": -2.77163859753386
+  },
+  {
+    "entity": "architectural clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -2.8531695488854605,
+    "y": 0.9270509831248426
+  },
+  {
+    "entity": "subtle hints",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.567495694147845,
+    "y": -2.5579204930622774
+  },
+  {
+    "entity": "country-specific characteristics",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.9483441449905516,
+    "y": -2.2812178968000927
+  },
+  {
+    "entity": "search terms",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.2812178968000913,
+    "y": -1.9483441449905525
+  },
+  {
+    "entity": "promenade style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "promenade",
+    "x": 1.7633557568774194,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "red bin design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red cone-shaped bin",
+    "x": -2.0536413177860666,
+    "y": -2.186905882264234
+  },
+  {
+    "entity": "lamp post style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern lamp post",
+    "x": -1.1043736580540358,
+    "y": -2.7893294576647536
+  },
+  {
+    "entity": "hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.557920493062277,
+    "y": -1.567495694147846
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "location clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.91710976119303,
+    "y": -0.7003360915677156
+  },
+  {
+    "entity": "visual clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.990752001199384,
+    "y": -0.23537728718353687
+  }
+]

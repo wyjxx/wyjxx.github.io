@@ -1,0 +1,274 @@
+[
+  {
+    "entity": "domed church",
+    "type": "v",
+    "granularity": 2,
+    "parent": "religious buildings",
+    "x": 1.558161149051343,
+    "y": -1.2538476117882102
+  },
+  {
+    "entity": "cathedral building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "religious buildings",
+    "x": 1.9058840008543134,
+    "y": -0.6063053482260858
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historical style buildings",
+    "x": 1.8811347484871352,
+    "y": 0.6792142946333227
+  },
+  {
+    "entity": "historical style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8951632913550623,
+    "y": 0.44573835577653825
+  },
+  {
+    "entity": "modern style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5264321628773558,
+    "y": 0.8502171357296141
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09226835946330202,
+    "y": 0.9957341762950345
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3612416661871529,
+    "y": 0.9324722294043558
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.526432162877356,
+    "y": 0.8502171357296141
+  },
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9957341762950345,
+    "y": 0.0922683594633023
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6736956436465574,
+    "y": -0.739008917220659
+  },
+  {
+    "entity": "blue street signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": -1.3643721025481341,
+    "y": 1.4623572633896218
+  },
+  {
+    "entity": "text on signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": -1.9615705608064609,
+    "y": 0.3901806440322572
+  },
+  {
+    "entity": "Zone Rogier sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": -1.820135357171572,
+    "y": -0.8289193456385938
+  },
+  {
+    "entity": "EXCEPTE text",
+    "type": "v",
+    "granularity": 3,
+    "parent": "text on signs",
+    "x": -2.4992110474037,
+    "y": 1.659501172200641
+  },
+  {
+    "entity": "commercial street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5264321628773562,
+    "y": -0.850217135729614
+  },
+  {
+    "entity": "avenue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.36124166618715214,
+    "y": -0.9324722294043561
+  },
+  {
+    "entity": "long straight street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 0.6647095989593192,
+    "y": 1.886308868942555
+  },
+  {
+    "entity": "commercial buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.18374951781656998,
+    "y": -0.9829730996839019
+  },
+  {
+    "entity": "residential buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 1.5926598195281475e-15,
+    "y": -1.0
+  },
+  {
+    "entity": "transportation hub",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.18374951781657137,
+    "y": -0.9829730996839016
+  },
+  {
+    "entity": "major square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4457383557765393,
+    "y": -0.8951632913550618
+  },
+  {
+    "entity": "religious buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296149,
+    "y": -0.5264321628773546
+  },
+  {
+    "entity": "boulevards",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9957341762950346,
+    "y": -0.09226835946330109
+  },
+  {
+    "entity": "European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": 2.955089369900013,
+    "y": 0.5171526040773126
+  },
+  {
+    "entity": "baroque architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": 2.6038319287038547,
+    "y": 1.4899863378777547
+  },
+  {
+    "entity": "European traffic signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -2.4147727751810764,
+    "y": -1.7801327041106463
+  },
+  {
+    "entity": "Dutch language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text on signs",
+    "x": -2.841717226770914,
+    "y": 0.9615836953034427
+  },
+  {
+    "entity": "Flemish language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text on signs",
+    "x": -2.9933865320234103,
+    "y": 0.19909060726427952
+  },
+  {
+    "entity": "city center layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 0.2768050783899067,
+    "y": 2.9872025288851036
+  },
+  {
+    "entity": "Place Rogier district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "major square",
+    "x": 1.337215067329618,
+    "y": -2.685489874065185
+  },
+  {
+    "entity": "significant landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "domed church",
+    "x": 2.3372417235770144,
+    "y": -1.8807714176823154
+  },
+  {
+    "entity": "linguistic markers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text on signs",
+    "x": -2.944033538714005,
+    "y": -0.5767725053494597
+  },
+  {
+    "entity": "distinctive urban infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": -0.4601749646360559,
+    "y": 2.964496416243778
+  },
+  {
+    "entity": "Brussels architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historical style buildings",
+    "x": 2.071756365042514,
+    "y": 2.1697524199562097
+  }
+]

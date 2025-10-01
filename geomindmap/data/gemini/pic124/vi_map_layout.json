@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "man-made objects",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296142,
+    "y": 0.5264321628773557
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.27366299007208267,
+    "y": 0.9618256431728192
+  },
+  {
+    "entity": "Motel One",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043557,
+    "y": 0.3612416661871533
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.932472229404356,
+    "y": -0.36124166618715225
+  },
+  {
+    "entity": "domed church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.273662990072084,
+    "y": -0.9618256431728187
+  },
+  {
+    "entity": "map",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.27366299007208106,
+    "y": -0.9618256431728196
+  },
+  {
+    "entity": "Street View",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.739008917220658,
+    "y": -0.6736956436465584
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9829730996839015,
+    "y": -0.1837495178165718
+  },
+  {
+    "entity": "bilingual signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.06159011711234041,
+    "y": 1.9990514394267318
+  },
+  {
+    "entity": "EXCEPTÉ / UITGEZ",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.3922678919258524,
+    "y": 1.4358238461288846
+  },
+  {
+    "entity": "tram lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.864944458808712,
+    "y": -0.7224833323743045
+  },
+  {
+    "entity": "mixture of architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made objects",
+    "x": 1.7004342714592284,
+    "y": 1.0528643257547114
+  },
+  {
+    "entity": "language clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bilingual signage",
+    "x": -0.09238517566851061,
+    "y": 2.9985771591400976
+  },
+  {
+    "entity": "post-war urban landscapes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mixture of architecture",
+    "x": 2.550651407188843,
+    "y": 1.579296488632067
+  },
+  {
+    "entity": "tram line data",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram lines",
+    "x": -2.797416688213068,
+    "y": -1.0837249985614568
+  },
+  {
+    "entity": "church orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "domed church",
+    "x": -0.8209889702162521,
+    "y": -2.885476929518456
+  },
+  {
+    "entity": "angle of view",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Street View",
+    "x": 2.217026751661974,
+    "y": -2.021086930939675
+  }
+]

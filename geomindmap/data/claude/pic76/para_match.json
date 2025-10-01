@@ -1,0 +1,57 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "airport terminal interior",
+    "curved glass roof",
+    "steel framework",
+    "LED strip lighting",
+    "steel beams",
+    "gate seating",
+    "modern terminal design",
+    "clean lines",
+    "gate signage",
+    "plant installation",
+    "circular wooden bench",
+    "polished stone flooring",
+    "glass windows",
+    "glass walls",
+    "modern European architecture"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "modern European architecture"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "gate signage",
+    "major international airport",
+    "curved glass roof",
+    "LED strip lighting"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "modern European architecture",
+    "curved glass roof",
+    "LED strip lighting",
+    "steel framework",
+    "contemporary airport design",
+    "major international airport"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "modern European architecture"
+      ]
+    }
+  ]
+},{"paragraph":4,"clue":["gate signage","curved glass roof","LED strip lighting","steel framework","modern terminal design","major international airport"],"loc-clue":[{"loc":"Europe","status":2,"related_clue":[]}]},{"paragraph":5,"clue":["curved glass roof","LED strip lighting","major international airport","contemporary airport design","functional design emphasis"],"loc-clue":[{"loc":"Europe","status":2,"related_clue":[]}] },{"paragraph":6,"clue":["circular wooden bench","polished stone flooring","gate seating","plant installation","modern terminal design","contemporary airport design","European airport trend","passenger comfort focus"],"loc-clue":[{"loc":"Europe","status":2,"related_clue":["European airport trend"]}]},{"paragraph":7,"clue":["curved glass roof","steel framework","LED strip lighting","steel beams","cutting-edge terminal design"],"loc-clue":[{"loc":"Europe","status":2,"related_clue":[]}]},{"paragraph":8,"clue":["glass walls","plant installation","open space","spacious environment","inviting atmosphere","contemporary airport design","passenger comfort focus"],"loc-clue":[]},{"paragraph":9,"clue":[],"loc-clue":[]},{"paragraph":10,"clue":["curved glass roof","LED strip lighting","gate signage","circular wooden bench","plant installation","major international airport","contemporary airport design"],"loc-clue":[{"loc":"Schiphol Noordwest","status":2,"related_clue":["curved glass roof","LED strip lighting","circular wooden bench","plant installation"]},{"loc":"Haarlemmermeer","status":2,"related_clue":["curved glass roof","LED strip lighting","circular wooden bench","plant installation"]},{"loc":"Netherlands","status":2,"related_clue":["curved glass roof","LED strip lighting","circular wooden bench","plant installation"]},{"loc":"Europe","status":2,"related_clue":["curved glass roof","LED strip lighting","circular wooden bench","plant installation"]}]}]

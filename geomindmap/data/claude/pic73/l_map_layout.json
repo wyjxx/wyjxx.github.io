@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Monaco",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.76536686473018,
+    "y": -1.8477590650225733
+  },
+  {
+    "entity": "Nice",
+    "granularity": 4,
+    "parent": "France",
+    "x": 3.325878449210181,
+    "y": 2.2222809320784087
+  },
+  {
+    "entity": "San Remo",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "France",
+    "x": -0.7803612880645128,
+    "y": 3.9231411216129217
+  },
+  {
+    "entity": "Monte Carlo",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  },
+  {
+    "entity": "Place du Casino",
+    "granularity": 5,
+    "parent": "Monte Carlo",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {"entity": "Philosophenweg", "type": "l"},
+  {"entity": "Schweizerweg", "type": "l"},
+  {"entity": "Germany", "type": "l"},
+  {"entity": "Heidelberg", "type": "l"},
+  {"entity": "Neuenheim", "type": "l"},
+  {"entity": "Europe", "type": "l"},
+  {"entity": "street sign", "type": "v"},
+  {"entity": "No Entry sign", "type": "v"},
+  {"entity": "No Stopping sign", "type": "v"},
+  {"entity": "stickers", "type": "v"},
+  {"entity": "hazel tree", "type": "v"},
+  {"entity": "ivy", "type": "v"},
+  {"entity": "street view", "type": "v"},
+  {"entity": "intersection", "type": "v"},
+  {"entity": "German-speaking locale", "type": "i"},
+  {"entity": "German language", "type": "i"},
+  {"entity": "German sign style", "type": "i"},
+  {"entity": "prevalent Hazel trees", "type": "i"},
+  {"entity": "region's flora", "type": "i"},
+  {"entity": "Heidelberg hypothesis", "type": "i"},
+  {"entity": "intersection hypothesis", "type": "i"}
+]

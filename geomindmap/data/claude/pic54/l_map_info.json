@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Andalusia","granularity":3,"parent":"Spain"},
+{"entity":"Granada","granularity":4,"parent":"Andalusia"},
+{"entity":"Sabika hill","granularity":4,"parent":"Andalusia"},
+{"entity":"Alhambra","granularity":5,"parent":"Granada"},
+{"entity":"Court of the Myrtles","granularity":5,"parent":"Alhambra"},
+{"entity":"Comares Tower","granularity":5,"parent":"Alhambra"},
+{"entity":"Albaicín","granularity":5,"parent":"Granada"}
+]

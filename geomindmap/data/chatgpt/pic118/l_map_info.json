@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Aegean Sea","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Cyclades islands","granularity":3,"parent":"Greece"},
+{"entity":"Thera municipality","granularity":3,"parent":"Greece"},
+{"entity":"Santorini","granularity":4,"parent":"Cyclades islands"},
+{"entity":"Oia","granularity":4,"parent":"Santorini"},
+{"entity":"Kasteli neighborhood","granularity":5,"parent":"Oia"},
+{"entity":"Byzantine Castle ruins","granularity":5,"parent":"Oia"}
+]

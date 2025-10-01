@@ -1,0 +1,23 @@
+[
+  {"entity": "Europe", "type": "l"},
+  {"entity": "Spain", "type": "l"},
+  {"entity": "Barcelona", "type": "l"},
+  {"entity": "La Barceloneta", "type": "l"},
+  {"entity": "Barceloneta beach", "type": "l"},
+  {"entity": "Sant Miquel beach", "type": "l"},
+  {"entity": "sculpture", "type": "v"},
+  {"entity": "boardwalk", "type": "v"},
+  {"entity": "lamppost", "type": "v"},
+  {"entity": "breakwater", "type": "v"},
+  {"entity": "sailboats", "type": "v"},
+  {"entity": "beach", "type": "v"},
+  {"entity": "water", "type": "v"},
+  {"entity": "people", "type": "v"},
+  {"entity": "clothing", "type": "v"},
+  {"entity": "sky", "type": "v"},
+  {"entity": "urban location", "type": "i"},
+  {"entity": "European location", "type": "i"},
+  {"entity": "search-based confirmation", "type": "i"},
+  {"entity": "multiple search terms", "type": "i"},
+  {"entity": "sculpture as key clue", "type": "i"}
+]

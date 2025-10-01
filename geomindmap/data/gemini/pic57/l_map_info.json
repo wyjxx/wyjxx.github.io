@@ -1,0 +1,7 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Sinsheim","granularity":4,"parent":"Germany"},
+{"entity":"Technik Museum Sinsheim","granularity":5,"parent":"Sinsheim"},
+{"entity":"Museumsplatz","granularity":5,"parent":"Sinsheim"}
+]

@@ -1,0 +1,23 @@
+[
+{"entity":"Berkeley Library","type":"v","granularity":1,"parent":null},
+{"entity":"Museum Building","type":"v","granularity":1,"parent":null},
+{"entity":"neoclassical building","type":"v","granularity":1,"parent":null},
+{"entity":"brutalist building","type":"v","granularity":1,"parent":null},
+{"entity":"georgian building","type":"v","granularity":1,"parent":null},
+{"entity":"ornate building","type":"v","granularity":1,"parent":null},
+{"entity":"bronze sphere sculpture","type":"v","granularity":1,"parent":null},
+{"entity":"grey overcast skies","type":"v","granularity":1,"parent":null},
+{"entity":"wet ground","type":"v","granularity":1,"parent":null},
+{"entity":"sphere","type":"v","granularity":2,"parent":"bronze sphere sculpture"},
+{"entity":"podium","type":"v","granularity":2,"parent":"bronze sphere sculpture"},
+{"entity":"decorative arched windows","type":"v","granularity":2,"parent":"Museum Building"},
+{"entity":"grey stone","type":"v","granularity":2,"parent":"Museum Building"},
+{"entity":"geometric paving","type":"v","granularity":2,"parent":"wet ground"},
+{"entity":"granite paving","type":"v","granularity":2,"parent":"wet ground"},
+{"entity":"Arnaldo Pomodoro","type":"i","granularity":3,"parent":"sphere"},
+{"entity":"Sfera con Sfera","type":"i","granularity":3,"parent":"bronze sphere sculpture"},
+{"entity":"1857","type":"i","granularity":3,"parent":"Museum Building"},
+{"entity":"1960s architecture","type":"i","granularity":3,"parent":"Berkeley Library"},
+{"entity":"older Georgian style","type":"i","granularity":3,"parent":"georgian building"},
+{"entity":"temperate rainy climate","type":"i","granularity":3,"parent":"grey overcast skies"}
+]

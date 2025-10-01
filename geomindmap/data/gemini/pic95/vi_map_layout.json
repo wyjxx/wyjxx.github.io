@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7860530947427875,
+    "y": 0.6181589862206052
+  },
+  {
+    "entity": "botanical specimens",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328512,
+    "y": 0.9898214418809327
+  },
+  {
+    "entity": "visible skyline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.142314838273285,
+    "y": 0.9898214418809328
+  },
+  {
+    "entity": "cityscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.654860733945285,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9819286972627066,
+    "y": 0.1892512443604105
+  },
+  {
+    "entity": "train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144975,
+    "y": -0.2817325568414294
+  },
+  {
+    "entity": "surrounding streets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311812,
+    "y": -0.5406408174555976
+  },
+  {
+    "entity": "street view imagery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5800569095711983,
+    "y": -0.8145759520503356
+  },
+  {
+    "entity": "PWC signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328487,
+    "y": -0.9898214418809328
+  },
+  {
+    "entity": "blurred signage \"Hauptbhf\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311812,
+    "y": -0.5406408174555974
+  },
+  {
+    "entity": "distinctive architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.9876769289225082,
+    "y": 0.221676399802022
+  },
+  {
+    "entity": "PwC Tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.8058530765732426,
+    "y": 0.8595898241783432
+  },
+  {
+    "entity": "Tower 185",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.4253883427577259,
+    "y": 1.4029497754126425
+  },
+  {
+    "entity": "Commerzbank Tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.0812816349111953,
+    "y": 1.6825070656623622
+  },
+  {
+    "entity": "curve of train tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.9638573945254132,
+    "y": 0.378502488720821
+  },
+  {
+    "entity": "angle of view",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cityscape",
+    "x": -1.1078401277322205,
+    "y": 1.6651397092695428
+  },
+  {
+    "entity": "German text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blurred signage \"Hauptbhf\"",
+    "x": 1.5320888862379556,
+    "y": -1.2855752193730792
+  },
+  {
+    "entity": "brands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PWC signage",
+    "x": -0.4251305791059543,
+    "y": -1.9542937319423188
+  },
+  {
+    "entity": "specific building names",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PWC signage",
+    "x": 0.04759539509221315,
+    "y": -1.9994335893862583
+  },
+  {
+    "entity": "readable text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "PWC signage",
+    "x": 0.5176380902050388,
+    "y": -1.9318516525781373
+  },
+  {
+    "entity": "building styles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": 1.0260604299770064,
+    "y": 2.819077862357725
+  },
+  {
+    "entity": "location hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cityscape",
+    "x": -2.471029744289498,
+    "y": 1.7011795915883126
+  },
+  {
+    "entity": "German text parsing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text",
+    "x": 2.2981333293569333,
+    "y": -1.9283628290596186
+  },
+  {
+    "entity": "PWC signage inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "PWC signage",
+    "x": 1.4377469601601658,
+    "y": -2.6330369687017696
+  },
+  {
+    "entity": "skyline inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "visible skyline",
+    "x": -0.426944514819855,
+    "y": 2.9694643256427984
+  },
+  {
+    "entity": "blurred signage inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blurred signage \"Hauptbhf\"",
+    "x": 2.850213353222835,
+    "y": -0.9361003370954637
+  },
+  {
+    "entity": "viewpoint establishment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street view imagery",
+    "x": -2.070237034446336,
+    "y": -2.1712021143152107
+  },
+  {
+    "entity": "building position matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "PwC Tower",
+    "x": 2.7087796148598637,
+    "y": 1.2893847362675148
+  },
+  {
+    "entity": "street view matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street view imagery",
+    "x": -1.3746795651822317,
+    "y": -2.66650634596477
+  },
+  {
+    "entity": "angle of view inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "angle of view",
+    "x": -1.6617601915983307,
+    "y": 2.4977095639043143
+  },
+  {
+    "entity": "area homing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "curve of train tracks",
+    "x": -2.94578609178812,
+    "y": 0.5677537330812314
+  },
+  {
+    "entity": "final location confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": -2.8784789208434924,
+    "y": -0.8451976705242882
+  },
+  {
+    "entity": "format refinement",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9864157677192535,
+    "y": -0.2851681299125503
+  }
+]

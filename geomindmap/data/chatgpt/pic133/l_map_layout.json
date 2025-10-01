@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -1.2360679774997894,
+    "y": 3.8042260651806146
+  },
+  {
+    "entity": "Elefsina",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -2.676522425435434,
+    "y": -2.972579301909576
+  },
+  {
+    "entity": "Markopoulo",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -1.2360679774997902,
+    "y": -3.804226065180614
+  },
+  {
+    "entity": "Papagou",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": 0.41811385307060844,
+    "y": -3.978087581473094
+  },
+  {
+    "entity": "Kaisariani",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": 2.6765224254354285,
+    "y": -2.9725793019095805
+  },
+  {
+    "entity": "Mount Hymettus",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": 3.9125904029352214,
+    "y": -0.8316467632710429
+  },
+  {
+    "entity": "central Athens",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.861849601988383,
+    "y": 1.167226819279527
+  },
+  {
+    "entity": "eastern suburbs",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 3.8020298280001548,
+    "y": 3.2472402416509185
+  },
+  {
+    "entity": "Kareas",
+    "granularity": 5,
+    "parent": "Kaisariani",
+    "x": 3.345653031794286,
+    "y": -3.7157241273869754
+  },
+  {
+    "entity": "Ambelokipi",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 1.9134171618254492,
+    "y": 4.619397662556434
+  },
+  {
+    "entity": "Ilisia",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -0.39229547863922437,
+    "y": 4.9845866686656395
+  },
+  {
+    "entity": "Katechaki Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -2.612492823579744,
+    "y": 4.263200821770462
+  },
+  {
+    "entity": "Junction Y1",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.263200821770461,
+    "y": 2.6124928235797444
+  },
+  {
+    "entity": "Attiki Odos A6",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.9845866686656395,
+    "y": 0.3922954786392253
+  },
+  {
+    "entity": "Airport",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.619397662556434,
+    "y": -1.9134171618254483
+  }
+]

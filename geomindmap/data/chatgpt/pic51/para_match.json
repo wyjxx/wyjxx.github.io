@@ -1,0 +1,31 @@
+[{"paragraph":1,"clue":["statue","bear","madroño tree","buildings","Tio Pepe signage","El Oso y el Madroño","symbol of Madrid"],"loc-clue":[{"loc":"Puerta del Sol","status":3,"related_clue":["El Oso y el Madroño","symbol of Madrid"]},{"loc":"Sol neighborhood","status":3,"related_clue":["Tio Pepe signage","buildings"]},{"loc":"Madrid","status":3,"related_clue":["symbol of Madrid"]},{"loc":"Spain","status":3,"related_clue":[]}]},{
+  "paragraph": 2,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Puerta del Sol",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Sol neighborhood",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Madrid",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

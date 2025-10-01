@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -3.6955181300451474,
+    "y": -1.5307337294603587
+  },
+  {
+    "entity": "Belém",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.619397662556434,
+    "y": -1.9134171618254483
+  },
+  {
+    "entity": "Centro Cultural de Belém",
+    "granularity": 5,
+    "parent": "Belém",
+    "x": 0.49008570164780385,
+    "y": 4.975923633360984
+  },
+  {
+    "entity": "Praça do Império",
+    "granularity": 5,
+    "parent": "Belém",
+    "x": -4.784701678661044,
+    "y": 1.4514233862723138
+  },
+  {
+    "entity": "Avenida de Brasília",
+    "granularity": 5,
+    "parent": "Belém",
+    "x": -2.356983684129989,
+    "y": -4.409606321741775
+  },
+  {
+    "entity": "Padrão dos Descobrimentos",
+    "granularity": 5,
+    "parent": "Belém",
+    "x": 3.86505226681368,
+    "y": -3.171966420818233
+  }
+]

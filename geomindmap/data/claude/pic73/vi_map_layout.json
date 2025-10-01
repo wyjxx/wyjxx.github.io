@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "modern luxury cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818236,
+    "y": 0.2225209339563144
+  },
+  {
+    "entity": "large crowd",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8467241992282841,
+    "y": 0.5320320765153366
+  },
+  {
+    "entity": "lamp posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865476,
+    "y": 0.7071067811865475
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4338837391175582,
+    "y": 0.9009688679024191
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.330279061955167,
+    "y": 0.9438833303083676
+  },
+  {
+    "entity": "ornate domes",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.414213562373095,
+    "y": 1.4142135623730951
+  },
+  {
+    "entity": "decorative tops",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.8877666606167351,
+    "y": 0.6605581239103344
+  },
+  {
+    "entity": "classical columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9874244197864852,
+    "y": 0.22392895220661596
+  },
+  {
+    "entity": "balustrades",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9874244197864852,
+    "y": -0.22392895220661546
+  },
+  {
+    "entity": "ornate stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.8877666606167351,
+    "y": -0.6605581239103339
+  },
+  {
+    "entity": "copper domes",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.6934483984565685,
+    "y": -1.064064153030673
+  },
+  {
+    "entity": "green patina",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.4142135623730954,
+    "y": -1.414213562373095
+  },
+  {
+    "entity": "clock tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.0640641530306734,
+    "y": -1.6934483984565682
+  },
+  {
+    "entity": "elaborate façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.6605581239103345,
+    "y": -1.887766660616735
+  },
+  {
+    "entity": "pink flower decorations",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Belle Époque style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate domes",
+    "x": -1.7360138885394172,
+    "y": 2.4466826068777805
+  },
+  {
+    "entity": "Second Empire style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate domes",
+    "x": -2.4466826068777805,
+    "y": 1.7360138885394174
+  },
+  {
+    "entity": "casino",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.9908371858655006,
+    "y": -2.8316499909251025
+  },
+  {
+    "entity": "opera house",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.596096229546009,
+    "y": -2.540172597684853
+  },
+  {
+    "entity": "European resort towns",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.121320343559642,
+    "y": -2.121320343559643
+  },
+  {
+    "entity": "major cultural centers",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.540172597684852,
+    "y": -1.5960962295460104
+  },
+  {
+    "entity": "temperate coastal areas",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overcast sky",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm trees",
+    "x": 1.3016512173526746,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "Casino de Monte-Carlo",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8316499909251025,
+    "y": -0.990837185865502
+  },
+  {
+    "entity": "glamorous Monte Carlo district",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9811366296797277,
+    "y": -0.3358934283099243
+  },
+  {
+    "entity": "high-end area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern luxury cars",
+    "x": 2.924783736545471,
+    "y": 0.6675628018689432
+  },
+  {
+    "entity": "special event",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pink flower decorations",
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  }
+]

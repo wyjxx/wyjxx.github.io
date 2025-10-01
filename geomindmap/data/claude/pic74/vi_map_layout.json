@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "race track",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5508969814521025,
+    "y": 0.8345732537213026
+  },
+  {
+    "entity": "white lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 1.9902591651718224,
+    "y": 0.19715084440488703
+  },
+  {
+    "entity": "red and white barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 1.9129008654772632,
+    "y": 0.5837895844020666
+  },
+  {
+    "entity": "cones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 1.761191063713476,
+    "y": 0.9477373249459973
+  },
+  {
+    "entity": "blue grandstands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5508969814521024,
+    "y": 0.8345732537213026
+  },
+  {
+    "entity": "seating",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue grandstands",
+    "x": -1.1017939629042048,
+    "y": 1.6691465074426053
+  },
+  {
+    "entity": "high-rise apartment buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "marina",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": 0.3513748240813428
+  },
+  {
+    "entity": "harbor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "boats",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9362348706397372,
+    "y": -0.3513748240813426
+  },
+  {
+    "entity": "yachts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8584487936018662,
+    "y": -0.512899277405906
+  },
+  {
+    "entity": "road surface",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6910626489868648,
+    "y": -0.7227948638273914
+  },
+  {
+    "entity": "asphalt",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road surface",
+    "x": -1.3821252979737295,
+    "y": -1.4455897276547829
+  },
+  {
+    "entity": "racing track markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 1.5410264855515783,
+    "y": 1.2748479794973795
+  },
+  {
+    "entity": "metal barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 1.2609645880894276,
+    "y": 1.5524072621527059
+  },
+  {
+    "entity": "safety railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 0.9318909447116497,
+    "y": 1.7696268722994768
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4738686624729988,
+    "y": -0.8805955318567379
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2225209339563146,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "curved track section",
+    "type": "v",
+    "granularity": 2,
+    "parent": "race track",
+    "x": 0.5665961396654987,
+    "y": 1.9180638191979313
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "grey clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 0.17927861780686663,
+    "y": -1.9919485879904781
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6234898018587334,
+    "y": -0.7818314824680299
+  },
+  {
+    "entity": "elevated terrain",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 1.2469796037174667,
+    "y": -1.5636629649360598
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.858448793601866,
+    "y": -0.5128992774059064
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9839295885986297,
+    "y": -0.17855689479863687
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 1.9678591771972593,
+    "y": -0.35711378959727375
+  },
+  {
+    "entity": "overcast conditions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 0.702749648162685,
+    "y": -1.8724697412794746
+  },
+  {
+    "entity": "professional setup",
+    "type": "i",
+    "granularity": 3,
+    "parent": "race track",
+    "x": 0.2689179267103,
+    "y": 2.987922881985717
+  },
+  {
+    "entity": "famous racing circuit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "race track",
+    "x": -0.32251078053157545,
+    "y": 2.9826140877493543
+  },
+  {
+    "entity": "street circuit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "race track",
+    "x": -0.9014039918683565,
+    "y": 2.861375690720076
+  },
+  {
+    "entity": "Mediterranean location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -0.6675628018689438,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "daytime",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.575346380805598,
+    "y": -1.5386978322177192
+  },
+  {
+    "entity": "buildings characteristic of Monaco",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rise apartment buildings",
+    "x": -2.427050983124842,
+    "y": 1.7633557568774196
+  },
+  {
+    "entity": "harbor area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor",
+    "x": -2.972849285303804,
+    "y": 0.4026997974529668
+  },
+  {
+    "entity": "harbor chicane area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor",
+    "x": -2.9728492853038047,
+    "y": -0.402699797452966
+  }
+]

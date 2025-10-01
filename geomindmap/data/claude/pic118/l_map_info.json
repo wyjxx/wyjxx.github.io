@@ -1,0 +1,9 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Greece","granularity":2,"parent":"Europe"},  
+  {"entity":"Greek islands","granularity":3,"parent":"Greece"},  
+  {"entity":"Cyclades","granularity":3,"parent":"Greece"},  
+  {"entity":"Santorini","granularity":4,"parent":"Cyclades"},  
+  {"entity":"Thira","granularity":4,"parent":"Cyclades"},  
+  {"entity":"Oia","granularity":5,"parent":"Santorini"}  
+]

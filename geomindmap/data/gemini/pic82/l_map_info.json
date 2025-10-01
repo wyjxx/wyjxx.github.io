@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"England","granularity":2,"parent":"Europe"},
+{"entity":"Oxford","granularity":4,"parent":"England"},
+{"entity":"Logic Lane","granularity":5,"parent":"Oxford"},
+{"entity":"High Street","granularity":5,"parent":"Oxford"},
+{"entity":"University College","granularity":5,"parent":"Oxford"}
+]

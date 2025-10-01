@@ -1,0 +1,18 @@
+[
+{"entity":"Chinese archway","type":"v","granularity":1,"parent":null},
+{"entity":"road signs","type":"v","granularity":1,"parent":null},
+{"entity":"Pedestrian Zone sign","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"one-way sign","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"blue plaque","type":"v","granularity":2,"parent":null},
+{"entity":"Georgian architecture","type":"v","granularity":1,"parent":null},
+{"entity":"architectural style","type":"v","granularity":2,"parent":"Georgian architecture"},
+{"entity":"Fogo de Chão","type":"v","granularity":2,"parent":null},
+{"entity":"Chinese signage","type":"v","granularity":1,"parent":null},
+{"entity":"Wardour Street signage","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"provided image","type":"v","granularity":1,"parent":null},
+{"entity":"street view","type":"v","granularity":1,"parent":null},
+{"entity":"中國太平 inscription","type":"v","granularity":2,"parent":"Chinese archway"},
+{"entity":"Peace in China","type":"i","granularity":3,"parent":"中國太平 inscription"},
+{"entity":"UK-style","type":"i","granularity":3,"parent":"road signs"},
+{"entity":"English","type":"i","granularity":3,"parent":"road signs"}
+]

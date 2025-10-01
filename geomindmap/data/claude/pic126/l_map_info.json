@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Athens","granularity":4,"parent":"Greece"},
+{"entity":"Syntagma Square","granularity":5,"parent":"Athens"},
+{"entity":"Presidential Mansion","granularity":5,"parent":"Athens"},
+{"entity":"Tomb of the Unknown Soldier","granularity":5,"parent":"Athens"},
+{"entity":"Hellenic Parliament building","granularity":5,"parent":"Athens"}
+]

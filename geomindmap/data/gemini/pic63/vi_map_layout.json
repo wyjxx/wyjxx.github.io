@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "arch",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9009688679024191,
+    "y": 0.4338837391175581
+  },
+  {
+    "entity": "Doric columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arch",
+    "x": 1.9498558243636472,
+    "y": 0.4450418679126288
+  },
+  {
+    "entity": "sunset",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631445,
+    "y": 0.9749279121818236
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3653410243663949,
+    "y": 0.9308737486442044
+  },
+  {
+    "entity": "streetlights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "modern structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159945,
+    "y": 0.5633200580636226
+  },
+  {
+    "entity": "people's attire",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9111456115722811,
+    "y": 0.5895103488218092
+  },
+  {
+    "entity": "foreground elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.0106430996148606e-15
+  },
+  {
+    "entity": "underground entrance",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861409,
+    "y": -0.29475517441090354
+  },
+  {
+    "entity": "red tent",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7330518718298271,
+    "y": -0.6801727377709185
+  },
+  {
+    "entity": "bare trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07473009358642561,
+    "y": -0.99720379718118
+  },
+  {
+    "entity": "DZ BANK sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "U-Bahn station entrance",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298253,
+    "y": -0.6801727377709205
+  },
+  {
+    "entity": "U-Bahn station exit",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "specific orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sunset",
+    "x": 1.3016512173526746,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "seasonal market stall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red tent",
+    "x": -2.1991556154894814,
+    "y": -2.0405182133127555
+  },
+  {
+    "entity": "late autumn",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": -0.8842655232327165,
+    "y": -2.8667184173584213
+  },
+  {
+    "entity": "winter season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": 0.4471267985285192,
+    "y": -2.966492478675386
+  },
+  {
+    "entity": "west of the gate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "arch",
+    "x": 2.3454944474040893,
+    "y": 1.8704694055762006
+  },
+  {
+    "entity": "east direction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sunset",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9664924786753852,
+    "y": -0.4471267985285258
+  }
+]

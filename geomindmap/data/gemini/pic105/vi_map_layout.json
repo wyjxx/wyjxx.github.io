@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "plaque",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10452846326765333,
+    "y": 0.9945218953682734
+  },
+  {
+    "entity": "Babboe cargo bike",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426011,
+    "y": -0.4067366430757998
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999996,
+    "y": -0.8660254037844388
+  },
+  {
+    "entity": "entrance building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6691306063588585,
+    "y": -0.743144825477394
+  },
+  {
+    "entity": "plaque text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaque",
+    "x": 0.73068204873279,
+    "y": 1.8617474972884085
+  },
+  {
+    "entity": "mosaic tiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "entrance building",
+    "x": 0.34729635533385994,
+    "y": -1.9696155060244163
+  },
+  {
+    "entity": "sign fragment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "entrance building",
+    "x": 1.338261212717717,
+    "y": -1.486289650954788
+  },
+  {
+    "entity": "AUFZUG sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "entrance building",
+    "x": 1.9225233918766373,
+    "y": -0.5512747116339995
+  },
+  {
+    "entity": "reconstruction plaque",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaque",
+    "x": -1.9279257213917065,
+    "y": 0.5320736911333505
+  },
+  {
+    "entity": "German text",
+    "type": "v",
+    "granularity": 3,
+    "parent": "plaque text",
+    "x": 2.866718417358422,
+    "y": 0.8842655232327126
+  },
+  {
+    "entity": "construction dates",
+    "type": "v",
+    "granularity": 3,
+    "parent": "plaque text",
+    "x": 1.8704694055762008,
+    "y": 2.3454944474040893
+  },
+  {
+    "entity": "technical specs",
+    "type": "v",
+    "granularity": 3,
+    "parent": "plaque text",
+    "x": 0.2241902807592725,
+    "y": 2.9916113915435405
+  },
+  {
+    "entity": "decoding ELBTUNNEL",
+    "type": "i",
+    "granularity": 3,
+    "parent": "plaque text",
+    "x": -1.5000000000000007,
+    "y": 2.5980762113533156
+  },
+  {
+    "entity": "architectural styles",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -1.499999999999999,
+    "y": -2.5980762113533165
+  },
+  {
+    "entity": "site renovations",
+    "type": "i",
+    "granularity": 3,
+    "parent": "reconstruction plaque",
+    "x": -2.8918885820875597,
+    "y": 0.7981105367000256
+  }
+]

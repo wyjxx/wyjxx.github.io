@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "supersonic jets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087207,
+    "y": 0.7933533402912352
+  },
+  {
+    "entity": "roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000002,
+    "y": 0.8660254037844385
+  },
+  {
+    "entity": "sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890682,
+    "y": 0.258819045102521
+  },
+  {
+    "entity": "forecourt entrances",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.923879532511287,
+    "y": -0.3826834323650892
+  },
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912352,
+    "y": -0.6087614290087207
+  },
+  {
+    "entity": "open-air display area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "Deutsche Bahn stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "Concorde",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic jets",
+    "x": 1.9767230209355213,
+    "y": 0.3042467723798334
+  },
+  {
+    "entity": "Tupolev Tu-144",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic jets",
+    "x": 1.7937454830653767,
+    "y": 0.8845773804380025
+  },
+  {
+    "entity": "Aeroflot livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic jets",
+    "x": 1.4447279241195112,
+    "y": 1.3830261115645388
+  },
+  {
+    "entity": "tail number СССР-77112",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic jets",
+    "x": 0.9619775378387755,
+    "y": 1.7534535114150154
+  },
+  {
+    "entity": "SINSHEIM lettering",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": -1.8126155740732994,
+    "y": 0.8452365234813998
+  },
+  {
+    "entity": "tall white posts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": -1.992389396183491,
+    "y": -0.1743114854953159
+  },
+  {
+    "entity": "roof-mounted supports",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof",
+    "x": -1.0000000000000004,
+    "y": 1.732050807568877
+  },
+  {
+    "entity": "blue-grey industrial façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "open-air display area",
+    "x": -0.9079809994790938,
+    "y": -1.7820130483767356
+  },
+  {
+    "entity": "parking-lot line-markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "open-air display area",
+    "x": 0.31286893008046135,
+    "y": -1.9753766811902755
+  },
+  {
+    "entity": "side by side transports",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic jets",
+    "x": 0.585270966048385,
+    "y": 2.9423558412096913
+  },
+  {
+    "entity": "different jet arrangement",
+    "type": "i",
+    "granularity": 3,
+    "parent": "supersonic jets",
+    "x": -0.32660062455589384,
+    "y": 2.982169014666959
+  },
+  {
+    "entity": "rooftop signage match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "SINSHEIM lettering",
+    "x": -2.7189233611099493,
+    "y": 1.2678547852220996
+  },
+  {
+    "entity": "façade match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue-grey industrial façade",
+    "x": -1.3619714992186407,
+    "y": -2.6730195725651034
+  },
+  {
+    "entity": "parking layout match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "parking-lot line-markings",
+    "x": 0.469303395120692,
+    "y": -2.9630650217854133
+  },
+  {
+    "entity": "dedicated railway halt",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Deutsche Bahn stop",
+    "x": 2.4944088369076356,
+    "y": -1.6667106990588065
+  },
+  {
+    "entity": "district association",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Deutsche Bahn stop",
+    "x": 2.942355841209691,
+    "y": -0.5852709660483861
+  },
+  {
+    "entity": "outdoor exhibit conclusion",
+    "type": "i",
+    "granularity": 3,
+    "parent": "open-air display area",
+    "x": 1.7633557568774187,
+    "y": -2.427050983124843
+  }
+]

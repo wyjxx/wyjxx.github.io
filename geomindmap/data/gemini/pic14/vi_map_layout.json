@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "signage text",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "license plate M",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765299,
+    "y": -0.9945218953682734
+  },
+  {
+    "entity": "building style",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9135454576426005,
+    "y": -0.40673664307580093
+  },
+  {
+    "entity": "Gaststätte sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": 1.9460897411596476,
+    "y": 0.4612317414848803
+  },
+  {
+    "entity": "Straße sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": 0.7921595320783138,
+    "y": 1.836432213760548
+  },
+  {
+    "entity": "parking sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "speed limit sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": -1.6709756228258725,
+    "y": 1.0990179561416125
+  },
+  {
+    "entity": "Schelling-Salon sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": -1.986476715483886,
+    "y": 0.23218582825046072
+  },
+  {
+    "entity": "Barer Straße sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage text",
+    "x": -1.6709756228258734,
+    "y": -1.0990179561416111
+  },
+  {
+    "entity": "ß character",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Straße sign",
+    "x": 0.7921595320783138,
+    "y": 1.836432213760548
+  },
+  {
+    "entity": "German-speaking region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ß character",
+    "x": 1.1882392981174708,
+    "y": 2.754648320640822
+  },
+  {
+    "entity": "Munich hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate M",
+    "x": -0.6237350724532793,
+    "y": -2.9344428022014166
+  },
+  {
+    "entity": "license plate inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate M",
+    "x": 1.2202099292273993,
+    "y": -2.740636372927803
+  },
+  {
+    "entity": "building style inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building style",
+    "x": 2.740636372927802,
+    "y": -1.2202099292274027
+  },
+  {
+    "entity": "intersection inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Barer Straße sign",
+    "x": -2.5064634342388104,
+    "y": -1.6485269342124167
+  }
+]

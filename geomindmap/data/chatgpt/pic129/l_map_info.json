@@ -1,0 +1,19 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Portugal","granularity":2,"parent":"Europe"},  
+  {"entity":"Tagus River","granularity":2,"parent":"Europe"},  
+  {"entity":"Lisbon","granularity":4,"parent":"Portugal"},  
+  {"entity":"Alfama","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Lisbon Cruise Terminal","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Santa Apolónia station","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Miradouro das Portas do Sol","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Miradouro de Santa Luzia","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Castelo de São Jorge","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Largo das Portas do Sol","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Santa Engrácia","granularity":5,"parent":"Lisbon"},  
+  {"entity":"National Pantheon","granularity":5,"parent":"Lisbon"},  
+  {"entity":"São Vicente de Fora","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Santo Estêvão church","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Santa Luzia church","granularity":5,"parent":"Lisbon"},  
+  {"entity":"Madre de Deus monastery","granularity":5,"parent":"Lisbon"}  
+]

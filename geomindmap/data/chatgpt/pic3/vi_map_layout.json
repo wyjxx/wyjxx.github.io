@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "street lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9685831611286311,
+    "y": 0.2486898871648548
+  },
+  {
+    "entity": "LED fixtures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lights",
+    "x": 1.9929857184990087,
+    "y": 0.167355686664631
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749475,
+    "y": 0.5877852522924731
+  },
+  {
+    "entity": "rails",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6374239897486896,
+    "y": 0.7705132427757893
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0627905195293134,
+    "y": 0.9980267284282716
+  },
+  {
+    "entity": "concrete curb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sidewalk",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "bicycle infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9822872507286887,
+    "y": 0.18738131458572457
+  },
+  {
+    "entity": "frame shape",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bicycle infrastructure",
+    "x": -1.4750262347163476,
+    "y": 1.3506656162420492
+  },
+  {
+    "entity": "red basket",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bicycle infrastructure",
+    "x": -1.7214840540078875,
+    "y": 1.0180828315007422
+  },
+  {
+    "entity": "integrated lock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bicycle infrastructure",
+    "x": -1.8453454797402293,
+    "y": 0.7711679845547937
+  },
+  {
+    "entity": "orange color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "frame shape",
+    "x": -2.2125393520745216,
+    "y": 2.025998424363074
+  },
+  {
+    "entity": "yellow circle sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.9512484181405502,
+    "y": 1.7592971457332331
+  },
+  {
+    "entity": "H sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.6971440946436306,
+    "y": 1.874563978983783
+  },
+  {
+    "entity": "pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.42947065433412623,
+    "y": 1.9533445566683358
+  },
+  {
+    "entity": "sidewalk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749476,
+    "y": -0.587785252292473
+  },
+  {
+    "entity": "bus stop sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.1255810390586268,
+    "y": 1.9960534568565431
+  },
+  {
+    "entity": "timetable",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop sign",
+    "x": 0.0837513074583995,
+    "y": 1.9982456601977168
+  },
+  {
+    "entity": "lamps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lights",
+    "x": 1.9371663222572622,
+    "y": 0.4973797743297096
+  },
+  {
+    "entity": "tram lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.684547105928689,
+    "y": -0.7289686274214113
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5877852522924732,
+    "y": -0.8090169943749473
+  },
+  {
+    "entity": "two-lane street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide road",
+    "x": -0.4851984615908149,
+    "y": -1.9402531929802116
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.42577929156507294,
+    "y": -0.9048270524660194
+  },
+  {
+    "entity": "spherical lights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lights",
+    "x": 1.8270909152852017,
+    "y": 0.8134732861516004
+  },
+  {
+    "entity": "wide road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3681245526846774,
+    "y": -0.9297764858882516
+  },
+  {
+    "entity": "dark sedan",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide road",
+    "x": 0.6060705392655483,
+    "y": -1.9059586830344375
+  },
+  {
+    "entity": "license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dark sedan",
+    "x": 0.6060705392655483,
+    "y": -1.9059586830344375
+  },
+  {
+    "entity": "EU band",
+    "type": "v",
+    "granularity": 2,
+    "parent": "license plate",
+    "x": -0.1581709236676096,
+    "y": -1.9937356792980696
+  },
+  {
+    "entity": "side numbers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "license plate",
+    "x": 0.22820980846900893,
+    "y": -1.9869374130350805
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.8515585831301459,
+    "y": -1.8096541049320387
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9297764858882515,
+    "y": -0.36812455268467786
+  },
+  {
+    "entity": "tram rails",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rails",
+    "x": 1.2748479794973793,
+    "y": 1.5410264855515785
+  },
+  {
+    "entity": "bike rack",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bicycle infrastructure",
+    "x": -1.93400297552487,
+    "y": 0.5095414513667645
+  },
+  {
+    "entity": "red child seat",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bicycle infrastructure",
+    "x": -1.997473913212035,
+    "y": 0.10048863635954021
+  },
+  {
+    "entity": "empty street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide road",
+    "x": 1.6031339697417537,
+    "y": -1.1958099661150368
+  },
+  {
+    "entity": "fog",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.859552971776503,
+    "y": -0.7362491053693557
+  },
+  {
+    "entity": "red headers",
+    "type": "v",
+    "granularity": 3,
+    "parent": "bus operator signage",
+    "x": -1.2010470976706844,
+    "y": 2.749088188686719
+  },
+  {
+    "entity": "bus lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9921147013144779,
+    "y": -0.1253332335643038
+  },
+  {
+    "entity": "bus operator signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.8006980651137896,
+    "y": 1.8327254591244793
+  },
+  {
+    "entity": "Nextbike",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle infrastructure",
+    "x": -2.9630650217854133,
+    "y": -0.4693033951206922
+  },
+  {
+    "entity": "Donkey Republic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle infrastructure",
+    "x": -2.870136154676492,
+    "y": -0.8731085004848135
+  },
+  {
+    "entity": "Veturilo",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle infrastructure",
+    "x": -2.7224532736233513,
+    "y": -1.2602571852354176
+  },
+  {
+    "entity": "German standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -1.746368910471868,
+    "y": 2.439302283141083
+  },
+  {
+    "entity": "trolleybus system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead wires",
+    "x": 2.4270509831248424,
+    "y": 1.7633557568774194
+  },
+  {
+    "entity": "Berlin license plate prefix 'B'",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": 0.9091058088983225,
+    "y": -2.858938024551656
+  },
+  {
+    "entity": "Berlin license plate prefix 'B-SE'",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": 1.441956283688424,
+    "y": -2.630734132505881
+  },
+  {
+    "entity": "Hamburg license plate prefix 'HH'",
+    "type": "i",
+    "granularity": 3,
+    "parent": "license plate",
+    "x": 1.9209726592705185,
+    "y": -2.3043142238712044
+  },
+  {
+    "entity": "Bobike seat",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red child seat",
+    "x": -2.9962108698180523,
+    "y": 0.15073295453931032
+  },
+  {
+    "entity": "early morning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "empty street",
+    "x": 2.404700954612631,
+    "y": -1.7937149491725553
+  },
+  {
+    "entity": "bus line 156",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus lines",
+    "x": 2.9763441039434335,
+    "y": -0.37599970069291133
+  },
+  {
+    "entity": "KVB stops",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus stop sign",
+    "x": -0.5003062401483067,
+    "y": 2.957988111211515
+  }
+]

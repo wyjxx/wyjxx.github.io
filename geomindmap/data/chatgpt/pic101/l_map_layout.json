@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.493959207434934,
+    "y": 3.1273259298721197
+  },
+  {
+    "entity": "Hamburg Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 4.84538643114539,
+    "y": 1.233786988451468
+  },
+  {
+    "entity": "Leipzig Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  },
+  {
+    "entity": "Frankfurt (Main) Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 2.16941869558779,
+    "y": -4.504844339512096
+  },
+  {
+    "entity": "Munich Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 3.9091574123401482,
+    "y": -3.1174490092936686
+  },
+  {
+    "entity": "Cologne Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 4.8746395609091175,
+    "y": -1.1126046697815732
+  },
+  {
+    "entity": "DB Passage",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 3.6652593591491316,
+    "y": 3.4008636888545967
+  },
+  {
+    "entity": "Wandelhalle",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 1.5924332512584223,
+    "y": 4.739636730835659
+  },
+  {
+    "entity": "Nordsteg walkway",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -0.8682408883346504,
+    "y": 4.924038765061041
+  },
+  {
+    "entity": "Hamburg-Mitte",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -3.1174490092936673,
+    "y": 3.9091574123401496
+  },
+  {
+    "entity": "Neustadt",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.607381059352039,
+    "y": 1.942173981373473
+  },
+  {
+    "entity": "St. Georg",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.975153876827007,
+    "y": -0.4978392329790846
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.131193871579973,
+    "y": -2.816600290318112
+  },
+  {
+    "entity": "Promenadenhalle",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -2.281053286765812,
+    "y": -4.449359044057345
+  }
+]

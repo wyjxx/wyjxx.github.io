@@ -1,0 +1,21 @@
+[
+{"entity":"metro station","type":"v","granularity":1,"parent":null},
+{"entity":"modern electric train","type":"v","granularity":1,"parent":null},
+{"entity":"silver metallic train","type":"v","granularity":1,"parent":null},
+{"entity":"clean platform","type":"v","granularity":1,"parent":null},
+{"entity":"people waiting","type":"v","granularity":1,"parent":null},
+{"entity":"arched tunnel design","type":"v","granularity":1,"parent":null},
+{"entity":"contemporary design","type":"v","granularity":1,"parent":null},
+{"entity":"well-maintained design","type":"v","granularity":1,"parent":null},
+{"entity":"curved concrete ceiling","type":"v","granularity":2,"parent":"arched tunnel design"},
+{"entity":"ribbed segmented ceiling","type":"v","granularity":2,"parent":"curved concrete ceiling"},
+{"entity":"integrated lighting","type":"v","granularity":2,"parent":"curved concrete ceiling"},
+{"entity":"digital display signs","type":"v","granularity":2,"parent":"metro station"},
+{"entity":"glass platform barriers","type":"v","granularity":2,"parent":"clean platform"},
+{"entity":"tile flooring","type":"v","granularity":2,"parent":"clean platform"},
+{"entity":"developed country","type":"i","granularity":3,"parent":"metro station"},
+{"entity":"well-funded transit system","type":"i","granularity":3,"parent":"metro station"},
+{"entity":"London Underground","type":"i","granularity":3,"parent":"metro station"},
+{"entity":"European metro system","type":"i","granularity":3,"parent":"metro station"},
+{"entity":"newer subway systems","type":"i","granularity":3,"parent":"metro station"}
+]

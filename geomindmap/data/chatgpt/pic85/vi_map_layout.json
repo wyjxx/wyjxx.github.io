@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "medieval-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9730448705798238,
+    "y": 0.23061587074244014
+  },
+  {
+    "entity": "spires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7660444431189781,
+    "y": 0.6427876096865393
+  },
+  {
+    "entity": "bus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28680323271109,
+    "y": 0.9579895123154889
+  },
+  {
+    "entity": "bus stop sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.993238357741943,
+    "y": -0.11609291412522968
+  },
+  {
+    "entity": "sign K1",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop sign",
+    "x": -1.9625106212547692,
+    "y": 0.38542452109618053
+  },
+  {
+    "entity": "sign K3",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus stop sign",
+    "x": -1.986476715483886,
+    "y": -0.23218582825045936
+  },
+  {
+    "entity": "pink facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval-style buildings",
+    "x": 1.9460897411596476,
+    "y": 0.4612317414848803
+  },
+  {
+    "entity": "red telephone box",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189783,
+    "y": -0.6427876096865389
+  },
+  {
+    "entity": "crenellated building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000004,
+    "y": -0.8660254037844384
+  },
+  {
+    "entity": "double-deck bus",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus",
+    "x": 0.7306820487327904,
+    "y": 1.8617474972884083
+  },
+  {
+    "entity": "licence plate \"OX68 EWG\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-deck bus",
+    "x": 0.7306820487327904,
+    "y": 1.8617474972884083
+  },
+  {
+    "entity": "battlemented stone buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05814482891047624,
+    "y": -0.9983081582712682
+  },
+  {
+    "entity": "Victorian windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "battlemented stone buildings",
+    "x": -0.11628965782095248,
+    "y": -1.9966163165425364
+  },
+  {
+    "entity": "tall pointed spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "spires",
+    "x": 1.5320888862379562,
+    "y": 1.2855752193730785
+  },
+  {
+    "entity": "bus-stop signposts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3960797660391565,
+    "y": -0.9182161068802741
+  },
+  {
+    "entity": "sign stands K1–K5",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus-stop signposts",
+    "x": 0.792159532078313,
+    "y": -1.8364322137605482
+  },
+  {
+    "entity": "route \"X3 Abingdon\" display",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bus",
+    "x": -0.57360646542218,
+    "y": 1.9159790246309778
+  },
+  {
+    "entity": "bus connection",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus",
+    "x": -2.1991556154894782,
+    "y": 2.040518213312759
+  },
+  {
+    "entity": "Stagecoach operation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus",
+    "x": -2.658148531290402,
+    "y": 1.3907718668418187
+  },
+  {
+    "entity": "street curvature inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.058724913606201,
+    "y": -2.182120924719146
+  },
+  {
+    "entity": "route confusion",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route \"X3 Abingdon\" display",
+    "x": -0.2738841331159444,
+    "y": 2.9874717541137237
+  },
+  {
+    "entity": "location confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bus stop sign",
+    "x": -2.7310888228984407,
+    "y": -1.241432173515416
+  },
+  {
+    "entity": "street layout inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.506463434238808,
+    "y": -1.64852693421242
+  },
+  {
+    "entity": "search-based clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "route \"X3 Abingdon\" display",
+    "x": -1.4128156956606595,
+    "y": 2.646498027600793
+  },
+  {
+    "entity": "orientation inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8190778623577253,
+    "y": -1.0260604299770058
+  },
+  {
+    "entity": "architectural inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "crenellated building",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "neighborhood focus",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9797150732258286,
+    "y": -0.3482787423756928
+  }
+]

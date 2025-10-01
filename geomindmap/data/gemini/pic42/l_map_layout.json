@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.175570504584946,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.902113032590307,
+    "y": -0.6180339887498952
+  },
+  {
+    "entity": "Carcassonne",
+    "granularity": 4,
+    "parent": "France",
+    "x": -2.351141009169892,
+    "y": 3.23606797749979
+  },
+  {
+    "entity": "Cité de Carcassonne",
+    "granularity": 5,
+    "parent": "Carcassonne",
+    "x": 4.524135262330098,
+    "y": 2.1288964578253635
+  },
+  {
+    "entity": "Porte d'Aude",
+    "granularity": 5,
+    "parent": "Carcassonne",
+    "x": 1.2434494358242736,
+    "y": 4.842915805643155
+  },
+  {
+    "entity": "Château Comtal",
+    "granularity": 5,
+    "parent": "Carcassonne",
+    "x": -2.938926261462365,
+    "y": 4.045084971874737
+  },
+  {
+    "entity": "Tour de l'Évêque",
+    "granularity": 5,
+    "parent": "Carcassonne",
+    "x": -4.990133642141358,
+    "y": 0.3139525976465657
+  },
+  {
+    "entity": "Rue de la Porte d'Aude",
+    "granularity": 5,
+    "parent": "Carcassonne",
+    "x": -3.422735529643445,
+    "y": -3.6448431371070567
+  }
+]

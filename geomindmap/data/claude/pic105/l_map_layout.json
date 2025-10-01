@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Elbe River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8019377358048383,
+    "y": 0.8677674782351162
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "St. Pauli",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -0.3736504679321202,
+    "y": 4.9860189859059005
+  },
+  {
+    "entity": "Steinwerder",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -5.0,
+    "y": 2.8327694488239896e-15
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.801937735804838,
+    "y": -0.8677674782351167
+  },
+  {
+    "entity": "Landungsbrücken",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -0.3736504679321281,
+    "y": -4.9860189859059005
+  }
+]

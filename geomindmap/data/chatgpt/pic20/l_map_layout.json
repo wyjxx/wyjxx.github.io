@@ -1,0 +1,219 @@
+[
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.959059882504989,
+    "y": 0.4025970401773201
+  },
+  {
+    "entity": "Danube",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.7486932322891642,
+    "y": 0.9706039250621621
+  },
+  {
+    "entity": "southern Germany",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.2762743680783726,
+    "y": 1.9541174481666665
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": null,
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4622903236218288,
+    "y": -1.7138046452843771
+  },
+  {
+    "entity": "Alsace",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9385898237574835,
+    "y": -0.6038955602659808
+  },
+  {
+    "entity": "Müllheim",
+    "granularity": 4,
+    "parent": "Baden-Württemberg",
+    "x": 3.283053764829105,
+    "y": -2.2850728603791697
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.7690632461156564,
+    "y": 3.9253715395455306
+  },
+  {
+    "entity": "Ingolstadt",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.7996451449475837,
+    "y": 1.2500787065126167
+  },
+  {
+    "entity": "Wolnzach",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.977570975818096,
+    "y": 0.42300015641779387
+  },
+  {
+    "entity": "Eichenau",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.977570975818096,
+    "y": -0.4230001564177929
+  },
+  {
+    "entity": "Puchheim",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.7996451449475837,
+    "y": -1.2500787065126158
+  },
+  {
+    "entity": "Germering",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.4517525118407257,
+    "y": -2.021238382032471
+  },
+  {
+    "entity": "Gröbenzell",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.949455108243926,
+    "y": -2.7019834500703013
+  },
+  {
+    "entity": "Karlsfeld",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -2.315221843806421,
+    "y": -3.261862629535707
+  },
+  {
+    "entity": "Emmering",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -1.5774234204532747,
+    "y": -3.6758312464809224
+  },
+  {
+    "entity": "Fürstenfeldbruck",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.769063246115659,
+    "y": -3.92537153954553
+  },
+  {
+    "entity": "Landsberg am Lech",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 0.07369888305545533,
+    "y": -3.9993210016997107
+  },
+  {
+    "entity": "Augsburg",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 1.3198739069808056,
+    "y": -3.7759678056984574
+  },
+  {
+    "entity": "Colmar",
+    "granularity": 4,
+    "parent": "Alsace",
+    "x": 3.918119765009978,
+    "y": -0.8051940803546411
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": 3.918119765009978,
+    "y": 0.8051940803546402
+  },
+  {
+    "entity": "Landshut",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": 2.4338273582458596,
+    "y": -3.1743478685005493
+  },
+  {
+    "entity": "Untermenzing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.989469529438697,
+    "y": 4.007876237180681
+  },
+  {
+    "entity": "Obermenzing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.9585426070335261,
+    "y": 4.60044681052116
+  },
+  {
+    "entity": "Eversbuschstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.8168444158992867,
+    "y": 4.932825275662433
+  },
+  {
+    "entity": "Allach",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -0.3710528683659759,
+    "y": 4.986212968664433
+  },
+  {
+    "entity": "Allach-Untermenzing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -1.5379641414784284,
+    "y": 4.757590387951291
+  },
+  {
+    "entity": "Dorfstrasse",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.617891226144037,
+    "y": 4.259887971306061
+  },
+  {
+    "entity": "Höcherstraße",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.5497555975077906,
+    "y": 3.521254776065218
+  },
+  {
+    "entity": "Pippinger Strasse",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.2808528628601925,
+    "y": 2.5834664245044285
+  },
+  {
+    "entity": "Inningen",
+    "granularity": 5,
+    "parent": "Augsburg",
+    "x": 1.649842383726007,
+    "y": -4.719959757123072
+  }
+]

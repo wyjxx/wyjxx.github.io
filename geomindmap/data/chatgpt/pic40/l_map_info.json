@@ -1,0 +1,9 @@
+[
+{"entity":"France","granularity":2,"parent":null},
+{"entity":"Haute-Garonne","granularity":3,"parent":"France"},
+{"entity":"Occitanie","granularity":3,"parent":"France"},
+{"entity":"Toulouse","granularity":4,"parent":"Haute-Garonne"},
+{"entity":"Place du Capitole","granularity":5,"parent":"Toulouse"},
+{"entity":"Capitole district","granularity":5,"parent":"Toulouse"},
+{"entity":"Capitole Quarter","granularity":5,"parent":"Toulouse"}
+]

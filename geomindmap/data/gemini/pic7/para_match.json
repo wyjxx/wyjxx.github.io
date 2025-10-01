@@ -1,0 +1,386 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "rocky peaks",
+    "dense forests",
+    "mountainous European region"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Alps",
+      "status": 2,
+      "related_clue": [
+        "rocky peaks",
+        "dense forests"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "road features",
+    "striped pole",
+    "signpost",
+    "narrow road",
+    "guardrails",
+    "secondary route",
+    "less-traveled route",
+    "alder tree"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "snow poles",
+    "marker posts",
+    "road features",
+    "German influence"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "snow poles",
+        "marker posts",
+        "road features",
+        "German influence"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "snow poles",
+        "marker posts",
+        "road features",
+        "German influence"
+      ]
+    },
+    {
+      "loc": "Northern Italy",
+      "status": 2,
+      "related_clue": [
+        "snow poles",
+        "marker posts",
+        "road features",
+        "German influence"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "mountain profile",
+    "road",
+    "marker posts",
+    "reverse image search",
+    "potential matches"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Austrian Alps",
+      "status": 2,
+      "related_clue": [
+        "mountain profile",
+        "road",
+        "marker posts",
+        "reverse image search",
+        "potential matches"
+      ]
+    },
+    {
+      "loc": "Tyrol region",
+      "status": 3,
+      "related_clue": [
+        "mountain profile",
+        "road",
+        "marker posts",
+        "reverse image search",
+        "potential matches"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "terrain",
+    "road features",
+    "trails",
+    "mountainous landscape",
+    "likely match"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Ammergau Alps",
+      "status": 2,
+      "related_clue": [
+        "terrain",
+        "road features",
+        "trails",
+        "mountainous landscape",
+        "likely match"
+      ]
+    },
+    {
+      "loc": "Kramer ridge",
+      "status": 3,
+      "related_clue": [
+        "likely match",
+        "mountainous landscape"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "mountain profile",
+    "road angle",
+    "foreground road",
+    "marker posts"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Kramerspitz mountain range",
+      "status": 3,
+      "related_clue": [
+        "mountain profile",
+        "road angle",
+        "foreground road",
+        "marker posts"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [
+    "Google Maps",
+    "road",
+    "marker posts",
+    "mountain orientation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Kramerspitz mountain range",
+      "status": 2,
+      "related_clue": [
+        "Google Maps",
+        "road",
+        "marker posts",
+        "mountain orientation"
+      ]
+    }
+  ]
+},{
+  "paragraph": 8,
+  "clue": [
+    "terrain",
+    "road features",
+    "mountain orientation",
+    "road curvature",
+    "forest",
+    "Google Maps satellite view"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Kramerspitz mountain range",
+      "status": 2,
+      "related_clue": [
+        "terrain",
+        "road features",
+        "mountain orientation",
+        "road curvature",
+        "forest",
+        "Google Maps satellite view"
+      ]
+    }
+  ]
+},{
+  "paragraph": 9,
+  "clue": [
+    "satellite imagery",
+    "road curvature",
+    "path branch"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Wildenauer Straße",
+      "status": 3,
+      "related_clue": [
+        "satellite imagery",
+        "road curvature",
+        "path branch"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 2,
+      "related_clue": [
+        "satellite imagery",
+        "road curvature",
+        "path branch"
+      ]
+    },
+    {
+      "loc": "Kramerspitz mountain range",
+      "status": 2,
+      "related_clue": [
+        "satellite imagery",
+        "road curvature"
+      ]
+    }
+  ]
+},{
+  "paragraph": 10,
+  "clue": [
+    "road curvature",
+    "mountain orientation",
+    "angle of view",
+    "satellite imagery",
+    "forest density",
+    "road features"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Wildenauer Straße",
+      "status": 3,
+      "related_clue": [
+        "road curvature",
+        "mountain orientation",
+        "angle of view",
+        "satellite imagery",
+        "forest density",
+        "road features"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 2,
+      "related_clue": [
+        "forest density",
+        "road features"
+      ]
+    }
+  ]
+},{
+  "paragraph": 11,
+  "clue": [
+    "road curvature",
+    "marker positions",
+    "mountain orientation",
+    "Google Earth's satellite view"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Wildenauer Straße",
+      "status": 3,
+      "related_clue": [
+        "road curvature",
+        "marker positions",
+        "mountain orientation",
+        "Google Earth's satellite view"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 2,
+      "related_clue": [
+        "road curvature",
+        "marker positions",
+        "mountain orientation",
+        "Google Earth's satellite view"
+      ]
+    }
+  ]
+},{
+  "paragraph": 12,
+  "clue": [
+    "road curvature",
+    "forest density",
+    "satellite imagery"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Wildenauer Straße",
+      "status": 3,
+      "related_clue": [
+        "road curvature",
+        "forest density",
+        "satellite imagery"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 2,
+      "related_clue": [
+        "road curvature",
+        "forest density",
+        "satellite imagery"
+      ]
+    }
+  ]
+},{
+  "paragraph": 13,
+  "clue": [
+    "road features",
+    "marker posts",
+    "terrain",
+    "road angle",
+    "trails"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Garmisch-Partenkirchen",
+      "status": 2,
+      "related_clue": [
+        "road features",
+        "marker posts",
+        "terrain",
+        "road angle",
+        "trails"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 2,
+      "related_clue": [
+        "trails"
+      ]
+    }
+  ]
+},{
+  "paragraph": 14,
+  "clue": [
+    "marker posts",
+    "vegetation",
+    "road curvature"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Wildenauer Straße",
+      "status": 3,
+      "related_clue": [
+        "marker posts",
+        "vegetation",
+        "road curvature"
+      ]
+    },
+    {
+      "loc": "Kramerspitz mountain range",
+      "status": 2,
+      "related_clue": [
+        "marker posts",
+        "road curvature"
+      ]
+    },
+    {
+      "loc": "Olympic Ski Stadium",
+      "status": 3,
+      "related_clue": [
+        "marker posts",
+        "vegetation",
+        "road curvature"
+      ]
+    }
+  ]
+},{"paragraph":15,"clue":["terrain","road features","road curvature","width","vegetation","road angle"],"loc-clue":[]},{"paragraph":16,"clue":["road","path branch"],"loc-clue":[{"loc":"Wildenauer Straße","status":3,"related_clue":["road","path branch"]},{"loc":"Olympic Ski Stadium","status":2,"related_clue":["path branch"]}]},{"paragraph":17,"clue":[],"loc-clue":[{"loc":"Partenkirchen","status":2,"related_clue":[]},{"loc":"Garmisch-Partenkirchen","status":2,"related_clue":[]},{"loc":"Germany","status":2,"related_clue":[]},{"loc":"Europe","status":2,"related_clue":[]}]}]

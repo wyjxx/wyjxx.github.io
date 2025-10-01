@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Windsor Castle",
+    "granularity": 5,
+    "parent": "Windsor",
+    "x": -1.2940952255126033,
+    "y": 4.8296291314453415
+  },
+  {
+    "entity": "Windsor",
+    "granularity": 4,
+    "parent": "Royal Borough of Windsor and Maidenhead",
+    "x": -1.0352761804100825,
+    "y": 3.8637033051562732
+  },
+  {
+    "entity": "Royal Borough of Windsor and Maidenhead",
+    "granularity": 4,
+    "parent": "Berkshire",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "Berkshire",
+    "granularity": 3,
+    "parent": "England",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "England",
+    "granularity": 3,
+    "parent": "United Kingdom",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Windsor Great Park",
+    "granularity": 4,
+    "parent": "Royal Borough of Windsor and Maidenhead",
+    "x": -0.5221047688802065,
+    "y": -3.9657794454952415
+  },
+  {
+    "entity": "Britain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"Mediterranean","granularity":2,"parent":"Europe"},
+  {"entity":"Monaco","granularity":2,"parent":"Europe"},
+  {"entity":"Port Hercule","granularity":4,"parent":"Monaco"},
+  {"entity":"Monaco Grand Prix circuit","granularity":5,"parent":"Monaco"},
+  {"entity":"Tabac corner","granularity":5,"parent":"Monaco"}
+]

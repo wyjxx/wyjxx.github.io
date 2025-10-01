@@ -1,0 +1,806 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "snow",
+    "mountains",
+    "coniferous forest",
+    "alpine region",
+    "outskirts of city",
+    "dirt road",
+    "ski track",
+    "early winter",
+    "deciduous trees",
+    "signpost",
+    "road markers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "signpost",
+        "road markers"
+      ]
+    },
+    {
+      "loc": "Bavarian Alps",
+      "status": 2,
+      "related_clue": [
+        "alpine region",
+        "signpost",
+        "road markers"
+      ]
+    },
+    {
+      "loc": "Austrian Alps",
+      "status": 2,
+      "related_clue": [
+        "alpine region",
+        "signpost",
+        "road markers"
+      ]
+    },
+    {
+      "loc": "Swiss Alps",
+      "status": 2,
+      "related_clue": [
+        "alpine region",
+        "signpost",
+        "road markers"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "tree",
+    "seed pods",
+    "horse chestnut",
+    "alder catkins",
+    "bare branches",
+    "thin snow cover",
+    "early winter",
+    "temperate region",
+    "moderate altitude",
+    "mountains",
+    "alpine region"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Kalkalpen",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Tatra Mountains",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Vancouver",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "temperate region"
+      ]
+    },
+    {
+      "loc": "North Vancouver",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "temperate region"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "coniferous forest",
+    "mountains",
+    "tree",
+    "deciduous trees",
+    "alpine forest",
+    "boreal forest",
+    "road markers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Zinal",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Valais",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Switzerland",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "road markers"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "road markers"
+      ]
+    },
+    {
+      "loc": "Innsbruck",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest",
+        "mountains"
+      ]
+    },
+    {
+      "loc": "Vancouver",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest",
+        "mountains"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "colored markers",
+    "mountain ridge",
+    "mountain tops",
+    "mountains",
+    "hiking trail",
+    "alpine region"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Tyrol",
+      "status": 2,
+      "related_clue": [
+        "colored markers",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Innsbruck",
+      "status": 2,
+      "related_clue": [
+        "colored markers",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Karwendel mountain group",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge",
+        "mountain tops"
+      ]
+    },
+    {
+      "loc": "Bavaria",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Munich",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "colored markers",
+        "hiking trail"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "snow",
+    "mountains",
+    "alpine region",
+    "outskirts of city",
+    "remote cabin road",
+    "coniferous forest",
+    "deciduous trees",
+    "early winter",
+    "flexible red poles",
+    "signpost",
+    "parking information"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "flexible red poles",
+        "alpine region"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "tree",
+    "seed pods",
+    "horse chestnut",
+    "alder catkins",
+    "deciduous trees",
+    "thin snow cover",
+    "bare branches",
+    "early winter",
+    "temperate region",
+    "moderate altitude",
+    "mountain ridge",
+    "signpost",
+    "biking trail",
+    "ski trail",
+    "flexible red poles",
+    "alpine region"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Kalkalpen",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Tatra Mountains",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge",
+        "alpine region"
+      ]
+    },
+    {
+      "loc": "Scandinavia",
+      "status": 1,
+      "related_clue": [
+        "flexible red poles"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [
+    "cross-country skiing",
+    "grassy meadow",
+    "spruces",
+    "white cylindrical posts",
+    "flexible red poles",
+    "BC Parks",
+    "mountain ridge"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Vancouver",
+      "status": 2,
+      "related_clue": [
+        "BC Parks",
+        "white cylindrical posts",
+        "flexible red poles"
+      ]
+    },
+    {
+      "loc": "North Vancouver",
+      "status": 2,
+      "related_clue": [
+        "BC Parks",
+        "white cylindrical posts",
+        "flexible red poles"
+      ]
+    },
+    {
+      "loc": "Grouse Mountain",
+      "status": 2,
+      "related_clue": [
+        "BC Parks",
+        "white cylindrical posts"
+      ]
+    },
+    {
+      "loc": "Lynn Canyon",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Lynn Valley",
+      "status": 2,
+      "related_clue": [
+        "grassy meadow",
+        "spruces"
+      ]
+    },
+    {
+      "loc": "The Lions",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge"
+      ]
+    },
+    {
+      "loc": "Banff",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Canada",
+      "status": 2,
+      "related_clue": [
+        "flexible red poles"
+      ]
+    }
+  ]
+},{
+  "paragraph": 8,
+  "clue": [
+    "coniferous forest",
+    "mountain tops",
+    "bare rock faces",
+    "tree",
+    "deciduous trees",
+    "alpine forest",
+    "roadside reflectors",
+    "signpost",
+    "colored stripes",
+    "hiking trail",
+    "biking trail"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Zinal",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Valais",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Switzerland",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Central Europe",
+      "status": 2,
+      "related_clue": [
+        "alpine forest"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "roadside reflectors"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "roadside reflectors"
+      ]
+    }
+  ]
+},{
+  "paragraph": 9,
+  "clue": [
+    "municipal border",
+    "dirt road",
+    "hiking trail",
+    "tree",
+    "seed ball clusters",
+    "seed pods",
+    "outskirts of city",
+    "mountains"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "tree",
+        "seed ball clusters"
+      ]
+    },
+    {
+      "loc": "Slovenia",
+      "status": 2,
+      "related_clue": [
+        "tree",
+        "seed ball clusters"
+      ]
+    },
+    {
+      "loc": "Slovakia",
+      "status": 2,
+      "related_clue": [
+        "tree",
+        "seed ball clusters"
+      ]
+    },
+    {
+      "loc": "Innsbruck",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Hungerburg",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Patscherkofel",
+      "status": 2,
+      "related_clue": [
+        "mountains",
+        "hiking trail"
+      ]
+    }
+  ]
+},{
+  "paragraph": 10,
+  "clue": [
+    "early winter",
+    "spruces",
+    "deciduous trees",
+    "snow",
+    "mountain ridge",
+    "rocky crest",
+    "forested slopes",
+    "sunlit south exposure",
+    "gravel road",
+    "icy road",
+    "flexible red poles",
+    "alpine region",
+    "signpost"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Bern",
+      "status": 2,
+      "related_clue": [
+        "early winter",
+        "spruces",
+        "deciduous trees",
+        "sunlit south exposure"
+      ]
+    },
+    {
+      "loc": "Bremgarten Woods",
+      "status": 1,
+      "related_clue": [
+        "mountain ridge",
+        "rocky crest",
+        "forested slopes"
+      ]
+    }
+  ]
+},{
+  "paragraph": 11,
+  "clue": [
+    "colored markers",
+    "hiking trail",
+    "outskirts of city",
+    "mountain tops",
+    "mountain ridge"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Tyrol",
+      "status": 2,
+      "related_clue": [
+        "colored markers",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "Innsbruck",
+      "status": 2,
+      "related_clue": [
+        "outskirts of city",
+        "mountain tops"
+      ]
+    },
+    {
+      "loc": "Nordkette",
+      "status": 2,
+      "related_clue": [
+        "outskirts of city",
+        "mountain tops"
+      ]
+    },
+    {
+      "loc": "Hafelekar",
+      "status": 2,
+      "related_clue": [
+        "mountain tops"
+      ]
+    },
+    {
+      "loc": "Seegrube",
+      "status": 2,
+      "related_clue": [
+        "mountain tops"
+      ]
+    },
+    {
+      "loc": "Karwendel mountain group",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge"
+      ]
+    },
+    {
+      "loc": "Seefeld",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge"
+      ]
+    },
+    {
+      "loc": "Rosshütte",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Grundlsee",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Bad Ischl",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Hintersee",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Ramsau bei Berchtesgaden",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "colored markers",
+        "hiking trail"
+      ]
+    },
+    {
+      "loc": "United States",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 12,
+  "clue": [
+    "coniferous forest",
+    "mountain ridge",
+    "moderate altitude",
+    "lilac branches",
+    "hiking trail",
+    "mountain tops"
+  ],
+  "loc-clue": [
+    {
+      "loc": "United States",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Boulder",
+      "status": 1,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Flatirons region",
+      "status": 1,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Colorado",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Pacific Northwest",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Seattle",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Snoqualmie Pass",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge"
+      ]
+    },
+    {
+      "loc": "Mt. Si",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Cascades",
+      "status": 1,
+      "related_clue": []
+    },
+    {
+      "loc": "Leavenworth",
+      "status": 2,
+      "related_clue": [
+        "coniferous forest"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "mountain ridge"
+      ]
+    }
+  ]
+},{
+  "paragraph": 13,
+  "clue": [
+    "signpost",
+    "white cylindrical posts",
+    "colored stripes",
+    "hiking trail",
+    "flexible red poles",
+    "cross-country skiing",
+    "roadside reflectors",
+    "biking trail"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "roadside reflectors",
+        "white cylindrical posts"
+      ]
+    },
+    {
+      "loc": "Austria",
+      "status": 2,
+      "related_clue": [
+        "hiking trail",
+        "white cylindrical posts"
+      ]
+    },
+    {
+      "loc": "Tyrol",
+      "status": 2,
+      "related_clue": [
+        "flexible red poles"
+      ]
+    },
+    {
+      "loc": "Canada",
+      "status": 2,
+      "related_clue": [
+        "flexible red poles"
+      ]
+    }
+  ]
+},{
+  "paragraph": 14,
+  "clue": [
+    "ski trail",
+    "bare branches",
+    "grass",
+    "snow",
+    "outskirts of city"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Vals",
+      "status": 1,
+      "related_clue": [
+        "outskirts of city"
+      ]
+    },
+    {
+      "loc": "Wies",
+      "status": 1,
+      "related_clue": [
+        "outskirts of city"
+      ]
+    },
+    {
+      "loc": "Mount Washington",
+      "status": 2,
+      "related_clue": [
+        "ski trail"
+      ]
+    },
+    {
+      "loc": "Vancouver",
+      "status": 2,
+      "related_clue": [
+        "outskirts of city"
+      ]
+    },
+    {
+      "loc": "Kitzbühel",
+      "status": 1,
+      "related_clue": []
+    }
+  ]
+},{"paragraph":15,"clue":["forest road","mountains","mountain ridge","outskirts of city"],"loc-clue":[{"loc":"Gaisbergweg","status":1,"related_clue":[]},{"loc":"Salzburg","status":2,"related_clue":["forest road","mountain ridge"]},{"loc":"Innsbruck","status":2,"related_clue":["outskirts of city"]},{"loc":"Arzl","status":1,"related_clue":[]},{"loc":"Ampass","status":1,"related_clue":[]},{"loc":"Aldrans","status":1,"related_clue":[]},{"loc":"Wilten","status":2,"related_clue":["outskirts of city"]},{"loc":"Hötting","status":2,"related_clue":["outskirts of city"]},{"loc":"Hungerburg","status":2,"related_clue":["outskirts of city"]},{"loc":"Nordkette","status":2,"related_clue":["mountains"]},{"loc":"Seegrube","status":2,"related_clue":["mountains"]},{"loc":"Gaisberg mountain","status":2,"related_clue":["forest road"]},{"loc":"Salzburg Basin","status":2,"related_clue":["mountain ridge"]}]}]

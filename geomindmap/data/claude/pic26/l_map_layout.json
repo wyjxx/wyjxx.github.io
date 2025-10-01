@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Mediterranean region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "Mediterranean coast",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.5176380902050413,
+    "y": 1.9318516525781366
+  },
+  {
+    "entity": "Southern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9318516525781368,
+    "y": -0.5176380902050407
+  },
+  {
+    "entity": "Greek islands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4142135623730954,
+    "y": -1.414213562373095
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "French Riviera",
+    "granularity": 3,
+    "parent": "Mediterranean coast",
+    "x": 1.978037445300207,
+    "y": 2.2555194224369317
+  },
+  {
+    "entity": "Côte d'Azur",
+    "granularity": 3,
+    "parent": "Mediterranean coast",
+    "x": 0.19620938769042914,
+    "y": 2.99357676971581
+  },
+  {
+    "entity": "Italian Riviera",
+    "granularity": 3,
+    "parent": "Mediterranean coast",
+    "x": -1.666710699058807,
+    "y": 2.4944088369076356
+  },
+  {
+    "entity": "Croatian coast",
+    "granularity": 3,
+    "parent": "Mediterranean coast",
+    "x": -2.8407903884853174,
+    "y": 0.9643183959094839
+  },
+  {
+    "entity": "Provence-Alpes-Côte d'Azur",
+    "granularity": 3,
+    "parent": "France",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "Nice",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": -7.347880794884119e-16,
+    "y": -4.0
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "Provence-Alpes-Côte d'Azur",
+    "x": 3.4641016151377535,
+    "y": -2.0000000000000018
+  }
+]

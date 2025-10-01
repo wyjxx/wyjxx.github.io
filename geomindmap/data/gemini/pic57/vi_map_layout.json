@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "supersonic aircraft",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.22252093395631434,
+    "y": 0.9749279121818236
+  },
+  {
+    "entity": "\"SINSHEIM\" signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587337,
+    "y": -0.7818314824680297
+  },
+  {
+    "entity": "\"Reimund\" sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "parking lot",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.43388373911755795,
+    "y": -0.9009688679024193
+  },
+  {
+    "entity": "Concorde display",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "Tupolev Tu-144",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 1.7426374082467788,
+    "y": 0.9814351040078757
+  },
+  {
+    "entity": "Air France Concorde",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": 0.06410315514331066,
+    "y": 1.9989724324013758
+  },
+  {
+    "entity": "Cyrillic script",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": -1.3446017805226331,
+    "y": 1.4805559941506314
+  },
+  {
+    "entity": "registration number CCCP-77112",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": -1.898111494021337,
+    "y": 0.6302164360472425
+  },
+  {
+    "entity": "registration number F-BVFB",
+    "type": "v",
+    "granularity": 2,
+    "parent": "supersonic aircraft",
+    "x": -1.963118313982131,
+    "y": -0.38231725740274286
+  },
+  {
+    "entity": "Soviet Union",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Tupolev Tu-144",
+    "x": 2.6139561123701682,
+    "y": 1.4721526560118137
+  },
+  {
+    "entity": "France",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Air France Concorde",
+    "x": 0.096154732714966,
+    "y": 2.998458648602064
+  },
+  {
+    "entity": "aeronautical museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Concorde display",
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "German signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "\"SINSHEIM\" signage",
+    "x": -1.870469405576201,
+    "y": -2.3454944474040893
+  }
+]

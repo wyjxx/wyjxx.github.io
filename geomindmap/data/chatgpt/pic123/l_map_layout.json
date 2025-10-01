@@ -1,0 +1,128 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8649444588087114,
+    "y": 0.7224833323743066
+  },
+  {
+    "entity": "Paris",
+    "granularity": 4,
+    "parent": "Europe",
+    "x": 3.729888917617422,
+    "y": -1.4449666647486155
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -3.729888917617423,
+    "y": 1.4449666647486132
+  },
+  {
+    "entity": "Montmartre",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": 4.662361147021778,
+    "y": -1.8062083309357693
+  },
+  {
+    "entity": "Belgian Comic Strip Center",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 4.886762156542429,
+    "y": 1.0580905563253054
+  },
+  {
+    "entity": "Brussels Comic Book Museum",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 4.011401826578492,
+    "y": 2.9847370714558332
+  },
+  {
+    "entity": "Galerie Horta",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 2.4174834997145886,
+    "y": 4.376730918003494
+  },
+  {
+    "entity": "Place De Brouckère",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 0.39052401262982267,
+    "y": 4.984725769343736
+  },
+  {
+    "entity": "Quartier Dansaert",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -1.7063896112849508,
+    "y": 4.699812176512887
+  },
+  {
+    "entity": "Pentagone district",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -3.497639541053768,
+    "y": 3.5730263980073227
+  },
+  {
+    "entity": "City Centre",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -4.662361147021779,
+    "y": 1.8062083309357646
+  },
+  {
+    "entity": "Rue des Sables 20",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -4.991919129033992,
+    "y": -0.28415384773835684
+  },
+  {
+    "entity": "Rue des Sables 44",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -4.427280128266048,
+    "y": -2.3236158602188444
+  },
+  {
+    "entity": "Rue du Marché aux Herbes 116",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -3.0695873078573737,
+    "y": -3.9468511194927176
+  },
+  {
+    "entity": "Rue du Marché aux Herbes",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -1.1620426893492606,
+    "y": -4.863091279025095
+  },
+  {
+    "entity": "Hôtel Waucquez",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 0.9536573579265715,
+    "y": -4.908211246846708
+  },
+  {
+    "entity": "Passage Horta",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 2.8985298116413967,
+    "y": -4.0741287327508555
+  }
+]

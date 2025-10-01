@@ -1,0 +1,21 @@
+[  
+{"entity":"blue street sign","type":"v","granularity":1,"parent":null},  
+{"entity":"traffic signs","type":"v","granularity":1,"parent":null},  
+{"entity":"bike path","type":"v","granularity":1,"parent":null},  
+{"entity":"road surface","type":"v","granularity":1,"parent":null},  
+{"entity":"utility cabinets","type":"v","granularity":1,"parent":null},  
+{"entity":"building styles","type":"v","granularity":1,"parent":null},  
+{"entity":"intersection","type":"v","granularity":1,"parent":null},  
+
+{"entity":"street sign reading \"Hasenecklstraße\"","type":"v","granularity":2,"parent":"blue street sign"},  
+{"entity":"obscured sign text","type":"v","granularity":2,"parent":"blue street sign"},  
+{"entity":"DIN 1451 font","type":"v","granularity":2,"parent":"blue street sign"},  
+{"entity":"blue coloring","type":"v","granularity":2,"parent":"blue street sign"},  
+{"entity":"corner view","type":"v","granularity":2,"parent":"intersection"},  
+
+{"entity":"southwest orientation","type":"v","granularity":3,"parent":"corner view"},  
+{"entity":"German context","type":"i","granularity":3,"parent":"blue street sign"},  
+{"entity":"name fragment Haseneck","type":"i","granularity":3,"parent":"street sign reading \"Hasenecklstraße\""},  
+{"entity":"cross-referencing Street View","type":"i","granularity":3,"parent":"intersection"},  
+{"entity":"location confirmation","type":"i","granularity":3,"parent":"intersection"}  
+]

@@ -1,0 +1,13 @@
+[
+{"entity":"red tunics","type":"v","granularity":2,"parent":"soldiers"},
+{"entity":"tall hats","type":"v","granularity":2,"parent":"soldiers"},
+{"entity":"soldiers","type":"v","granularity":1,"parent":null},
+{"entity":"GUARD ROOM sign","type":"v","granularity":1,"parent":null},
+{"entity":"castle architecture","type":"v","granularity":1,"parent":null},
+{"entity":"facade","type":"v","granularity":2,"parent":"castle architecture"},
+{"entity":"brickwork","type":"v","granularity":2,"parent":"castle architecture"},
+{"entity":"layout","type":"v","granularity":2,"parent":"castle architecture"},
+{"entity":"Guard Mounting ceremony","type":"i","granularity":3,"parent":"soldiers"},
+{"entity":"British setting","type":"i","granularity":3,"parent":"castle architecture"},
+{"entity":"Royal connection","type":"i","granularity":3,"parent":"castle architecture"}
+]

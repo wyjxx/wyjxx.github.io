@@ -1,0 +1,149 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.902113032590307,
+    "y": 0.618033988749895
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7820130483767356,
+    "y": -0.9079809994790939
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9753766811902753,
+    "y": -0.31286893008046224
+  },
+  {
+    "entity": "Baden-Württemberg",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.8355514844824588,
+    "y": 0.9796161385202499
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.6603210577601857,
+    "y": 1.3866116506209398
+  },
+  {
+    "entity": "Franconia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 0.8209889702162483,
+    "y": -2.885476929518457
+  },
+  {
+    "entity": "Southern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.1016291127798716,
+    "y": -2.140830463235258
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -3.1552581724463833,
+    "y": 2.458525140243701
+  },
+  {
+    "entity": "Stuttgart",
+    "granularity": 4,
+    "parent": "Baden-Württemberg",
+    "x": 3.7807353126432783,
+    "y": 1.3061548513603332
+  },
+  {
+    "entity": "Freising",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -0.9386814458334959,
+    "y": -3.8883000325653803
+  },
+  {
+    "entity": "Bamberg",
+    "granularity": 4,
+    "parent": "Franconia",
+    "x": 1.0946519602883311,
+    "y": -3.847302572691276
+  },
+  {
+    "entity": "Bogenhausen",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.4072960427869083,
+    "y": 4.382342497156343
+  },
+  {
+    "entity": "Schwabing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -0.5115023952735275,
+    "y": 4.9737677166942005
+  },
+  {
+    "entity": "Harlaching",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.4220070628106543,
+    "y": 4.374229279278271
+  },
+  {
+    "entity": "Maria-Einsiedel",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.9440727155579793,
+    "y": 3.073156425304626
+  },
+  {
+    "entity": "Herzogpark",
+    "granularity": 5,
+    "parent": "Bogenhausen",
+    "x": 2.4072960427869083,
+    "y": 4.382342497156343
+  },
+  {
+    "entity": "Kirchsteinbacherweg",
+    "granularity": 5,
+    "parent": "Solln",
+    "x": -4.908580602731297,
+    "y": 0.9517544150094905
+  },
+  {
+    "entity": "Siedlung Solln",
+    "granularity": 5,
+    "parent": "Solln",
+    "x": -4.703549629750261,
+    "y": -1.696060400008263
+  },
+  {
+    "entity": "Solln",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.703549629750261,
+    "y": -1.696060400008263
+  },
+  {
+    "entity": "Gartenstadt Solln",
+    "granularity": 5,
+    "parent": "Solln",
+    "x": -3.1715605737945807,
+    "y": -3.8653853012024286
+  }
+]

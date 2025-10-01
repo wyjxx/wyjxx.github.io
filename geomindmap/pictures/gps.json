@@ -1,0 +1,1492 @@
+{
+  "pic3.png": {
+    "GPS": {
+      "lat": 48.17035555555555,
+      "lon": 11.573633333333333,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Belgradstraße"
+  },
+  "pic4.png": {
+    "GPS": {
+      "lat": 47.660624999999996,
+      "lon": 11.371702777777779,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Kochel am See",
+    "STREET": "Bahnhofstraße"
+  },
+  "pic5.png": {
+    "GPS": {
+      "lat": 47.662280555555554,
+      "lon": 11.241416666666666,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Ohlstadt",
+    "STREET": "Kocheler Straße"
+  },
+  "pic6.png": {
+    "GPS": {
+      "lat": 47.655252777777775,
+      "lon": 11.363294444444444,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Kochel am See",
+    "STREET": "Mittenwalder Straße"
+  },
+  "pic7.png": {
+    "GPS": {
+      "lat": 47.51086111111111,
+      "lon": 11.092480555555555,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Garmisch-Partenkirchen",
+    "STREET": null
+  },
+  "pic8.png": {
+    "GPS": {
+      "lat": 47.510469444444446,
+      "lon": 11.099669444444444,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Garmisch-Partenkirchen",
+    "STREET": "Loisachauen"
+  },
+  "pic9.png": {
+    "GPS": {
+      "lat": 50.41287777777778,
+      "lon": 7.329275,
+      "altitude": 258.1
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nickenich",
+    "STREET": "Auf dem Acker"
+  },
+  "pic10.png": {
+    "GPS": {
+      "lat": 50.36094722222222,
+      "lon": 7.595983333333333,
+      "altitude": 124.099
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Koblenz",
+    "STREET": null
+  },
+  "pic11.png": {
+    "GPS": {
+      "lat": 50.41318611111111,
+      "lon": 7.330102777777777,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nickenich",
+    "STREET": "Kolpingstraße"
+  },
+  "pic12.png": {
+    "GPS": {
+      "lat": 50.41845555555555,
+      "lon": 7.32635,
+      "altitude": 302.2
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nickenich",
+    "STREET": "Heidentalring"
+  },
+  "pic13.png": {
+    "GPS": {
+      "lat": 48.106830555555554,
+      "lon": 11.474841666666666,
+      "altitude": 596.399
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Prälat-Wellenhofer-Straße"
+  },
+  "pic14.png": {
+    "GPS": {
+      "lat": 48.15088611111111,
+      "lon": 11.573380555555556,
+      "altitude": 562.01
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Barer Straße"
+  },
+  "pic15.png": {
+    "GPS": {
+      "lat": 48.15512222222222,
+      "lon": 11.575369444444444,
+      "altitude": 559.799
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Nordendstraße"
+  },
+  "pic16.png": {
+    "GPS": {
+      "lat": 48.10865277777778,
+      "lon": 11.47568888888889,
+      "altitude": 590.603
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Max-Lebsche-Platz"
+  },
+  "pic17.png": {
+    "GPS": {
+      "lat": 47.44170277777778,
+      "lon": 11.261497222222221,
+      "altitude": 959.316
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Mittenwald",
+    "STREET": "Partenkirchner Straße"
+  },
+  "pic18.png": {
+    "GPS": {
+      "lat": 48.142938888888885,
+      "lon": 11.511230555555555,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Landsberger Straße"
+  },
+  "pic19.png": {
+    "GPS": {
+      "lat": 48.366425,
+      "lon": 10.893822222222221,
+      "altitude": 544.622
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Augsburg",
+    "STREET": "Königsplatz"
+  },
+  "pic20.png": {
+    "GPS": {
+      "lat": 48.85317222222223,
+      "lon": 10.49275,
+      "altitude": 493.088
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nördlingen",
+    "STREET": "Frauengasse"
+  },
+  "pic21.png": {
+    "GPS": {
+      "lat": 48.10891111111111,
+      "lon": 11.454752777777777,
+      "altitude": 607.719
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Planegg",
+    "STREET": "Lena-Christ-Straße"
+  },
+  "pic22.png": {
+    "GPS": {
+      "lat": 48.18219444444444,
+      "lon": 11.61063888888889,
+      "altitude": 544.754
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Rheinlandstraße"
+  },
+  "pic23.png": {
+    "GPS": {
+      "lat": 48.140027777777775,
+      "lon": 11.557705555555556,
+      "altitude": 568.399
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Pfefferstraße"
+  },
+  "pic24.png": {
+    "GPS": {
+      "lat": 47.45565277777778,
+      "lon": 10.983947222222222,
+      "altitude": 1024.681
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Grainau",
+    "STREET": "Eibsee Rundwanderweg"
+  },
+  "pic25.png": {
+    "GPS": {
+      "lat": 43.579350000000005,
+      "lon": 7.121827777777777,
+      "altitude": 64.543
+    },
+    "COUNTRY": "France",
+    "CITY": "Antibes",
+    "STREET": "Boulevard Albert 1er"
+  },
+  "pic26.png": {
+    "GPS": {
+      "lat": 43.578411111111116,
+      "lon": 7.126580555555555,
+      "altitude": 72.45
+    },
+    "COUNTRY": "France",
+    "CITY": "Antibes",
+    "STREET": "Promenade de l'Amiral de Grasse"
+  },
+  "pic27.png": {
+    "GPS": {
+      "lat": 43.573397222222226,
+      "lon": 7.124852777777777,
+      "altitude": 6.345
+    },
+    "COUNTRY": "France",
+    "CITY": "Antibes",
+    "STREET": "Boulevard du Cap"
+  },
+  "pic28.png": {
+    "GPS": {
+      "lat": 43.738061111111115,
+      "lon": 7.4197750000000005,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Monaco",
+    "CITY": "Monaco",
+    "STREET": "Parvis Sainte-Dévote"
+  },
+  "pic29.png": {
+    "GPS": {
+      "lat": 43.77554444444444,
+      "lon": 7.505605555555555,
+      "altitude": 47.373
+    },
+    "COUNTRY": "France",
+    "CITY": "Menton",
+    "STREET": "Rue de la Piéta"
+  },
+  "pic30.png": {
+    "GPS": {
+      "lat": 43.77858055555556,
+      "lon": 7.507586111111111,
+      "altitude": 63.283
+    },
+    "COUNTRY": "France",
+    "CITY": "Menton",
+    "STREET": null
+  },
+  "pic31.png": {
+    "GPS": {
+      "lat": 43.7756,
+      "lon": 7.505561111111111,
+      "altitude": 46.299
+    },
+    "COUNTRY": "France",
+    "CITY": "Menton",
+    "STREET": "Rue de la Piéta"
+  },
+  "pic32.png": {
+    "GPS": {
+      "lat": 43.69591111111111,
+      "lon": 7.277011111111111,
+      "altitude": 77.736
+    },
+    "COUNTRY": "France",
+    "CITY": "Nice",
+    "STREET": "Rue Barillerie"
+  },
+  "pic33.png": {
+    "GPS": {
+      "lat": 43.72991944444445,
+      "lon": 7.361113888888888,
+      "altitude": 398.63
+    },
+    "COUNTRY": "France",
+    "CITY": "Èze",
+    "STREET": "Moyenne Corniche"
+  },
+  "pic34.png": {
+    "GPS": {
+      "lat": 48.20173888888889,
+      "lon": 11.609447222222222,
+      "altitude": 530.25
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Rottannenweg"
+  },
+  "pic35.png": {
+    "GPS": {
+      "lat": 48.14545555555556,
+      "lon": 11.567022222222223,
+      "altitude": 0.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Max-Mannheimer-Platz"
+  },
+  "pic36.png": {
+    "GPS": {
+      "lat": 47.49382777777778,
+      "lon": 11.111197222222222,
+      "altitude": 765.399
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Garmisch-Partenkirchen",
+    "STREET": "Pfarrgasse"
+  },
+  "pic37.png": {
+    "GPS": {
+      "lat": 48.26593611111111,
+      "lon": 11.667405555555556,
+      "altitude": 524.0
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Garching bei München",
+    "STREET": "Lichtenbergstraße"
+  },
+  "pic38.png": {
+    "GPS": {
+      "lat": 48.1148,
+      "lon": 11.476988888888888,
+      "altitude": 594.406
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Sauerbruchstraße"
+  },
+  "pic39.png": {
+    "GPS": {
+      "lat": 43.62891666666667,
+      "lon": 1.3617722222222224,
+      "altitude": 153.13998035363457
+    },
+    "COUNTRY": "France",
+    "CITY": "Blagnac",
+    "STREET": "Avenue Georges Brassens"
+  },
+  "pic40.png": {
+    "GPS": {
+      "lat": 43.60443055555556,
+      "lon": 1.443475,
+      "altitude": 145.58954154727795
+    },
+    "COUNTRY": "France",
+    "CITY": "Toulouse",
+    "STREET": "Place du Capitole"
+  },
+  "pic41.png": {
+    "GPS": {
+      "lat": 43.20706666666667,
+      "lon": 2.3619222222222223,
+      "altitude": 109.29801188768191
+    },
+    "COUNTRY": "France",
+    "CITY": "Carcassonne",
+    "STREET": "Place Saint-Gimer"
+  },
+  "pic42.png": {
+    "GPS": {
+      "lat": 43.20643333333334,
+      "lon": 2.365652777777778,
+      "altitude": 138.9140580535003
+    },
+    "COUNTRY": "France",
+    "CITY": "Carcassonne",
+    "STREET": "Chemin des Ourtets"
+  },
+  "pic43.png": {
+    "GPS": {
+      "lat": 49.793055555555554,
+      "lon": 9.928677777777777,
+      "altitude": 168.68673312883436
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Würzburg",
+    "STREET": "Domstraße"
+  },
+  "pic44.png": {
+    "GPS": {
+      "lat": 48.78265833333333,
+      "lon": 9.181861111111111,
+      "altitude": 243.26197458455522
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Stuttgart",
+    "STREET": "Klett-Passage"
+  },
+  "pic45.png": {
+    "GPS": {
+      "lat": 48.83451111111111,
+      "lon": 9.151966666666667,
+      "altitude": 282.8665430954588
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Stuttgart",
+    "STREET": "Porscheplatz"
+  },
+  "pic46.png": {
+    "GPS": {
+      "lat": 48.79000833333333,
+      "lon": 9.183047222222221,
+      "altitude": 306.3506588579795
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Stuttgart",
+    "STREET": "Mailänder Platz"
+  },
+  "pic47.png": {
+    "GPS": {
+      "lat": 49.41354722222222,
+      "lon": 8.709294444444444,
+      "altitude": 109.8114702154626
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heidelberg",
+    "STREET": "Neckarstaden"
+  },
+  "pic48.png": {
+    "GPS": {
+      "lat": 41.376641666666664,
+      "lon": 2.190836111111111,
+      "altitude": 5.2978839271822
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Barcelona",
+    "STREET": "Passeig Marítim de la Barceloneta - Oriol Bohigas i Guardiola"
+  },
+  "pic49.png": {
+    "GPS": {
+      "lat": 41.39490555555555,
+      "lon": 2.1616444444444443,
+      "altitude": 42.90151600224593
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Barcelona",
+    "STREET": "Carrer de Provença"
+  },
+  "pic50.png": {
+    "GPS": {
+      "lat": 41.419402777777776,
+      "lon": 2.1621083333333333,
+      "altitude": 247.67491563554555
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Barcelona",
+    "STREET": "Carrer de Labèrnia"
+  },
+  "pic51.png": {
+    "GPS": {
+      "lat": 40.41702222222222,
+      "lon": -3.702741666666667,
+      "altitude": 651.5613026819923
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Madrid",
+    "STREET": "Puerta del Sol"
+  },
+  "pic52.png": {
+    "GPS": {
+      "lat": 40.416758333333334,
+      "lon": -3.7015833333333337,
+      "altitude": 654.1924651924652
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Madrid",
+    "STREET": "Carrera de San Jerónimo"
+  },
+  "pic53.png": {
+    "GPS": {
+      "lat": 40.947761111111106,
+      "lon": -4.118247222222222,
+      "altitude": 979.2542372881356
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Segovia",
+    "STREET": "Plaza del Azoguejo"
+  },
+  "pic54.png": {
+    "GPS": {
+      "lat": 37.177216666666666,
+      "lon": -3.5897055555555557,
+      "altitude": 770.7206349206349
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Granada",
+    "STREET": "Court of the Lions"
+  },
+  "pic55.png": {
+    "GPS": {
+      "lat": 37.385752777777775,
+      "lon": -5.993277777777778,
+      "altitude": 19.343530682022674
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Seville",
+    "STREET": "Calle Cardenal Carlos Amigo"
+  },
+  "pic56.png": {
+    "GPS": {
+      "lat": 39.45102777777778,
+      "lon": -3.6076194444444445,
+      "altitude": 808.5691987513007
+    },
+    "COUNTRY": "Spain",
+    "CITY": "Consuegra",
+    "STREET": "Calle Cerro Calderico"
+  },
+  "pic57.png": {
+    "GPS": {
+      "lat": 49.239872222222225,
+      "lon": 8.898475,
+      "altitude": 164.004482294935
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Sinsheim",
+    "STREET": "In der Au"
+  },
+  "pic58.png": {
+    "GPS": {
+      "lat": 49.23888888888889,
+      "lon": 8.897266666666667,
+      "altitude": 166.8139303482587
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Sinsheim",
+    "STREET": "Museumsplatz"
+  },
+  "pic59.png": {
+    "GPS": {
+      "lat": 52.525927777777774,
+      "lon": 13.369280555555555,
+      "altitude": 61.871974935177185
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Berlin",
+    "STREET": "Invalidenstraße"
+  },
+  "pic60.png": {
+    "GPS": {
+      "lat": 51.500819444444446,
+      "lon": -0.1263,
+      "altitude": 0.680637204903288
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "City of Westminster",
+    "STREET": null
+  },
+  "pic61.png": {
+    "GPS": {
+      "lat": 51.48321111111111,
+      "lon": -0.6072055555555556,
+      "altitude": 37.55270012154888
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Windsor",
+    "STREET": "River Street"
+  },
+  "pic62.png": {
+    "GPS": {
+      "lat": 51.516644444444445,
+      "lon": -0.17695555555555553,
+      "altitude": 15.321073531425442
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "London",
+    "STREET": "Eastbourne Mews"
+  },
+  "pic63.png": {
+    "GPS": {
+      "lat": 52.51649166666667,
+      "lon": 13.380152777777779,
+      "altitude": 28.19186019561489
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Berlin",
+    "STREET": "Unter den Linden"
+  },
+  "pic64.png": {
+    "GPS": {
+      "lat": 52.51080833333334,
+      "lon": 13.377761111111111,
+      "altitude": 36.550498593710046
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Berlin",
+    "STREET": "Voßstraße"
+  },
+  "pic65.png": {
+    "GPS": {
+      "lat": 52.50742777777778,
+      "lon": 13.385747222222221,
+      "altitude": 33.11599372235697
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Berlin",
+    "STREET": "Zimmerstraße"
+  },
+  "pic66.png": {
+    "GPS": {
+      "lat": 55.949036111111106,
+      "lon": -3.194747222222222,
+      "altitude": 111.80281838258492
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "City of Edinburgh",
+    "STREET": "Castlehill"
+  },
+  "pic67.png": {
+    "GPS": {
+      "lat": 55.95402777777778,
+      "lon": -3.180186111111111,
+      "altitude": 86.41133896260556
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "City of Edinburgh",
+    "STREET": "Regent Walk"
+  },
+  "pic68.png": {
+    "GPS": {
+      "lat": 51.49625,
+      "lon": -0.17641388888888887,
+      "altitude": 15.277708051747442
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "London",
+    "STREET": "Cromwell Road"
+  },
+  "pic69.png": {
+    "GPS": {
+      "lat": 51.51101666666667,
+      "lon": -0.1314611111111111,
+      "altitude": 38.95064935064935
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "London",
+    "STREET": "Wardour Street"
+  },
+  "pic70.png": {
+    "GPS": {
+      "lat": 43.70424166666667,
+      "lon": 7.262272222222222,
+      "altitude": 15.73406335549472
+    },
+    "COUNTRY": "France",
+    "CITY": "Nice",
+    "STREET": "Avenue Thiers"
+  },
+  "pic71.png": {
+    "GPS": {
+      "lat": 43.550552777777774,
+      "lon": 7.010811111111111,
+      "altitude": 35.46292629262926
+    },
+    "COUNTRY": "France",
+    "CITY": "Cannes",
+    "STREET": "Rue de la Castre"
+  },
+  "pic72.png": {
+    "GPS": {
+      "lat": 43.55408611111111,
+      "lon": 7.020280555555556,
+      "altitude": 9.281547547306255
+    },
+    "COUNTRY": "France",
+    "CITY": "Cannes",
+    "STREET": "Place de la Gare"
+  },
+  "pic73.png": {
+    "GPS": {
+      "lat": 43.73948333333333,
+      "lon": 7.426952777777778,
+      "altitude": 50.16350555918901
+    },
+    "COUNTRY": "Monaco",
+    "CITY": "Monaco",
+    "STREET": "Allées des Boulingrins"
+  },
+  "pic74.png": {
+    "GPS": {
+      "lat": 43.73674444444445,
+      "lon": 7.422075,
+      "altitude": 3.459403989820212
+    },
+    "COUNTRY": "Monaco",
+    "CITY": "Monaco",
+    "STREET": "Route de la Piscine"
+  },
+  "pic75.png": {
+    "GPS": {
+      "lat": 43.6939,
+      "lon": 7.279041666666666,
+      "altitude": 12.085075379700722
+    },
+    "COUNTRY": "France",
+    "CITY": "Nice",
+    "STREET": "Quai des États-Unis"
+  },
+  "pic76.png": {
+    "GPS": {
+      "lat": 50.880322222222226,
+      "lon": 7.119808333333333,
+      "altitude": 66.62655906089509
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Cologne",
+    "STREET": "Flughafen Ringstraße"
+  },
+  "pic77.png": {
+    "GPS": {
+      "lat": 50.94110555555555,
+      "lon": 6.968547222222222,
+      "altitude": 46.50167464114833
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Cologne",
+    "STREET": "Kennedy-Ufer"
+  },
+  "pic78.png": {
+    "GPS": {
+      "lat": 51.23191111111111,
+      "lon": 6.771288888888889,
+      "altitude": 39.83220289000295
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Dusseldorf",
+    "STREET": "Robert-Lehr-Ufer"
+  },
+  "pic79.png": {
+    "GPS": {
+      "lat": 48.26246944444444,
+      "lon": 11.668491666666666,
+      "altitude": 477.9865378987416
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Garching bei München",
+    "STREET": "Boltzmannstraße"
+  },
+  "pic80.png": {
+    "GPS": {
+      "lat": 48.13916666666667,
+      "lon": 11.566263888888889,
+      "altitude": 521.0065387968614
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Munich",
+    "STREET": "Karlsplatz (Stachus)"
+  },
+  "pic81.png": {
+    "GPS": {
+      "lat": 51.75254722222222,
+      "lon": -1.2509444444444444,
+      "altitude": 63.64918142332108
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Oxford",
+    "STREET": "High Street"
+  },
+  "pic82.png": {
+    "GPS": {
+      "lat": 51.75241388888889,
+      "lon": -1.2511138888888889,
+      "altitude": 64.78492356352135
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Oxford",
+    "STREET": "High Street"
+  },
+  "pic83.png": {
+    "GPS": {
+      "lat": 51.75453611111111,
+      "lon": -1.2540972222222222,
+      "altitude": 65.34022140221403
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Oxford",
+    "STREET": "Catte Street"
+  },
+  "pic84.png": {
+    "GPS": {
+      "lat": 51.75352777777778,
+      "lon": -1.2535833333333333,
+      "altitude": 71.73121263877029
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Oxford",
+    "STREET": "Kitchen Quad"
+  },
+  "pic85.png": {
+    "GPS": {
+      "lat": 51.752608333333335,
+      "lon": -1.2508083333333333,
+      "altitude": 61.67377853637721
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Oxford",
+    "STREET": "High Street"
+  },
+  "pic86.png": {
+    "GPS": {
+      "lat": 51.07884722222222,
+      "lon": 1.1879666666666666,
+      "altitude": 6.4460106623294475
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Folkestone and Hythe District",
+    "STREET": "Harbour Arm"
+  },
+  "pic87.png": {
+    "GPS": {
+      "lat": 50.74276666666667,
+      "lon": 0.20104444444444444,
+      "altitude": 6.600650791303062
+    },
+    "COUNTRY": "United Kingdom",
+    "CITY": "Wealden",
+    "STREET": "Birling Gap Road"
+  },
+  "pic88.png": {
+    "GPS": {
+      "lat": 53.34515833333334,
+      "lon": -6.259041666666667,
+      "altitude": 5.706178569864694
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "Westmoreland Street"
+  },
+  "pic89.png": {
+    "GPS": {
+      "lat": 53.345111111111116,
+      "lon": -6.258861111111111,
+      "altitude": 9.670497962302598
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "College Street"
+  },
+  "pic90.png": {
+    "GPS": {
+      "lat": 53.34388333333334,
+      "lon": -6.255791666666667,
+      "altitude": 11.257961273803808
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "New Square"
+  },
+  "pic91.png": {
+    "GPS": {
+      "lat": 53.34381944444445,
+      "lon": -6.256641666666667,
+      "altitude": 5.177427269540834
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "College Green"
+  },
+  "pic92.png": {
+    "GPS": {
+      "lat": 53.34310555555556,
+      "lon": -6.271675,
+      "altitude": 15.44698721850274
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "Saint Michael's Hill"
+  },
+  "pic93.png": {
+    "GPS": {
+      "lat": 53.34031944444445,
+      "lon": -6.270275,
+      "altitude": 11.08742905446202
+    },
+    "COUNTRY": "Ireland",
+    "CITY": "Dublin",
+    "STREET": "Bride Street"
+  },
+  "pic94.png": {
+    "GPS": {
+      "lat": 50.04648611111111,
+      "lon": 8.564186111111113,
+      "altitude": 74.11804195804196
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Frankfurt",
+    "STREET": "Taxistraße"
+  },
+  "pic95.png": {
+    "GPS": {
+      "lat": 50.10440555555556,
+      "lon": 8.66258611111111,
+      "altitude": 102.66924910607867
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Frankfurt",
+    "STREET": "Pforzheimer Straße"
+  },
+  "pic96.png": {
+    "GPS": {
+      "lat": 50.11040833333333,
+      "lon": 8.682055555555555,
+      "altitude": 99.03600854440036
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Frankfurt",
+    "STREET": "Goldhutgasse"
+  },
+  "pic97.png": {
+    "GPS": {
+      "lat": 49.4043,
+      "lon": 8.675852777777777,
+      "altitude": 135.2410660205936
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heidelberg",
+    "STREET": "Willy-Brandt-Platz"
+  },
+  "pic98.png": {
+    "GPS": {
+      "lat": 49.41065277777778,
+      "lon": 8.693008333333333,
+      "altitude": 87.94498444790047
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heidelberg",
+    "STREET": "Sofienstraße"
+  },
+  "pic99.png": {
+    "GPS": {
+      "lat": 49.41470277777778,
+      "lon": 8.693427777777778,
+      "altitude": 107.15244299674266
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heidelberg",
+    "STREET": "Philosophenweg"
+  },
+  "pic100.png": {
+    "GPS": {
+      "lat": 49.14232222222222,
+      "lon": 9.21868888888889,
+      "altitude": 159.7733959311424
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heilbronn",
+    "STREET": "Marktplatz"
+  },
+  "pic101.png": {
+    "GPS": {
+      "lat": 53.55354444444444,
+      "lon": 10.006022222222223,
+      "altitude": 37.43459703740899
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Kirchenallee"
+  },
+  "pic102.png": {
+    "GPS": {
+      "lat": 53.54399166666666,
+      "lon": 9.993063888888887,
+      "altitude": 6.996974945156448
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Katharinenkirchhof"
+  },
+  "pic103.png": {
+    "GPS": {
+      "lat": 53.07917777777778,
+      "lon": 8.809344444444445,
+      "altitude": 5.034475498710458
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Stadtgebiet Bremen",
+    "STREET": "Herdentor"
+  },
+  "pic104.png": {
+    "GPS": {
+      "lat": 53.07628888888889,
+      "lon": 8.807483333333334,
+      "altitude": 6.922123958485601
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Bremen",
+    "STREET": "Unser Lieben Frauen Kirchhof"
+  },
+  "pic105.png": {
+    "GPS": {
+      "lat": 53.54589444444444,
+      "lon": 9.966925,
+      "altitude": 8.075908372827804
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Bei den St. Pauli-Landungsbrücken"
+  },
+  "pic107.png": {
+    "GPS": {
+      "lat": 53.55477777777777,
+      "lon": 9.999183333333333,
+      "altitude": 6.723883191378412
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Ballindamm"
+  },
+  "pic108.png": {
+    "GPS": {
+      "lat": 53.54368611111111,
+      "lon": 9.996330555555554,
+      "altitude": 17.752529142915833
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Am Sandtorkai"
+  },
+  "pic109.png": {
+    "GPS": {
+      "lat": 53.54326666666667,
+      "lon": 10.000808333333334,
+      "altitude": 9.819886374289839
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Hamburg",
+    "STREET": "Koreastraße"
+  },
+  "pic110.png": {
+    "GPS": {
+      "lat": 49.14803611111111,
+      "lon": 9.216902777777777,
+      "altitude": 162.14899598393575
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Heilbronn",
+    "STREET": "Bildungscampus"
+  },
+  "pic111.png": {
+    "GPS": {
+      "lat": 49.45044444444445,
+      "lon": 11.070736111111112,
+      "altitude": 307.47
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nuremberg",
+    "STREET": "Ludwigsplatz"
+  },
+  "pic112.png": {
+    "GPS": {
+      "lat": 49.448188888888886,
+      "lon": 11.075497222222221,
+      "altitude": 312.9071922110553
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nuremberg",
+    "STREET": "Kartäusergasse"
+  },
+  "pic113.png": {
+    "GPS": {
+      "lat": 49.43443611111111,
+      "lon": 11.106733333333333,
+      "altitude": 314.95248041775454
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Nuremberg",
+    "STREET": "Bayernstraße"
+  },
+  "pic114.png": {
+    "GPS": {
+      "lat": 49.377227777777776,
+      "lon": 10.178975,
+      "altitude": 431.8963282937365
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Rothenburg ob der Tauber",
+    "STREET": "Marktplatz"
+  },
+  "pic115.png": {
+    "GPS": {
+      "lat": 49.37466111111111,
+      "lon": 10.179955555555555,
+      "altitude": 410.6424668227947
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Rothenburg ob der Tauber",
+    "STREET": "Untere Schmiedgasse"
+  },
+  "pic116.png": {
+    "GPS": {
+      "lat": 49.37461944444445,
+      "lon": 10.181647222222221,
+      "altitude": 439.73360843649704
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Rothenburg ob der Tauber",
+    "STREET": "Röderschütt"
+  },
+  "pic117.png": {
+    "GPS": {
+      "lat": 49.37661111111111,
+      "lon": 10.184466666666667,
+      "altitude": 430.1912384161752
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Rothenburg ob der Tauber",
+    "STREET": "Rödergasse"
+  },
+  "pic118.png": {
+    "GPS": {
+      "lat": 36.46136944444445,
+      "lon": 25.374872222222223,
+      "altitude": 122.50053399786401
+    },
+    "COUNTRY": "Greece",
+    "CITY": "Ia Municipal Unit",
+    "STREET": "Nikolaou Nomikou"
+  },
+  "pic119.png": {
+    "GPS": {
+      "lat": 50.84498333333334,
+      "lon": 4.349830555555555,
+      "altitude": 41.05088049469015
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Rue de l'Étuve - Stoofstraat"
+  },
+  "pic120.png": {
+    "GPS": {
+      "lat": 50.844908333333336,
+      "lon": 4.349836111111111,
+      "altitude": 37.7379150390625
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Rue du Chêne - Eikstraat"
+  },
+  "pic121.png": {
+    "GPS": {
+      "lat": 50.846580555555555,
+      "lon": 4.352513888888889,
+      "altitude": 22.478504254366324
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Grand Place"
+  },
+  "pic122.png": {
+    "GPS": {
+      "lat": 50.84661944444445,
+      "lon": 4.352536111111111,
+      "altitude": 20.827575757575758
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Grand Place"
+  },
+  "pic123.png": {
+    "GPS": {
+      "lat": 50.85105,
+      "lon": 4.360108333333333,
+      "altitude": 23.405029296875
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Rue des Sables - Zandstraat"
+  },
+  "pic124.png": {
+    "GPS": {
+      "lat": 50.84685,
+      "lon": 4.362427777777778,
+      "altitude": 57.04253624342839
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Rue de la Loi - Wetstraat"
+  },
+  "pic125.png": {
+    "GPS": {
+      "lat": 50.84245277777778,
+      "lon": 4.362577777777777,
+      "altitude": 60.27602363006722
+    },
+    "COUNTRY": "Belgium",
+    "CITY": "Brussels",
+    "STREET": "Place des Palais - Paleizenplein"
+  },
+  "pic126.png": {
+    "GPS": {
+      "lat": 37.97544166666667,
+      "lon": 23.73620277777778,
+      "altitude": 98.11141583818993
+    },
+    "COUNTRY": "Greece",
+    "CITY": "Athens",
+    "STREET": "Unknown Soldier's Square"
+  },
+  "pic127.png": {
+    "GPS": {
+      "lat": 38.73029722222223,
+      "lon": -9.154411111111111,
+      "altitude": 104.5175566934894
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Lisbon",
+    "STREET": "Alameda Cardeal Cerejeira"
+  },
+  "pic128.png": {
+    "GPS": {
+      "lat": 38.72824444444445,
+      "lon": -9.170802777777777,
+      "altitude": 43.06621936989498
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Lisbon",
+    "STREET": "Corredor Verde do Vale de Alcântara"
+  },
+  "pic129.png": {
+    "GPS": {
+      "lat": 38.711802777777784,
+      "lon": -9.130116666666668,
+      "altitude": 63.47027208599261
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Lisbon",
+    "STREET": "Rua Norberto de Araújo"
+  },
+  "pic130.png": {
+    "GPS": {
+      "lat": 37.97170555555556,
+      "lon": 23.724844444444443,
+      "altitude": 127.18294914013904
+    },
+    "COUNTRY": "Greece",
+    "CITY": "Athens",
+    "STREET": "Παναθηναίων"
+  },
+  "pic131.png": {
+    "GPS": {
+      "lat": 38.713480555555556,
+      "lon": -9.139205555555556,
+      "altitude": 12.912044557902066
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Lisbon",
+    "STREET": null
+  },
+  "pic132.png": {
+    "GPS": {
+      "lat": 37.96953333333334,
+      "lon": 23.753175,
+      "altitude": 127.41518778373917
+    },
+    "COUNTRY": "Greece",
+    "CITY": null,
+    "STREET": "Γρηγορίου Θεολόγου"
+  },
+  "pic133.png": {
+    "GPS": {
+      "lat": 37.97083611111111,
+      "lon": 23.792336111111112,
+      "altitude": 276.88912579957355
+    },
+    "COUNTRY": "Greece",
+    "CITY": null,
+    "STREET": "Αλίμου Κατεχάκη"
+  },
+  "pic134.png": {
+    "GPS": {
+      "lat": 37.97703611111111,
+      "lon": 23.800297222222223,
+      "altitude": 283.26180613090304
+    },
+    "COUNTRY": "Greece",
+    "CITY": "Municipal Unit of Papagou",
+    "STREET": "Hymettus Ring"
+  },
+  "pic135.png": {
+    "GPS": {
+      "lat": 37.91506944444444,
+      "lon": 23.89421388888889,
+      "altitude": 96.5321540062435
+    },
+    "COUNTRY": "Greece",
+    "CITY": "Koropi",
+    "STREET": "Αττική Οδός"
+  },
+  "pic136.png": {
+    "GPS": {
+      "lat": 41.14738888888889,
+      "lon": -8.616047222222221,
+      "altitude": 97.06325910931174
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Porto",
+    "STREET": "Praça de Carlos Alberto"
+  },
+  "pic137.png": {
+    "GPS": {
+      "lat": 38.695186111111106,
+      "lon": -9.208219444444444,
+      "altitude": 32.760829913360695
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Lisbon",
+    "STREET": "Empire Square"
+  },
+  "pic138.png": {
+    "GPS": {
+      "lat": 38.787749999999996,
+      "lon": -9.39021111111111,
+      "altitude": 502.7978363759297
+    },
+    "COUNTRY": "Portugal",
+    "CITY": "Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim)",
+    "STREET": null
+  },
+  "pic150.png": {
+    "GPS": {
+      "lat": 57.70681666666667,
+      "lon": 11.966352777777777,
+      "altitude": 8.246670854271358
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Gustaf Adolfs Torg"
+  },
+  "pic151.png": {
+    "GPS": {
+      "lat": 57.70633055555556,
+      "lon": 11.939283333333334,
+      "altitude": 13.949081424359266
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Lindholmsplatsen"
+  },
+  "pic152.png": {
+    "GPS": {
+      "lat": 57.69871111111111,
+      "lon": 11.977777777777778,
+      "altitude": 16.963405618531297
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Engelbrektsgatan"
+  },
+  "pic153.png": {
+    "GPS": {
+      "lat": 57.706919444444445,
+      "lon": 11.966894444444444,
+      "altitude": 6.58024608800321
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Gustaf Adolfs Torg"
+  },
+  "pic154.png": {
+    "GPS": {
+      "lat": 59.91184722222222,
+      "lon": 10.753877777777777,
+      "altitude": 16.248622897126694
+    },
+    "COUNTRY": "Norway",
+    "CITY": "Oslo",
+    "STREET": "Corridor to Oslo Bussterminal"
+  },
+  "pic155.png": {
+    "GPS": {
+      "lat": 59.910719444444446,
+      "lon": 10.72926111111111,
+      "altitude": 13.375270836342626
+    },
+    "COUNTRY": "Norway",
+    "CITY": "Oslo",
+    "STREET": null
+  },
+  "pic156.png": {
+    "GPS": {
+      "lat": 59.91215555555556,
+      "lon": 10.740213888888889,
+      "altitude": 21.115478593434613
+    },
+    "COUNTRY": "Norway",
+    "CITY": "Oslo",
+    "STREET": "Prinsens gate"
+  },
+  "pic157.png": {
+    "GPS": {
+      "lat": 59.90907222222222,
+      "lon": 10.737327777777777,
+      "altitude": 15.24126958873598
+    },
+    "COUNTRY": "Norway",
+    "CITY": "Oslo",
+    "STREET": "Myntgata"
+  },
+  "pic158.png": {
+    "GPS": {
+      "lat": 57.68973055555555,
+      "lon": 11.996522222222222,
+      "altitude": 7.0916404776869895
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Lyckholms Torg"
+  },
+  "pic159.png": {
+    "GPS": {
+      "lat": 57.704875,
+      "lon": 11.95766111111111,
+      "altitude": 6.535997858863413
+    },
+    "COUNTRY": "Sweden",
+    "CITY": "Gothenburg",
+    "STREET": "Stora Badhusgatan"
+  },
+  "pic160.png": {
+    "GPS": {
+      "lat": 50.00658333333333,
+      "lon": 8.271669444444445,
+      "altitude": 90.49691391445587
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Mainz",
+    "STREET": "Peter-Altmeier-Allee"
+  },
+  "pic161.png": {
+    "GPS": {
+      "lat": 50.003661111111114,
+      "lon": 8.270927777777779,
+      "altitude": 89.14173581520521
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Mainz",
+    "STREET": "Reichklarastraße"
+  },
+  "pic162.png": {
+    "GPS": {
+      "lat": 50.0013,
+      "lon": 8.27555,
+      "altitude": 79.18844221105527
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Mainz",
+    "STREET": "Quintinsstraße"
+  },
+  "pic163.png": {
+    "GPS": {
+      "lat": 50.00000277777778,
+      "lon": 8.27826388888889,
+      "altitude": 86.31606672519754
+    },
+    "COUNTRY": "Germany",
+    "CITY": "Mainz",
+    "STREET": "Fischtorplatz"
+  }
+}

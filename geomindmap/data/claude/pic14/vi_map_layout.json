@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "European-style architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675893,
+    "y": 0.5155538571770217
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7259954919231308,
+    "y": 0.6876994588534233
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.796093065705644,
+    "y": -0.6051742151937649
+  },
+  {
+    "entity": "bicycles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5611870653623825,
+    "y": -0.8276889981568905
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1617819965527644,
+    "y": -0.9868265225415263
+  },
+  {
+    "entity": "tram stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7259954919231308,
+    "y": -0.6876994588534233
+  },
+  {
+    "entity": "bus stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675888,
+    "y": -0.5155538571770225
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9476531711828025,
+    "y": -0.3193015301359799
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9941379571543595,
+    "y": -0.10811901842394249
+  },
+  {
+    "entity": "classical facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style architecture",
+    "x": 1.9270999850384458,
+    "y": 0.5350566770584416
+  },
+  {
+    "entity": "painted buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": 0.7219431125282225,
+    "y": 1.8651536511164601
+  },
+  {
+    "entity": "window styles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style architecture",
+    "x": 1.3753989177068466,
+    "y": 1.4519909838462617
+  },
+  {
+    "entity": "commercial spaces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.0895533700155033,
+    "y": 1.6771623218662706
+  },
+  {
+    "entity": "triangular yield sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road markings",
+    "x": -0.21623803684788487,
+    "y": -1.988275914308719
+  },
+  {
+    "entity": "speed limit sign 30",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road markings",
+    "x": 0.8397782031205291,
+    "y": -1.815150839341914
+  },
+  {
+    "entity": "ornate decoration",
+    "type": "v",
+    "granularity": 3,
+    "parent": "classical facades",
+    "x": 2.890649977557669,
+    "y": 0.8025850155876624
+  },
+  {
+    "entity": "large windows",
+    "type": "v",
+    "granularity": 3,
+    "parent": "window styles",
+    "x": 2.06309837656027,
+    "y": 2.1779864757693925
+  },
+  {
+    "entity": "SCHELLING-SALON sign",
+    "type": "v",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": 0.33903884651470195,
+    "y": 2.9807805455205822
+  },
+  {
+    "entity": "GASTSTÄTTE sign",
+    "type": "v",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": -0.48534598965829356,
+    "y": 2.9604795676245783
+  },
+  {
+    "entity": "restaurant",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": -1.2730590272380986,
+    "y": 2.716490514094902
+  },
+  {
+    "entity": "tavern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": -1.9645822018358539,
+    "y": 2.267248723062776
+  },
+  {
+    "entity": "European standard",
+    "type": "i",
+    "granularity": 3,
+    "parent": "triangular yield sign",
+    "x": -0.3243570552718273,
+    "y": -2.9824138714630783
+  },
+  {
+    "entity": "European urban area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "speed limit sign 30",
+    "x": 1.2596673046807936,
+    "y": -2.722726259012871
+  },
+  {
+    "entity": "German-speaking countries",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": -2.507665367943555,
+    "y": 1.6466980301246839
+  },
+  {
+    "entity": "bike-friendly city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycles",
+    "x": -1.6835611960871475,
+    "y": -2.483066994470671
+  },
+  {
+    "entity": "Friedrich Wilhelm Schelling",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": -2.861274218260392,
+    "y": 0.9017260381725603
+  },
+  {
+    "entity": "historic university district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story buildings",
+    "x": -2.9963636816936043,
+    "y": 0.14766410202736688
+  },
+  {
+    "entity": "academic atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story buildings",
+    "x": -2.9476340099943963,
+    "y": -0.5580804091924
+  },
+  {
+    "entity": "intellectual neighborhood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story buildings",
+    "x": -2.734999545649755,
+    "y": -1.2327925556619947
+  }
+]

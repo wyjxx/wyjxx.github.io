@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Frankfurt","granularity":4,"parent":"Germany"},
+{"entity":"Frankfurt am Main","granularity":4,"parent":"Germany"},
+{"entity":"Mainhattan","granularity":5,"parent":"Frankfurt am Main"},
+{"entity":"Am Hauptbahnhof","granularity":5,"parent":"Frankfurt am Main"},
+{"entity":"Mannheimer Straße","granularity":5,"parent":"Frankfurt am Main"},
+{"entity":"Bahnhofsviertel","granularity":5,"parent":"Frankfurt am Main"},
+{"entity":"Hauptbahnhof","granularity":5,"parent":"Frankfurt am Main"}
+]

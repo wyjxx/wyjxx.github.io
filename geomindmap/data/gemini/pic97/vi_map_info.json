@@ -1,0 +1,17 @@
+[  
+  {"entity": "businesses", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "signs", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "distinctive mural", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "large windows", "type": "v", "granularity": 2, "parent": null},  
+  {"entity": "high ceilings", "type": "v", "granularity": 2, "parent": null},  
+  {"entity": "orange ceiling", "type": "v", "granularity": 2, "parent": null},  
+  {"entity": "concrete pillars", "type": "v", "granularity": 2, "parent": null},  
+  {"entity": "Herzlich willkommen in der ältesten Universitätsstadt Deutschlands", "type": "v", "granularity": 2, "parent": "signs"},  
+  {"entity": "DB Reisezentrum", "type": "v", "granularity": 2, "parent": "signs"},  
+  {"entity": "DB Travel Center", "type": "v", "granularity": 2, "parent": "signs"},  
+  {"entity": "Herz in Heidelberg verloren", "type": "v", "granularity": 2, "parent": "signs"},  
+  {"entity": "mid-century modern design", "type": "i", "granularity": 3, "parent": null},  
+  {"entity": "transportation hub", "type": "i", "granularity": 3, "parent": null},  
+  {"entity": "German language", "type": "i", "granularity": 3, "parent": "signs"},  
+  {"entity": "mural style", "type": "i", "granularity": 3, "parent": "distinctive mural"}  
+]

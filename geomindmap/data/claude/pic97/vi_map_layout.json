@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "train station interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.06279051952931353,
+    "y": 0.9980267284282716
+  },
+  {
+    "entity": "large colorful mural",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749478,
+    "y": -0.5877852522924727
+  },
+  {
+    "entity": "ReiseBank signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4257792915650718,
+    "y": -0.9048270524660199
+  },
+  {
+    "entity": "modern architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.968583161128631,
+    "y": -0.24868988716485535
+  },
+  {
+    "entity": "muscular figure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large colorful mural",
+    "x": -1.9993683785665999,
+    "y": -0.05026019088667425
+  },
+  {
+    "entity": "graffiti-style art",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large colorful mural",
+    "x": -1.7762728976270896,
+    "y": -0.9191597212429747
+  },
+  {
+    "entity": "glass windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": 1.9812363812217963,
+    "y": 0.27331740106177144
+  },
+  {
+    "entity": "steel framework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": 1.8332332651632235,
+    "y": 0.7995347368932675
+  },
+  {
+    "entity": "checkered floor pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": 1.548283221278165,
+    "y": 1.2660249076177406
+  },
+  {
+    "entity": "shops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": 1.147672702215955,
+    "y": 1.6379399771018253
+  },
+  {
+    "entity": "service counters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": 0.6613282759061028,
+    "y": 1.887496996418024
+  },
+  {
+    "entity": "exposed beams",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": -0.14837520991690334,
+    "y": 1.9944886054029276
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": -0.9333346464513466,
+    "y": 1.768865861995629
+  },
+  {
+    "entity": "German text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ReiseBank signage",
+    "x": -0.06282151815625837,
+    "y": -1.999013120731463
+  },
+  {
+    "entity": "ceiling design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station interior",
+    "x": -1.3773995501839222,
+    "y": 1.4500932656740146
+  },
+  {
+    "entity": "orange painted beams",
+    "type": "v",
+    "granularity": 3,
+    "parent": "exposed beams",
+    "x": -0.222562814875355,
+    "y": 2.9917329081043915
+  },
+  {
+    "entity": "street art style",
+    "type": "v",
+    "granularity": 3,
+    "parent": "graffiti-style art",
+    "x": -2.6644093464406344,
+    "y": -1.378739581864462
+  },
+  {
+    "entity": "German travel bank",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ReiseBank signage",
+    "x": 0.8369733181176852,
+    "y": -2.88088105703083
+  },
+  {
+    "entity": "German signage style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ReiseBank signage",
+    "x": 1.6862501335563893,
+    "y": -2.481241722823687
+  },
+  {
+    "entity": "German Hauptbahnhof",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station interior",
+    "x": -2.5778540990780368,
+    "y": 1.534492829525953
+  },
+  {
+    "entity": "ReiseBank indicates Germany",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ReiseBank signage",
+    "x": 2.3704650371270692,
+    "y": -1.8387211609589318
+  },
+  {
+    "entity": "German station architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern architecture",
+    "x": 2.905749483385893,
+    "y": -0.7460696614945661
+  },
+  {
+    "entity": "German transportation hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station interior",
+    "x": -2.897036980387163,
+    "y": 0.7792154607483281
+  },
+  {
+    "entity": "mural as identifier",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large colorful mural",
+    "x": -1.7937149491725595,
+    "y": -2.4047009546126277
+  },
+  {
+    "entity": "mural origin investigation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large colorful mural",
+    "x": -0.998458633568961,
+    "y": -2.828971607678593
+  }
+]

@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Monaco","granularity":2,"parent":"Europe"},
+{"entity":"Centre-Val de Loire region","granularity":3,"parent":"France"},
+{"entity":"PACA region","granularity":3,"parent":"France"},
+{"entity":"La Condamine","granularity":5,"parent":"Monaco"},
+{"entity":"Monaco-Monte-Carlo station","granularity":5,"parent":"Monaco"},
+{"entity":"Sainte-Dévote valley","granularity":5,"parent":"Monaco"}
+]

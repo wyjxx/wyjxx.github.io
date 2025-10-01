@@ -1,0 +1,26 @@
+[{"paragraph":1,"clue":["formal garden","geometric hedge patterns","green lawn","major park","institutional grounds","lamp posts","urban buildings","cityscape","relatively flat","hills/elevations","sky","wispy clouds","vegetation","boxwood"],"loc-clue":[]},{"paragraph":2,"clue":["formal garden design","geometric hedge patterns","European formal gardens","French style","Portuguese style","public park","palace grounds"],"loc-clue":[{"loc":"Europe","status":2,"related_clue":["European formal gardens"]},{"loc":"France","status":2,"related_clue":["French style"]},{"loc":"Portugal","status":2,"related_clue":["Portuguese style"]}]},{"paragraph":3,"clue":["formal garden","geometric hedge patterns","European cities","baroque gardens"],"loc-clue":[{"loc":"Versailles","status":1,"related_clue":["formal garden","geometric hedge patterns"]},{"loc":"France","status":1,"related_clue":["formal garden","geometric hedge patterns"]},{"loc":"Lisbon","status":2,"related_clue":["geometric hedge patterns"]},{"loc":"Portugal","status":2,"related_clue":["geometric hedge patterns"]},{"loc":"Eduardo VII Park","status":2,"related_clue":["geometric hedge patterns"]}]},{"paragraph":4,"clue":["cityscape","lamp posts","modern architecture","older architecture"],"loc-clue":[]},{"paragraph":5,"clue":["geometric hedge patterns","overall layout","formal garden","boxwood"],"loc-clue":[{"loc":"Eduardo VII Park","status":3,"related_clue":["geometric hedge patterns"]},{"loc":"Lisbon","status":3,"related_clue":["geometric hedge patterns"]},{"loc":"Portugal","status":3,"related_clue":["geometric hedge patterns"]}]},{"paragraph":6,"clue":["lamp posts","formal garden","formal garden style","urban backdrop","overall layout","park","French-style garden","geometric hedge patterns"],"loc-clue":[{"loc":"Eduardo VII Park","status":3,"related_clue":["lamp posts","formal garden style","urban backdrop","overall layout"]},{"loc":"Lisbon","status":3,"related_clue":["urban backdrop"]},{"loc":"Marquês de Pombal","status":3,"related_clue":["overall layout"]}]},{
+  "paragraph": 7,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Avenidas Novas",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Lisbon",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Portugal",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+}]

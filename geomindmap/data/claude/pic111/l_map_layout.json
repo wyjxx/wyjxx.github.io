@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9318516525781364,
+    "y": 0.517638090205042
+  },
+  {
+    "entity": "Eastern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9318516525781366,
+    "y": -0.5176380902050414
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.835278939472772,
+    "y": 1.1360613788156906
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.5977921933207346,
+    "y": 3.0416238624001237
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.522104768880206,
+    "y": 3.9657794454952415
+  },
+  {
+    "entity": "Cologne",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.7220443872331797,
+    "y": 3.610341137399443
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.4105606574163696,
+    "y": 2.0899942588637943
+  },
+  {
+    "entity": "Nuremberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.530733729460358,
+    "y": -3.6955181300451474
+  },
+  {
+    "entity": "Sankt Lorenz Church",
+    "granularity": 5,
+    "parent": "Nuremberg",
+    "x": -4.975923633360984,
+    "y": -0.4900857016478052
+  },
+  {
+    "entity": "Lorenzkirche",
+    "granularity": 5,
+    "parent": "Nuremberg",
+    "x": -3.417961510114356,
+    "y": -3.6493203634891787
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Nuremberg",
+    "x": -0.16359541410887812,
+    "y": -4.997322937381829
+  },
+  {
+    "entity": "Altstadt-St. Lorenz",
+    "granularity": 5,
+    "parent": "Nuremberg",
+    "x": 3.171966420818228,
+    "y": -3.8650522668136844
+  }
+]

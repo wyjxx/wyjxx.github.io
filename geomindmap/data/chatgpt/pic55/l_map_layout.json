@@ -1,0 +1,37 @@
+[
+  {
+    "entity": "Barrio Santa Cruz",
+    "granularity": 5,
+    "parent": "Seville",
+    "x": 2.5000000000000004,
+    "y": 4.330127018922193
+  },
+  {
+    "entity": "Santa Cruz",
+    "granularity": 5,
+    "parent": "Seville",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Seville",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Seville Cathedral",
+    "granularity": 5,
+    "parent": "Seville",
+    "x": 2.4999999999999964,
+    "y": -4.330127018922195
+  }
+]

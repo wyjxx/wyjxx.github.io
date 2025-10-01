@@ -1,0 +1,20 @@
+[  
+  {"entity":"large monument","type":"v","granularity":1,"parent":null},  
+  {"entity":"prow-shaped monument","type":"v","granularity":2,"parent":"large monument"},  
+  {"entity":"red bridge","type":"v","granularity":1,"parent":null},  
+  {"entity":"Christ the King statue","type":"v","granularity":2,"parent":"large monument"},  
+  {"entity":"marina","type":"v","granularity":1,"parent":null},  
+  {"entity":"road","type":"v","granularity":1,"parent":null},  
+  {"entity":"park","type":"v","granularity":1,"parent":null},  
+  {"entity":"elevated terraces","type":"v","granularity":2,"parent":"foreground architecture"},  
+  {"entity":"modern architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"garden","type":"v","granularity":1,"parent":null},  
+  {"entity":"foreground architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"trees","type":"v","granularity":1,"parent":null},  
+  {"entity":"aerial view","type":"v","granularity":1,"parent":null},  
+  {"entity":"monument symbolism","type":"i","granularity":3,"parent":"large monument"},  
+  {"entity":"Lisbon layout","type":"i","granularity":3,"parent":"aerial view"},  
+  {"entity":"light angle","type":"i","granularity":3,"parent":"aerial view"},  
+  {"entity":"time of day","type":"i","granularity":3,"parent":"aerial view"},  
+  {"entity":"viewing direction","type":"i","granularity":3,"parent":"aerial view"}  
+]

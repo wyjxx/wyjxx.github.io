@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"England","granularity":2,"parent":"Europe"},  
+  {"entity":"United Kingdom","granularity":2,"parent":"Europe"},  
+  {"entity":"Cotswold","granularity":3,"parent":"England"},  
+  {"entity":"Oxfordshire","granularity":3,"parent":"England"},  
+  {"entity":"Abingdon","granularity":4,"parent":"Oxfordshire"},  
+  {"entity":"Oxford","granularity":4,"parent":"Oxfordshire"},  
+  {"entity":"Cambridge","granularity":4,"parent":"England"},  
+  {"entity":"High Street","granularity":5,"parent":"Oxford"}  
+]

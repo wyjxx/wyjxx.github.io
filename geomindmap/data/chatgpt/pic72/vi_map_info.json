@@ -1,0 +1,17 @@
+[  
+  {"entity":"street scene","type":"v","granularity":1,"parent":null},  
+  {"entity":"bridge","type":"v","granularity":1,"parent":null},  
+  {"entity":"mid-rise hotel","type":"v","granularity":1,"parent":null},  
+  {"entity":"rooftop sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"low traffic","type":"v","granularity":2,"parent":"street scene"},  
+  {"entity":"black-and-white mural","type":"v","granularity":2,"parent":"mid-rise hotel"},  
+  {"entity":"Marilyn Monroe mural","type":"v","granularity":2,"parent":"mid-rise hotel"},  
+  {"entity":"Campus Riera International sign","type":"v","granularity":2,"parent":"rooftop sign"},  
+  {"entity":"likely in Cannes","type":"i","granularity":3,"parent":"street scene"},  
+  {"entity":"near Boulevard de la Croisette","type":"i","granularity":3,"parent":"street scene"},  
+  {"entity":"famous landmark","type":"i","granularity":3,"parent":"Marilyn Monroe mural"},  
+  {"entity":"hotel variant identification","type":"i","granularity":3,"parent":"rooftop sign"},  
+  {"entity":"tourism site placement","type":"i","granularity":3,"parent":"Marilyn Monroe mural"},  
+  {"entity":"map confirmation","type":"i","granularity":3,"parent":"street scene"},  
+  {"entity":"Wikipedia confirmation","type":"i","granularity":3,"parent":"street scene"}  
+]

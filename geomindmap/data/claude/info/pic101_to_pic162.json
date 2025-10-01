@@ -1,0 +1,155 @@
+[
+    {
+        "picture": "pic101",
+        "tokens_total": 50366,
+        "time_total": 272.6619396209717,
+        "tokens_response": 1001,
+        "tokens_reasoning": 0,
+        "time_response": 23.176687717437744,
+        "accuracy": 1
+    },
+    {
+        "picture": "pic103",
+        "tokens_total": 50858,
+        "time_total": 286.008704662323,
+        "tokens_response": 978,
+        "tokens_reasoning": 0,
+        "time_response": 36.621408462524414,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic105",
+        "tokens_total": 40827,
+        "time_total": 304.623526096344,
+        "tokens_response": 949,
+        "tokens_reasoning": 0,
+        "time_response": 23.434309244155884,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic107",
+        "tokens_total": 79422,
+        "time_total": 481.854772567749,
+        "tokens_response": 1494,
+        "tokens_reasoning": 0,
+        "time_response": 59.7664008140564,
+        "accuracy": 0
+    },
+    {
+        "picture": "pic109",
+        "tokens_total": 46982,
+        "time_total": 288.41082763671875,
+        "tokens_response": 1130,
+        "tokens_reasoning": 0,
+        "time_response": 45.09597969055176,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic111",
+        "tokens_total": 127727,
+        "time_total": 567.7854175567627,
+        "tokens_response": 4132,
+        "tokens_reasoning": 0,
+        "time_response": 97.87725925445557,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic115",
+        "tokens_total": 61879,
+        "time_total": 389.3603050708771,
+        "tokens_response": 1530,
+        "tokens_reasoning": 0,
+        "time_response": 46.42473793029785,
+        "accuracy": 0
+    },
+    {
+        "picture": "pic118",
+        "tokens_total": 44407,
+        "time_total": 315.32708048820496,
+        "tokens_response": 1119,
+        "tokens_reasoning": 0,
+        "time_response": 40.86461853981018,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic120",
+        "tokens_total": 57335,
+        "time_total": 411.1414120197296,
+        "tokens_response": 1418,
+        "tokens_reasoning": 0,
+        "time_response": 47.1786162853241,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic121",
+        "tokens_total": 62403,
+        "time_total": 319.5961284637451,
+        "tokens_response": 1285,
+        "tokens_reasoning": 0,
+        "time_response": 35.38039779663086,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic123",
+        "tokens_total": 45567,
+        "time_total": 273.7882137298584,
+        "tokens_response": 1386,
+        "tokens_reasoning": 0,
+        "time_response": 54.268527030944824,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic124",
+        "tokens_total": 52788,
+        "time_total": 278.52624011039734,
+        "tokens_response": 1242,
+        "tokens_reasoning": 0,
+        "time_response": 38.248037338256836,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic126",
+        "tokens_total": 50366,
+        "time_total": 288.8658330440521,
+        "tokens_response": 1308,
+        "tokens_reasoning": 0,
+        "time_response": 33.53633117675781,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic127",
+        "tokens_total": 51875,
+        "time_total": 297.6828327178955,
+        "tokens_response": 988,
+        "tokens_reasoning": 0,
+        "time_response": 26.321435689926147,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic128",
+        "tokens_total": 65871,
+        "time_total": 361.29719257354736,
+        "tokens_response": 1691,
+        "tokens_reasoning": 0,
+        "time_response": 45.13592839241028,
+        "accuracy": 2
+    },
+    {
+        "picture": "pic129",
+        "tokens_total": 48336,
+        "time_total": 342.5430123806,
+        "tokens_response": 1285,
+        "tokens_reasoning": 0,
+        "time_response": 45.052123069763184,
+        "accuracy": 3
+    },
+    {
+        "picture": "pic130",
+        "tokens_total": 50380,
+        "time_total": 328.8156487941742,
+        "tokens_response": 1052,
+        "tokens_reasoning": 0,
+        "time_response": 31.96683692932129,
+        "accuracy": 3
+    }
+]

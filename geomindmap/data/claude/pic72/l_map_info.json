@@ -1,0 +1,10 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Mediterranean","granularity":1,"parent":null},  
+{"entity":"France","granularity":2,"parent":"Europe"},  
+{"entity":"French Riviera","granularity":3,"parent":"France"},  
+{"entity":"Cannes","granularity":4,"parent":"French Riviera"},  
+{"entity":"La Croisette","granularity":5,"parent":"Cannes"},  
+{"entity":"La Bocca","granularity":5,"parent":"Cannes"},  
+{"entity":"Boulevard de la Croisette","granularity":5,"parent":"Cannes"}  
+]

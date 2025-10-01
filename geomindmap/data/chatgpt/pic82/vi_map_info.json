@@ -1,0 +1,20 @@
+[
+{"entity":"sign","type":"v","granularity":1,"parent":null},
+{"entity":"Oxford street-name plate","type":"v","granularity":1,"parent":null},
+{"entity":"cobbled passage","type":"v","granularity":1,"parent":null},
+{"entity":"narrow pedestrian lane","type":"v","granularity":1,"parent":null},
+{"entity":"covered bridge","type":"v","granularity":1,"parent":null},
+{"entity":"wiring","type":"v","granularity":1,"parent":null},
+{"entity":"Logic Lane text","type":"v","granularity":2,"parent":"sign"},
+{"entity":"dark-blue-and-white style","type":"v","granularity":2,"parent":"Oxford street-name plate"},
+{"entity":"sign placement","type":"v","granularity":2,"parent":"sign"},
+{"entity":"building masonry","type":"v","granularity":2,"parent":null},
+{"entity":"weathered limestone","type":"v","granularity":3,"parent":"building masonry"},
+{"entity":"Cotswold stone","type":"i","granularity":3,"parent":"building masonry"},
+{"entity":"typical central Oxford limestone","type":"i","granularity":3,"parent":"building masonry"},
+{"entity":"runs through University College","type":"i","granularity":3,"parent":"cobbled passage"},
+{"entity":"in the heart of Oxford","type":"i","granularity":3,"parent":"narrow pedestrian lane"},
+{"entity":"private lane","type":"i","granularity":3,"parent":"narrow pedestrian lane"},
+{"entity":"college-owned","type":"i","granularity":3,"parent":"narrow pedestrian lane"},
+{"entity":"OX1 4EX","type":"i","granularity":3,"parent":"narrow pedestrian lane"}
+]

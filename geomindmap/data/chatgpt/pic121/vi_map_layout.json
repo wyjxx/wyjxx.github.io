@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "Gothic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "pointed spires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.977661652450257,
+    "y": 0.29808453235234883
+  },
+  {
+    "entity": "elaborate tracery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.8019377358048383,
+    "y": 0.8677674782351161
+  },
+  {
+    "entity": "arcaded columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.466103743659653,
+    "y": 1.3603454755418385
+  },
+  {
+    "entity": "Baroque guild houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890682,
+    "y": 0.258819045102521
+  },
+  {
+    "entity": "gold detailing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Baroque guild houses",
+    "x": -1.2586407820996746,
+    "y": 1.554291922913942
+  },
+  {
+    "entity": "façades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Baroque guild houses",
+    "x": -1.6773411358908479,
+    "y": 1.0892780700300546
+  },
+  {
+    "entity": "cobblestone paving",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912352,
+    "y": -0.6087614290087207
+  },
+  {
+    "entity": "open square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252063,
+    "y": -0.9659258262890683
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508917,
+    "y": -0.923879532511287
+  },
+  {
+    "entity": "pedestrian zone",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087199,
+    "y": -0.7933533402912357
+  },
+  {
+    "entity": "sun",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912344,
+    "y": -0.6087614290087217
+  },
+  {
+    "entity": "Gothic-revival style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "Flemish-Baroque style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Baroque guild houses",
+    "x": -2.8977774788672046,
+    "y": 0.7764571353075631
+  },
+  {
+    "entity": "UNESCO-listed square",
+    "type": "i",
+    "granularity": 3,
+    "parent": "open square",
+    "x": -1.720729309053139,
+    "y": -2.457456132866975
+  },
+  {
+    "entity": "Museum of the City of Brussels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 0.667562801868944,
+    "y": 2.9247837365454705
+  },
+  {
+    "entity": "Maison du Roi",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": -0.22419028075927147,
+    "y": 2.9916113915435405
+  },
+  {
+    "entity": "Broodhuis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": -1.0960230730991833,
+    "y": 2.7926212459326134
+  },
+  {
+    "entity": "Town Hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7716385975338587,
+    "y": -1.1480502970952737
+  },
+  {
+    "entity": "European market square",
+    "type": "i",
+    "granularity": 3,
+    "parent": "open square",
+    "x": -0.7764571353075645,
+    "y": -2.897777478867204
+  },
+  {
+    "entity": "Northern European market square",
+    "type": "i",
+    "granularity": 3,
+    "parent": "open square",
+    "x": 0.261467228242971,
+    "y": -2.988584094275237
+  },
+  {
+    "entity": "famous merchant ensemble",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Baroque guild houses",
+    "x": -2.9958886042637216,
+    "y": -0.15700786872883069
+  },
+  {
+    "entity": "historic district",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9743345841214306,
+    "y": -0.39157857666016027
+  },
+  {
+    "entity": "17th-century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Baroque guild houses",
+    "x": -2.8007412794916053,
+    "y": -1.0751038486359
+  }
+]

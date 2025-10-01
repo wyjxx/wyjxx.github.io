@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818236,
+    "y": 0.2225209339563144
+  },
+  {
+    "entity": "body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680298,
+    "y": 0.6234898018587335
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631445,
+    "y": 0.9749279121818236
+  },
+  {
+    "entity": "landmarks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7818314824680298,
+    "y": 0.6234898018587336
+  },
+  {
+    "entity": "PhysioTherm sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818236,
+    "y": -0.22252093395631428
+  },
+  {
+    "entity": "HAPAG-Lloyd building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587337,
+    "y": -0.7818314824680297
+  },
+  {
+    "entity": "Kunsthalle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "boats",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.43388373911755795,
+    "y": -0.9009688679024193
+  },
+  {
+    "entity": "atmosphere",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680297,
+    "y": -0.6234898018587337
+  },
+  {
+    "entity": "clock tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "landmarks",
+    "x": -1.5636629649360596,
+    "y": 1.2469796037174672
+  },
+  {
+    "entity": "green roof",
+    "type": "v",
+    "granularity": 3,
+    "parent": "clock tower",
+    "x": -2.3454944474040893,
+    "y": 1.8704694055762008
+  },
+  {
+    "entity": "ship mast",
+    "type": "v",
+    "granularity": 3,
+    "parent": "HAPAG-Lloyd building",
+    "x": -1.870469405576201,
+    "y": -2.3454944474040893
+  },
+  {
+    "entity": "major city",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9247837365454705,
+    "y": -0.6675628018689439
+  },
+  {
+    "entity": "architectural clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 0.6675628018689433,
+    "y": 2.924783736545471
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "medieval stone castle architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1305261922200517,
+    "y": 0.9914448613738104
+  },
+  {
+    "entity": "large ceremonial courtyard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738104,
+    "y": 0.13052619222005157
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": -0.38268343236508967
+  },
+  {
+    "entity": "reddish pink pavement",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999996,
+    "y": -0.8660254037844388
+  },
+  {
+    "entity": "formation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087205,
+    "y": -0.7933533402912352
+  },
+  {
+    "entity": "crenellations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": 1.9793027736393405,
+    "y": 0.28698524398235864
+  },
+  {
+    "entity": "towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": 1.8162863476501625,
+    "y": 0.8373194750748562
+  },
+  {
+    "entity": "Gothic arched openings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": 1.5036796149579548,
+    "y": 1.318691630200138
+  },
+  {
+    "entity": "stone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": 1.0672290318312232,
+    "y": 1.6914556434079464
+  },
+  {
+    "entity": "light-colored limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": 0.5428808997301482,
+    "y": 1.9249104729072948
+  },
+  {
+    "entity": "building style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone castle architecture",
+    "x": -0.31286893008046207,
+    "y": 1.9753766811902753
+  },
+  {
+    "entity": "bright red uniforms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "formation",
+    "x": 0.0872387747306733,
+    "y": -1.9980964431637154
+  },
+  {
+    "entity": "tall black bearskin hats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "formation",
+    "x": 0.9619775378387747,
+    "y": -1.7534535114150158
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear blue sky",
+    "x": -1.9615705608064609,
+    "y": -0.3901806440322567
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clear blue sky",
+    "x": -1.662939224605091,
+    "y": -1.111140466039204
+  },
+  {
+    "entity": "mid-day shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "reddish pink pavement",
+    "x": -0.9999999999999992,
+    "y": -1.7320508075688776
+  },
+  {
+    "entity": "medieval European style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building style",
+    "x": -0.4693033951206931,
+    "y": 2.963065021785413
+  },
+  {
+    "entity": "British Royal Guard style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright red uniforms",
+    "x": 0.13085816209600995,
+    "y": -2.997144664745573
+  },
+  {
+    "entity": "Queen's Guard",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formation",
+    "x": 2.167091886179267,
+    "y": -2.0745391673468077
+  },
+  {
+    "entity": "King's Guard",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formation",
+    "x": 2.6906182245980634,
+    "y": -1.3268660706570066
+  },
+  {
+    "entity": "changing of the guard ceremony",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formation",
+    "x": 2.965084531403282,
+    "y": -0.4563701585697516
+  },
+  {
+    "entity": "royal residence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone castle architecture",
+    "x": -1.666710699058807,
+    "y": 2.4944088369076356
+  },
+  {
+    "entity": "historical castle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone castle architecture",
+    "x": -2.3065254962203783,
+    "y": 1.9183170059417542
+  },
+  {
+    "entity": "British Royal Family",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone castle architecture",
+    "x": -2.756373630446695,
+    "y": 1.1842315691528023
+  }
+]

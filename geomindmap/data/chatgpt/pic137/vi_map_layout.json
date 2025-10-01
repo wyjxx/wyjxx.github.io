@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "stylized prow-shaped monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296142,
+    "y": 0.5264321628773557
+  },
+  {
+    "entity": "suspension bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09226835946330202,
+    "y": 0.9957341762950345
+  },
+  {
+    "entity": "wide estuary",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4457383557765382,
+    "y": 0.8951632913550623
+  },
+  {
+    "entity": "tall Christ-like statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.850217135729614,
+    "y": 0.5264321628773561
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9829730996839018,
+    "y": -0.18374951781657056
+  },
+  {
+    "entity": "olive trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7390089172206591,
+    "y": -0.6736956436465572
+  },
+  {
+    "entity": "multi-lane road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.44573835577653803,
+    "y": -0.8951632913550625
+  },
+  {
+    "entity": "rail track",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0922683594633028,
+    "y": -0.9957341762950345
+  },
+  {
+    "entity": "nearby buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2736629900720828,
+    "y": -0.961825643172819
+  },
+  {
+    "entity": "waterfront setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8502171357296139,
+    "y": -0.5264321628773562
+  },
+  {
+    "entity": "high-relief figures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stylized prow-shaped monument",
+    "x": 1.923651286345638,
+    "y": 0.5473259801441657
+  },
+  {
+    "entity": "explorer sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stylized prow-shaped monument",
+    "x": 1.3473912872931144,
+    "y": 1.4780178344413182
+  },
+  {
+    "entity": "warm low-angle light",
+    "type": "v",
+    "granularity": 3,
+    "parent": "waterfront setting",
+    "x": 2.0210869309396706,
+    "y": -2.217026751661978
+  },
+  {
+    "entity": "Golden Gate Bridge",
+    "type": "i",
+    "granularity": 3,
+    "parent": "suspension bridge",
+    "x": 0.27680507838990603,
+    "y": 2.9872025288851036
+  },
+  {
+    "entity": "Christ the Redeemer",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall Christ-like statue",
+    "x": -2.550651407188842,
+    "y": 1.5792964886320682
+  },
+  {
+    "entity": "western European latitude",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront setting",
+    "x": 2.8854769295184566,
+    "y": -0.8209889702162495
+  },
+  {
+    "entity": "Mediterranean-subtropical vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm trees",
+    "x": -2.9489192990517052,
+    "y": -0.5512485534497117
+  }
+]

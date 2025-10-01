@@ -1,0 +1,298 @@
+[
+  {
+    "entity": "rocky peaks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous landscape",
+    "x": -1.9652080747183867,
+    "y": -0.37142593213405517
+  },
+  {
+    "entity": "dense forests",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest",
+    "x": -0.6928979030294489,
+    "y": -1.876137653792331
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4502037448176733,
+    "y": 0.8929258581495685
+  },
+  {
+    "entity": "narrow road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.9662514355914085,
+    "y": 0.36586239494477335
+  },
+  {
+    "entity": "striped pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signpost",
+    "x": -1.3838777379550922,
+    "y": 1.443912187909049
+  },
+  {
+    "entity": "signpost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7780357543184396,
+    "y": 0.6282199972956422
+  },
+  {
+    "entity": "guardrails",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.7921779355095007,
+    "y": 0.887748977736896
+  },
+  {
+    "entity": "alder tree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest",
+    "x": -0.2540356394937584,
+    "y": -1.9838008705177537
+  },
+  {
+    "entity": "snow poles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.5995392357131037,
+    "y": 1.2006141067863312
+  },
+  {
+    "entity": "marker posts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 1.2119017525270963,
+    "y": 1.59100413017118
+  },
+  {
+    "entity": "mountain profile",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous landscape",
+    "x": -1.7623393448869964,
+    "y": -0.9456003561036093
+  },
+  {
+    "entity": "terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9428774454610842,
+    "y": 0.33313979474205757
+  },
+  {
+    "entity": "trails",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9963974885425265,
+    "y": 0.0848059244755095
+  },
+  {
+    "entity": "mountainous landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8285096492438424,
+    "y": -0.5599747861375949
+  },
+  {
+    "entity": "road features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 0.7325635452277457,
+    "y": 1.8610079667221622
+  },
+  {
+    "entity": "road angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": "narrow road",
+    "x": 2.949377153387113,
+    "y": 0.5487935924171601
+  },
+  {
+    "entity": "foreground road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 0.3797656453748567,
+    "y": 1.9636135196603783
+  },
+  {
+    "entity": "road curvature",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": 0.01415120017886404,
+    "y": 1.999949935256755
+  },
+  {
+    "entity": "forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1270178197468792,
+    "y": -0.9919004352588768
+  },
+  {
+    "entity": "path branch",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trails",
+    "x": -1.992794977085053,
+    "y": 0.169611848951019
+  },
+  {
+    "entity": "mountain orientation",
+    "type": "v",
+    "granularity": 3,
+    "parent": "mountain profile",
+    "x": -2.6435090173304947,
+    "y": -1.4184005341554138
+  },
+  {
+    "entity": "angle of view",
+    "type": "v",
+    "granularity": 3,
+    "parent": "mountainous landscape",
+    "x": -2.0941314947613536,
+    "y": -2.148165096692658
+  },
+  {
+    "entity": "forest density",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forest",
+    "x": 0.19779460072849614,
+    "y": -1.9901952909005325
+  },
+  {
+    "entity": "marker positions",
+    "type": "v",
+    "granularity": 3,
+    "parent": "marker posts",
+    "x": 1.8178526287906445,
+    "y": 2.3865061952567697
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.29282277127655,
+    "y": -0.9561667347392511
+  },
+  {
+    "entity": "width",
+    "type": "v",
+    "granularity": 3,
+    "parent": "road",
+    "x": -0.5279112415617357,
+    "y": 2.953186367473741
+  },
+  {
+    "entity": "mountainous European region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous landscape",
+    "x": -1.6160739115882334,
+    "y": -2.527509666110875
+  },
+  {
+    "entity": "secondary route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road",
+    "x": -1.059233036853902,
+    "y": 2.806782031729087
+  },
+  {
+    "entity": "less-traveled route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road",
+    "x": -1.554807237778097,
+    "y": 2.565652831805746
+  },
+  {
+    "entity": "German influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signpost",
+    "x": -2.554587413199934,
+    "y": 1.5729218506716949
+  },
+  {
+    "entity": "reverse image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.35061123445302,
+    "y": -2.6787775744487057
+  },
+  {
+    "entity": "likely match",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.7838995289128607,
+    "y": -2.411991391100821
+  },
+  {
+    "entity": "potential matches",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.165868281863575,
+    "y": -2.075816606932637
+  },
+  {
+    "entity": "Google Maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4855289477315283,
+    "y": -1.6799243584127832
+  },
+  {
+    "entity": "Google Maps satellite view",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.733685471164409,
+    "y": -1.2357037447319739
+  },
+  {
+    "entity": "Google Earth's satellite view",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.903198840800498,
+    "y": -0.7559341841553702
+  },
+  {
+    "entity": "satellite imagery",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.98919246562758,
+    "y": -0.25441777342652094
+  }
+]

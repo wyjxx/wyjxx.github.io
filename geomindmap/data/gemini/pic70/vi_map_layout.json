@@ -1,0 +1,90 @@
+[
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328512,
+    "y": 0.9898214418809327
+  },
+  {
+    "entity": "tricolor flag",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311813,
+    "y": 0.5406408174555974
+  },
+  {
+    "entity": "GARE text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.081281634911195,
+    "y": 1.6825070656623624
+  },
+  {
+    "entity": "SNCF logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.5634651136828593,
+    "y": 1.9189859472289947
+  },
+  {
+    "entity": "preliminary location ideas",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "French location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.523760598493543,
+    "y": -1.6219224523667937
+  },
+  {
+    "entity": "strong hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.2462450390056592,
+    "y": -2.7288959860635553
+  },
+  {
+    "entity": "photos of Nice-Ville station",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.4269445148198546,
+    "y": -2.9694643256427984
+  },
+  {
+    "entity": "online sources",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.9645822018358536,
+    "y": -2.2672487230627763
+  },
+  {
+    "entity": "street address",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8784789208434916,
+    "y": -0.8451976705242918
+  }
+]

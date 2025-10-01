@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "primary structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9863613034027223,
+    "y": 0.1645945902807339
+  },
+  {
+    "entity": "ornate building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224267,
+    "y": 0.8371664782625287
+  },
+  {
+    "entity": "Graff store",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224269,
+    "y": -0.8371664782625285
+  },
+  {
+    "entity": "luxury cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.08257934547233274,
+    "y": -0.9965844930066698
+  },
+  {
+    "entity": "partially visible signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": -0.9157733266550574
+  },
+  {
+    "entity": "French signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963934,
+    "y": -0.614212712689668
+  },
+  {
+    "entity": "roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ornate building",
+    "x": 0.6493989384093671,
+    "y": 1.8916344834012693
+  },
+  {
+    "entity": "tile pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof",
+    "x": 0.6493989384093671,
+    "y": 1.8916344834012693
+  },
+  {
+    "entity": "twin towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ornate building",
+    "x": -1.3787068182371316,
+    "y": 1.4488504095821781
+  },
+  {
+    "entity": "sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "ornate building",
+    "x": -1.8039824602659178,
+    "y": 0.8635087046769859
+  },
+  {
+    "entity": "French word 'RESERVE'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "French signs",
+    "x": 1.5782810187927867,
+    "y": -1.228425425379336
+  },
+  {
+    "entity": "yellow tiles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tile pattern",
+    "x": 2.4172953169829343,
+    "y": 1.77670575799494
+  },
+  {
+    "entity": "green tiles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tile pattern",
+    "x": 0.9740984076140506,
+    "y": 2.837451725101904
+  },
+  {
+    "entity": "blue tiles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tile pattern",
+    "x": -0.8163103945360043,
+    "y": 2.886804000927752
+  },
+  {
+    "entity": "Beaux-Arts style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate building",
+    "x": -2.9897534790200098,
+    "y": 0.24773803641699668
+  },
+  {
+    "entity": "European origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate building",
+    "x": -2.8822610284105443,
+    "y": -0.8322087262855344
+  },
+  {
+    "entity": "late 1800s",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate building",
+    "x": -2.3975639906847737,
+    "y": -1.8032434418490761
+  },
+  {
+    "entity": "architectural databases",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9590839102081667,
+    "y": -0.49378377084220376
+  },
+  {
+    "entity": "luxury brands",
+    "type": "i",
+    "granularity": 3,
+    "parent": "luxury cars",
+    "x": -0.2477380364169982,
+    "y": -2.9897534790200098
+  }
+]

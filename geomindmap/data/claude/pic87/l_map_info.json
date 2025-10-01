@@ -1,0 +1,20 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Northern Europe","granularity":1,"parent":null},
+{"entity":"England","granularity":2,"parent":"Europe"},
+{"entity":"Denmark","granularity":2,"parent":"Europe"},
+{"entity":"English Channel coastline","granularity":2,"parent":"Europe"},
+{"entity":"Northern France","granularity":3,"parent":"Europe"},
+{"entity":"East Sussex","granularity":3,"parent":"England"},
+{"entity":"Jurassic Coast","granularity":3,"parent":"England"},
+{"entity":"South Downs","granularity":3,"parent":"England"},
+{"entity":"England's southern coast","granularity":3,"parent":"England"},
+{"entity":"Cuckmere Haven","granularity":4,"parent":"East Sussex"},
+{"entity":"Birling Gap","granularity":4,"parent":"East Sussex"},
+{"entity":"Seaford","granularity":4,"parent":"East Sussex"},
+{"entity":"Eastbourne","granularity":4,"parent":"East Sussex"},
+{"entity":"Étretat","granularity":4,"parent":"Northern France"},
+{"entity":"Beachy Head","granularity":4,"parent":"East Sussex"},
+{"entity":"White Cliffs of Dover","granularity":5,"parent":"England's southern coast"},
+{"entity":"Seven Sisters","granularity":5,"parent":"South Downs"}
+]

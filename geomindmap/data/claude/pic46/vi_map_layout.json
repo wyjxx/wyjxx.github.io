@@ -1,0 +1,162 @@
+[
+  {
+    "entity": "modern library interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494734,
+    "y": 0.9510565162951536
+  },
+  {
+    "entity": "multi-level library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.30901699437494756,
+    "y": -0.9510565162951535
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749473,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "geometric stepped design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": 1.8836887272790495,
+    "y": 0.6720987864308602
+  },
+  {
+    "entity": "stepped terraced floors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-level library",
+    "x": -1.338261212717717,
+    "y": -1.486289650954788
+  },
+  {
+    "entity": "white color scheme",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": 1.3097214678905702,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "clean lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": 0.7256154107012819,
+    "y": 1.8637280584229048
+  },
+  {
+    "entity": "bookshelves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": 0.05711210158739295,
+    "y": 1.9991843856563785
+  },
+  {
+    "entity": "modern lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": -1.2212957592708757,
+    "y": 1.5838044918445506
+  },
+  {
+    "entity": "recessed ceiling lights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern lighting",
+    "x": -0.7785402126347825,
+    "y": 1.8422473062297005
+  },
+  {
+    "entity": "perforated ceiling pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern lighting",
+    "x": -1.58380449184455,
+    "y": 1.2212957592708766
+  },
+  {
+    "entity": "glass railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern library interior",
+    "x": -1.9480238338846667,
+    "y": 0.45299353485152977
+  },
+  {
+    "entity": "casual clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": 1.6180339887498947,
+    "y": -1.1755705045849467
+  },
+  {
+    "entity": "famous modern library",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern library interior",
+    "x": -2.9804452060456508,
+    "y": -0.3419742296716208
+  },
+  {
+    "entity": "minimalist aesthetic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern library interior",
+    "x": -2.6921952860740754,
+    "y": -1.3236633037296635
+  },
+  {
+    "entity": "contemporary clothing style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "casual clothing",
+    "x": 1.7633557568774187,
+    "y": -2.427050983124843
+  },
+  {
+    "entity": "Western clothing style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "casual clothing",
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  },
+  {
+    "entity": "spiral-like pattern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "geometric stepped design",
+    "x": 2.825533090918574,
+    "y": 1.0081481796462903
+  },
+  {
+    "entity": "cube-shaped exterior",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-level library",
+    "x": -0.9270509831248427,
+    "y": -2.8531695488854605
+  },
+  {
+    "entity": "architect Eun Young Yi",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-level library",
+    "x": 0.31358538980295636,
+    "y": -2.9835656861048205
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Andalusia",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Granada",
+    "granularity": 4,
+    "parent": "Andalusia",
+    "x": -3.464101615137755,
+    "y": 1.9999999999999998
+  },
+  {
+    "entity": "Sabika hill",
+    "granularity": 4,
+    "parent": "Andalusia",
+    "x": 3.4641016151377553,
+    "y": -1.9999999999999987
+  },
+  {
+    "entity": "Alhambra",
+    "granularity": 5,
+    "parent": "Granada",
+    "x": -1.9134171618254485,
+    "y": 4.619397662556434
+  },
+  {
+    "entity": "Court of the Myrtles",
+    "granularity": 5,
+    "parent": "Alhambra",
+    "x": 2.7778511650980113,
+    "y": 4.157348061512726
+  },
+  {
+    "entity": "Comares Tower",
+    "granularity": 5,
+    "parent": "Alhambra",
+    "x": -4.903926402016152,
+    "y": 0.9754516100806431
+  },
+  {
+    "entity": "Albaicín",
+    "granularity": 5,
+    "parent": "Granada",
+    "x": -0.6526309611002581,
+    "y": -4.957224306869052
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Bremen",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.695518130045146,
+    "y": -1.5307337294603616
+  },
+  {
+    "entity": "Wallanlagen Park",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": 4.484363707663442,
+    "y": 2.2114434510950063
+  },
+  {
+    "entity": "Bremen-Mitte",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": 0.9754516100806416,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Domsheide",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": -3.296729075500344,
+    "y": 3.759199037394887
+  },
+  {
+    "entity": "Kirchviertel",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": -4.989294616193018,
+    "y": -0.3270156461507143
+  },
+  {
+    "entity": "Lloyd Passage",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": -2.777851165098011,
+    "y": -4.157348061512726
+  },
+  {
+    "entity": "Steintor",
+    "granularity": 5,
+    "parent": "Bremen",
+    "x": 1.6071973265158075,
+    "y": -4.7346506474755286
+  }
+]

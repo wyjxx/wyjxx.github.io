@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Canadian Rockies",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9498558243636472,
+    "y": 0.4450418679126288
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.8308300260037729,
+    "y": 1.8192639907090367
+  },
+  {
+    "entity": "New Zealand",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.5636629649360596,
+    "y": 1.246979603717467
+  },
+  {
+    "entity": "Central European mountains",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -2.142847035665711,
+    "y": 2.099572952230685
+  },
+  {
+    "entity": "Southern European mountains",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -2.7029066037072575,
+    "y": -1.301651217352674
+  },
+  {
+    "entity": "European Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.1821622650573524,
+    "y": -1.6132242184750605
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.28462967654657045,
+    "y": -1.9796428837618654
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.6797786031652342,
+    "y": -1.8809309000276229
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.484468246008541,
+    "y": -1.3402813236751179
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9403719111481297,
+    "y": -0.48472347418642214
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9009688679024191,
+    "y": -0.433883739117558
+  },
+  {
+    "entity": "Eibsee lake",
+    "granularity": 4,
+    "parent": "Central European mountains",
+    "x": -1.8086876291307434,
+    "y": 3.567723232010775
+  },
+  {
+    "entity": "Grainau",
+    "granularity": 4,
+    "parent": "Central European mountains",
+    "x": -3.9700740099641108,
+    "y": 0.4883772674966404
+  },
+  {
+    "entity": "Eibsee Rundweg trail",
+    "granularity": 5,
+    "parent": "Eibsee lake",
+    "x": -2.260859536413429,
+    "y": 4.4596540400134685
+  }
+]

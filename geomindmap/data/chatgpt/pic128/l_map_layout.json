@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -2.61944293578114,
+    "y": 3.022998297417033
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Alcântara",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 4.7360150514595505,
+    "y": 1.6031723027636775
+  },
+  {
+    "entity": "Alcântara valley",
+    "granularity": 3,
+    "parent": "Portugal",
+    "x": 0.4269445148198546,
+    "y": -2.9694643256427984
+  },
+  {
+    "entity": "Caneças",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": 2.619442935781138,
+    "y": -3.022998297417035
+  },
+  {
+    "entity": "Calçada da Quintinha",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.7884433349341475,
+    "y": 4.150251048775403
+  },
+  {
+    "entity": "Praça Dr. Sousa Martins",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -0.3058083041092124,
+    "y": 4.990639365966834
+  },
+  {
+    "entity": "Largo dos Moinhos",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.274303669726425,
+    "y": 3.7787478717712912
+  },
+  {
+    "entity": "Alfornelos",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": 3.8379718944579886,
+    "y": -1.1269302273657225
+  },
+  {
+    "entity": "Calçoens",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.896320793787105,
+    "y": 1.0129376507604064
+  },
+  {
+    "entity": "Aqueduto Museum",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.504844339512097,
+    "y": -2.169418695587788
+  },
+  {
+    "entity": "Alcântara railway viaduct",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -2.2608595364134345,
+    "y": -4.459654040013466
+  }
+]

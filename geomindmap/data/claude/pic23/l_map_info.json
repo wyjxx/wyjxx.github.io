@@ -1,0 +1,7 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Schleswig-Holstein","granularity":3,"parent":"Germany"},
+{"entity":"Ostholstein","granularity":3,"parent":"Germany"},
+{"entity":"Grube","granularity":4,"parent":"Ostholstein"}
+]

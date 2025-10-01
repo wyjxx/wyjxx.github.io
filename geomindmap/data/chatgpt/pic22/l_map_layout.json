@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.6697592243419723,
+    "y": 1.884521844237641
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.1533606442297344,
+    "y": -1.633939786020884
+  },
+  {
+    "entity": "Scandinavia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.40691202610526733,
+    "y": -1.9581681753646458
+  },
+  {
+    "entity": "West Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.8711067918874282,
+    "y": 0.8699113688059714
+  },
+  {
+    "entity": "northern Germany",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 1.1516895063238333,
+    "y": 2.77012838710114
+  },
+  {
+    "entity": "North Rhine-Westphalia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.781158617501507,
+    "y": 2.4140161514165808
+  },
+  {
+    "entity": "Western Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.047659429655961,
+    "y": -2.1925078928343735
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "northern Germany",
+    "x": 2.830902563605546,
+    "y": 2.8259495174846188
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.9205577113889674,
+    "y": 0.7932384456571074
+  },
+  {
+    "entity": "Utrecht",
+    "granularity": 4,
+    "parent": "Netherlands",
+    "x": -2.3067212884594688,
+    "y": -3.267879572041768
+  },
+  {
+    "entity": "Göttingen",
+    "granularity": 4,
+    "parent": "northern Germany",
+    "x": 1.5355860084317778,
+    "y": 3.693504516134854
+  },
+  {
+    "entity": "Münster",
+    "granularity": 4,
+    "parent": "North Rhine-Westphalia",
+    "x": -1.6128565557934595,
+    "y": 3.660422616370145
+  },
+  {
+    "entity": "Freiburg",
+    "granularity": 4,
+    "parent": "West Germany",
+    "x": 3.828142389183238,
+    "y": 1.1598818250746286
+  },
+  {
+    "entity": "Jena",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.7015207103611285,
+    "y": -1.5161610833838362
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "northern Germany",
+    "x": 0.007004662314225764,
+    "y": 3.999993866833531
+  },
+  {
+    "entity": "Delft",
+    "granularity": 4,
+    "parent": "Western Europe",
+    "x": 1.6435672613061931,
+    "y": -3.6467364392786132
+  },
+  {
+    "entity": "Eindhoven",
+    "granularity": 4,
+    "parent": "Western Europe",
+    "x": 3.5260740584986867,
+    "y": -1.8885978221904736
+  },
+  {
+    "entity": "Groningen",
+    "granularity": 4,
+    "parent": "Western Europe",
+    "x": 3.9463877514416073,
+    "y": -0.6527049220525715
+  },
+  {
+    "entity": "TU Munich",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.900697139236209,
+    "y": 0.9915480570713843
+  },
+  {
+    "entity": "University of Cologne",
+    "granularity": 5,
+    "parent": "North Rhine-Westphalia",
+    "x": -3.777183663383897,
+    "y": 3.276107991667216
+  },
+  {
+    "entity": "Gaußstraße",
+    "granularity": 5,
+    "parent": "Jena",
+    "x": -4.626900887951411,
+    "y": -1.8952013542297952
+  },
+  {
+    "entity": "Tanthof",
+    "granularity": 5,
+    "parent": "Delft",
+    "x": 0.883183072442934,
+    "y": -4.921380666088558
+  },
+  {
+    "entity": "Tanthof-West",
+    "granularity": 5,
+    "parent": "Delft",
+    "x": 3.10216943219784,
+    "y": -3.921293767870157
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Christ Church Cathedral",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.7974648680724865,
+    "y": 1.4086627842071484
+  },
+  {
+    "entity": "Christchurch Place",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.2743036697264256,
+    "y": 3.7787478717712912
+  },
+  {
+    "entity": "Dubh Linn Gardens",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.7115741913664255,
+    "y": 4.949107209404663
+  },
+  {
+    "entity": "Christchurch",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.0770750650094314,
+    "y": 4.548159976772592
+  },
+  {
+    "entity": "Medieval Quarter",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.206267664155907,
+    "y": 2.703204087277987
+  },
+  {
+    "entity": "Liberties",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Cathedral Precinct",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.206267664155905,
+    "y": -2.7032040872779897
+  },
+  {
+    "entity": "Dublin 8",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.077075065009432,
+    "y": -4.548159976772592
+  },
+  {
+    "entity": "Dame Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.7115741913664243,
+    "y": -4.949107209404664
+  },
+  {
+    "entity": "Roosevelt Row",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.2743036697264225,
+    "y": -3.7787478717712935
+  },
+  {
+    "entity": "Christchurch Cathedral Green",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.797464868072486,
+    "y": -1.408662784207153
+  }
+]

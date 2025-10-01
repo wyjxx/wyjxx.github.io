@@ -1,0 +1,10 @@
+[
+{"entity":"Elbe River","granularity":2,"parent":"Europe"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"St. Pauli","granularity":5,"parent":"Hamburg"},
+{"entity":"Steinwerder","granularity":5,"parent":"Hamburg"},
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},
+{"entity":"Landungsbrücken","granularity":5,"parent":"Hamburg"}
+]

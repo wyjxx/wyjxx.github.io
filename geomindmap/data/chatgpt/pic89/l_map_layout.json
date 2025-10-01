@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -3.804226065180614,
+    "y": 1.23606797749979
+  },
+  {
+    "entity": "North side of the Liffey",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.6909566796124205,
+    "y": 1.7305852853874648
+  },
+  {
+    "entity": "River Liffey",
+    "granularity": 3,
+    "parent": "Ireland",
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  },
+  {
+    "entity": "North Inner City",
+    "granularity": 3,
+    "parent": "Dublin",
+    "x": 1.4658637244908648,
+    "y": 2.6174880212183913
+  },
+  {
+    "entity": "Dublin 1",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.975451610080641,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Marlborough Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.9265846544037237,
+    "y": 3.095469746549171
+  },
+  {
+    "entity": "Cathedral Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.996145181203614,
+    "y": -0.19629907879534353
+  },
+  {
+    "entity": "Sackville Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.671612547178429,
+    "y": -3.3940037276647073
+  },
+  {
+    "entity": "O'Connell Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.5876869872891923,
+    "y": -4.965342284774631
+  },
+  {
+    "entity": "83 Marlborough Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 2.777851165098009,
+    "y": -4.157348061512727
+  }
+]

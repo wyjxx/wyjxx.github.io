@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "cobblestone street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9555728057861408,
+    "y": 0.29475517441090415
+  },
+  {
+    "entity": "pedestrian area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "corner building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "colorful facades",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861406,
+    "y": 0.2947551744109046
+  },
+  {
+    "entity": "German street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7330518718298268,
+    "y": -0.6801727377709188
+  },
+  {
+    "entity": "bare trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3653410243663937,
+    "y": -0.9308737486442048
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8262387743159945,
+    "y": -0.5633200580636227
+  },
+  {
+    "entity": "narrow pedestrian street",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrian area",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "Guarida signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "corner building",
+    "x": -0.6369733005033686,
+    "y": 1.8958546923342636
+  },
+  {
+    "entity": "blue circular sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "German street sign",
+    "x": -1.9991048645670066,
+    "y": -0.05983093233879637
+  },
+  {
+    "entity": "Mehlgasse sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "German street sign",
+    "x": -1.8506086009479936,
+    "y": -0.7584509253058563
+  },
+  {
+    "entity": "ZONE sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "German street sign",
+    "x": -1.4661037436596536,
+    "y": -1.3603454755418376
+  },
+  {
+    "entity": "Lieferverkehr frei sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "German street sign",
+    "x": -0.5608547786120069,
+    "y": -1.9197504830857777
+  },
+  {
+    "entity": "timing sign \"5-11\"",
+    "type": "v",
+    "granularity": 3,
+    "parent": "Lieferverkehr frei sign",
+    "x": -0.8412821679180105,
+    "y": -2.8796257246286663
+  },
+  {
+    "entity": "European city",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9664924786753852,
+    "y": -0.4471267985285258
+  },
+  {
+    "entity": "German architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "corner building",
+    "x": -2.3913975216687673,
+    "y": 1.8114132309764321
+  },
+  {
+    "entity": "Irish pub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Guarida signage",
+    "x": -0.955459950755053,
+    "y": 2.8437820385013954
+  },
+  {
+    "entity": "winter season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": 1.0960230730991811,
+    "y": -2.7926212459326143
+  },
+  {
+    "entity": "northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overcast sky",
+    "x": 2.4787163229479834,
+    "y": -1.689960174190868
+  },
+  {
+    "entity": "German historic center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cobblestone street",
+    "x": 2.866718417358422,
+    "y": 0.8842655232327125
+  },
+  {
+    "entity": "medieval street layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow pedestrian street",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  }
+]

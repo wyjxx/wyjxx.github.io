@@ -1,0 +1,12 @@
+[
+{"entity":"Germany","granularity":2,"parent":null},
+{"entity":"Austria","granularity":2,"parent":null},
+{"entity":"Switzerland","granularity":2,"parent":null},
+{"entity":"Korea","granularity":2,"parent":null},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Hong Kong","granularity":4,"parent":null},
+{"entity":"Koreastraße","granularity":5,"parent":"Hamburg"},
+{"entity":"Hongkongstraße","granularity":5,"parent":"Hamburg"},
+{"entity":"Elbtorquartier","granularity":5,"parent":"Hamburg"},
+{"entity":"HafenCity","granularity":5,"parent":"Hamburg"}
+]

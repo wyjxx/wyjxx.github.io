@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "classical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "Brutalist building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "ashlar stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classical building",
+    "x": 1.969615506024416,
+    "y": 0.3472963553338606
+  },
+  {
+    "entity": "arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classical building",
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999997
+  },
+  {
+    "entity": "ornate cornices",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classical building",
+    "x": 1.285575219373079,
+    "y": 1.5320888862379558
+  },
+  {
+    "entity": "pavements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159945,
+    "y": 0.5633200580636226
+  },
+  {
+    "entity": "golden sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9888308262251284,
+    "y": 0.14904226617617514
+  },
+  {
+    "entity": "background buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861409,
+    "y": -0.29475517441090354
+  },
+  {
+    "entity": "Sphere within a Sphere sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159951,
+    "y": -0.5633200580636216
+  },
+  {
+    "entity": "Old Library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000012,
+    "y": -0.8660254037844379
+  },
+  {
+    "entity": "Berkeley Library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.07473009358642561,
+    "y": -0.99720379718118
+  },
+  {
+    "entity": "roofline details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "classical building",
+    "x": 0.6840402866513381,
+    "y": 1.8793852415718166
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "exact location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical building",
+    "x": 8.498308346471969e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "probable location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.1991556154894796,
+    "y": -2.0405182133127573
+  },
+  {
+    "entity": "critical clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "golden sculpture",
+    "x": -2.9664924786753852,
+    "y": 0.44712679852852544
+  },
+  {
+    "entity": "visual match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Old Library",
+    "x": -1.5000000000000036,
+    "y": -2.598076211353314
+  },
+  {
+    "entity": "identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "confidence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.966492478675386,
+    "y": -0.4471267985285205
+  },
+  {
+    "entity": "style contrast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical building",
+    "x": -1.0260604299770055,
+    "y": 2.8190778623577253
+  }
+]

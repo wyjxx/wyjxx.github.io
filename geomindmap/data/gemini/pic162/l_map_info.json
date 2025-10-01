@@ -1,0 +1,13 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"West Germany","granularity":3,"parent":"Germany"},
+{"entity":"Mainz","granularity":4,"parent":"West Germany"},
+{"entity":"Quintinsstraße","granularity":5,"parent":"Mainz"},
+{"entity":"Rheinstraße","granularity":5,"parent":"Mainz"},
+{"entity":"Fischtorstraße","granularity":5,"parent":"Mainz"},
+{"entity":"Fischtor","granularity":5,"parent":"Mainz"},
+{"entity":"Altstadt","granularity":5,"parent":"Mainz"},
+{"entity":"intersection of Quintinsstraße and Rheinstraße","granularity":5,"parent":"Mainz"},
+{"entity":"intersection of Fischtorstraße and Quintinsstraße","granularity":5,"parent":"Mainz"}
+]

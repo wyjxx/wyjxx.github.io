@@ -1,0 +1,16 @@
+[
+  {"entity": "Europe", "granularity": 1, "parent": null},
+  {"entity": "Alps", "granularity": 2, "parent": "Europe"},
+  {"entity": "Austrian Alps", "granularity": 2, "parent": "Europe"},
+  {"entity": "Germany", "granularity": 2, "parent": "Europe"},
+  {"entity": "Austria", "granularity": 2, "parent": "Europe"},
+  {"entity": "Ammergau Alps", "granularity": 3, "parent": "Alps"},
+  {"entity": "Tyrol region", "granularity": 3, "parent": "Austria"},
+  {"entity": "Northern Italy", "granularity": 3, "parent": "Europe"},
+  {"entity": "Kramer ridge", "granularity": 4, "parent": "Ammergau Alps"},
+  {"entity": "Kramerspitz mountain range", "granularity": 4, "parent": "Ammergau Alps"},
+  {"entity": "Partenkirchen", "granularity": 4, "parent": "Germany"},
+  {"entity": "Garmisch-Partenkirchen", "granularity": 4, "parent": "Germany"},
+  {"entity": "Wildenauer Straße", "granularity": 5, "parent": "Garmisch-Partenkirchen"},
+  {"entity": "Olympic Ski Stadium", "granularity": 5, "parent": "Garmisch-Partenkirchen"}
+]

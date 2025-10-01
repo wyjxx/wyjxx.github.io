@@ -1,0 +1,21 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"Christ Church Cathedral","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin Castle","granularity":5,"parent":"Dublin"},
+{"entity":"Centenary Bridge","granularity":5,"parent":"Dublin"},
+{"entity":"St. Patrick's Cathedral","granularity":5,"parent":"Dublin"},
+{"entity":"Lower Clanbrassil Street","granularity":5,"parent":"Dublin"},
+{"entity":"Archbishop's Palace","granularity":5,"parent":"Dublin"},
+{"entity":"Synod Hall","granularity":5,"parent":"Dublin"},
+{"entity":"Winetavern Street","granularity":5,"parent":"Dublin"},
+{"entity":"Christchurch area","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin 8","granularity":5,"parent":"Dublin"},
+{"entity":"Christ Church Cathedral Precinct","granularity":5,"parent":"Dublin"},
+{"entity":"Christ Church Quarter","granularity":5,"parent":"Dublin"},
+{"entity":"Cathedral Quarter","granularity":5,"parent":"Dublin"},
+{"entity":"Christchurch Place","granularity":5,"parent":"Dublin"},
+{"entity":"High Street","granularity":5,"parent":"Dublin"},
+{"entity":"Temple Bar area","granularity":5,"parent":"Dublin"}
+]

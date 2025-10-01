@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Alpine region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.732050807568877,
+    "y": 1.0000000000000007
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.0000000000000009,
+    "y": -1.7320508075688767
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "German-speaking Switzerland",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 3,
+    "parent": "Alpine region",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  }
+]

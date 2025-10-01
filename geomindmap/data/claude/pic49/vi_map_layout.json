@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "undulating stone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.8793852415718169,
+    "y": 0.6840402866513374
+  },
+  {
+    "entity": "irregular balconies",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.3724832757374674,
+    "y": 1.4547472831460972
+  },
+  {
+    "entity": "organic shapes",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "limestone material",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.5736064654221806,
+    "y": 1.9159790246309778
+  },
+  {
+    "entity": "wide street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693008,
+    "y": 0.9848077530122081
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.597158591702786,
+    "y": 0.802123192755044
+  },
+  {
+    "entity": "pedestrians",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9730448705798238,
+    "y": 0.23061587074244033
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7660444431189783,
+    "y": -0.6427876096865389
+  },
+  {
+    "entity": "circular sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.732050807568878,
+    "y": -0.9999999999999988
+  },
+  {
+    "entity": "mature trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3960797660391576,
+    "y": -0.9182161068802737
+  },
+  {
+    "entity": "casual clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrians",
+    "x": -1.732050807568877,
+    "y": 1.0000000000000007
+  },
+  {
+    "entity": "modern clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrians",
+    "x": -1.992389396183491,
+    "y": 0.1743114854953164
+  },
+  {
+    "entity": "cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693033,
+    "y": -0.984807753012208
+  },
+  {
+    "entity": "commercial spaces",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2868032327110903,
+    "y": -0.9579895123154889
+  },
+  {
+    "entity": "street level",
+    "type": "v",
+    "granularity": 2,
+    "parent": "commercial spaces",
+    "x": 0.232185828250461,
+    "y": -1.9864767154838858
+  },
+  {
+    "entity": "people gathered",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pedestrians",
+    "x": -1.9586812435311032,
+    "y": -0.4044351446640746
+  },
+  {
+    "entity": "structural elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.3724832757374674,
+    "y": -1.4547472831460972
+  },
+  {
+    "entity": "Art Nouveau",
+    "type": "i",
+    "granularity": 3,
+    "parent": "undulating stone facade",
+    "x": 2.954423259036624,
+    "y": 0.520944533000791
+  },
+  {
+    "entity": "Modernist style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "undulating stone facade",
+    "x": 2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "European-style urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wide street",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wide street",
+    "x": -1.0260604299770055,
+    "y": 2.8190778623577253
+  },
+  {
+    "entity": "European style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traffic signs",
+    "x": -1.9283628290596184,
+    "y": -2.2981333293569337
+  },
+  {
+    "entity": "mild weather",
+    "type": "i",
+    "granularity": 3,
+    "parent": "casual clothing",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "commercial spaces",
+    "x": 1.3463975406013862,
+    "y": -2.680897920970237
+  },
+  {
+    "entity": "architectural movements",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.506463434238808,
+    "y": -1.64852693421242
+  },
+  {
+    "entity": "Antoni Gaudí",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8190778623577253,
+    "y": -1.0260604299770058
+  },
+  {
+    "entity": "UNESCO World Heritage Site",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9797150732258286,
+    "y": -0.3482787423756928
+  }
+]

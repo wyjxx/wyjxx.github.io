@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7390089172206591,
+    "y": 0.6736956436465572
+  },
+  {
+    "entity": "modern library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.09226835946330211,
+    "y": 0.9957341762950345
+  },
+  {
+    "entity": "interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8502171357296142,
+    "y": 0.5264321628773557
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2736629900720831,
+    "y": -0.961825643172819
+  },
+  {
+    "entity": "minimalist design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 1.939593872070019,
+    "y": 0.4878274402167543
+  },
+  {
+    "entity": "atrium",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.0000000000000004,
+    "y": 1.732050807568877
+  },
+  {
+    "entity": "tiered bookshelves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.700434271459228,
+    "y": 1.0528643257547121
+  },
+  {
+    "entity": "terraced levels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.9962066574740882,
+    "y": 0.12312181226788557
+  },
+  {
+    "entity": "German text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.319849069757445,
+    "y": -1.5026637791137467
+  },
+  {
+    "entity": "Dachterrasse signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.3311077523682604,
+    "y": -1.9724014947068051
+  },
+  {
+    "entity": "number 7",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.1454702801610088,
+    "y": -1.6394809658144434
+  },
+  {
+    "entity": "unique features",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.2170267516619773,
+    "y": 2.0210869309396715
+  },
+  {
+    "entity": "German-speaking country",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text",
+    "x": -2.6072668389165847,
+    "y": -1.483967530199337
+  },
+  {
+    "entity": "image search results",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5506514071888415,
+    "y": -1.5792964886320684
+  },
+  {
+    "entity": "hypothesis",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9489192990517052,
+    "y": -0.5512485534497102
+  },
+  {
+    "entity": "architectural clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 0.9970643984389789,
+    "y": 2.8294633034138323
+  },
+  {
+    "entity": "textual clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German text",
+    "x": -1.1352331501269308,
+    "y": -2.7769129793446687
+  }
+]

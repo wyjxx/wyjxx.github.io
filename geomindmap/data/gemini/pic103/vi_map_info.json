@@ -1,0 +1,19 @@
+[  
+  {"entity":"#MOIN","type":"v","granularity":1,"parent":null},  
+  {"entity":"park setting","type":"v","granularity":1,"parent":null},  
+  {"entity":"classical vase","type":"v","granularity":2,"parent":"park setting"},  
+  {"entity":"public space","type":"v","granularity":1,"parent":null},  
+  {"entity":"urban features","type":"v","granularity":1,"parent":null},  
+  {"entity":"sculpture","type":"v","granularity":1,"parent":null},  
+  {"entity":"road","type":"v","granularity":1,"parent":null},  
+  {"entity":"railing","type":"v","granularity":2,"parent":"road"},  
+  {"entity":"utility pole","type":"v","granularity":2,"parent":"road"},  
+  {"entity":"road layout","type":"v","granularity":2,"parent":"road"},  
+  {"entity":"trees","type":"v","granularity":1,"parent":null},  
+  {"entity":"Moin greeting","type":"i","granularity":3,"parent":"#MOIN"},  
+  {"entity":"geographical indicator","type":"i","granularity":3,"parent":"#MOIN"},  
+  {"entity":"city park association","type":"i","granularity":3,"parent":"classical vase"},  
+  {"entity":"sea connection","type":"i","granularity":3,"parent":"park setting"},  
+  {"entity":"contemporary art installation","type":"i","granularity":3,"parent":"sculpture"},  
+  {"entity":"historical context","type":"i","granularity":3,"parent":"classical vase"}  
+]

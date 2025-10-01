@@ -1,0 +1,17 @@
+[  
+  {"entity":"massive stone walls","type":"v","granularity":1,"parent":null},  
+  {"entity":"towers","type":"v","granularity":1,"parent":null},  
+  {"entity":"gatehouses","type":"v","granularity":1,"parent":null},  
+  {"entity":"\"i TOURISME\" sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"ramp","type":"v","granularity":1,"parent":null},  
+  {"entity":"path","type":"v","granularity":1,"parent":null},  
+  {"entity":"architectural details","type":"v","granularity":1,"parent":null},  
+  {"entity":"rough-hewn construction","type":"v","granularity":2,"parent":"massive stone walls"},  
+  {"entity":"windows","type":"v","granularity":2,"parent":"architectural details"},  
+  {"entity":"crow-stepped gables","type":"v","granularity":2,"parent":"architectural details"},  
+  {"entity":"medieval European origin","type":"i","granularity":3,"parent":"architectural details"},  
+  {"entity":"history of tourism","type":"i","granularity":3,"parent":"\"i TOURISME\" sign"},  
+  {"entity":"19th-century restoration","type":"i","granularity":3,"parent":"crow-stepped gables"},  
+  {"entity":"visual match","type":"i","granularity":3,"parent":"architectural details"},  
+  {"entity":"search terms","type":"i","granularity":3,"parent":null}  
+]

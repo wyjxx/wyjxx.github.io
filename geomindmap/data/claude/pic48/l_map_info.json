@@ -1,0 +1,11 @@
+[
+{"entity":"Mediterranean region","granularity":2,"parent":"Europe"},
+{"entity":"Northern European coastlines","granularity":2,"parent":"Europe"},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Barcelona","granularity":4,"parent":"Spain"},
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"German Baltic coast","granularity":3,"parent":"Northern European coastlines"},
+{"entity":"Barceloneta","granularity":5,"parent":"Barcelona"},
+{"entity":"Barceloneta beach area","granularity":5,"parent":"Barceloneta"},
+{"entity":"Europe","granularity":1,"parent":null}
+]

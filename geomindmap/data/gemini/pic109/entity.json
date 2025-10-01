@@ -1,0 +1,20 @@
+[
+{"entity":"Koreastraße","type":"l"},
+{"entity":"Hongkongstraße","type":"l"},
+{"entity":"Hamburg","type":"l"},
+{"entity":"Hauptzollamt Hamburg","type":"l"},
+{"entity":"Koreastraße 4","type":"l"},
+{"entity":"20457 Hamburg","type":"l"},
+{"entity":"Germany","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"HafenCity","type":"l"},
+{"entity":"street signs","type":"v"},
+{"entity":"building","type":"v"},
+{"entity":"architecture","type":"v"},
+{"entity":"stickers","type":"v"},
+{"entity":"signage","type":"v"},
+{"entity":"suffix -straße","type":"i"},
+{"entity":"German-speaking location","type":"i"},
+{"entity":"main customs office","type":"i"},
+{"entity":"street intersection","type":"i"}
+]

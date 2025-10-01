@@ -1,0 +1,130 @@
+[
+  {
+    "entity": "Roman aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865475,
+    "y": 0.7071067811865476
+  },
+  {
+    "entity": "Spanish flag",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236509,
+    "y": -0.9238795325112866
+  },
+  {
+    "entity": "blue \"i\" sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "granite blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Roman aqueduct",
+    "x": 1.954293731942319,
+    "y": 0.42513057910595337
+  },
+  {
+    "entity": "mortar",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Roman aqueduct",
+    "x": 1.6010824818487208,
+    "y": 1.198555333022694
+  },
+  {
+    "entity": "inscription \"MCMXXI\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Roman aqueduct",
+    "x": 0.9584979734401137,
+    "y": 1.7553579791345113
+  },
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Roman aqueduct",
+    "x": -0.28462967654657045,
+    "y": 1.9796428837618654
+  },
+  {
+    "entity": "Roman presence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -2.1213203435596424,
+    "y": 2.121320343559643
+  },
+  {
+    "entity": "neighborhood-level precision",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -2.810849174999286,
+    "y": 1.0483925387972934
+  },
+  {
+    "entity": "well-documented aqueducts",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -2.9923563438307603,
+    "y": -0.21401754959769786
+  },
+  {
+    "entity": "possibilities",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -2.6330369687017656,
+    "y": -1.437746960160173
+  },
+  {
+    "entity": "unique features",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural details",
+    "x": -0.4269445148198557,
+    "y": 2.969464325642798
+  },
+  {
+    "entity": "tourist information",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue \"i\" sign",
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "image searches",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -1.7978329995340392,
+    "y": -2.401623722773082
+  },
+  {
+    "entity": "cross-referencing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Roman aqueduct",
+    "x": -0.6376958686589289,
+    "y": -2.931440597913479
+  },
+  {
+    "entity": "points to Spain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Spanish flag",
+    "x": 1.14805029709527,
+    "y": -2.77163859753386
+  }
+]

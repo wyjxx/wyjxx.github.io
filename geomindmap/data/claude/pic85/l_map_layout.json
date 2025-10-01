@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "England",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "Cotswold",
+    "granularity": 3,
+    "parent": "England",
+    "x": 2.690618224598065,
+    "y": 1.3268660706570037
+  },
+  {
+    "entity": "Oxfordshire",
+    "granularity": 3,
+    "parent": "England",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "Abingdon",
+    "granularity": 4,
+    "parent": "Oxfordshire",
+    "x": 0.17447754946134492,
+    "y": 3.996192886327431
+  },
+  {
+    "entity": "Oxford",
+    "granularity": 4,
+    "parent": "Oxfordshire",
+    "x": -3.905184028479734,
+    "y": -0.8657584557524101
+  },
+  {
+    "entity": "Cambridge",
+    "granularity": 4,
+    "parent": "England",
+    "x": 1.285757861212646,
+    "y": -3.7877205179804228
+  },
+  {
+    "entity": "High Street",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -4.881480035599667,
+    "y": -1.0821980696905125
+  }
+]

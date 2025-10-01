@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"London","granularity":4,"parent":"United Kingdom"},
+{"entity":"Chinatown","granularity":5,"parent":"London"},
+{"entity":"London Chinatown","granularity":5,"parent":"London"},
+{"entity":"Wardour Street","granularity":5,"parent":"London"}
+]

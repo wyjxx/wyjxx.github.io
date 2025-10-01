@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "building facade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298263,
+    "y": 0.6801727377709194
+  },
+  {
+    "entity": "colored bicycle installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "café sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861408,
+    "y": -0.29475517441090393
+  },
+  {
+    "entity": "large sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3653410243663957,
+    "y": -0.930873748644204
+  },
+  {
+    "entity": "narrow medieval street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07473009358642348,
+    "y": -0.9972037971811802
+  },
+  {
+    "entity": "brick facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 1.9651329464665765,
+    "y": 0.37182321432582915
+  },
+  {
+    "entity": "wrought-iron window guard",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 1.6934483984565682,
+    "y": 1.0640641530306731
+  },
+  {
+    "entity": "clustered buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.733051871829826,
+    "y": -0.6801727377709198
+  },
+  {
+    "entity": "pedestrian lane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9888308262251284,
+    "y": -0.14904226617617528
+  },
+  {
+    "entity": "17th century facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 1.1876403711470034,
+    "y": 1.6091955595333365
+  },
+  {
+    "entity": "19th century facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building facade",
+    "x": 0.5176380902050419,
+    "y": 1.9318516525781364
+  },
+  {
+    "entity": "colorful bicycle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "colored bicycle installation",
+    "x": -0.24868740929497032,
+    "y": 1.9844784132003441
+  },
+  {
+    "entity": "artistic installation",
+    "type": "v",
+    "granularity": 3,
+    "parent": "colored bicycle installation",
+    "x": -1.5000000000000007,
+    "y": 2.5980762113533156
+  },
+  {
+    "entity": "Belgian context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "café sign",
+    "x": -2.8977774788672046,
+    "y": 0.7764571353075631
+  },
+  {
+    "entity": "French-speaking context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "café sign",
+    "x": -2.9811366296797277,
+    "y": -0.33589342830992186
+  },
+  {
+    "entity": "well-known tavern",
+    "type": "i",
+    "granularity": 3,
+    "parent": "café sign",
+    "x": -2.6523461805138306,
+    "y": -1.4018058848191837
+  },
+  {
+    "entity": "proximity to Manneken Pis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "café sign",
+    "x": -1.956862233834367,
+    "y": -2.2739151694363557
+  },
+  {
+    "entity": "historic core",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow medieval street",
+    "x": 0.22419028075927044,
+    "y": -2.9916113915435405
+  },
+  {
+    "entity": "protected district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clustered buildings",
+    "x": 1.689960174190865,
+    "y": -2.478716322947985
+  },
+  {
+    "entity": "UNESCO zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clustered buildings",
+    "x": 2.598076211353315,
+    "y": -1.5000000000000013
+  },
+  {
+    "entity": "exact spot",
+    "type": "i",
+    "granularity": 3,
+    "parent": "colored bicycle installation",
+    "x": -2.3913975216687673,
+    "y": 1.8114132309764321
+  }
+]

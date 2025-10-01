@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9350162426854148,
+    "y": 0.3546048870425356
+  },
+  {
+    "entity": "whitewashed buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5680647467311558,
+    "y": 0.8229838658936565
+  },
+  {
+    "entity": "blue-domed churches",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.120536680255323,
+    "y": 0.992708874098054
+  },
+  {
+    "entity": "white Cycladic buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23931566428755793,
+    "y": 0.970941817426052
+  },
+  {
+    "entity": "crowds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4647231720437685,
+    "y": 0.8854560256532099
+  },
+  {
+    "entity": "cliffside setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.663122658240795,
+    "y": 0.7485107481711013
+  },
+  {
+    "entity": "caldera view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936561,
+    "y": 0.5680647467311561
+  },
+  {
+    "entity": "surrounding structures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854146,
+    "y": 0.3546048870425363
+  },
+  {
+    "entity": "nearby buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9927088740980539,
+    "y": 0.12053668025532395
+  },
+  {
+    "entity": "specific church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854152,
+    "y": -0.3546048870425348
+  },
+  {
+    "entity": "Oia Castle ruins",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6631226582407959,
+    "y": -0.7485107481711005
+  },
+  {
+    "entity": "Saint Spyridon Church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4647231720437699,
+    "y": -0.8854560256532091
+  },
+  {
+    "entity": "architectural features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2393156642875586,
+    "y": -0.9709418174260518
+  },
+  {
+    "entity": "rounded corners",
+    "type": "v",
+    "granularity": 2,
+    "parent": "whitewashed buildings",
+    "x": 1.1361294934623116,
+    "y": 1.645967731787313
+  },
+  {
+    "entity": "church domes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue-domed churches",
+    "x": 0.241073360510646,
+    "y": 1.985417748196108
+  },
+  {
+    "entity": "arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "specific church",
+    "x": -1.9672398138942875,
+    "y": -0.3605100756278096
+  },
+  {
+    "entity": "building layouts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 1.9672398138942873,
+    "y": 0.3605100756278115
+  },
+  {
+    "entity": "building arrangements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 1.711562544602895,
+    "y": 1.0346756283553136
+  },
+  {
+    "entity": "distinct church shape",
+    "type": "v",
+    "granularity": 3,
+    "parent": "specific church",
+    "x": -2.567343816904344,
+    "y": -1.5520134425329684
+  },
+  {
+    "entity": "geographic narrowing",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -5.880161577817061e-15,
+    "y": -3.0
+  },
+  {
+    "entity": "Santorini inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.7179469928626696,
+    "y": -2.912825452278157
+  },
+  {
+    "entity": "neighborhood inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.3941695161312992,
+    "y": -2.656368076959633
+  },
+  {
+    "entity": "image matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.989367974722382,
+    "y": -2.2455322445133064
+  },
+  {
+    "entity": "viewpoint pinpointing",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4689515976809644,
+    "y": -1.7041942401934744
+  },
+  {
+    "entity": "Street View referencing",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.805048728056242,
+    "y": -1.063814661127613
+  },
+  {
+    "entity": "Google Maps referencing",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9781266222941607,
+    "y": -0.36161004076597886
+  }
+]

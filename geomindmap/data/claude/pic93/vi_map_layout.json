@@ -1,0 +1,306 @@
+[
+  {
+    "entity": "Gothic cathedral",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32469946920468357,
+    "y": 0.9458172417006346
+  },
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8371664782625285,
+    "y": 0.5469481581224268
+  },
+  {
+    "entity": "Georgian buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9694002659393305,
+    "y": 0.24548548714079907
+  },
+  {
+    "entity": "Victorian brick buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9863613034027224,
+    "y": -0.16459459028073378
+  },
+  {
+    "entity": "public park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5469481581224269,
+    "y": -0.8371664782625285
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": -0.9157733266550574
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963934,
+    "y": -0.614212712689668
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9157733266550573,
+    "y": -0.4016954246529699
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9694002659393304,
+    "y": -0.2454854871407992
+  },
+  {
+    "entity": "daytime",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9965844930066697,
+    "y": -0.08257934547233368
+  },
+  {
+    "entity": "tall spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.9921589356662055,
+    "y": 0.1769259026974042
+  },
+  {
+    "entity": "grey stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.9297988326485793,
+    "y": 0.5252394363603907
+  },
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.8070306708898887,
+    "y": 0.8571115181020723
+  },
+  {
+    "entity": "flying buttresses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.62769743454039,
+    "y": 1.1621536308038765
+  },
+  {
+    "entity": "elaborate stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.3974127515556758,
+    "y": 1.4308171098325584
+  },
+  {
+    "entity": "transept",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 1.1233851715635927,
+    "y": 1.6546920427411977
+  },
+  {
+    "entity": "silhouette",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic cathedral",
+    "x": 0.8141925182568384,
+    "y": 1.8267705228666757
+  },
+  {
+    "entity": "manicured lawns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public park",
+    "x": -1.821930689521721,
+    "y": -0.8249657947932786
+  },
+  {
+    "entity": "pathways",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public park",
+    "x": -1.6345318211999567,
+    "y": -1.1525214642186725
+  },
+  {
+    "entity": "benches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public park",
+    "x": -1.3889391036600176,
+    "y": -1.4390441849797755
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public park",
+    "x": -1.0938963162448538,
+    "y": -1.674332956525057
+  },
+  {
+    "entity": "green foliage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous trees",
+    "x": 0.38342126384747693,
+    "y": -1.9629029865048357
+  },
+  {
+    "entity": "cumulus clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue sky",
+    "x": 1.5782810187927867,
+    "y": -1.228425425379336
+  },
+  {
+    "entity": "Gothic Revival style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": 0.7192700695612966,
+    "y": 2.9124990243832336
+  },
+  {
+    "entity": "medieval style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": 0.19473621255304732,
+    "y": 2.993672962686555
+  },
+  {
+    "entity": "Georgian era",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Georgian buildings",
+    "x": -2.7947732641538368,
+    "y": 1.090523911691489
+  },
+  {
+    "entity": "Victorian era",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Victorian brick buildings",
+    "x": -2.959083910208167,
+    "y": -0.4937837708422014
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": 1.2050862739589085,
+    "y": -2.747319979965172
+  },
+  {
+    "entity": "summer season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": 1.7767057579949403,
+    "y": -2.4172953169829343
+  },
+  {
+    "entity": "civic center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public park",
+    "x": -1.1398616961310792,
+    "y": -2.7750162726897982
+  },
+  {
+    "entity": "religious center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": -0.3358934283099221,
+    "y": 2.9811366296797277
+  },
+  {
+    "entity": "historic city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Georgian buildings",
+    "x": -2.976961739211135,
+    "y": 0.3710778938080429
+  },
+  {
+    "entity": "British cathedral city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": -0.8560086727473143,
+    "y": 2.8752824473747585
+  },
+  {
+    "entity": "urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public park",
+    "x": -0.5982966919547752,
+    "y": -2.9397348636222236
+  },
+  {
+    "entity": "urban landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public park",
+    "x": -0.03543067238815092,
+    "y": -2.9997907706128646
+  },
+  {
+    "entity": "architectural harmony",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": -1.349328470264879,
+    "y": 2.6794239454279425
+  },
+  {
+    "entity": "architectural heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": -1.8004105422155348,
+    "y": 2.3996920384664286
+  },
+  {
+    "entity": "Christ Church Cathedral",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic cathedral",
+    "x": -2.195134767974048,
+    "y": 2.0448431114468226
+  }
+]

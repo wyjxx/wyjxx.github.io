@@ -1,0 +1,10 @@
+[{"entity":"church","type":"v","granularity":1,"parent":null},
+{"entity":"narrow house","type":"v","granularity":1,"parent":null},
+{"entity":"façade","type":"v","granularity":2,"parent":"church"},
+{"entity":"azulejo tiles","type":"v","granularity":2,"parent":"façade"},
+{"entity":"Rococo window frames","type":"v","granularity":2,"parent":"church"},
+{"entity":"roofline","type":"v","granularity":2,"parent":"church"},
+{"entity":"stone statues","type":"v","granularity":2,"parent":"roofline"},
+{"entity":"corner","type":"v","granularity":2,"parent":"church"},
+{"entity":"scenes","type":"v","granularity":3,"parent":"azulejo tiles"},
+{"entity":"Carmelite Order","type":"i","granularity":3,"parent":"church"}]

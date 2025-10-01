@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "two-story building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 1.455917543152404,
+    "y": 1.3712418122056618
+  },
+  {
+    "entity": "flat roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 1.8849239222547454,
+    "y": 0.6686268072039789
+  },
+  {
+    "entity": "modern architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": 0.3028555550091534,
+    "y": 1.9769366486562228
+  },
+  {
+    "entity": "Kippfenster",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 1.630931314767855,
+    "y": 1.1576109219032082
+  },
+  {
+    "entity": "concrete pavers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "path",
+    "x": -1.0233118618471648,
+    "y": -1.7183808755345507
+  },
+  {
+    "entity": "concrete paneling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "two-story building",
+    "x": 1.2531437999142834,
+    "y": 1.55872724257209
+  },
+  {
+    "entity": "bicycles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9948693233918952,
+    "y": 0.10116832198743217
+  },
+  {
+    "entity": "leafless trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 1.472651395302394,
+    "y": -1.3532545466075154
+  },
+  {
+    "entity": "flowering shrubs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tree",
+    "x": 1.88696835741996,
+    "y": -0.6628351364372724
+  },
+  {
+    "entity": "dormitory",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.1380832878614246,
+    "y": 1.9952275573511355
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1514277775045767,
+    "y": 0.9884683243281114
+  },
+  {
+    "entity": "satellite view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9541392564000488,
+    "y": 0.29936312297335804
+  },
+  {
+    "entity": "street view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "student housing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.780237122639331,
+    "y": 1.8415292646209829
+  },
+  {
+    "entity": "user photos",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9541392564000489,
+    "y": -0.29936312297335776
+  },
+  {
+    "entity": "sun position",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.4622903236218296,
+    "y": -1.7138046452843763
+  },
+  {
+    "entity": "building orientation",
+    "type": "v",
+    "granularity": 3,
+    "parent": "two-story building",
+    "x": 1.1703556839589961,
+    "y": 2.7622938969314745
+  },
+  {
+    "entity": "building 75",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.49325593543292,
+    "y": 1.330483638115988
+  },
+  {
+    "entity": "satellite data",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6889669190756867,
+    "y": -0.7247927872291198
+  },
+  {
+    "entity": "angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": "path",
+    "x": -0.8690355204704743,
+    "y": -2.8713720177226447
+  },
+  {
+    "entity": "path",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05064916883871266,
+    "y": -0.9987165071710528
+  },
+  {
+    "entity": "tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8207634412072763,
+    "y": -0.5712682150947924
+  },
+  {
+    "entity": "shadow direction",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9846079701756856,
+    "y": -0.30350496596229587
+  },
+  {
+    "entity": "spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": "leafless trees",
+    "x": 2.208977092953591,
+    "y": -2.029881819911273
+  },
+  {
+    "entity": "university towns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "student housing",
+    "x": -1.1703556839589964,
+    "y": 2.7622938969314745
+  },
+  {
+    "entity": "reverse image search",
+    "type": "i",
+    "granularity": 3,
+    "parent": "user photos",
+    "x": -2.862417769200147,
+    "y": -0.8980893689200733
+  },
+  {
+    "entity": "cross-referencing",
+    "type": "i",
+    "granularity": 3,
+    "parent": "satellite view",
+    "x": -2.8624177692001465,
+    "y": 0.8980893689200742
+  },
+  {
+    "entity": "photographer position",
+    "type": "i",
+    "granularity": 3,
+    "parent": "path",
+    "x": -0.15194750651613798,
+    "y": -2.9961495215131584
+  },
+  {
+    "entity": "northeast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "path",
+    "x": 0.5740848914193224,
+    "y": -2.94455880183162
+  },
+  {
+    "entity": "north-northeast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "path",
+    "x": 1.2663238048524965,
+    "y": -2.7196367443583154
+  },
+  {
+    "entity": "east side",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building 75",
+    "x": -2.23988390314938,
+    "y": 1.995725457173982
+  }
+]

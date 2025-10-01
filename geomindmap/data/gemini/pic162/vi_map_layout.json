@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "street sign \"Quintinsstraße\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7891405093963936,
+    "y": 0.6142127126896678
+  },
+  {
+    "entity": "yield sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.0825793454723324,
+    "y": 0.9965844930066698
+  },
+  {
+    "entity": "speed limit sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": 0.9694002659393304
+  },
+  {
+    "entity": "traffic signals",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.879473751206489,
+    "y": 0.4759473930370737
+  },
+  {
+    "entity": "bus stop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9458172417006347,
+    "y": -0.3246994692046834
+  },
+  {
+    "entity": "overpass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963937,
+    "y": -0.6142127126896678
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": -0.9694002659393304
+  },
+  {
+    "entity": "environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": -0.9157733266550574
+  },
+  {
+    "entity": "Ampelmännchen",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signals",
+    "x": -1.5082132195537923,
+    "y": 1.3135040480954692
+  },
+  {
+    "entity": "traffic light pole",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signals",
+    "x": -1.9969630328666323,
+    "y": 0.11017552071173115
+  },
+  {
+    "entity": "architectural features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.9518947860741467,
+    "y": -1.7589475024129784
+  },
+  {
+    "entity": "red and white building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "text",
+    "type": "v",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": 2.927389147882307,
+    "y": 0.6560432736191273
+  },
+  {
+    "entity": "historical figure \"Quintin\"",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": 2.367421528189181,
+    "y": 1.8426381380690031
+  },
+  {
+    "entity": "St. Quintin connection",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street sign \"Quintinsstraße\"",
+    "x": 1.354600074932669,
+    "y": 2.6767627158551814
+  },
+  {
+    "entity": "German-speaking regions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Ampelmännchen",
+    "x": -2.2623198293306883,
+    "y": 1.9702560721432039
+  },
+  {
+    "entity": "hypothesis: Mainz, Germany",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.031844714877222,
+    "y": -2.2071717320193964
+  },
+  {
+    "entity": "Google Street View",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6384212536194678,
+    "y": -1.4278421791112201
+  },
+  {
+    "entity": "maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9590839102081667,
+    "y": -0.49378377084220376
+  }
+]

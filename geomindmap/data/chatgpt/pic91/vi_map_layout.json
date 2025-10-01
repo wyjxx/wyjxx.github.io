@@ -1,0 +1,138 @@
+[
+  {
+    "entity": "barrel-vaulted ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": 1.960523615252156,
+    "y": 0.39540757964234435
+  },
+  {
+    "entity": "oak ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": 1.654001327581981,
+    "y": 1.1244018891646548
+  },
+  {
+    "entity": "Corinthian columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": 1.0888806395682693,
+    "y": 1.677599163320427
+  },
+  {
+    "entity": "wooden bookcases",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": 0.3535165624703097,
+    "y": 1.9685085826734858
+  },
+  {
+    "entity": "marble busts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": -0.8143389527733969,
+    "y": 1.82670524989554
+  },
+  {
+    "entity": "Latin inscriptions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": -1.700434271459228,
+    "y": 1.0528643257547121
+  },
+  {
+    "entity": "double-height hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.850217135729614,
+    "y": 0.5264321628773561
+  },
+  {
+    "entity": "plinths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": -1.9755985592895204,
+    "y": 0.3114648174885433
+  },
+  {
+    "entity": "rope barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": -1.9418836348521042,
+    "y": -0.47863132857511487
+  },
+  {
+    "entity": "visitors",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6026346363792555,
+    "y": -0.7980172272802402
+  },
+  {
+    "entity": "suspended illuminated globe",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-height hall",
+    "x": -1.016369322694347,
+    "y": -1.7224962699192803
+  },
+  {
+    "entity": "Museum of the Moon",
+    "type": "i",
+    "granularity": 3,
+    "parent": "suspended illuminated globe",
+    "x": -2.217026751661978,
+    "y": -2.0210869309396706
+  },
+  {
+    "entity": "Luke Jerram",
+    "type": "i",
+    "granularity": 3,
+    "parent": "suspended illuminated globe",
+    "x": -0.6972256136095589,
+    "y": -2.9178547674150566
+  },
+  {
+    "entity": "neoclassical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "double-height hall",
+    "x": 0.7798893334562848,
+    "y": -2.896855644929708
+  },
+  {
+    "entity": "famous busts of thinkers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "marble busts",
+    "x": -1.2215084291600953,
+    "y": 2.74005787484331
+  },
+  {
+    "entity": "neighborhood feel",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5506514071888415,
+    "y": -1.5792964886320684
+  },
+  {
+    "entity": "part of historic center",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9489192990517044,
+    "y": -0.5512485534497155
+  }
+]

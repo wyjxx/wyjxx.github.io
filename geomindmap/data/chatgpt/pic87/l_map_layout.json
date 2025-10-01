@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "English Channel",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032304,
+    "y": 0.19509032201612825
+  },
+  {
+    "entity": "England",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "East Sussex",
+    "granularity": 3,
+    "parent": "England",
+    "x": -2.416353397652837,
+    "y": 1.7779865740920513
+  },
+  {
+    "entity": "West Sussex",
+    "granularity": 3,
+    "parent": "England",
+    "x": 0.361610040765967,
+    "y": -2.9781266222941625
+  },
+  {
+    "entity": "South Downs chalk escarpment",
+    "granularity": 3,
+    "parent": "England",
+    "x": 1.5520134425329657,
+    "y": -2.567343816904345
+  },
+  {
+    "entity": "South Downs National Park",
+    "granularity": 3,
+    "parent": "England",
+    "x": 2.4689515976809675,
+    "y": -1.7041942401934702
+  },
+  {
+    "entity": "Seven Sisters cliffs",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": 2.601873416335176,
+    "y": 3.0381334278415624
+  },
+  {
+    "entity": "Birling Gap",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": 0.013425584423182176,
+    "y": 3.999977469146907
+  },
+  {
+    "entity": "Seaford Head",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -1.7991947840908649,
+    "y": 3.5725198570337193
+  },
+  {
+    "entity": "Cuckmere Haven",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -3.221804530203782,
+    "y": 2.3706487654560697
+  },
+  {
+    "entity": "Beachy Head",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -3.946025196273602,
+    "y": 0.6548932358590078
+  },
+  {
+    "entity": "East Dean",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -3.8148678029929086,
+    "y": -1.202823198017089
+  },
+  {
+    "entity": "Eastbourne",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -2.8567632779289815,
+    "y": -2.7998042027749834
+  },
+  {
+    "entity": "Seaford",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -1.279399496485672,
+    "y": -3.7898729435684526
+  },
+  {
+    "entity": "Dover",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.9231411216129213,
+    "y": -0.7803612880645149
+  },
+  {
+    "entity": "Seven Sisters Country Park",
+    "granularity": 5,
+    "parent": "Seven Sisters cliffs",
+    "x": 3.25234177041897,
+    "y": 3.7976667848019527
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "entity": "medieval stone fortress",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6606747233900813,
+    "y": 0.7506723052527245
+  },
+  {
+    "entity": "castle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.04244120319614858,
+    "y": -0.9990989662046814
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2928227712765508,
+    "y": -0.9561667347392508
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6606747233900812,
+    "y": -0.7506723052527245
+  },
+  {
+    "entity": "blue sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8285096492438423,
+    "y": -0.5599747861375952
+  },
+  {
+    "entity": "daytime",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9428774454610844,
+    "y": -0.33313979474205685
+  },
+  {
+    "entity": "elevated terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9963974885425265,
+    "y": -0.08480592447550873
+  },
+  {
+    "entity": "stone walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 1.8768908050412774,
+    "y": 0.6908551989755202
+  },
+  {
+    "entity": "crenellated towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 1.402620605453433,
+    "y": 1.425712256087267
+  },
+  {
+    "entity": "battlements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 1.1307482263336741,
+    "y": 1.649669193700134
+  },
+  {
+    "entity": "arched entrances",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 0.8238024964879855,
+    "y": 1.8224569807762714
+  },
+  {
+    "entity": "arched doorways",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 0.4913042048824572,
+    "y": 1.9387161159553032
+  },
+  {
+    "entity": "passages",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": 0.14356672537491633,
+    "y": 1.9948404937150046
+  },
+  {
+    "entity": "stone steps",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": -0.208623881711674,
+    "y": 1.9890892579217136
+  },
+  {
+    "entity": "keep",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": -0.5543434297219184,
+    "y": 1.921640799401423
+  },
+  {
+    "entity": "main tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": -0.8828684501791176,
+    "y": 1.7945872226443391
+  },
+  {
+    "entity": "limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone walls",
+    "x": 1.9449683154350275,
+    "y": 0.4659380344571922
+  },
+  {
+    "entity": "clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue sky",
+    "x": 1.3213494467801623,
+    "y": -1.501344610505449
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 0.33800164064369853,
+    "y": -1.971231820695417
+  },
+  {
+    "entity": "defensive walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": -1.1840088114550305,
+    "y": 1.6118694532736968
+  },
+  {
+    "entity": "tower designs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "medieval stone fortress",
+    "x": -1.4484237944905547,
+    "y": 1.3791549991040104
+  },
+  {
+    "entity": "light-colored stone",
+    "type": "v",
+    "granularity": 3,
+    "parent": "limestone",
+    "x": 2.917452473152541,
+    "y": 0.6989070516857883
+  },
+  {
+    "entity": "good lighting",
+    "type": "v",
+    "granularity": 3,
+    "parent": "daytime",
+    "x": 2.8286323363832535,
+    "y": -0.9994193842261705
+  },
+  {
+    "entity": "European medieval architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.50186773237882,
+    "y": 1.6554932345623343
+  },
+  {
+    "entity": "medieval European fortifications",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.7534972772548025,
+    "y": 1.1909041708510344
+  },
+  {
+    "entity": "French medieval architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.919719325148734,
+    "y": 0.6893758498475431
+  },
+  {
+    "entity": "Italian medieval fortifications",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.9953780296499,
+    "y": 0.1664645892995973
+  },
+  {
+    "entity": "Provençal style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.9781266222941625,
+    "y": -0.36161004076596454
+  },
+  {
+    "entity": "southern French style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.868500204217754,
+    "y": -0.8784683138296476
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 1.23570374473198,
+    "y": -2.733685471164406
+  },
+  {
+    "entity": "12th-14th century French military architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.6698991484838173,
+    "y": -1.3680784103717833
+  },
+  {
+    "entity": "precise masonry techniques",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone walls",
+    "x": 2.4964480753735794,
+    "y": 1.6636547138644935
+  },
+  {
+    "entity": "complex defensive engineering",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.3884836279054293,
+    "y": -1.8152536900465783
+  },
+  {
+    "entity": "historical fortification patterns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -2.03298253988265,
+    "y": -2.206123748236324
+  },
+  {
+    "entity": "medieval fortification techniques",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -1.6144227549895787,
+    "y": -2.528564645836024
+  },
+  {
+    "entity": "regional stylistic markers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -1.1457870874313882,
+    "y": -2.7725749674761717
+  },
+  {
+    "entity": "Mediterranean architectural language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "medieval stone fortress",
+    "x": -0.6416115963839155,
+    "y": -2.930586043675511
+  }
+]

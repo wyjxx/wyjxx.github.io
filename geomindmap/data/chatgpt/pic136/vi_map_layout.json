@@ -1,0 +1,82 @@
+[
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "narrow house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": 0.9772424829939099,
+    "y": 1.7449920141455941
+  },
+  {
+    "entity": "azulejo tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "façade",
+    "x": 0.9772424829939099,
+    "y": 1.7449920141455941
+  },
+  {
+    "entity": "Rococo window frames",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": -1.5706338617614894,
+    "y": 1.2381878986196684
+  },
+  {
+    "entity": "roofline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "stone statues",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roofline",
+    "x": -1.8477590650225737,
+    "y": -0.7653668647301793
+  },
+  {
+    "entity": "corner",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": -0.23507479491567695,
+    "y": -1.9861369139098524
+  },
+  {
+    "entity": "scenes",
+    "type": "v",
+    "granularity": 3,
+    "parent": "azulejo tiles",
+    "x": 1.4658637244908648,
+    "y": 2.6174880212183913
+  },
+  {
+    "entity": "Carmelite Order",
+    "type": "i",
+    "granularity": 3,
+    "parent": "church",
+    "x": 1.6667106990588056,
+    "y": -2.4944088369076365
+  }
+]

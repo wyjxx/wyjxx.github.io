@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Mediterranean region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Northern European coastlines",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4142135623730954,
+    "y": -1.414213562373095
+  },
+  {
+    "entity": "Barcelona",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -2.8284271247461907,
+    "y": -2.82842712474619
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "German Baltic coast",
+    "granularity": 3,
+    "parent": "Northern European coastlines",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Barceloneta",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  },
+  {
+    "entity": "Barceloneta beach area",
+    "granularity": 5,
+    "parent": "Barceloneta",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  }
+]

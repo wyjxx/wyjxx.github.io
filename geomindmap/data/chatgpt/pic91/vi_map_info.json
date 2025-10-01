@@ -1,0 +1,19 @@
+[
+{"entity":"barrel-vaulted ceiling","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"oak ceiling","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"Corinthian columns","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"wooden bookcases","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"marble busts","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"Latin inscriptions","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"double-height hall","type":"v","granularity":1,"parent":null},
+{"entity":"plinths","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"rope barriers","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"visitors","type":"v","granularity":1,"parent":null},
+{"entity":"suspended illuminated globe","type":"v","granularity":2,"parent":"double-height hall"},
+{"entity":"Museum of the Moon","type":"i","granularity":3,"parent":"suspended illuminated globe"},
+{"entity":"Luke Jerram","type":"i","granularity":3,"parent":"suspended illuminated globe"},
+{"entity":"neoclassical style","type":"i","granularity":3,"parent":"double-height hall"},
+{"entity":"famous busts of thinkers","type":"i","granularity":3,"parent":"marble busts"},
+{"entity":"neighborhood feel","type":"i","granularity":3,"parent":null},
+{"entity":"part of historic center","type":"i","granularity":3,"parent":null}
+]

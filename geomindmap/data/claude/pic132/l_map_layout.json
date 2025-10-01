@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144976,
+    "y": -0.281732556841429
+  },
+  {
+    "entity": "Southern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.261105334169045,
+    "y": 1.5522929285835136
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.6473531628596663,
+    "y": -1.1341197277255406
+  },
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": "Greece",
+    "x": -3.2947063257193325,
+    "y": -2.268239455451081
+  },
+  {
+    "entity": "central Athens",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -0.2907241445523778,
+    "y": 4.991540791356341
+  },
+  {
+    "entity": "Kaisariani",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -3.9302654737139346,
+    "y": 3.090794931103029
+  },
+  {
+    "entity": "Pagkrati",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.919377899645497,
+    "y": -0.8942712566550813
+  },
+  {
+    "entity": "Zografou",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -2.591039772087983,
+    "y": -4.2762732489234425
+  },
+  {
+    "entity": "Mets",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 1.4846018766413618,
+    "y": -4.774511207220373
+  },
+  {
+    "entity": "Ilisia",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.5590817081966915,
+    "y": -2.052991470509885
+  }
+]

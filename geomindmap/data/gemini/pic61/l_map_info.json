@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"Berkshire","granularity":3,"parent":"United Kingdom"},
+{"entity":"Windsor","granularity":4,"parent":"Berkshire"},
+{"entity":"Buckingham Palace","granularity":5,"parent":"United Kingdom"},
+{"entity":"Saint James's Palace","granularity":5,"parent":"United Kingdom"},
+{"entity":"Tower of London","granularity":5,"parent":"United Kingdom"},
+{"entity":"Windsor Castle","granularity":5,"parent":"Windsor"},
+{"entity":"Lower Ward","granularity":5,"parent":"Windsor"},
+{"entity":"Castle Quadrangle","granularity":5,"parent":"Windsor"}
+]

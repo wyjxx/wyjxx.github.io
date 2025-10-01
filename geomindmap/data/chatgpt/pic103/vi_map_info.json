@@ -1,0 +1,21 @@
+[
+{"entity":"#MOIN sign","type":"v","granularity":1,"parent":null},
+{"entity":"park","type":"v","granularity":1,"parent":null},
+{"entity":"tram tracks","type":"v","granularity":1,"parent":null},
+{"entity":"grass","type":"v","granularity":1,"parent":null},
+{"entity":"pathways","type":"v","granularity":1,"parent":null},
+{"entity":"railings","type":"v","granularity":1,"parent":null},
+{"entity":"ramparts","type":"v","granularity":1,"parent":null},
+{"entity":"large letters","type":"v","granularity":2,"parent":"#MOIN sign"},
+{"entity":"grassy areas","type":"v","granularity":2,"parent":"grass"},
+{"entity":"overhead wires","type":"v","granularity":2,"parent":"tram tracks"},
+{"entity":"paved footpaths","type":"v","granularity":2,"parent":"pathways"},
+{"entity":"metal railing barrier","type":"v","granularity":2,"parent":"railings"},
+{"entity":"asphalt","type":"v","granularity":2,"parent":"tram tracks"},
+{"entity":"active tram tracks","type":"i","granularity":3,"parent":"tram tracks"},
+{"entity":"Hamburg no trams","type":"i","granularity":3,"parent":"tram tracks"},
+{"entity":"Bremen tram operation","type":"i","granularity":3,"parent":"tram tracks"},
+{"entity":"tram lines 1-3","type":"i","granularity":3,"parent":"tram tracks"},
+{"entity":"Hamburg tram abolition","type":"i","granularity":3,"parent":"tram tracks"},
+{"entity":"green oasis","type":"i","granularity":3,"parent":"park"}
+]

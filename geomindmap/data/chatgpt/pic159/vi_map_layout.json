@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "historic tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "heritage tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.580056909571198,
+    "y": 0.8145759520503358
+  },
+  {
+    "entity": "blue color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "historic tram",
+    "x": 2.982810905315692,
+    "y": 0.3206853646953383
+  },
+  {
+    "entity": "cream color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "historic tram",
+    "x": 2.846477750511959,
+    "y": 0.9473987628450747
+  },
+  {
+    "entity": "tram number 208",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic tram",
+    "x": 1.7200284804154011,
+    "y": 1.0205400661217991
+  },
+  {
+    "entity": "RUNDTUR sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic tram",
+    "x": 1.3097214678905702,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "tram line 9",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic tram",
+    "x": 0.76536686473018,
+    "y": 1.8477590650225733
+  },
+  {
+    "entity": "red color",
+    "type": "v",
+    "granularity": 3,
+    "parent": "heritage tram",
+    "x": -0.7764571353075619,
+    "y": 2.897777478867205
+  },
+  {
+    "entity": "building \"Aktiebolaget Cloetta\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9819286972627066,
+    "y": 0.1892512443604105
+  },
+  {
+    "entity": "building \"Aktiebolaget Cloetta Luxembourg\"",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8888354486549235,
+    "y": -0.4582265217274103
+  },
+  {
+    "entity": "sign \"Cloetta Lakrits\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building \"Aktiebolaget Cloetta Luxembourg\"",
+    "x": -1.950859573770814,
+    "y": -0.4406210655730811
+  },
+  {
+    "entity": "two towers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000004,
+    "y": -0.8660254037844384
+  },
+  {
+    "entity": "beige building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.23575893550942698,
+    "y": -0.9718115683235418
+  },
+  {
+    "entity": "blocky green metal facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building \"Aktiebolaget Cloetta Luxembourg\"",
+    "x": -1.777670897309847,
+    "y": -0.9164530434548206
+  },
+  {
+    "entity": "large ships",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.04758191582374275,
+    "y": -0.998867339183008
+  },
+  {
+    "entity": "water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328575,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "harbor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4154150130018868,
+    "y": -0.9096319953545182
+  },
+  {
+    "entity": "cruise ferries",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452853,
+    "y": -0.7557495743542582
+  },
+  {
+    "entity": "quay",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7860530947427883,
+    "y": -0.6181589862206042
+  },
+  {
+    "entity": "curve",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8888354486549238,
+    "y": -0.45822652172740985
+  },
+  {
+    "entity": "ferry terminal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144979,
+    "y": -0.28173255684142806
+  },
+  {
+    "entity": "waterfront",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9954719225730847,
+    "y": -0.09505604330418167
+  },
+  {
+    "entity": "round trip meaning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "RUNDTUR sign",
+    "x": 1.9645822018358552,
+    "y": 2.267248723062775
+  },
+  {
+    "entity": "Swedish candy manufacturer",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building \"Aktiebolaget Cloetta\"",
+    "x": -2.8350024561440055,
+    "y": 0.9812038899522655
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic tram",
+    "x": 0.532659588762911,
+    "y": 2.952333613008348
+  },
+  {
+    "entity": "heritage route inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "heritage tram",
+    "x": -1.4377469601601707,
+    "y": 2.6330369687017665
+  },
+  {
+    "entity": "Djurgårdslinjen",
+    "type": "i",
+    "granularity": 3,
+    "parent": "heritage tram",
+    "x": -2.0179811211037566,
+    "y": 2.219854093148652
+  },
+  {
+    "entity": "former blue Helsinki trams",
+    "type": "i",
+    "granularity": 3,
+    "parent": "heritage tram",
+    "x": -2.4844478361341125,
+    "y": 1.6815228067226817
+  },
+  {
+    "entity": "Riverton View SPA",
+    "type": "i",
+    "granularity": 3,
+    "parent": "two towers",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "branch office inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building \"Aktiebolaget Cloetta\"",
+    "x": -2.9966020175490238,
+    "y": 0.14274574747122806
+  },
+  {
+    "entity": "tourist tram Ringlinien",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic tram",
+    "x": -0.10707700151693977,
+    "y": 2.9980884769709752
+  },
+  {
+    "entity": "neighborhood deduction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor",
+    "x": 1.2462450390056605,
+    "y": -2.728895986063555
+  },
+  {
+    "entity": "pastry shop translation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building \"Aktiebolaget Cloetta Luxembourg\"",
+    "x": -2.235793349027264,
+    "y": -2.0003070015488746
+  }
+]

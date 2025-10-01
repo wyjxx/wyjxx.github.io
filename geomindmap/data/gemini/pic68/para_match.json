@@ -1,0 +1,218 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "architectural style",
+        "key features",
+        "building",
+        "museum",
+        "public space",
+        "suspended whale skeleton"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "\"Wildlife Photographer of the Year\" signage",
+        "\"Dinosaurs\" signage",
+        "free gallery",
+        "suspended whale skeleton",
+        "architectural style",
+        "museum"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 3,
+    "clue": [
+        "architectural style",
+        "\"Wildlife Photographer of the Year\" signage",
+        "\"Dinosaurs\" signage",
+        "exhibits"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Natural History Museum",
+            "status": 3,
+            "related_clue": [
+                "architectural style",
+                "\"Wildlife Photographer of the Year\" signage",
+                "\"Dinosaurs\" signage",
+                "exhibits"
+            ]
+        },
+        {
+            "loc": "London",
+            "status": 3,
+            "related_clue": [
+                "architectural style",
+                "\"Wildlife Photographer of the Year\" signage",
+                "\"Dinosaurs\" signage",
+                "exhibits"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "architectural style",
+        "suspended whale skeleton",
+        "exhibits",
+        "\"Wildlife Photographer of the Year\" signage",
+        "\"Dinosaurs\" signage",
+        "Darwin statue",
+        "central staircase"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Natural History Museum",
+            "status": 3,
+            "related_clue": [
+                "architectural style",
+                "suspended whale skeleton",
+                "exhibits",
+                "\"Wildlife Photographer of the Year\" signage",
+                "\"Dinosaurs\" signage",
+                "Darwin statue",
+                "central staircase"
+            ]
+        },
+        {
+            "loc": "London",
+            "status": 3,
+            "related_clue": [
+                "architectural style",
+                "suspended whale skeleton",
+                "exhibits",
+                "\"Wildlife Photographer of the Year\" signage",
+                "\"Dinosaurs\" signage",
+                "Darwin statue",
+                "central staircase"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [
+        "building"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Cromwell Road",
+            "status": 3,
+            "related_clue": [
+                "building"
+            ]
+        },
+        {
+            "loc": "South Kensington",
+            "status": 3,
+            "related_clue": [
+                "building"
+            ]
+        },
+        {
+            "loc": "Natural History Museum",
+            "status": 3,
+            "related_clue": [
+                "building"
+            ]
+        },
+        {
+            "loc": "London",
+            "status": 3,
+            "related_clue": [
+                "building"
+            ]
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Kurfürstenstrasse",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Berlin",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Cromwell Road",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "South Kensington",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "London",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "United Kingdom",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [],
+    "loc-clue": []
+},{
+    "paragraph": 8,
+    "clue": [
+        "museum"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Cromwell Road",
+            "status": 3,
+            "related_clue": [
+                "museum"
+            ]
+        },
+        {
+            "loc": "South Kensington",
+            "status": 3,
+            "related_clue": [
+                "museum"
+            ]
+        },
+        {
+            "loc": "London",
+            "status": 3,
+            "related_clue": [
+                "museum"
+            ]
+        },
+        {
+            "loc": "United Kingdom",
+            "status": 3,
+            "related_clue": [
+                "museum"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "museum"
+            ]
+        }
+    ]
+}]

@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.834422603010906,
+    "y": 0.7968021796924829
+  },
+  {
+    "entity": "large circular façade window",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.1533606442297344,
+    "y": 1.633939786020884
+  },
+  {
+    "entity": "rose window",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.6697592243419725,
+    "y": 1.8845218442376408
+  },
+  {
+    "entity": "large oval window",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.13648482672934245,
+    "y": 1.9953375383810783
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20345601305263342,
+    "y": 0.9790840876823229
+  },
+  {
+    "entity": "slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide street",
+    "x": -1.8344226030109065,
+    "y": -0.7968021796924816
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4600650377311517,
+    "y": 0.8878852184023754
+  },
+  {
+    "entity": "parking sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7757112907044197,
+    "y": 0.631087944326053
+  },
+  {
+    "entity": "arrow",
+    "type": "v",
+    "granularity": 2,
+    "parent": "parking sign",
+    "x": -1.5514225814088394,
+    "y": 1.262175888652106
+  },
+  {
+    "entity": "windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9258345746955983,
+    "y": 0.5395935423140494
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 1.133107779529596e-15
+  },
+  {
+    "entity": "wide street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9172113015054533,
+    "y": -0.3984010898462408
+  },
+  {
+    "entity": "bilingual traffic sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.576680322114868,
+    "y": -0.8169698930104414
+  },
+  {
+    "entity": "map",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2034560130526354,
+    "y": -0.9790840876823226
+  },
+  {
+    "entity": "high-rises",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20345601305263242,
+    "y": -0.9790840876823231
+  },
+  {
+    "entity": "tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5766803221148662,
+    "y": -0.8169698930104426
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7757112907044185,
+    "y": -0.6310879443260544
+  },
+  {
+    "entity": "metro entrance",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9172113015054525,
+    "y": -0.39840108984624273
+  },
+  {
+    "entity": "vantage point",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9720578381089915,
+    "y": -0.40849994728874695
+  },
+  {
+    "entity": "classical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "high-rises",
+    "x": 0.6103680391578973,
+    "y": -2.9372522630469695
+  },
+  {
+    "entity": "greenish copper dome",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dome",
+    "x": 2.9372522630469686,
+    "y": 0.6103680391579014
+  },
+  {
+    "entity": "matching dome design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dome",
+    "x": 2.4509096790313265,
+    "y": 1.7300409663446012
+  },
+  {
+    "entity": "linguistic inference 'vergund'",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bilingual traffic sign",
+    "x": -1.730040966344604,
+    "y": -2.4509096790313243
+  }
+]

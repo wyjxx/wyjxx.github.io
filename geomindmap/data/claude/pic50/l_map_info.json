@@ -1,0 +1,8 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Mediterranean","granularity":1,"parent":null},  
+  {"entity":"Spain","granularity":2,"parent":"Europe"},  
+  {"entity":"Barcelona","granularity":4,"parent":"Spain"},  
+  {"entity":"Sagrada Familia","granularity":5,"parent":"Barcelona"},  
+  {"entity":"Eixample","granularity":5,"parent":"Barcelona"}  
+]

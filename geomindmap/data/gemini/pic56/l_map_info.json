@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Mediterranean","granularity":2,"parent":"Europe"},
+{"entity":"Southern Europe","granularity":3,"parent":"Europe"},
+{"entity":"La Mancha","granularity":3,"parent":"Spain"},
+{"entity":"Consuegra","granularity":4,"parent":"La Mancha"},
+{"entity":"Cerro Calderico","granularity":4,"parent":"La Mancha"}
+]

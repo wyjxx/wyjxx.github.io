@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "dense cityscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.993238357741943,
+    "y": 0.11609291412523022
+  },
+  {
+    "entity": "whitewashed buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.8207258819322931,
+    "y": 0.8276214490102786
+  },
+  {
+    "entity": "pastel-colored buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.986476715483886,
+    "y": 0.23218582825046072
+  },
+  {
+    "entity": "cruise ship",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.766044443118978,
+    "y": 0.6427876096865393
+  },
+  {
+    "entity": "water body",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.17364817766693064,
+    "y": 0.984807753012208
+  },
+  {
+    "entity": "cruise terminal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693008,
+    "y": 0.9848077530122081
+  },
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.597158591702786,
+    "y": 0.802123192755044
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9932383577419429,
+    "y": 0.1160929141252308
+  },
+  {
+    "entity": "photographs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8354878114129367,
+    "y": -0.5495089780708056
+  },
+  {
+    "entity": "railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "foreground",
+    "x": -1.131213750973078,
+    "y": -1.6493500082182129
+  },
+  {
+    "entity": "walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "foreground",
+    "x": -0.5736064654221813,
+    "y": -1.9159790246309776
+  },
+  {
+    "entity": "foreground",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28680323271109065,
+    "y": -0.9579895123154888
+  },
+  {
+    "entity": "angles",
+    "type": "v",
+    "granularity": 3,
+    "parent": "scene",
+    "x": 1.5996132984050728,
+    "y": -2.5379592777595237
+  },
+  {
+    "entity": "image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2868032327110903,
+    "y": -0.9579895123154889
+  },
+  {
+    "entity": "scene",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7660444431189778,
+    "y": -0.6427876096865396
+  },
+  {
+    "entity": "lower left corner",
+    "type": "v",
+    "granularity": 2,
+    "parent": "foreground",
+    "x": 0.038782663543647934,
+    "y": -1.999623940897003
+  },
+  {
+    "entity": "church façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": -0.8975983604009243,
+    "y": 1.7872652806468246
+  },
+  {
+    "entity": "single bell tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "church",
+    "x": -1.4547472831460968,
+    "y": 1.3724832757374679
+  },
+  {
+    "entity": "port",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9932383577419429,
+    "y": -0.11609291412523093
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": -2.943765931882154,
+    "y": -0.5781367816442688
+  },
+  {
+    "entity": "ship itineraries",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cruise ship",
+    "x": 2.7771719078066712,
+    "y": 1.1345995745149273
+  },
+  {
+    "entity": "ship position",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cruise ship",
+    "x": 2.2981333293569346,
+    "y": 1.9283628290596178
+  },
+  {
+    "entity": "water body shape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water body",
+    "x": 0.5209445330007919,
+    "y": 2.954423259036624
+  },
+  {
+    "entity": "Lisbon theory",
+    "type": "i",
+    "granularity": 3,
+    "parent": "scene",
+    "x": 2.2981333293569333,
+    "y": -1.9283628290596186
+  },
+  {
+    "entity": "online resources",
+    "type": "i",
+    "granularity": 3,
+    "parent": "photographs",
+    "x": -2.5064634342388104,
+    "y": -1.6485269342124167
+  },
+  {
+    "entity": "vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "scene",
+    "x": 2.777171907806671,
+    "y": -1.1345995745149282
+  },
+  {
+    "entity": "cruise schedule",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cruise ship",
+    "x": 1.5996132984050746,
+    "y": 2.537959277759523
+  }
+]

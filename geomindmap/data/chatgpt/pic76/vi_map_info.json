@@ -1,0 +1,22 @@
+[
+{"entity":"airport interior","type":"v","granularity":1,"parent":null},
+{"entity":"seating area","type":"v","granularity":1,"parent":null},
+{"entity":"curved wooden bench","type":"v","granularity":2,"parent":"seating area"},
+{"entity":"living tree","type":"v","granularity":1,"parent":null},
+{"entity":"yellow sign","type":"v","granularity":1,"parent":null},
+{"entity":"yellow lettering","type":"v","granularity":2,"parent":"yellow sign"},
+{"entity":"glass façade","type":"v","granularity":1,"parent":null},
+{"entity":"steel truss roof","type":"v","granularity":1,"parent":null},
+{"entity":"exposed steel trusses","type":"v","granularity":2,"parent":"steel truss roof"},
+{"entity":"linear skylights","type":"v","granularity":2,"parent":"steel truss roof"},
+{"entity":"banks of glass","type":"v","granularity":2,"parent":"glass façade"},
+{"entity":"small apron","type":"v","granularity":1,"parent":null},
+{"entity":"regional jet stands","type":"v","granularity":2,"parent":"small apron"},
+{"entity":"tiny unique design","type":"i","granularity":3,"parent":"airport interior"},
+{"entity":"renovated passenger hall","type":"i","granularity":3,"parent":"airport interior"},
+{"entity":"typography matching","type":"i","granularity":3,"parent":"yellow lettering"},
+{"entity":"color matching","type":"i","granularity":3,"parent":"yellow lettering"},
+{"entity":"placement matching","type":"i","granularity":3,"parent":"yellow lettering"},
+{"entity":"7 km northwest","type":"i","granularity":3,"parent":null},
+{"entity":"borough within district","type":"i","granularity":3,"parent":null}
+]

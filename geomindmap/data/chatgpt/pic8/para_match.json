@@ -1,0 +1,479 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "mountainous area",
+        "wooden hut",
+        "frozen lake",
+        "pine trees",
+        "deciduous trees",
+        "snow dust",
+        "karst cliffs",
+        "bright lighting",
+        "low-angle sun",
+        "fisherman’s shack",
+        "secluded charm"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Bavarian Alps",
+            "status": 2,
+            "related_clue": [
+                "mountainous area",
+                "wooden hut",
+                "frozen lake",
+                "pine trees",
+                "deciduous trees",
+                "snow dust",
+                "karst cliffs",
+                "bright lighting",
+                "low-angle sun",
+                "fisherman’s shack",
+                "secluded charm"
+            ]
+        },
+        {
+            "loc": "Austria",
+            "status": 2,
+            "related_clue": [
+                "mountainous area",
+                "wooden hut",
+                "frozen lake",
+                "pine trees",
+                "deciduous trees",
+                "snow dust",
+                "karst cliffs",
+                "bright lighting",
+                "low-angle sun",
+                "fisherman’s shack",
+                "secluded charm"
+            ]
+        }
+    ]
+},{
+    "paragraph": 2,
+    "clue": [
+        "limestone mountain",
+        "grey rock",
+        "conifer forest",
+        "snow patches",
+        "early winter",
+        "shallow water",
+        "frozen water",
+        "backwater",
+        "island hut",
+        "dark wood cabin",
+        "fisherman’s shack",
+        "winter scene",
+        "morning light direction"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Ramsauer Ache",
+            "status": 2,
+            "related_clue": [
+                "backwater"
+            ]
+        },
+        {
+            "loc": "Hintersee",
+            "status": 2,
+            "related_clue": [
+                "island hut"
+            ]
+        },
+        {
+            "loc": "Ramsau bei Berchtesgaden",
+            "status": 2,
+            "related_clue": [
+                "island hut"
+            ]
+        },
+        {
+            "loc": "Eibsee",
+            "status": 2,
+            "related_clue": [
+                "shallow water",
+                "frozen water"
+            ]
+        },
+        {
+            "loc": "Obersee",
+            "status": 2,
+            "related_clue": [
+                "shallow water",
+                "frozen water"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "morning light direction",
+        "morning light",
+        "rocky shore",
+        "gravel",
+        "soil",
+        "shallow water",
+        "frozen water",
+        "fisherman’s shack"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Hintersee",
+            "status": 2,
+            "related_clue": [
+                "morning light direction",
+                "morning light",
+                "rocky shore",
+                "gravel",
+                "soil",
+                "shallow water",
+                "frozen water",
+                "fisherman’s shack"
+            ]
+        },
+        {
+            "loc": "Ramsau bei Berchtesgaden",
+            "status": 2,
+            "related_clue": [
+                "morning light direction",
+                "morning light",
+                "rocky shore",
+                "gravel",
+                "soil",
+                "shallow water",
+                "frozen water",
+                "fisherman’s shack"
+            ]
+        },
+        {
+            "loc": "Plansee",
+            "status": 2,
+            "related_clue": [
+                "shallow water",
+                "frozen water"
+            ]
+        },
+        {
+            "loc": "Lautersee",
+            "status": 2,
+            "related_clue": [
+                "shallow water",
+                "frozen water"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "wooden hut",
+        "reflections",
+        "early winter",
+        "mountainous area",
+        "conifer forest",
+        "frozen water"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Lautersee",
+            "status": 1,
+            "related_clue": [
+                "wooden hut"
+            ]
+        },
+        {
+            "loc": "Mittenwald",
+            "status": 2,
+            "related_clue": [
+                "mountainous area",
+                "conifer forest"
+            ]
+        },
+        {
+            "loc": "Geroldsee",
+            "status": 2,
+            "related_clue": [
+                "reflections",
+                "early winter"
+            ]
+        },
+        {
+            "loc": "Austria",
+            "status": 2,
+            "related_clue": [
+                "mountainous area"
+            ]
+        },
+        {
+            "loc": "Hintersee",
+            "status": 2,
+            "related_clue": [
+                "mountainous area"
+            ]
+        },
+        {
+            "loc": "Finzbach Lake",
+            "status": 2,
+            "related_clue": [
+                "conifer forest"
+            ]
+        },
+        {
+            "loc": "Garmisch",
+            "status": 2,
+            "related_clue": [
+                "conifer forest"
+            ]
+        }
+    ]
+},{
+    "paragraph": 5,
+    "clue": [
+        "karst ridge",
+        "tree line",
+        "conifer forest",
+        "grassy meadow",
+        "winter scene"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Murnau Moor",
+            "status": 1,
+            "related_clue": [
+                "karst ridge"
+            ]
+        },
+        {
+            "loc": "Staffelsee",
+            "status": 1,
+            "related_clue": [
+                "karst ridge"
+            ]
+        },
+        {
+            "loc": "Hintersee",
+            "status": 3,
+            "related_clue": [
+                "grassy meadow",
+                "tree line"
+            ]
+        },
+        {
+            "loc": "Ramsau bei Berchtesgaden",
+            "status": 3,
+            "related_clue": [
+                "grassy meadow",
+                "tree line"
+            ]
+        },
+        {
+            "loc": "Bavaria",
+            "status": 2,
+            "related_clue": [
+                "karst ridge",
+                "tree line",
+                "conifer forest"
+            ]
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [
+        "wooden hut",
+        "floodplain",
+        "hunting cabin"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Bavarian Alps",
+            "status": 1,
+            "related_clue": [
+                "wooden hut"
+            ]
+        },
+        {
+            "loc": "Strubklamm",
+            "status": 1,
+            "related_clue": [
+                "wooden hut"
+            ]
+        },
+        {
+            "loc": "Zell am See",
+            "status": 1,
+            "related_clue": [
+                "wooden hut"
+            ]
+        },
+        {
+            "loc": "Austria",
+            "status": 1,
+            "related_clue": [
+                "wooden hut"
+            ]
+        },
+        {
+            "loc": "Eibsee",
+            "status": 1,
+            "related_clue": []
+        },
+        {
+            "loc": "Hintersee",
+            "status": 3,
+            "related_clue": [
+                "hunting cabin",
+                "floodplain"
+            ]
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [
+        "rural area",
+        "shallow water",
+        "frozen lake",
+        "backwater",
+        "gravel",
+        "reed margin",
+        "conifer forest",
+        "karst landscape",
+        "timber shed",
+        "pitched roof",
+        "fisherman’s shack",
+        "Norway spruce",
+        "fir",
+        "birch",
+        "thin snow",
+        "frozen water",
+        "sub-alpine elevation",
+        "narrow valley",
+        "tree line",
+        "limestone massif"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Hintersee",
+            "status": 3,
+            "related_clue": [
+                "rural area",
+                "shallow water",
+                "frozen lake",
+                "backwater",
+                "gravel",
+                "reed margin",
+                "conifer forest",
+                "karst landscape",
+                "timber shed",
+                "pitched roof",
+                "fisherman’s shack",
+                "Norway spruce",
+                "fir",
+                "birch",
+                "thin snow",
+                "frozen water",
+                "sub-alpine elevation",
+                "narrow valley",
+                "tree line",
+                "limestone massif"
+            ]
+        },
+        {
+            "loc": "Ramsau bei Berchtesgaden",
+            "status": 3,
+            "related_clue": [
+                "rural area",
+                "shallow water",
+                "frozen lake",
+                "backwater",
+                "gravel",
+                "reed margin",
+                "conifer forest",
+                "karst landscape",
+                "timber shed",
+                "pitched roof",
+                "fisherman’s shack",
+                "Norway spruce",
+                "fir",
+                "birch",
+                "thin snow",
+                "frozen water",
+                "sub-alpine elevation",
+                "narrow valley",
+                "tree line",
+                "limestone massif"
+            ]
+        },
+        {
+            "loc": "Bavaria",
+            "status": 3,
+            "related_clue": [
+                "karst landscape",
+                "timber shed",
+                "pitched roof",
+                "sub-alpine elevation"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Walchensee",
+            "status": 1,
+            "related_clue": []
+        },
+        {
+            "loc": "Berchtesgaden National Park",
+            "status": 2,
+            "related_clue": [
+                "narrow valley",
+                "tree line",
+                "conifer forest"
+            ]
+        },
+        {
+            "loc": "Reiteralpe",
+            "status": 2,
+            "related_clue": [
+                "limestone massif",
+                "conifer forest"
+            ]
+        }
+    ]
+},{
+    "paragraph": 8,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Hintersee",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Ramsau bei Berchtesgaden",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Bavaria",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Germany",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+}]

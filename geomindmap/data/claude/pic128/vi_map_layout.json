@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "large stone aqueduct",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13052619222005138,
+    "y": 0.9914448613738105
+  },
+  {
+    "entity": "multiple arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large stone aqueduct",
+    "x": 1.6867828916257714,
+    "y": 1.0745992166936476
+  },
+  {
+    "entity": "stone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large stone aqueduct",
+    "x": 0.5805693545089254,
+    "y": 1.9138806714644174
+  },
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multiple arches",
+    "x": 1.9643561409412615,
+    "y": 0.37590550880022366
+  },
+  {
+    "entity": "rounded arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multiple arches",
+    "x": 1.6867828916257714,
+    "y": 1.0745992166936476
+  },
+  {
+    "entity": "progressively smaller arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multiple arches",
+    "x": 1.1708588675398812,
+    "y": 1.6214467343404244
+  },
+  {
+    "entity": "small tower-like structures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large stone aqueduct",
+    "x": 0.02181618298836529,
+    "y": 1.9998810100002995
+  },
+  {
+    "entity": "pillars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large stone aqueduct",
+    "x": -0.5386801079064508,
+    "y": 1.9260902734155256
+  },
+  {
+    "entity": "modern pedestrian walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.866025403784439,
+    "y": -0.4999999999999994
+  },
+  {
+    "entity": "metal railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern pedestrian walkway",
+    "x": -1.732050807568878,
+    "y": -0.9999999999999988
+  },
+  {
+    "entity": "modern road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6087614290087209,
+    "y": -0.7933533402912349
+  },
+  {
+    "entity": "highway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.38268343236509034,
+    "y": -0.9238795325112865
+  },
+  {
+    "entity": "modern apartment buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.1305261922200525,
+    "y": -0.9914448613738103
+  },
+  {
+    "entity": "lush green vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508834,
+    "y": -0.9238795325112873
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lush green vegetation",
+    "x": 0.39018064403225483,
+    "y": -1.9615705608064613
+  },
+  {
+    "entity": "rolling hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912344,
+    "y": -0.6087614290087217
+  },
+  {
+    "entity": "blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890679,
+    "y": -0.2588190451025224
+  },
+  {
+    "entity": "clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue sky",
+    "x": 1.9318516525781357,
+    "y": -0.5176380902050448
+  },
+  {
+    "entity": "distinctive architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large stone aqueduct",
+    "x": -1.5842035519511026,
+    "y": 2.5476065445797373
+  },
+  {
+    "entity": "historical construction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large stone aqueduct",
+    "x": -2.233808616876978,
+    "y": 2.002523174189543
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lush green vegetation",
+    "x": 1.6667106990588034,
+    "y": -2.4944088369076383
+  },
+  {
+    "entity": "Roman aqueduct",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large stone aqueduct",
+    "x": -2.7049317227664478,
+    "y": 1.2974376189904993
+  },
+  {
+    "entity": "Roman engineering",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large stone aqueduct",
+    "x": -2.959929996254637,
+    "y": 0.48868642018376673
+  },
+  {
+    "entity": "well-preserved historical monument",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large stone aqueduct",
+    "x": -2.9784290010271652,
+    "y": -0.35911096591488745
+  }
+]

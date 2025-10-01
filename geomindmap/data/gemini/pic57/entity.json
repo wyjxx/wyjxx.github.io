@@ -1,0 +1,21 @@
+[
+{"entity":"supersonic aircraft","type":"v"},
+{"entity":"Tupolev Tu-144","type":"v"},
+{"entity":"Cyrillic script","type":"v"},
+{"entity":"registration number CCCP-77112","type":"v"},
+{"entity":"Air France Concorde","type":"v"},
+{"entity":"registration number F-BVFB","type":"v"},
+{"entity":"\"SINSHEIM\" signage","type":"v"},
+{"entity":"\"Reimund\" sign","type":"v"},
+{"entity":"parking lot","type":"v"},
+{"entity":"Concorde display","type":"v"},
+{"entity":"Sinsheim","type":"l"},
+{"entity":"Technik Museum Sinsheim","type":"l"},
+{"entity":"Germany","type":"l"},
+{"entity":"Museumsplatz","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"Soviet Union","type":"i"},
+{"entity":"France","type":"i"},
+{"entity":"aeronautical museum","type":"i"},
+{"entity":"German signage","type":"i"}
+]

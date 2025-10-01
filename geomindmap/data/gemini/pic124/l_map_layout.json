@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Saint-Josse-ten-Noode",
+    "granularity": 4,
+    "parent": "Brussels",
+    "x": -1.530733729460359,
+    "y": 3.695518130045147
+  },
+  {
+    "entity": "Place Rogier",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -1.9134171618254516,
+    "y": -4.619397662556432
+  },
+  {
+    "entity": "Rue des Croisades",
+    "granularity": 5,
+    "parent": "Saint-Josse-ten-Noode",
+    "x": 4.409606321741776,
+    "y": 2.3569836841299883
+  },
+  {
+    "entity": "Boulevard Adolphe Max",
+    "granularity": 5,
+    "parent": "Saint-Josse-ten-Noode",
+    "x": 0.49008570164780385,
+    "y": 4.975923633360984
+  },
+  {
+    "entity": "Rue Royale",
+    "granularity": 5,
+    "parent": "Saint-Josse-ten-Noode",
+    "x": -3.8650522668136835,
+    "y": 3.171966420818229
+  },
+  {
+    "entity": "Church of Saint-Josse-ten-Noode",
+    "granularity": 5,
+    "parent": "Saint-Josse-ten-Noode",
+    "x": -4.784701678661045,
+    "y": -1.4514233862723105
+  },
+  {
+    "entity": "Royal Quarter",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 1.91341716182545,
+    "y": -4.619397662556433
+  },
+  {
+    "entity": "Pentagon",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 4.619397662556432,
+    "y": -1.913417161825452
+  }
+]

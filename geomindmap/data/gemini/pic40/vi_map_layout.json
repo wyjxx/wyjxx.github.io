@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05064916883871264,
+    "y": 0.9987165071710528
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.874346616144582,
+    "y": -0.4853019625310812
+  },
+  {
+    "entity": "street views",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.44039415155763423,
+    "y": -0.8978045395707417
+  },
+  {
+    "entity": "French flags",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.05064916883871266,
+    "y": -0.9987165071710528
+  },
+  {
+    "entity": "European Union flag",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.250652532258721,
+    "y": -0.9680771188662042
+  },
+  {
+    "entity": "style of dress",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4403941515576339,
+    "y": -0.8978045395707419
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": 1.2976112864222538,
+    "y": 1.5219083248834615
+  },
+  {
+    "entity": "architectural style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.1146489262448727,
+    "y": 1.6605895854247528
+  },
+  {
+    "entity": "alternating brick bands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.984757181779013,
+    "y": 0.246452691964665
+  },
+  {
+    "entity": "alternating stone bands",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.8642051554851782,
+    "y": 0.7243888032420729
+  },
+  {
+    "entity": "neoclassical architectural elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural style",
+    "x": -0.5965771092138578,
+    "y": 1.9089514799391933
+  },
+  {
+    "entity": "inscription \"CAPITOLIUM\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.4752608617375174,
+    "y": 1.3504093415796106
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": -1.9443448515159814,
+    "y": -0.4685329213441637
+  },
+  {
+    "entity": "red brick",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 0.8859837486514084,
+    "y": 1.7930512533459824
+  },
+  {
+    "entity": "brickwork",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 0.42054250654238384,
+    "y": 1.9552861683628433
+  },
+  {
+    "entity": "flag details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "French flags",
+    "x": -0.10129833767742533,
+    "y": -1.9974330143421055
+  },
+  {
+    "entity": "historical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural style",
+    "x": -1.671973389367309,
+    "y": 2.490884378137129
+  },
+  {
+    "entity": "specific style identifiers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural style",
+    "x": -2.311109018848878,
+    "y": 1.9127924882211813
+  },
+  {
+    "entity": "grandeur",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.715343521750964,
+    "y": 1.2755036491069218
+  },
+  {
+    "entity": "scale",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.925747127515522,
+    "y": 0.6633277815941916
+  },
+  {
+    "entity": "public institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -2.9999315326613973,
+    "y": 0.020268185509312586
+  },
+  {
+    "entity": "modern European setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street views",
+    "x": -1.3211824546729027,
+    "y": -2.693413618712225
+  },
+  {
+    "entity": "sunny day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.623039848433746,
+    "y": -1.4559058875932436
+  },
+  {
+    "entity": "summer day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": -2.1391593348936615,
+    "y": -2.103330059676158
+  },
+  {
+    "entity": "identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.8363179476429894,
+    "y": -2.372327210813095
+  },
+  {
+    "entity": "perfect match",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.2762743680783717,
+    "y": -1.9541174481666679
+  },
+  {
+    "entity": "re-checked data points",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6230398484337467,
+    "y": -1.4559058875932422
+  },
+  {
+    "entity": "confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.862417769200146,
+    "y": -0.8980893689200756
+  },
+  {
+    "entity": "finalized location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9846079701756856,
+    "y": -0.30350496596229587
+  },
+  {
+    "entity": "architectural details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -0.10566305575708548,
+    "y": 2.998138642332618
+  },
+  {
+    "entity": "textual details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "inscription \"CAPITOLIUM\"",
+    "x": 2.212891292606276,
+    "y": 2.0256140123694157
+  }
+]

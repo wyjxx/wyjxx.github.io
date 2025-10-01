@@ -1,0 +1,18 @@
+[
+{"entity":"coastal scene","type":"v","granularity":1,"parent":null},
+{"entity":"chalk cliffs","type":"v","granularity":1,"parent":null},
+{"entity":"pebble beach","type":"v","granularity":1,"parent":null},
+{"entity":"ocean","type":"v","granularity":1,"parent":null},
+{"entity":"green vegetation","type":"v","granularity":1,"parent":null},
+{"entity":"small human figures","type":"v","granularity":1,"parent":null},
+{"entity":"pathway","type":"v","granularity":1,"parent":null},
+{"entity":"cleared area","type":"v","granularity":1,"parent":null},
+{"entity":"lighting","type":"v","granularity":1,"parent":null},
+{"entity":"stepped cliffs","type":"v","granularity":2,"parent":"chalk cliffs"},
+{"entity":"terraced cliffs","type":"v","granularity":2,"parent":"chalk cliffs"},
+{"entity":"stratification","type":"v","granularity":2,"parent":"chalk cliffs"},
+{"entity":"calm sea","type":"v","granularity":2,"parent":"ocean"},
+{"entity":"chalk cliff coastline","type":"i","granularity":3,"parent":"chalk cliffs"},
+{"entity":"golden hour","type":"i","granularity":3,"parent":"lighting"},
+{"entity":"chalk deposits","type":"i","granularity":3,"parent":"stratification"}
+]

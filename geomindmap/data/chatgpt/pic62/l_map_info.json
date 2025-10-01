@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"England","granularity":2,"parent":"Europe"},
+{"entity":"London","granularity":4,"parent":"England"},
+{"entity":"Reading","granularity":4,"parent":"England"},
+{"entity":"City of Westminster","granularity":5,"parent":"London"},
+{"entity":"Paddington","granularity":5,"parent":"City of Westminster"},
+{"entity":"Paddington Station","granularity":5,"parent":"Paddington"},
+{"entity":"Bristol Temple Meads","granularity":5,"parent":"England"}
+]

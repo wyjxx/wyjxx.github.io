@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Sweden",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "Finland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "Denmark",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 0.313585389802961,
+    "y": 2.9835656861048196
+  },
+  {
+    "entity": "Scandinavia",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -2.007391819076574,
+    "y": 2.2294344764321834
+  },
+  {
+    "entity": "Nordic countries",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -0.3135853898029627,
+    "y": -2.9835656861048196
+  },
+  {
+    "entity": "Stockholm",
+    "granularity": 4,
+    "parent": "Scandinavia",
+    "x": -1.6269465723031995,
+    "y": 3.6541818305704044
+  },
+  {
+    "entity": "Helsinki",
+    "granularity": 4,
+    "parent": "Nordic countries",
+    "x": -0.41811385307061694,
+    "y": -3.978087581473093
+  },
+  {
+    "entity": "Copenhagen",
+    "granularity": 4,
+    "parent": "Scandinavia",
+    "x": -3.464101615137754,
+    "y": 2.0000000000000013
+  },
+  {
+    "entity": "Market Square",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": -4.987820251299121,
+    "y": -0.3487823687206242
+  },
+  {
+    "entity": "Esplanadi",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": -4.045084971874739,
+    "y": -2.9389262614623632
+  },
+  {
+    "entity": "South Harbor district",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": -1.8730329670795656,
+    "y": -4.6359192728339345
+  },
+  {
+    "entity": "Kaartinkaupunki",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": 0.8682408883346499,
+    "y": -4.924038765061041
+  },
+  {
+    "entity": "Kruununhaka",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": 3.345653031794286,
+    "y": -3.7157241273869754
+  },
+  {
+    "entity": "Kauppatori",
+    "granularity": 5,
+    "parent": "Helsinki",
+    "x": 4.806308479691594,
+    "y": -1.3781867790849989
+  }
+]

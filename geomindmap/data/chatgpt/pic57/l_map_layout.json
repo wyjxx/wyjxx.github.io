@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Sinsheim",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.9999999999999991,
+    "y": 3.464101615137755
+  },
+  {
+    "entity": "Speyer",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.0352761804100825,
+    "y": -3.8637033051562732
+  },
+  {
+    "entity": "Steinsfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.0352761804100812,
+    "y": -3.8637033051562737
+  },
+  {
+    "entity": "Grombach",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.828427124746192,
+    "y": -2.828427124746188
+  },
+  {
+    "entity": "Hoffenheim",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.8637033051562732,
+    "y": -1.0352761804100827
+  },
+  {
+    "entity": "Auto & Technik Museum Sinsheim",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": 4.777864028930704,
+    "y": 1.4737758720545209
+  },
+  {
+    "entity": "PreZero Arena",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": 3.1174490092936677,
+    "y": 3.9091574123401482
+  },
+  {
+    "entity": "Sinsheim Museum/Arena station",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": 0.373650467932123,
+    "y": 4.9860189859059005
+  },
+  {
+    "entity": "In der Au",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": -2.499999999999999,
+    "y": 4.330127018922194
+  },
+  {
+    "entity": "Alte Römerstraße",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": -4.504844339512094,
+    "y": 2.169418695587793
+  },
+  {
+    "entity": "Im Rosengarten",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": -4.944154131125643,
+    "y": -0.7452113308808679
+  },
+  {
+    "entity": "Steinsfurt district",
+    "granularity": 5,
+    "parent": "Sinsheim",
+    "x": -3.6652593591491356,
+    "y": -3.4008636888545922
+  }
+]

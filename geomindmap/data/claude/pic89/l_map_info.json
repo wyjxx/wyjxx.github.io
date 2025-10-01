@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"British Isles","granularity":2,"parent":"Europe"},
+{"entity":"central Dublin","granularity":5,"parent":"Dublin"},
+{"entity":"Merrion Square","granularity":5,"parent":"Dublin"},
+{"entity":"St. Stephen's Green","granularity":5,"parent":"Dublin"},
+{"entity":"National Gallery of Ireland","granularity":5,"parent":"Dublin"},
+{"entity":"historic center","granularity":5,"parent":"Dublin"}
+]

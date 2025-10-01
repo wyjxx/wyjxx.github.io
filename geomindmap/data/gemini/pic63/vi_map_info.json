@@ -1,0 +1,23 @@
+[
+{"entity":"arch","type":"v","granularity":1,"parent":null},
+{"entity":"Doric columns","type":"v","granularity":2,"parent":"arch"},
+{"entity":"sunset","type":"v","granularity":1,"parent":null},
+{"entity":"surrounding buildings","type":"v","granularity":1,"parent":null},
+{"entity":"streetlights","type":"v","granularity":1,"parent":null},
+{"entity":"modern structures","type":"v","granularity":1,"parent":null},
+{"entity":"people's attire","type":"v","granularity":2,"parent":null},
+{"entity":"foreground elements","type":"v","granularity":1,"parent":null},
+{"entity":"underground entrance","type":"v","granularity":1,"parent":null},
+{"entity":"red tent","type":"v","granularity":1,"parent":null},
+{"entity":"bare trees","type":"v","granularity":1,"parent":null},
+{"entity":"DZ BANK sign","type":"v","granularity":1,"parent":null},
+{"entity":"U-Bahn station entrance","type":"v","granularity":1,"parent":null},
+{"entity":"U-Bahn station exit","type":"v","granularity":1,"parent":null},
+{"entity":"specific orientation","type":"i","granularity":3,"parent":"sunset"},
+{"entity":"seasonal market stall","type":"i","granularity":3,"parent":"red tent"},
+{"entity":"late autumn","type":"i","granularity":3,"parent":"bare trees"},
+{"entity":"winter season","type":"i","granularity":3,"parent":"bare trees"},
+{"entity":"west of the gate","type":"i","granularity":3,"parent":"arch"},
+{"entity":"east direction","type":"i","granularity":3,"parent":"sunset"},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null}
+]

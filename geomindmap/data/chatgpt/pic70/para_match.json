@@ -1,0 +1,182 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "stone façade",
+    "clock",
+    "signage “GARE DE NICE VILLE”",
+    "French railway station"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Gare de Nice-Ville",
+      "status": 3,
+      "related_clue": [
+        "signage “GARE DE NICE VILLE”",
+        "French railway station"
+      ]
+    },
+    {
+      "loc": "Avenue Thiers",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Thiers neighborhood",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Nice",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "French Wikipedia data",
+    "English Wikipedia address"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Gare de Nice-Ville",
+      "status": 3,
+      "related_clue": [
+        "French Wikipedia data",
+        "English Wikipedia address"
+      ]
+    },
+    {
+      "loc": "Avenue Thiers",
+      "status": 3,
+      "related_clue": [
+        "English Wikipedia address"
+      ]
+    },
+    {
+      "loc": "Thiers neighborhood",
+      "status": 3,
+      "related_clue": [
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "Nice",
+      "status": 3,
+      "related_clue": [
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": [
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "SNCF logo",
+    "signage “GARE DE NICE VILLE”",
+    "principal SNCF station",
+    "French railway station",
+    "stone façade",
+    "sculpted ornamentation",
+    "clock",
+    "mansard roof",
+    "late 19th-century architecture",
+    "Louis-XIII style",
+    "built by PLM",
+    "French tricolor flag",
+    "central pediment",
+    "station building",
+    "English Wikipedia address",
+    "French Wikipedia data"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Gare de Nice-Ville",
+      "status": 3,
+      "related_clue": [
+        "SNCF logo",
+        "signage “GARE DE NICE VILLE”",
+        "principal SNCF station",
+        "French railway station",
+        "English Wikipedia address",
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "Avenue Thiers",
+      "status": 3,
+      "related_clue": [
+        "English Wikipedia address"
+      ]
+    },
+    {
+      "loc": "Thiers neighborhood",
+      "status": 3,
+      "related_clue": [
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "Nice",
+      "status": 3,
+      "related_clue": [
+        "English Wikipedia address",
+        "French Wikipedia data"
+      ]
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": [
+        "principal SNCF station",
+        "French railway station"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Thiers neighborhood",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Nice",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

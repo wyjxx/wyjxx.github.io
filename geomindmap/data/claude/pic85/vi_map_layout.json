@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "Gothic Revival architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8888354486549235,
+    "y": 0.4582265217274104
+  },
+  {
+    "entity": "Neo-Gothic architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32706796331742155,
+    "y": 0.9450008187146685
+  },
+  {
+    "entity": "ornate stone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic Revival architecture",
+    "x": 1.9858557693465766,
+    "y": 0.2374381253146104
+  },
+  {
+    "entity": "Gothic spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Gothic architecture",
+    "x": 0.9164530434548209,
+    "y": 1.777670897309847
+  },
+  {
+    "entity": "tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Neo-Gothic architecture",
+    "x": 0.37850248872082,
+    "y": 1.9638573945254134
+  },
+  {
+    "entity": "classical collegiate architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2357589355094274,
+    "y": 0.9718115683235417
+  },
+  {
+    "entity": "honey-colored limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic Revival architecture",
+    "x": 1.777670897309847,
+    "y": 0.9164530434548208
+  },
+  {
+    "entity": "sandstone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic Revival architecture",
+    "x": 1.345320747402505,
+    "y": 1.4799027287657678
+  },
+  {
+    "entity": "wide curved street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7237340381050702,
+    "y": 0.6900790114821119
+  },
+  {
+    "entity": "stone cobble section",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide curved street",
+    "x": -1.2363179724412106,
+    "y": 1.5721061894855748
+  },
+  {
+    "entity": "tarmac road surface",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide curved street",
+    "x": -1.6291519041006715,
+    "y": 1.1601138191423965
+  },
+  {
+    "entity": "European-style urban planning",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "blue double-decker bus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9283679330160726,
+    "y": -0.37166245566032774
+  },
+  {
+    "entity": "X3 route number",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue double-decker bus",
+    "x": -1.9796428837618654,
+    "y": -0.28462967654657073
+  },
+  {
+    "entity": "Abingdon destination sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue double-decker bus",
+    "x": -1.7553579791345113,
+    "y": -0.9584979734401137
+  },
+  {
+    "entity": "British-style bus design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue double-decker bus",
+    "x": -1.4799027287657671,
+    "y": -1.3453207474025057
+  },
+  {
+    "entity": "left-hand traffic",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5800569095711983,
+    "y": -0.8145759520503356
+  },
+  {
+    "entity": "British-style street lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -0.3785024887208194,
+    "y": -1.9638573945254136
+  },
+  {
+    "entity": "road sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188555,
+    "y": -0.9096319953545188
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.04758191582374186,
+    "y": -0.998867339183008
+  },
+  {
+    "entity": "bus stop signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": 0.19011208660836604,
+    "y": -1.9909438451461692
+  },
+  {
+    "entity": "mature tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.32706796331742155,
+    "y": -0.9450008187146686
+  },
+  {
+    "entity": "temperate vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000009,
+    "y": -0.8660254037844382
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7237340381050708,
+    "y": -0.6900790114821114
+  },
+  {
+    "entity": "flat topography",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8888354486549238,
+    "y": -0.45822652172740985
+  },
+  {
+    "entity": "rolling topography",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144979,
+    "y": -0.28173255684142806
+  },
+  {
+    "entity": "UK location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.986415767719254,
+    "y": -0.28516812991254503
+  },
+  {
+    "entity": "Oxford University style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical collegiate architecture",
+    "x": -0.2851681299125481,
+    "y": 2.9864157677192535
+  },
+  {
+    "entity": "Cambridge University style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical collegiate architecture",
+    "x": -1.1149873669809833,
+    "y": 2.7851037990482173
+  },
+  {
+    "entity": "Cotswold stone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "honey-colored limestone",
+    "x": 2.6665063459647707,
+    "y": 1.3746795651822312
+  },
+  {
+    "entity": "British weather",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overcast sky",
+    "x": 2.1712021143152125,
+    "y": -2.0702370344463343
+  },
+  {
+    "entity": "Oxford bus route",
+    "type": "i",
+    "granularity": 3,
+    "parent": "X3 route number",
+    "x": -2.969464325642798,
+    "y": -0.42694451481985607
+  },
+  {
+    "entity": "British urban setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style urban planning",
+    "x": -2.878478920843492,
+    "y": 0.845197670524289
+  }
+]

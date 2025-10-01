@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Mediterranean region",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8019377358048383,
+    "y": 0.8677674782351162
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8019377358048383,
+    "y": -0.867767478235116
+  },
+  {
+    "entity": "Villefranche-sur-Mer",
+    "granularity": 4,
+    "parent": "France",
+    "x": -3.9838971759809563,
+    "y": 0.3585572356137345
+  },
+  {
+    "entity": "Cap Ferrat",
+    "granularity": 4,
+    "parent": "France",
+    "x": 3.433795174407464,
+    "y": -2.0515971096236254
+  },
+  {
+    "entity": "Avenue Jean Monnet",
+    "granularity": 5,
+    "parent": "Villefranche-sur-Mer",
+    "x": -0.2243241517525743,
+    "y": 4.994965332706574
+  },
+  {
+    "entity": "D6098",
+    "granularity": 5,
+    "parent": "Villefranche-sur-Mer",
+    "x": -4.979871469976195,
+    "y": 0.4481965445171681
+  },
+  {
+    "entity": "Place Amélie Pollonnais",
+    "granularity": 5,
+    "parent": "Villefranche-sur-Mer",
+    "x": -1.112604669781573,
+    "y": -4.874639560909118
+  }
+]

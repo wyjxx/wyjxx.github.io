@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Attica region","granularity":3,"parent":"Greece"},
+{"entity":"Athens metropolitan area","granularity":4,"parent":"Attica region"},
+{"entity":"Athens","granularity":4,"parent":"Attica region"},
+{"entity":"Agia Paraskevi","granularity":4,"parent":"Attica region"},
+{"entity":"Attiki Odos","granularity":5,"parent":"Attica region"}
+]

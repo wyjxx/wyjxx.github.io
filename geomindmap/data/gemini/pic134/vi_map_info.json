@@ -1,0 +1,18 @@
+[
+{"entity":"road signs","type":"v","granularity":1,"parent":null},
+{"entity":"highway","type":"v","granularity":1,"parent":null},
+{"entity":"tunnel","type":"v","granularity":1,"parent":null},
+{"entity":"motorway","type":"v","granularity":1,"parent":null},
+{"entity":"exit number","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"road names","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"H/M settlement sign","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"M marker","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"number markings","type":"v","granularity":2,"parent":"road signs"},
+{"entity":"Greek alphabet","type":"i","granularity":3,"parent":"road signs"},
+{"entity":"Latin alphabet","type":"i","granularity":3,"parent":"road signs"},
+{"entity":"mapping service","type":"i","granularity":3,"parent":null},
+{"entity":"street view imagery","type":"i","granularity":3,"parent":null},
+{"entity":"highway infrastructure","type":"i","granularity":3,"parent":"motorway"},
+{"entity":"proximity to airport","type":"i","granularity":3,"parent":"motorway"},
+{"entity":"eastbound approach","type":"i","granularity":3,"parent":"motorway"}
+]

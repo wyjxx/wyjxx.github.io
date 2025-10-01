@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "stone cathedral",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.587785252292473,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951534,
+    "y": 0.30901699437494795
+  },
+  {
+    "entity": "spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 1.986476715483886,
+    "y": 0.23218582825046044
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426011,
+    "y": -0.4067366430757998
+  },
+  {
+    "entity": "grey limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 1.8793852415718169,
+    "y": 0.6840402866513373
+  },
+  {
+    "entity": "pointed arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 1.670975622825873,
+    "y": 1.0990179561416118
+  },
+  {
+    "entity": "buttresses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 1.3724832757374674,
+    "y": 1.4547472831460972
+  },
+  {
+    "entity": "pinnacles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "square tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone cathedral",
+    "x": 0.5736064654221806,
+    "y": 1.9159790246309778
+  },
+  {
+    "entity": "red-brick buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588588,
+    "y": -0.7431448254773937
+  },
+  {
+    "entity": "benches",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4067366430758009,
+    "y": -0.9135454576426005
+  },
+  {
+    "entity": "fountain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775893,
+    "y": -0.9781476007338057
+  },
+  {
+    "entity": "winding paths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park",
+    "x": -1.8270909152852022,
+    "y": -0.8134732861515996
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "stone kerb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaza",
+    "x": -1.5208119312000612,
+    "y": 1.2988960966603682
+  },
+  {
+    "entity": "vehicular traffic",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20791169081776031,
+    "y": -0.9781476007338055
+  },
+  {
+    "entity": "pedestrian flow",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40673664307580054,
+    "y": -0.9135454576426008
+  },
+  {
+    "entity": "civic blocks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924744,
+    "y": -0.8090169943749465
+  },
+  {
+    "entity": "commercial blocks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7431448254773949,
+    "y": -0.6691306063588575
+  },
+  {
+    "entity": "forecourt",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plaza",
+    "x": -1.9021130325903066,
+    "y": 0.6180339887498968
+  },
+  {
+    "entity": "pedestrian zone",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844397,
+    "y": -0.49999999999999817
+  },
+  {
+    "entity": "Christchurch Quarter",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8531695488854623,
+    "y": -0.9270509831248379
+  },
+  {
+    "entity": "Dublin's historical context",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.983565686104821,
+    "y": -0.3135853898029523
+  },
+  {
+    "entity": "founded 1030 AD",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone cathedral",
+    "x": 0.1744344867314277,
+    "y": 2.9949244748138044
+  },
+  {
+    "entity": "rebuilt 12th–19th centuries",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone cathedral",
+    "x": -0.5209445330007909,
+    "y": 2.954423259036624
+  },
+  {
+    "entity": "pedestrianised forecourt",
+    "type": "i",
+    "granularity": 3,
+    "parent": "forecourt",
+    "x": -2.85316954888546,
+    "y": 0.9270509831248452
+  },
+  {
+    "entity": "civic plaza",
+    "type": "i",
+    "granularity": 3,
+    "parent": "plaza",
+    "x": -2.9907520011993842,
+    "y": -0.23537728718353312
+  },
+  {
+    "entity": "mid-19th century style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "red-brick buildings",
+    "x": -2.0073918190765765,
+    "y": -2.229434476432181
+  },
+  {
+    "entity": "Gothic revival architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone cathedral",
+    "x": -1.1882392981174699,
+    "y": 2.7546483206408223
+  }
+]

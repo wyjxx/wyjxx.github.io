@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "grand library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963935,
+    "y": 0.6142127126896679
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6772815716257405,
+    "y": -0.7357239106731321
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9863613034027222,
+    "y": -0.1645945902807346
+  },
+  {
+    "entity": "long hall",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 1.9686972249547086,
+    "y": 0.3524645180094434
+  },
+  {
+    "entity": "wooden barrel-vaulted ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 1.724123534491819,
+    "y": 1.0136064511492797
+  },
+  {
+    "entity": "bookshelves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 1.265359845536761,
+    "y": 1.5488268015834386
+  },
+  {
+    "entity": "busts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": 0.6493989384093671,
+    "y": 1.8916344834012693
+  },
+  {
+    "entity": "sphere of the Earth",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -0.04723760178959522,
+    "y": 1.9994420744240549
+  },
+  {
+    "entity": "Gaia installation",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -1.0540454231469576,
+    "y": 1.6997023992284506
+  },
+  {
+    "entity": "Latin text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grand library",
+    "x": -1.840907141509321,
+    "y": -0.7817038418352444
+  },
+  {
+    "entity": "old library",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grand library",
+    "x": 0.2124110997123183,
+    "y": -2.9924708059927676
+  },
+  {
+    "entity": "Latin legal terms",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Latin text",
+    "x": -2.702906603707257,
+    "y": 1.3016512173526746
+  },
+  {
+    "entity": "subject headings",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Latin text",
+    "x": -2.9991631116360824,
+    "y": 0.07085640268439604
+  },
+  {
+    "entity": "law college",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Latin text",
+    "x": -2.7613607122639814,
+    "y": -1.1725557627528667
+  },
+  {
+    "entity": "Mary P. Clancy",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Latin text",
+    "x": -2.0318447148772263,
+    "y": -2.207171732019392
+  },
+  {
+    "entity": "STEPH",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Latin text",
+    "x": -0.9405195301133469,
+    "y": -2.848758152858078
+  },
+  {
+    "entity": "Gaia by Luke Jerram",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gaia installation",
+    "x": -1.5810681347204363,
+    "y": 2.549553598842676
+  },
+  {
+    "entity": "historical context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 1.4278421791112192,
+    "y": -2.6384212536194678
+  },
+  {
+    "entity": "architectural details",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.511499434787584,
+    "y": -1.6408444743672832
+  }
+]

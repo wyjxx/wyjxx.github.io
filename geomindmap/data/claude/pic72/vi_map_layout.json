@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "hotel building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414296,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "palm trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809327,
+    "y": 0.14231483827328517
+  },
+  {
+    "entity": "wide road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.841253532831181,
+    "y": -0.5406408174555979
+  },
+  {
+    "entity": "waterfront promenade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311812,
+    "y": -0.5406408174555974
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": -0.1423148382732853
+  },
+  {
+    "entity": "rooftop \"HOTEL\" sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hotel building",
+    "x": 1.9742471561774222,
+    "y": 0.31991899963172044
+  },
+  {
+    "entity": "\"CANNES RIVIERA\" text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hotel building",
+    "x": 1.772186579869605,
+    "y": 0.927013875910211
+  },
+  {
+    "entity": "Marilyn Monroe mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hotel building",
+    "x": 0.8631697314192011,
+    "y": 1.804144676782243
+  },
+  {
+    "entity": "European-style architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hotel building",
+    "x": -0.698928359198197,
+    "y": 1.8738994499995234
+  },
+  {
+    "entity": "white lane markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wide road",
+    "x": -1.682507065662362,
+    "y": -1.0812816349111958
+  },
+  {
+    "entity": "white railings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "waterfront promenade",
+    "x": -1.0205400661217987,
+    "y": -1.7200284804154014
+  },
+  {
+    "entity": "barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "waterfront promenade",
+    "x": -0.3551063925086054,
+    "y": -1.9682224086722324
+  },
+  {
+    "entity": "Mediterranean architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style architecture",
+    "x": -1.0483925387972954,
+    "y": 2.810849174999285
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm trees",
+    "x": -2.8108491749992854,
+    "y": 1.0483925387972948
+  },
+  {
+    "entity": "subtropical climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "palm trees",
+    "x": -2.9923563438307603,
+    "y": -0.21401754959769653
+  },
+  {
+    "entity": "sunny climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear blue sky",
+    "x": 2.523760598493544,
+    "y": -1.6219224523667923
+  },
+  {
+    "entity": "French Riviera aesthetic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": 0.5326595887629122,
+    "y": -2.952333613008348
+  },
+  {
+    "entity": "film festival culture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Marilyn Monroe mural",
+    "x": 1.9031798524909365,
+    "y": 2.319031360088211
+  },
+  {
+    "entity": "celebrity culture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Marilyn Monroe mural",
+    "x": 0.6115077720949756,
+    "y": 2.937015193128466
+  },
+  {
+    "entity": "tourist zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "waterfront promenade",
+    "x": 1.5308100991827014,
+    "y": -2.5800427206231
+  },
+  {
+    "entity": "luxury hotels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hotel building",
+    "x": -2.231821688003549,
+    "y": 2.004737377552728
+  }
+]

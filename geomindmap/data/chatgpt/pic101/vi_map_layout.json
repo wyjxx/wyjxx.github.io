@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "indoor space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9914448613738104,
+    "y": 0.13052619222005157
+  },
+  {
+    "entity": "train station hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890682,
+    "y": 0.258819045102521
+  },
+  {
+    "entity": "large clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": 1.842442292770113,
+    "y": 0.778078657856652
+  },
+  {
+    "entity": "high steel structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": 1.5612053620240842,
+    "y": 1.2500551258193568
+  },
+  {
+    "entity": "multiple levels of shops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": 1.1621536308038767,
+    "y": 1.6276974345403898
+  },
+  {
+    "entity": "Rossmann signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": 0.6754011387074782,
+    "y": 1.882507185067999
+  },
+  {
+    "entity": "KFC signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": 0.13768017549739478,
+    "y": 1.9952554145459689
+  },
+  {
+    "entity": "Dunkin' signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -0.41043068439126873,
+    "y": 1.957433690654709
+  },
+  {
+    "entity": "large arched window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -1.3747088707389175,
+    "y": 1.4526443200975696
+  },
+  {
+    "entity": "iron support lattice",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -1.9318516525781366,
+    "y": 0.5176380902050411
+  },
+  {
+    "entity": "grid layout",
+    "type": "v",
+    "granularity": 3,
+    "parent": "large arched window",
+    "x": -1.5710187419636337,
+    "y": 2.555758226514981
+  },
+  {
+    "entity": "two gallery levels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -1.9998101445011982,
+    "y": -0.027556958288192167
+  },
+  {
+    "entity": "mezzanine with shops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -1.9168549649165052,
+    "y": -0.5706724484982111
+  },
+  {
+    "entity": "ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station hall",
+    "x": -1.3341602445028267,
+    "y": -1.4899719601348738
+  },
+  {
+    "entity": "wood-like panels",
+    "type": "v",
+    "granularity": 3,
+    "parent": "ceiling",
+    "x": -2.4172953169829343,
+    "y": -1.7767057579949403
+  },
+  {
+    "entity": "black iron girders",
+    "type": "v",
+    "granularity": 3,
+    "parent": "ceiling",
+    "x": -1.5000000000000013,
+    "y": -2.598076211353315
+  },
+  {
+    "entity": "central hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912349,
+    "y": -0.6087614290087209
+  },
+  {
+    "entity": "darker atmosphere",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station hall",
+    "x": -0.5345085730025807,
+    "y": -2.95199942164404
+  },
+  {
+    "entity": "different layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station hall",
+    "x": 0.2889087751594227,
+    "y": -2.986056215083012
+  },
+  {
+    "entity": "bright open interior",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station hall",
+    "x": 1.0905239116914855,
+    "y": -2.7947732641538385
+  },
+  {
+    "entity": "layout resemblance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large arched window",
+    "x": -2.4653334456757356,
+    "y": 1.709424172530798
+  },
+  {
+    "entity": "station position",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station hall",
+    "x": 1.8098437524261526,
+    "y": -2.39258554534713
+  },
+  {
+    "entity": "typical St. Georg characteristics",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "location precision",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.974334584121431,
+    "y": -0.3915785766601577
+  }
+]

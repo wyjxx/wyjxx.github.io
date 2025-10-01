@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "formal garden",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4338837391175582,
+    "y": 0.9009688679024191
+  },
+  {
+    "entity": "geometric hedge patterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "formal garden",
+    "x": 1.938154572458156,
+    "y": 0.49351479538058723
+  },
+  {
+    "entity": "green lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865475,
+    "y": 0.7071067811865476
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.900968867902419,
+    "y": 0.43388373911755823
+  },
+  {
+    "entity": "institutional grounds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "lamp posts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9438833303083676,
+    "y": -0.33027906195516693
+  },
+  {
+    "entity": "urban buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "cityscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2225209339563146,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "flat landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.11196447610330768,
+    "y": -0.9937122098932426
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3302790619551669,
+    "y": -0.9438833303083676
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6234898018587334,
+    "y": -0.7818314824680299
+  },
+  {
+    "entity": "wispy clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.2469796037174667,
+    "y": -1.5636629649360598
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.846724199228284,
+    "y": -0.5320320765153368
+  },
+  {
+    "entity": "overall layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9438833303083675,
+    "y": -0.3302790619551673
+  },
+  {
+    "entity": "urban backdrop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9937122098932426,
+    "y": -0.11196447610330809
+  },
+  {
+    "entity": "boxwood",
+    "type": "i",
+    "granularity": 3,
+    "parent": "geometric hedge patterns",
+    "x": 2.9072318586872337,
+    "y": 0.7402721930708809
+  },
+  {
+    "entity": "formal garden design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": 2.4358140171475693,
+    "y": 1.7512310167043696
+  },
+  {
+    "entity": "European formal gardens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": 1.9283628290596184,
+    "y": 2.2981333293569337
+  },
+  {
+    "entity": "French style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": 1.3016512173526746,
+    "y": 2.7029066037072575
+  },
+  {
+    "entity": "Portuguese style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": 0.5944384295981926,
+    "y": 2.9405174635456315
+  },
+  {
+    "entity": "public park",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park",
+    "x": -2.702906603707257,
+    "y": 1.3016512173526746
+  },
+  {
+    "entity": "palace grounds",
+    "type": "i",
+    "granularity": 3,
+    "parent": "institutional grounds",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "European cities",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cityscape",
+    "x": -0.6675628018689438,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "baroque gardens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": -0.14953765698209187,
+    "y": 2.996270763656767
+  },
+  {
+    "entity": "modern architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban buildings",
+    "x": -2.446682606877781,
+    "y": -1.736013888539417
+  },
+  {
+    "entity": "older architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban buildings",
+    "x": -1.7360138885394187,
+    "y": -2.4466826068777796
+  },
+  {
+    "entity": "formal garden style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": -0.8842655232327132,
+    "y": 2.866718417358422
+  },
+  {
+    "entity": "French-style garden",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal garden",
+    "x": -1.564305610138495,
+    "y": 2.5598726448964664
+  }
+]

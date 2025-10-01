@@ -1,0 +1,18 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Sweden","granularity":2,"parent":"Europe"},
+{"entity":"Finland","granularity":2,"parent":"Europe"},
+{"entity":"Denmark","granularity":2,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Scandinavia","granularity":3,"parent":"Europe"},
+{"entity":"Nordic countries","granularity":3,"parent":"Europe"},
+{"entity":"Stockholm","granularity":4,"parent":"Scandinavia"},
+{"entity":"Helsinki","granularity":4,"parent":"Nordic countries"},
+{"entity":"Copenhagen","granularity":4,"parent":"Scandinavia"},
+{"entity":"Market Square","granularity":5,"parent":"Helsinki"},
+{"entity":"Esplanadi","granularity":5,"parent":"Helsinki"},
+{"entity":"South Harbor district","granularity":5,"parent":"Helsinki"},
+{"entity":"Kaartinkaupunki","granularity":5,"parent":"Helsinki"},
+{"entity":"Kruununhaka","granularity":5,"parent":"Helsinki"},
+{"entity":"Kauppatori","granularity":5,"parent":"Helsinki"}
+]

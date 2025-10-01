@@ -1,0 +1,19 @@
+[
+{"entity":"undulating limestone façade","type":"v","granularity":1,"parent":null},
+{"entity":"wrought-iron balcony railing","type":"v","granularity":2,"parent":"undulating limestone façade"},
+{"entity":"organic vegetal motif","type":"v","granularity":2,"parent":"undulating limestone façade"},
+{"entity":"sinuous stonework","type":"v","granularity":2,"parent":"undulating limestone façade"},
+{"entity":"intricate ironwork","type":"v","granularity":2,"parent":"undulating limestone façade"},
+{"entity":"sculpture-like rooftop chimney","type":"v","granularity":2,"parent":"Modernista building"},
+{"entity":"wide tree-lined avenue","type":"v","granularity":1,"parent":null},
+{"entity":"dedicated bike lane","type":"v","granularity":2,"parent":"wide tree-lined avenue"},
+{"entity":"red paint","type":"v","granularity":2,"parent":"wide tree-lined avenue"},
+{"entity":"Modernista building","type":"v","granularity":1,"parent":null},
+{"entity":"luxury shop","type":"v","granularity":1,"parent":null},
+{"entity":"café","type":"v","granularity":1,"parent":null},
+{"entity":"seasonal decoration","type":"v","granularity":2,"parent":"undulating limestone façade"},
+{"entity":"Catalan Modernisme","type":"i","granularity":3,"parent":"Modernista building"},
+{"entity":"Gaudí residential commissions","type":"i","granularity":3,"parent":"Modernista building"},
+{"entity":"Barcelona boulevards","type":"i","granularity":3,"parent":"wide tree-lined avenue"},
+{"entity":"octagonal grid layout","type":"i","granularity":3,"parent":"wide tree-lined avenue"}
+]

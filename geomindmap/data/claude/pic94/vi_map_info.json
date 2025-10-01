@@ -1,0 +1,20 @@
+[
+{"entity":"Lufthansa aircraft","type":"v","granularity":1,"parent":null},
+{"entity":"Lufthansa livery","type":"v","granularity":2,"parent":"Lufthansa aircraft"},
+{"entity":"crane logo","type":"v","granularity":2,"parent":"Lufthansa aircraft"},
+{"entity":"terminal building","type":"v","granularity":1,"parent":null},
+{"entity":"ground support equipment","type":"v","granularity":1,"parent":null},
+{"entity":"jet bridge","type":"v","granularity":1,"parent":null},
+{"entity":"ground support vehicle","type":"v","granularity":1,"parent":null},
+{"entity":"airport architecture","type":"v","granularity":1,"parent":null},
+{"entity":"terminal architecture","type":"v","granularity":1,"parent":null},
+{"entity":"lighting","type":"v","granularity":1,"parent":null},
+{"entity":"German airline","type":"i","granularity":3,"parent":"Lufthansa aircraft"},
+{"entity":"European architecture","type":"i","granularity":3,"parent":"terminal architecture"},
+{"entity":"wide-body aircraft","type":"i","granularity":3,"parent":"Lufthansa aircraft"},
+{"entity":"Airbus A330","type":"i","granularity":3,"parent":"Lufthansa aircraft"},
+{"entity":"major hub airport","type":"i","granularity":3,"parent":"airport architecture"},
+{"entity":"major international airport","type":"i","granularity":3,"parent":"airport architecture"},
+{"entity":"primary hub","type":"i","granularity":3,"parent":"airport architecture"},
+{"entity":"secondary hub","type":"i","granularity":3,"parent":"airport architecture"}
+]

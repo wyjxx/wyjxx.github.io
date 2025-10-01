@@ -1,0 +1,306 @@
+[
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40169542465296953,
+    "y": 0.9157733266550574
+  },
+  {
+    "entity": "architectural styles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -0.2473852625386954,
+    "y": -1.98464115947409
+  },
+  {
+    "entity": "general vibe",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7357239106731314,
+    "y": 0.6772815716257414
+  },
+  {
+    "entity": "Smurf statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9458172417006346,
+    "y": 0.3246994692046836
+  },
+  {
+    "entity": "French signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.8745048590798024,
+    "y": 0.6973030426480369
+  },
+  {
+    "entity": "BRASSERIE-RESTAURANT sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 1.391551552434602,
+    "y": 1.4365181088022696
+  },
+  {
+    "entity": "menu items",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8794737512064891,
+    "y": -0.4759473930370735
+  },
+  {
+    "entity": "boulettes sauce tomates",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menu items",
+    "x": -1.9901658050900228,
+    "y": -0.19809106050092573
+  },
+  {
+    "entity": "fish & chips",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menu items",
+    "x": -1.9120715630687155,
+    "y": -0.5865000747689292
+  },
+  {
+    "entity": "Euros",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menu items",
+    "x": -1.7589475024129777,
+    "y": -0.9518947860741478
+  },
+  {
+    "entity": "chalkboard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.40169542465296987,
+    "y": -0.9157733266550573
+  },
+  {
+    "entity": "MOOF text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": 0.4662723255363282,
+    "y": 1.9448882020411724
+  },
+  {
+    "entity": "Brasserie sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.5889315632670247,
+    "y": 1.9113240473001585
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "chalkboard menus",
+    "type": "v",
+    "granularity": 2,
+    "parent": "chalkboard",
+    "x": -0.8033908493059397,
+    "y": -1.8315466533101146
+  },
+  {
+    "entity": "French dish names",
+    "type": "v",
+    "granularity": 2,
+    "parent": "menu items",
+    "x": -1.536802221713718,
+    "y": -1.279937081006633
+  },
+  {
+    "entity": "prices in Euros",
+    "type": "v",
+    "granularity": 3,
+    "parent": "menu items",
+    "x": -1.8815290754206098,
+    "y": -2.3366318362863385
+  },
+  {
+    "entity": "comic art",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5469481581224266,
+    "y": -0.8371664782625288
+  },
+  {
+    "entity": "speech bubble signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -0.9181655112082323,
+    "y": 1.7767870142557114
+  },
+  {
+    "entity": "Art Nouveau structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 0.24738526253869467,
+    "y": -1.9846411594740903
+  },
+  {
+    "entity": "mosaic floor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8794737512064892,
+    "y": -0.4759473930370734
+  },
+  {
+    "entity": "brasserie",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9694002659393304,
+    "y": -0.2454854871407992
+  },
+  {
+    "entity": "potential leads",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9897534790200093,
+    "y": -0.24773803641700104
+  },
+  {
+    "entity": "European location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -1.827545363008697,
+    "y": 2.379091832221995
+  },
+  {
+    "entity": "French influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "French signage",
+    "x": 2.978886483263678,
+    "y": 0.35529610162363934
+  },
+  {
+    "entity": "business name",
+    "type": "i",
+    "granularity": 3,
+    "parent": "MOOF text",
+    "x": 1.6168123637552907,
+    "y": 2.5270373523966816
+  },
+  {
+    "entity": "Belgian context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": -2.555758226514981,
+    "y": 1.571018741963634
+  },
+  {
+    "entity": "world-famous comic franchise",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": -2.837451725101904,
+    "y": 0.9740984076140509
+  },
+  {
+    "entity": "cartoonist Peyo",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Smurf statue",
+    "x": -2.9817920319538485,
+    "y": 0.3300246629822383
+  },
+  {
+    "entity": "official language of Belgium",
+    "type": "i",
+    "granularity": 3,
+    "parent": "French signage",
+    "x": 2.8117572886197033,
+    "y": 1.0459545639720553
+  },
+  {
+    "entity": "predominant language in Brussels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "French signage",
+    "x": 2.4868756137044823,
+    "y": 1.677930177916219
+  },
+  {
+    "entity": "comic theme",
+    "type": "i",
+    "granularity": 3,
+    "parent": "comic art",
+    "x": 1.051912665578262,
+    "y": -2.809533723591165
+  },
+  {
+    "entity": "Franco-Belgian comics",
+    "type": "i",
+    "granularity": 3,
+    "parent": "comic art",
+    "x": 1.6408444743672796,
+    "y": -2.511499434787586
+  },
+  {
+    "entity": "key identifier",
+    "type": "i",
+    "granularity": 3,
+    "parent": "MOOF text",
+    "x": 1.0190853288569097,
+    "y": 2.821606828122693
+  },
+  {
+    "entity": "search terms",
+    "type": "i",
+    "granularity": 3,
+    "parent": "MOOF text",
+    "x": 0.37107789380804274,
+    "y": 2.976961739211135
+  },
+  {
+    "entity": "Museum of Original Figurines",
+    "type": "i",
+    "granularity": 3,
+    "parent": "MOOF text",
+    "x": -0.29523806208725273,
+    "y": 2.985437067950849
+  },
+  {
+    "entity": "European comic characters",
+    "type": "i",
+    "granularity": 3,
+    "parent": "comic art",
+    "x": 2.150347539505353,
+    "y": -2.0918904032819867
+  },
+  {
+    "entity": "historic center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mosaic floor",
+    "x": 2.6384212536194678,
+    "y": -1.4278421791112201
+  }
+]

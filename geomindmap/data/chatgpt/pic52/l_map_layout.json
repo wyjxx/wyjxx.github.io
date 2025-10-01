@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Madrid",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Calle de la Victoria",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": 4.698463103929543,
+    "y": 1.7101007166283435
+  },
+  {
+    "entity": "Puerta del Sol",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": 2.5000000000000004,
+    "y": 4.330127018922193
+  },
+  {
+    "entity": "Plaza del Callao",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -0.8682408883346504,
+    "y": 4.924038765061041
+  },
+  {
+    "entity": "Plaza de Isabel II",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -3.8302222155948895,
+    "y": 3.2139380484326976
+  },
+  {
+    "entity": "Centro",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Madrid de los Austrias",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -3.83022221559489,
+    "y": -3.2139380484326963
+  },
+  {
+    "entity": "Carrera de San Jerónimo",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -0.8682408883346516,
+    "y": -4.92403876506104
+  },
+  {
+    "entity": "Calle de la Cruz",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": 2.4999999999999964,
+    "y": -4.330127018922195
+  },
+  {
+    "entity": "Barrio de Sol",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": 4.698463103929543,
+    "y": -1.710100716628343
+  }
+]

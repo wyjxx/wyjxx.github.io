@@ -1,0 +1,330 @@
+[
+  {
+    "entity": "white cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8961655569610556,
+    "y": 0.4437198378669597
+  },
+  {
+    "entity": "erosion patterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cliffs",
+    "x": 1.991551326651653,
+    "y": 0.18363908438031612
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5435675500012211,
+    "y": 0.83936542613195
+  },
+  {
+    "entity": "cliff formations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cliffs",
+    "x": 1.9243896172859687,
+    "y": 0.5447243347620546
+  },
+  {
+    "entity": "cliff face",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cliffs",
+    "x": 1.7923311139221112,
+    "y": 0.8874396757339195
+  },
+  {
+    "entity": "beach composition",
+    "type": "v",
+    "granularity": 2,
+    "parent": "beach",
+    "x": -1.467344031123237,
+    "y": 1.3590075402024113
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40906863717134,
+    "y": 0.91250361647655
+  },
+  {
+    "entity": "trails",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.19039110916466842,
+    "y": 0.9817083199968549
+  },
+  {
+    "entity": "access points",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trails",
+    "x": 0.38078221832933684,
+    "y": 1.9634166399937099
+  },
+  {
+    "entity": "sun's angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": "time of day",
+    "x": -0.19143038017388542,
+    "y": 2.993886171775153
+  },
+  {
+    "entity": "time of day",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2649815021966618,
+    "y": 0.964253495453141
+  },
+  {
+    "entity": "perspective",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.8186762328999153,
+    "y": 2.3858786138202785
+  },
+  {
+    "entity": "low-lying section",
+    "type": "v",
+    "granularity": 2,
+    "parent": "beach",
+    "x": -1.699246796593691,
+    "y": 1.054779751543458
+  },
+  {
+    "entity": "beach",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8961655569610557,
+    "y": 0.4437198378669595
+  },
+  {
+    "entity": "shingle beach",
+    "type": "v",
+    "granularity": 2,
+    "parent": "beach",
+    "x": -1.868985404764822,
+    "y": 0.7119645755064467
+  },
+  {
+    "entity": "coastguard cottages",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "receding cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cliffs",
+    "x": 1.599829266844539,
+    "y": 1.2002276104754732
+  },
+  {
+    "entity": "coastal landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9882804237803485,
+    "y": -0.15264928421887472
+  },
+  {
+    "entity": "light direction",
+    "type": "v",
+    "granularity": 3,
+    "parent": "time of day",
+    "x": -0.7949445065899854,
+    "y": 2.892760486359423
+  },
+  {
+    "entity": "reflection on water",
+    "type": "v",
+    "granularity": 3,
+    "parent": "coastline",
+    "x": -2.823420143938685,
+    "y": -1.0140506352255076
+  },
+  {
+    "entity": "coastline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8961655569610556,
+    "y": -0.4437198378669597
+  },
+  {
+    "entity": "bottom of cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cliffs",
+    "x": 1.353375876155396,
+    "y": 1.4725398934632006
+  },
+  {
+    "entity": "shoreline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "coastline",
+    "x": -1.6787308522638997,
+    "y": -1.0871351000024427
+  },
+  {
+    "entity": "sunset",
+    "type": "v",
+    "granularity": 3,
+    "parent": "time of day",
+    "x": -1.3653840212640267,
+    "y": 2.6712780601197017
+  },
+  {
+    "entity": "westward view",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -2.1615647808023617,
+    "y": -2.080297502376725
+  },
+  {
+    "entity": "beach-level perspective",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.818676232899914,
+    "y": -2.3858786138202794
+  },
+  {
+    "entity": "beach access",
+    "type": "v",
+    "granularity": 2,
+    "parent": "beach",
+    "x": -1.97035024702694,
+    "y": 0.3431033430919558
+  },
+  {
+    "entity": "photo angle",
+    "type": "v",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.4331594555367875,
+    "y": -2.635536752732828
+  },
+  {
+    "entity": "geological features",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.0140506352255059,
+    "y": -2.8234201439386855
+  },
+  {
+    "entity": "dominant features",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.5711733274940016,
+    "y": -2.9451249599905656
+  },
+  {
+    "entity": "hypotheses",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.11490820107010152,
+    "y": -2.99779854315243
+  },
+  {
+    "entity": "vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.34405027619520684,
+    "y": -2.9802062692790243
+  },
+  {
+    "entity": "verifying details",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.7949445065899914,
+    "y": -2.892760486359421
+  },
+  {
+    "entity": "confirming location",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.2272059115140266,
+    "y": -2.737510849429647
+  },
+  {
+    "entity": "double-check images",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.6307026500036708,
+    "y": -2.5180962783958454
+  },
+  {
+    "entity": "best fit",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.9959771004967033,
+    "y": -2.2396596648358815
+  },
+  {
+    "entity": "feature alignment",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.3144675394658356,
+    "y": -1.9087273269796714
+  },
+  {
+    "entity": "image comparison",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5787088209616096,
+    "y": -1.533056038341321
+  },
+  {
+    "entity": "location confidence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.782507353306289,
+    "y": -1.1214512155222947
+  },
+  {
+    "entity": "eliminating doubts",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.92108627163334,
+    "y": -0.6835605267093994
+  },
+  {
+    "entity": "support Birling Gap",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9911974035512228,
+    "y": -0.22964775850947225
+  }
+]

@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Southern Europe","granularity":3,"parent":"Europe"},
+{"entity":"French Riviera","granularity":3,"parent":"France"},
+{"entity":"Antibes","granularity":4,"parent":"French Riviera"},
+{"entity":"Cannes","granularity":4,"parent":"French Riviera"},
+{"entity":"Villefranche-sur-Mer","granularity":4,"parent":"French Riviera"},
+{"entity":"Cassis","granularity":4,"parent":"French Riviera"},
+{"entity":"Vieil Antibes","granularity":5,"parent":"Antibes"}
+]

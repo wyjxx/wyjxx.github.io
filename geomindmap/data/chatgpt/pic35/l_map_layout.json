@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.3945936021879908,
+    "y": 1.4335650263369024
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.4909709742815976,
+    "y": -1.938800531878661
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.842919220571298,
+    "y": 3.5501617915876564
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.7999836095789006,
+    "y": -3.5721224790378217
+  },
+  {
+    "entity": "Amsterdam",
+    "granularity": 4,
+    "parent": null,
+    "x": 2.435045716034882,
+    "y": -3.1734133611649407
+  },
+  {
+    "entity": "Zurich",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 0.9819419485631952,
+    "y": -3.877601063757322
+  },
+  {
+    "entity": "Linz",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.1734133611649398,
+    "y": -2.4350457160348835
+  },
+  {
+    "entity": "Chicago",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.8637033051562732,
+    "y": -1.0352761804100827
+  },
+  {
+    "entity": "Bavariapark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.937984893306922,
+    "y": 0.7850510769832919
+  },
+  {
+    "entity": "Technical University campus",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.451055975701413,
+    "y": 2.277740262008103
+  },
+  {
+    "entity": "Reichenbachbrücke",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.52521363181396,
+    "y": 3.5458241425757464
+  },
+  {
+    "entity": "Königsplatz",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.2517540928245166,
+    "y": 4.4642584496697815
+  },
+  {
+    "entity": "Grünwaldpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.7562517151421143,
+    "y": 4.94247744995813
+  },
+  {
+    "entity": "Luitpoldpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -1.5783122332038029,
+    "y": 4.744357753639498
+  },
+  {
+    "entity": "Maßmann Park",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.566314153991887,
+    "y": 3.5044833221228395
+  },
+  {
+    "entity": "Bamberger Haus",
+    "granularity": 5,
+    "parent": "Luitpoldpark",
+    "x": -1.5783122332038029,
+    "y": 4.744357753639498
+  },
+  {
+    "entity": "Botanischer Garten",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.477309212724029,
+    "y": 2.2256914012631084
+  },
+  {
+    "entity": "Nymphenburg Palace",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.946802044162627,
+    "y": 0.7274266532568429
+  },
+  {
+    "entity": "Stadtbibliothek Stuttgart",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -0.8654137490502346,
+    "y": -4.9245364292443625
+  },
+  {
+    "entity": "Millennium Park",
+    "granularity": 5,
+    "parent": "Chicago",
+    "x": 4.8296291314453415,
+    "y": -1.2940952255126035
+  },
+  {
+    "entity": "Schwabing-West",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.928496509057477,
+    "y": -0.8425687866330354
+  },
+  {
+    "entity": "Munich Olympic Press Center",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.424197694825312,
+    "y": -2.3294795034733387
+  },
+  {
+    "entity": "Munich Realschule",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.4836339179898763,
+    "y": -3.5866829697410534
+  }
+]

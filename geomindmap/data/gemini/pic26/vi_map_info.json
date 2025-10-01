@@ -1,0 +1,19 @@
+[
+{"entity":"buildings","type":"v","granularity":1,"parent":null},
+{"entity":"landmarks","type":"v","granularity":1,"parent":null},
+{"entity":"coastal setting","type":"v","granularity":1,"parent":null},
+{"entity":"hillside topography","type":"v","granularity":1,"parent":null},
+{"entity":"surrounding structures","type":"v","granularity":1,"parent":null},
+{"entity":"stucco walls","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"terracotta roofs","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"corner building","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"bay windows","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"clustered buildings","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"French flag","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"seagull","type":"v","granularity":2,"parent":"coastal setting"},
+{"entity":"building layout","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"Mediterranean style","type":"i","granularity":3,"parent":"stucco walls"},
+{"entity":"distinct architecture","type":"i","granularity":3,"parent":"buildings"},
+{"entity":"unique building arrangements","type":"i","granularity":3,"parent":"clustered buildings"},
+{"entity":"old town areas","type":"i","granularity":3,"parent":"buildings"}
+]

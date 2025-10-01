@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Baden-Württemberg","granularity":3,"parent":"Germany"},
+{"entity":"Sinsheim","granularity":4,"parent":"Baden-Württemberg"},
+{"entity":"Eberhard-Layher-Straße","granularity":5,"parent":"Sinsheim"},
+{"entity":"Charles de Gaulle Airport","granularity":5,"parent":"France"}
+]

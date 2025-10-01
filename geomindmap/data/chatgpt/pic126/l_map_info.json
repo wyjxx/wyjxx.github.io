@@ -1,0 +1,13 @@
+[  
+  {"entity":"Aegean Ionian","granularity":2,"parent":null},  
+  {"entity":"Greece","granularity":2,"parent":null},  
+  {"entity":"Crete","granularity":3,"parent":"Greece"},  
+  {"entity":"Athens","granularity":4,"parent":"Greece"},  
+  {"entity":"Syntagma Square","granularity":5,"parent":"Athens"},  
+  {"entity":"Syntagma neighborhood","granularity":5,"parent":"Athens"},  
+  {"entity":"City Centre","granularity":5,"parent":"Athens"},  
+  {"entity":"Hellenic Parliament","granularity":5,"parent":"Athens"},  
+  {"entity":"Tomb of the Unknown Soldier","granularity":5,"parent":"Athens"},  
+  {"entity":"Presidential Mansion","granularity":5,"parent":"Athens"},  
+  {"entity":"Vasilissis Olgas Avenue","granularity":5,"parent":"Athens"}  
+]

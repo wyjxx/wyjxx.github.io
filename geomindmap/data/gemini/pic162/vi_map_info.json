@@ -1,0 +1,21 @@
+[
+{"entity":"street sign \"Quintinsstraße\"","type":"v","granularity":1,"parent":null},
+{"entity":"yield sign","type":"v","granularity":1,"parent":null},
+{"entity":"speed limit sign","type":"v","granularity":1,"parent":null},
+{"entity":"traffic signals","type":"v","granularity":1,"parent":null},
+{"entity":"bus stop","type":"v","granularity":1,"parent":null},
+{"entity":"overpass","type":"v","granularity":1,"parent":null},
+{"entity":"buildings","type":"v","granularity":1,"parent":null},
+{"entity":"environment","type":"v","granularity":1,"parent":null},
+{"entity":"Ampelmännchen","type":"v","granularity":2,"parent":"traffic signals"},
+{"entity":"traffic light pole","type":"v","granularity":2,"parent":"traffic signals"},
+{"entity":"architectural features","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"red and white building","type":"v","granularity":2,"parent":"buildings"},
+{"entity":"text","type":"v","granularity":3,"parent":"street sign \"Quintinsstraße\""},
+{"entity":"historical figure \"Quintin\"","type":"i","granularity":3,"parent":"street sign \"Quintinsstraße\""},
+{"entity":"St. Quintin connection","type":"i","granularity":3,"parent":"street sign \"Quintinsstraße\""},
+{"entity":"German-speaking regions","type":"i","granularity":3,"parent":"Ampelmännchen"},
+{"entity":"hypothesis: Mainz, Germany","type":"i","granularity":3,"parent":null},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null},
+{"entity":"maps","type":"i","granularity":3,"parent":null}
+]

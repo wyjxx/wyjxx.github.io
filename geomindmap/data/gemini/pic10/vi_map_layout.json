@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "OCR text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 1.8750849170879984,
+    "y": 0.6957417291704544
+  },
+  {
+    "entity": "built environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9937122098932426,
+    "y": 0.11196447610330786
+  },
+  {
+    "entity": "signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5320320765153366,
+    "y": 0.8467241992282841
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9438833303083676,
+    "y": 0.3302790619551672
+  },
+  {
+    "entity": "natural features",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "Lieferverkehr frei",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 1.6311217379185203,
+    "y": 1.1573425923596115
+  },
+  {
+    "entity": "Zufahrt zu private Stellpl. frei",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 1.2760003078660174,
+    "y": 1.5400724704785256
+  },
+  {
+    "entity": "man-made objects",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5320320765153367,
+    "y": -0.8467241992282841
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -0.9179637289350748,
+    "y": 1.7768912719577448
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 0.8339215655226565,
+    "y": 1.8178489548244214
+  },
+  {
+    "entity": "Spanish tapas bar",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.6629392246050907,
+    "y": 1.1111404660392044
+  },
+  {
+    "entity": "tattoo shop",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9559055524545752,
+    "y": 0.4176523313443402
+  },
+  {
+    "entity": "street sign coat of arms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signs",
+    "x": 0.07478238855265165,
+    "y": 1.998601409576797
+  },
+  {
+    "entity": "Guariña tapas bar",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.9982299638017738,
+    "y": -0.08412497705652913
+  },
+  {
+    "entity": "TATTOO INK'D",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.913880671464418,
+    "y": -0.5805693545089234
+  },
+  {
+    "entity": "Drachens Restaurant-Cafe-Bar",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.7082048263996559,
+    "y": -1.0402097245579476
+  },
+  {
+    "entity": "coat of arms",
+    "type": "v",
+    "granularity": 3,
+    "parent": "street sign coat of arms",
+    "x": 0.11217358282897748,
+    "y": 2.9979021143651954
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street",
+    "x": 1.5636629649360594,
+    "y": -1.2469796037174674
+  },
+  {
+    "entity": "Google Maps",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.6605581239103345,
+    "y": -1.887766660616735
+  },
+  {
+    "entity": "Street View",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.22392895220661607,
+    "y": -1.9874244197864852
+  },
+  {
+    "entity": "environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5320320765153363,
+    "y": -0.8467241992282842
+  },
+  {
+    "entity": "street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680297,
+    "y": -0.6234898018587337
+  },
+  {
+    "entity": "landmarks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9438833303083675,
+    "y": -0.3302790619551673
+  },
+  {
+    "entity": "German-speaking region",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9811366296797277,
+    "y": -0.3358934283099243
+  },
+  {
+    "entity": "Spanish restaurant",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Spanish tapas bar",
+    "x": -2.494408836907636,
+    "y": 1.6667106990588065
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -1.3769455934026122,
+    "y": 2.6653369079366174
+  },
+  {
+    "entity": "German elements",
+    "type": "i",
+    "granularity": 3,
+    "parent": "environment",
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  }
+]

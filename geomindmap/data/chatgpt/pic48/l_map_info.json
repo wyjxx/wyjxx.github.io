@@ -1,0 +1,10 @@
+[  
+{"entity":"Mediterranean Sea","granularity":1,"parent":null},  
+{"entity":"Spain","granularity":2,"parent":null},  
+{"entity":"Catalonia","granularity":3,"parent":"Spain"},  
+{"entity":"Barcelona","granularity":4,"parent":"Catalonia"},  
+{"entity":"Platja de la Barceloneta","granularity":5,"parent":"Barcelona"},  
+{"entity":"Barceloneta Beach","granularity":5,"parent":"Barcelona"},  
+{"entity":"Port Vell","granularity":5,"parent":"Barcelona"},  
+{"entity":"La Barceloneta","granularity":5,"parent":"Barcelona"}  
+]

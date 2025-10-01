@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "road sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "street sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3420201433256688,
+    "y": 0.9396926207859083
+  },
+  {
+    "entity": "store sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693008,
+    "y": 0.9848077530122081
+  },
+  {
+    "entity": "scooter",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "intersection",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.17364817766693033,
+    "y": -0.984807753012208
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.34202014332566816,
+    "y": -0.9396926207859085
+  },
+  {
+    "entity": "trolleybus network",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6427876096865386,
+    "y": -0.7660444431189787
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844379,
+    "y": -0.5000000000000012
+  },
+  {
+    "entity": "graffiti art",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -0.34729635533386066,
+    "y": -1.969615506024416
+  },
+  {
+    "entity": "directional arrows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road sign",
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "elite strom sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "store sign",
+    "x": -0.34729635533386016,
+    "y": 1.9696155060244163
+  },
+  {
+    "entity": "Athenian geography knowledge",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9544232590366235,
+    "y": -0.5209445330007965
+  },
+  {
+    "entity": "cross-referencing online maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": -2.6610324995346644,
+    "y": 1.385245839705103
+  },
+  {
+    "entity": "street view validation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": -2.9971446647455733,
+    "y": 0.1308581620960082
+  },
+  {
+    "entity": "intersection orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": -2.771638597533861,
+    "y": -1.1480502970952677
+  },
+  {
+    "entity": "traffic flow analysis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "intersection",
+    "x": -2.026770622846981,
+    "y": -2.2118320104303715
+  },
+  {
+    "entity": "directional sign logic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "directional arrows",
+    "x": 2.598076211353316,
+    "y": 1.4999999999999998
+  }
+]

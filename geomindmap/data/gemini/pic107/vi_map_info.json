@@ -1,0 +1,16 @@
+[  
+  {"entity": "promenade", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "body of water", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "architecture", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "landmarks", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "PhysioTherm sign", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "HAPAG-Lloyd building", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "Kunsthalle", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "boats", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "atmosphere", "type": "v", "granularity": 1, "parent": null},  
+  {"entity": "clock tower", "type": "v", "granularity": 2, "parent": "landmarks"},  
+  {"entity": "green roof", "type": "v", "granularity": 3, "parent": "clock tower"},  
+  {"entity": "ship mast", "type": "v", "granularity": 3, "parent": "HAPAG-Lloyd building"},  
+  {"entity": "major city", "type": "i", "granularity": 3, "parent": null},  
+  {"entity": "architectural clues", "type": "i", "granularity": 3, "parent": "architecture"}  
+]

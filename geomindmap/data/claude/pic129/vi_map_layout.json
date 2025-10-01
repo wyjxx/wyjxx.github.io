@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "Mediterranean-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9135454576426009,
+    "y": 0.40673664307580015
+  },
+  {
+    "entity": "European-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4067366430758004,
+    "y": 0.9135454576426009
+  },
+  {
+    "entity": "modern buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "traditional buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775912,
+    "y": 0.9781476007338057
+  },
+  {
+    "entity": "white church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000002,
+    "y": 0.8660254037844385
+  },
+  {
+    "entity": "cruise ship",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7431448254773944,
+    "y": 0.669130606358858
+  },
+  {
+    "entity": "cruise terminal facilities",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "dense historic city center",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844388,
+    "y": -0.4999999999999997
+  },
+  {
+    "entity": "coastline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4067366430758009,
+    "y": -0.9135454576426005
+  },
+  {
+    "entity": "large body of water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775893,
+    "y": -0.9781476007338057
+  },
+  {
+    "entity": "harbor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765387,
+    "y": -0.9945218953682733
+  },
+  {
+    "entity": "elevated position",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.40673664307580054,
+    "y": -0.9135454576426008
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "bright sunlight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "green trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9945218953682734,
+    "y": -0.10452846326765253
+  },
+  {
+    "entity": "red tile roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.9805361374831407,
+    "y": 0.2783462019201308
+  },
+  {
+    "entity": "white walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.827090915285202,
+    "y": 0.8134732861516003
+  },
+  {
+    "entity": "cream colored walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean-style buildings",
+    "x": 1.5320888862379562,
+    "y": 1.2855752193730785
+  },
+  {
+    "entity": "traditional European architectural features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European-style buildings",
+    "x": 0.8134732861516007,
+    "y": 1.8270909152852017
+  },
+  {
+    "entity": "bell tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white church",
+    "x": -1.0000000000000004,
+    "y": 1.732050807568877
+  },
+  {
+    "entity": "narrow streets",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense historic city center",
+    "x": -1.982889722747621,
+    "y": -0.26105238444010265
+  },
+  {
+    "entity": "closely packed buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense historic city center",
+    "x": -1.847759065022574,
+    "y": -0.7653668647301785
+  },
+  {
+    "entity": "elevated historic city center",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense historic city center",
+    "x": -1.5867066805824714,
+    "y": -1.21752285801744
+  },
+  {
+    "entity": "cruise port infrastructure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cruise terminal facilities",
+    "x": -1.7820130483767356,
+    "y": 0.9079809994790937
+  },
+  {
+    "entity": "Portuguese/Iberian architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traditional European architectural features",
+    "x": 1.2202099292274011,
+    "y": 2.7406363729278027
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright sunlight",
+    "x": 2.3314378843709136,
+    "y": -1.8879611731495114
+  },
+  {
+    "entity": "major tourist destination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cruise terminal facilities",
+    "x": -2.963065021785413,
+    "y": 0.46930339512069297
+  },
+  {
+    "entity": "maritime heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor",
+    "x": 0.31358538980296163,
+    "y": -2.9835656861048196
+  },
+  {
+    "entity": "historic urban landscape",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dense historic city center",
+    "x": -1.8262842870261646,
+    "y": -2.380060020873703
+  },
+  {
+    "entity": "warm sunny climate",
+    "type": "v",
+    "granularity": 3,
+    "parent": "bright sunlight",
+    "x": 2.8007412794916053,
+    "y": -1.0751038486358997
+  }
+]

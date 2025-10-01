@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9189859472289945,
+    "y": 0.5634651136828601
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9189859472289943,
+    "y": -0.5634651136828612
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -3.837971894457989,
+    "y": 1.1269302273657202
+  },
+  {
+    "entity": "Parque Eduardo VII",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 4.684748624998808,
+    "y": 1.7473208979954915
+  },
+  {
+    "entity": "Avenidas Novas",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.396244933600285,
+    "y": 4.388394947836278
+  },
+  {
+    "entity": "Avenida da Liberdade",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -1.0628264477648823,
+    "y": 4.885734329855797
+  },
+  {
+    "entity": "Marquês de Pombal roundabout",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.002706204621801,
+    "y": 2.9963883325567355
+  },
+  {
+    "entity": "Avenida Sidónio Pais",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.987260573051268,
+    "y": -0.35669591599615863
+  },
+  {
+    "entity": "Avenida da República",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.5355339059327395,
+    "y": -3.5355339059327355
+  },
+  {
+    "entity": "Marquês de Pombal statue",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -0.3566959159961646,
+    "y": -4.987260573051268
+  },
+  {
+    "entity": "Cristo Rei monument",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.996388332556727,
+    "y": -4.002706204621807
+  }
+]

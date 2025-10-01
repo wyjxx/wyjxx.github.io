@@ -1,0 +1,20 @@
+[
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"dark blue enamel finish","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"white serif font","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"ashlar masonry","type":"v","granularity":2,"parent":"architecture"},
+{"entity":"building stone facade","type":"v","granularity":2,"parent":"architecture"},
+{"entity":"electrical box","type":"v","granularity":1,"parent":null},
+{"entity":"terracotta building","type":"v","granularity":1,"parent":null},
+{"entity":"shape of letters","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"UK signage database","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"certain era","type":"i","granularity":3,"parent":"dark blue enamel finish"},
+{"entity":"fingerprint","type":"i","granularity":3,"parent":"shape of letters"},
+{"entity":"quick search","type":"i","granularity":3,"parent":null},
+{"entity":"comparing images","type":"i","granularity":3,"parent":null},
+{"entity":"matching street sign","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"Google Street View","type":"i","granularity":3,"parent":null},
+{"entity":"city centre","type":"i","granularity":3,"parent":null},
+{"entity":"junction","type":"i","granularity":3,"parent":null}
+]

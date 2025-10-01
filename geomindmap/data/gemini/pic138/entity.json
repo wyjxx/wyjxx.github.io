@@ -1,0 +1,20 @@
+[
+{"entity": "Pena National Palace", "type": "l"},
+{"entity": "Sintra", "type": "l"},
+{"entity": "Portugal", "type": "l"},
+{"entity": "Pena Park", "type": "l"},
+{"entity": "Estrada da Pena", "type": "l"},
+{"entity": "Europe", "type": "l"},
+{"entity": "structure", "type": "v"},
+{"entity": "building", "type": "v"},
+{"entity": "azulejos", "type": "v"},
+{"entity": "steep terrain", "type": "v"},
+{"entity": "dense vegetation", "type": "v"},
+{"entity": "Triton Arch", "type": "v"},
+{"entity": "color scheme", "type": "v"},
+{"entity": "surrounding landscape", "type": "v"},
+{"entity": "architectural style", "type": "i"},
+{"entity": "Romantic style", "type": "i"},
+{"entity": "architectural mix", "type": "i"},
+{"entity": "Moorish elements", "type": "i"}
+]

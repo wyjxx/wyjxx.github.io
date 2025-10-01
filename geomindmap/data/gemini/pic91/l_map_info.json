@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"Trinity College Dublin","granularity":5,"parent":"Dublin"},
+{"entity":"Long Room","granularity":5,"parent":"Dublin"},
+{"entity":"Old Library","granularity":5,"parent":"Dublin"},
+{"entity":"Temple Bar","granularity":5,"parent":"Dublin"}
+]

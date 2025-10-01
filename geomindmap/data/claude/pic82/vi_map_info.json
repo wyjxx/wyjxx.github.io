@@ -1,0 +1,18 @@
+[
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"building","type":"v","granularity":1,"parent":null},
+{"entity":"sky","type":"v","granularity":1,"parent":null},
+{"entity":"natural light","type":"v","granularity":1,"parent":null},
+{"entity":"blue background","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"white text","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"stone blocks","type":"v","granularity":2,"parent":"building"},
+{"entity":"light-colored stone","type":"v","granularity":2,"parent":"building"},
+{"entity":"limestone","type":"v","granularity":2,"parent":"building"},
+{"entity":"classical architecture","type":"v","granularity":2,"parent":"building"},
+{"entity":"institutional style","type":"v","granularity":2,"parent":"building"},
+{"entity":"utility box","type":"v","granularity":2,"parent":"building"},
+{"entity":"white clouds","type":"v","granularity":2,"parent":"sky"},
+{"entity":"British street signage style","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"British naming convention","type":"i","granularity":3,"parent":"street sign"},
+{"entity":"limestone construction common","type":"i","granularity":3,"parent":"building"}
+]

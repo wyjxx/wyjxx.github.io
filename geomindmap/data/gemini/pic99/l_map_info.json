@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Heidelberg","granularity":4,"parent":"Germany"},
+{"entity":"Neuenheim","granularity":5,"parent":"Heidelberg"},
+{"entity":"Philosophenweg","granularity":5,"parent":"Heidelberg"},
+{"entity":"Schweizerweg","granularity":5,"parent":"Heidelberg"}
+]

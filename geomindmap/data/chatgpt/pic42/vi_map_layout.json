@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "castle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7330518718298261,
+    "y": 0.6801727377709197
+  },
+  {
+    "entity": "rock",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "museum",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "images",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298266,
+    "y": -0.6801727377709191
+  },
+  {
+    "entity": "street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "keep",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": 1.9745904571491915,
+    "y": 0.3177932134822065
+  },
+  {
+    "entity": "yellow stone walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": 1.6062293842746036,
+    "y": 1.1916489269465347
+  },
+  {
+    "entity": "ramparts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": 0.8767422935781553,
+    "y": 1.7975880925983339
+  },
+  {
+    "entity": "square towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": 0.2684665316353111,
+    "y": 1.9818995235358694
+  },
+  {
+    "entity": "entrance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -0.3669223436275641,
+    "y": 1.9660539142523166
+  },
+  {
+    "entity": "stepped crenellation",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -0.9652548043652207,
+    "y": 1.7516515528637135
+  },
+  {
+    "entity": "alternating merlons",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.4661037436596522,
+    "y": 1.3603454755418394
+  },
+  {
+    "entity": "embrasures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.818887161718964,
+    "y": 0.831654671684066
+  },
+  {
+    "entity": "merlons",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.9879765698335705,
+    "y": 0.21897296132799404
+  },
+  {
+    "entity": "small raised parts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.9562952014676112,
+    "y": -0.415823381635519
+  },
+  {
+    "entity": "towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.7270426380564614,
+    "y": -1.008624670695189
+  },
+  {
+    "entity": "central tall rectangular keep",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.3233716751937181,
+    "y": -1.499562405935469
+  },
+  {
+    "entity": "smaller towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -0.7860500633078459,
+    "y": -1.8390555451029018
+  },
+  {
+    "entity": "height",
+    "type": "i",
+    "granularity": 3,
+    "parent": "castle",
+    "x": -0.254014904317867,
+    "y": -2.9892267274973277
+  },
+  {
+    "entity": "stone color",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow stone walls",
+    "x": 2.409344076411905,
+    "y": 1.7874733904198021
+  },
+  {
+    "entity": "uncertainty",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.966492478675386,
+    "y": -0.4471267985285205
+  }
+]

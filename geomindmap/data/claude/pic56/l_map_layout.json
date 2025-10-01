@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.902113032590307,
+    "y": 0.618033988749895
+  },
+  {
+    "entity": "Castilla-La Mancha",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": 1.0541244722440282,
+    "y": 2.808704611919212
+  },
+  {
+    "entity": "La Mancha",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -2.8531695488854605,
+    "y": 0.9270509831248426
+  },
+  {
+    "entity": "Toledo",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -0.7981105367000259,
+    "y": -2.8918885820875597
+  },
+  {
+    "entity": "Consuegra",
+    "granularity": 4,
+    "parent": "Toledo",
+    "x": -1.0641473822667011,
+    "y": -3.855851442783413
+  },
+  {
+    "entity": "Campo de Criptana",
+    "granularity": 4,
+    "parent": "Castilla-La Mancha",
+    "x": 3.2880083017916397,
+    "y": 2.277937972673808
+  },
+  {
+    "entity": "Alcázar de San Juan",
+    "granularity": 4,
+    "parent": "Castilla-La Mancha",
+    "x": -0.9773616245515758,
+    "y": 3.8787580815067475
+  },
+  {
+    "entity": "Cerro Calderico",
+    "granularity": 4,
+    "parent": "Consuegra",
+    "x": -1.0641473822667011,
+    "y": -3.855851442783413
+  }
+]

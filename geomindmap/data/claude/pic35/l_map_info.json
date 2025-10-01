@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"North America","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"the Netherlands","granularity":2,"parent":"Europe"},
+{"entity":"Scandinavian countries","granularity":3,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Asian regions","granularity":3,"parent":null},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Friedrichstadt","granularity":5,"parent":"Berlin"}
+]

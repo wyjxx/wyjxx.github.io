@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "pond",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8854560256532099,
+    "y": 0.46472317204376856
+  },
+  {
+    "entity": "small lake",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4999999999999999,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.27821746391645263,
+    "y": 0.9605181116313724
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9199794436588242,
+    "y": 0.39196660986007514
+  },
+  {
+    "entity": "sun",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9870502626379128,
+    "y": 0.16041128085776052
+  },
+  {
+    "entity": "formal park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9870502626379128,
+    "y": -0.16041128085776027
+  },
+  {
+    "entity": "garden",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8854560256532099,
+    "y": -0.46472317204376845
+  },
+  {
+    "entity": "landscaping",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6324453755953777,
+    "y": -0.7746049618276541
+  },
+  {
+    "entity": "public park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20002569377604457,
+    "y": -0.9797906520422677
+  },
+  {
+    "entity": "parkland",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.040265940109414776,
+    "y": -0.9991889981715697
+  },
+  {
+    "entity": "architectural elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2000256937760451,
+    "y": -0.9797906520422676
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.35460488704253557,
+    "y": -0.9350162426854148
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5680647467311563,
+    "y": -0.822983865893656
+  },
+  {
+    "entity": "green water",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.9906632694352973,
+    "y": 0.19302784182903024
+  },
+  {
+    "entity": "tall deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 0.6903443949546355,
+    "y": 1.8770787453792976
+  },
+  {
+    "entity": "mature trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": 0.34068358929873654,
+    "y": 1.9707700758796116
+  },
+  {
+    "entity": "green foliage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.02013807414575126,
+    "y": 1.9998986119225395
+  },
+  {
+    "entity": "substantial canopies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.3803000105334136,
+    "y": 1.9635100972463282
+  },
+  {
+    "entity": "grassy areas",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.7280032477999964,
+    "y": 1.862796626363881
+  },
+  {
+    "entity": "reeds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.9164916582183325,
+    "y": 0.5718913567973786
+  },
+  {
+    "entity": "cattails",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.7709120513064198,
+    "y": 0.9294463440875371
+  },
+  {
+    "entity": "water edge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.431197921488242,
+    "y": 1.397022730497874
+  },
+  {
+    "entity": "manicured grass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.0518569631830883,
+    "y": 1.7010575913246593
+  },
+  {
+    "entity": "pathways",
+    "type": "v",
+    "granularity": 2,
+    "parent": "formal park",
+    "x": -1.9983779963431394,
+    "y": -0.08053188021882968
+  },
+  {
+    "entity": "walkways",
+    "type": "v",
+    "granularity": 2,
+    "parent": "formal park",
+    "x": -1.9210362232627447,
+    "y": -0.5564349278329052
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.0118774730435685,
+    "y": 2.2253873895256584
+  },
+  {
+    "entity": "spring",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.245532244513306,
+    "y": -1.9893679747223825
+  },
+  {
+    "entity": "summer",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.5355702566313854,
+    "y": -1.6033974783834017
+  },
+  {
+    "entity": "adequate rainfall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.3800600208737057,
+    "y": 1.8262842870261613
+  },
+  {
+    "entity": "daytime",
+    "type": "i",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 1.7041942401934689,
+    "y": -2.468951597680968
+  },
+  {
+    "entity": "good weather",
+    "type": "i",
+    "granularity": 3,
+    "parent": "clear blue sky",
+    "x": -2.759938330976473,
+    "y": 1.1758998295802254
+  },
+  {
+    "entity": "temperate zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7599383309764742,
+    "y": -1.1758998295802208
+  },
+  {
+    "entity": "European park design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "landscaping",
+    "x": -2.349077587252867,
+    "y": -1.8659674405161115
+  },
+  {
+    "entity": "English landscape architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "landscaping",
+    "x": -1.897336126786131,
+    "y": -2.323814885482964
+  },
+  {
+    "entity": "Germanic landscape architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "landscaping",
+    "x": -1.358381581108912,
+    "y": -2.6748456927651083
+  },
+  {
+    "entity": "warmer months",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.912825452278157,
+    "y": -0.7179469928626708
+  },
+  {
+    "entity": "targeted web search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9902719244026303,
+    "y": -0.24139970615017198
+  },
+  {
+    "entity": "park's unique identity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "public park",
+    "x": -0.6000770813281338,
+    "y": -2.939371956126803
+  },
+  {
+    "entity": "water feature design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "water edge",
+    "x": 2.146796882232363,
+    "y": 2.095534095746811
+  }
+]

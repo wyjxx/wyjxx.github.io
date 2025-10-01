@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Belgium","granularity":2,"parent":"Europe"},
+{"entity":"Brussels","granularity":4,"parent":"Belgium"},
+{"entity":"Rue du Marché aux Herbes","granularity":5,"parent":"Brussels"},
+{"entity":"Galerie Horta","granularity":5,"parent":"Brussels"},
+{"entity":"Îlot Sacré","granularity":5,"parent":"Brussels"},
+{"entity":"Grand-Place","granularity":5,"parent":"Brussels"}
+]

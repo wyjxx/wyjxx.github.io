@@ -1,0 +1,9 @@
+[
+{"entity": "Europe", "granularity": 1, "parent": null},
+{"entity": "Portugal", "granularity": 2, "parent": "Europe"},
+{"entity": "Tagus River", "granularity": 2, "parent": "Europe"},
+{"entity": "Lisbon", "granularity": 4, "parent": "Portugal"},
+{"entity": "Porto", "granularity": 4, "parent": "Portugal"},
+{"entity": "Church of St. Stephen", "granularity": 5, "parent": "Lisbon"},
+{"entity": "Miradouro das Portas do Sol", "granularity": 5, "parent": "Lisbon"}
+]

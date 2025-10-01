@@ -1,0 +1,107 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9781476007338057,
+    "y": 0.20791169081775931
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": -0.20791169081775898
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.43156839353561227,
+    "y": 1.9528821576585442
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9418836348521042,
+    "y": -0.47863132857511487
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.40005138755208913,
+    "y": -1.9595813040845353
+  },
+  {
+    "entity": "Italy",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.2896844254723412,
+    "y": -1.5286314410916966
+  },
+  {
+    "entity": "Southern France",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.9128254522781565,
+    "y": -0.7179469928626723
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": 0.8631367870712245,
+    "y": 3.9057643153170885
+  },
+  {
+    "entity": "Rome",
+    "granularity": 4,
+    "parent": "Italy",
+    "x": 2.5793688509446824,
+    "y": -3.057262882183393
+  },
+  {
+    "entity": "Alcântara valley",
+    "granularity": 4,
+    "parent": "Lisbon",
+    "x": 3.773247253030972,
+    "y": 1.3276314125141138
+  },
+  {
+    "entity": "Amoreiras",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 2.6382012205306635,
+    "y": 4.247339675607605
+  },
+  {
+    "entity": "Campolide",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -0.6026834012766145,
+    "y": 4.96354437049027
+  },
+  {
+    "entity": "Pont du Gard",
+    "granularity": 5,
+    "parent": "Southern France",
+    "x": -4.854709087130261,
+    "y": -1.1965783214377872
+  },
+  {
+    "entity": "Aqueduct of Segovia",
+    "granularity": 5,
+    "parent": "Spain",
+    "x": -1.0001284688802228,
+    "y": -4.898953260211338
+  },
+  {
+    "entity": "Águas Livres Aqueduct",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -3.577994803720605,
+    "y": 3.4925568262446847
+  }
+]

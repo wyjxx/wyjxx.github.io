@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7320508075688776,
+    "y": -0.9999999999999994
+  },
+  {
+    "entity": "Iberian Peninsula",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7320508075688759,
+    "y": -1.0000000000000024
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": 2.4492935982947064e-16,
+    "y": 4.0
+  },
+  {
+    "entity": "Alfama",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.061616997868383e-16,
+    "y": 5.0
+  }
+]

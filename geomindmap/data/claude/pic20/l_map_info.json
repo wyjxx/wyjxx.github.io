@@ -1,0 +1,14 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Central Europe","granularity":2,"parent":"Europe"},
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Alps","granularity":2,"parent":"Europe"},
+{"entity":"Alsace","granularity":3,"parent":"France"},
+{"entity":"southern Germany","granularity":3,"parent":"Germany"},
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},
+{"entity":"Baden-Württemberg","granularity":3,"parent":"Germany"}
+]

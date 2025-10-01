@@ -1,0 +1,12 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Ireland","granularity":2,"parent":"Europe"},  
+  {"entity":"Dublin","granularity":4,"parent":"Ireland"},  
+  {"entity":"Charlestown","granularity":5,"parent":"Dublin"},  
+  {"entity":"Baile Shéarlaí","granularity":5,"parent":"Dublin"},  
+  {"entity":"Dublin city center","granularity":5,"parent":"Dublin"},  
+  {"entity":"Trinity College Dublin","granularity":5,"parent":"Dublin"},  
+  {"entity":"Custom House","granularity":5,"parent":"Dublin"},  
+  {"entity":"Four Courts","granularity":5,"parent":"Dublin"},  
+  {"entity":"Earlsfort Terrace","granularity":5,"parent":"Dublin"}  
+]

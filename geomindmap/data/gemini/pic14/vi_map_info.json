@@ -1,0 +1,17 @@
+[
+{"entity":"signage text","type":"v","granularity":1,"parent":null},
+{"entity":"license plate M","type":"v","granularity":1,"parent":null},
+{"entity":"building style","type":"v","granularity":1,"parent":null},
+{"entity":"Gaststätte sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"Straße sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"parking sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"speed limit sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"Schelling-Salon sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"Barer Straße sign","type":"v","granularity":2,"parent":"signage text"},
+{"entity":"ß character","type":"v","granularity":2,"parent":"Straße sign"},
+{"entity":"German-speaking region","type":"i","granularity":3,"parent":"ß character"},
+{"entity":"Munich hypothesis","type":"i","granularity":3,"parent":"license plate M"},
+{"entity":"license plate inference","type":"i","granularity":3,"parent":"license plate M"},
+{"entity":"building style inference","type":"i","granularity":3,"parent":"building style"},
+{"entity":"intersection inference","type":"i","granularity":3,"parent":"Barer Straße sign"}
+]

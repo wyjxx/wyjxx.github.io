@@ -1,0 +1,234 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "#MOIN",
+    "Moin greeting",
+    "geographical indicator"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Northern Germany",
+      "status": 2,
+      "related_clue": [
+        "#MOIN",
+        "Moin greeting",
+        "geographical indicator"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "park setting",
+    "classical vase",
+    "public space",
+    "sea connection",
+    "city park association",
+    "contemporary art installation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Northern Germany",
+      "status": 2,
+      "related_clue": [
+        "park setting",
+        "classical vase",
+        "sea connection",
+        "city park association"
+      ]
+    },
+    {
+      "loc": "North Sea",
+      "status": 2,
+      "related_clue": [
+        "sea connection"
+      ]
+    },
+    {
+      "loc": "Baltic Sea",
+      "status": 2,
+      "related_clue": [
+        "sea connection"
+      ]
+    }
+  ]
+},{"paragraph":3,"clue":["#MOIN","public space","contemporary art installation","historical context","urban features"],"loc-clue":[{"loc":"Hamburg","status":2,"related_clue":["#MOIN","public space","contemporary art installation","historical context","urban features"]},{"loc":"Bremen","status":2,"related_clue":["#MOIN","public space","contemporary art installation","historical context","urban features"]}]},{
+  "paragraph": 4,
+  "clue": [
+    "sculpture",
+    "road",
+    "railing",
+    "utility pole"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Planten un Blomen park",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road",
+        "railing",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Glacischaussee entrance",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road",
+        "railing",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Hamburg",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road",
+        "railing",
+        "utility pole"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "#MOIN",
+    "sculpture",
+    "road layout",
+    "trees",
+    "utility pole"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Planten un Blomen park",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road layout",
+        "trees",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Glacischaussee entrance",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road layout",
+        "trees",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "St. Pauli district",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road layout",
+        "trees",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Hamburg",
+      "status": 3,
+      "related_clue": [
+        "sculpture",
+        "road layout",
+        "trees",
+        "utility pole"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "trees",
+    "road",
+    "utility pole"
+  ],
+  "loc-clue": [
+    {
+      "loc": "St. Pauli district",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Hamburg",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Glacischaussee entrance",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Planten un Blomen park",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": [
+        "trees",
+        "road",
+        "utility pole"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "St. Pauli district",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Hamburg",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Germany",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

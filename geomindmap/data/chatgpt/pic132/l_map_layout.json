@@ -1,0 +1,198 @@
+[
+  {
+    "entity": "Athens",
+    "granularity": 4,
+    "parent": null,
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Pagrati",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.966191788709715,
+    "y": 0.5804645706261511
+  },
+  {
+    "entity": "Zografou",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.698463103929543,
+    "y": 1.7101007166283433
+  },
+  {
+    "entity": "Kaisariani",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.177439057064682,
+    "y": 2.7475448903540296
+  },
+  {
+    "entity": "Vasilissis Sofias Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 3.4312081893436686,
+    "y": 3.636868207865243
+  },
+  {
+    "entity": "Michalakopoulou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 2.5000000000000004,
+    "y": 4.330127018922193
+  },
+  {
+    "entity": "Mesogeion Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 1.4340161635554516,
+    "y": 4.789947561577445
+  },
+  {
+    "entity": "Alexandras Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 0.2907241445523795,
+    "y": 4.991540791356341
+  },
+  {
+    "entity": "Irakleous Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -0.8682408883346515,
+    "y": 4.92403876506104
+  },
+  {
+    "entity": "Ilissia",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -1.980398830195783,
+    "y": 4.591080534401371
+  },
+  {
+    "entity": "Chiou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -2.9857929585139296,
+    "y": 4.01061596377522
+  },
+  {
+    "entity": "Leoforos Vasileos Konstantinou",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -3.8302222155948895,
+    "y": 3.2139380484326976
+  },
+  {
+    "entity": "Pedion Areos",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.4681632016170605,
+    "y": 2.243995901002312
+  },
+  {
+    "entity": "Panormou Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.865224352899119,
+    "y": 1.1530793537122017
+  },
+  {
+    "entity": "Vouliagmenis Avenue",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Ethnikis Antistaseos",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.865224352899119,
+    "y": -1.1530793537122004
+  },
+  {
+    "entity": "Alsos Kaisarianis",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -4.468163201617061,
+    "y": -2.2439959010023105
+  },
+  {
+    "entity": "Panathenaic Stadium",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -3.83022221559489,
+    "y": -3.2139380484326963
+  },
+  {
+    "entity": "Acropolis",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -2.985792958513931,
+    "y": -4.010615963775218
+  },
+  {
+    "entity": "Didotou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -1.9803988301957882,
+    "y": -4.591080534401368
+  },
+  {
+    "entity": "Papadiamantopoulou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": -0.8682408883346516,
+    "y": -4.92403876506104
+  },
+  {
+    "entity": "Leoforos Papagou",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 0.29072414455237494,
+    "y": -4.991540791356341
+  },
+  {
+    "entity": "Leoforos Dimokratias",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 1.4340161635554516,
+    "y": -4.789947561577445
+  },
+  {
+    "entity": "Mikras Asias",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 2.4999999999999964,
+    "y": -4.330127018922195
+  },
+  {
+    "entity": "Panepistimiou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 3.4312081893436686,
+    "y": -3.636868207865243
+  },
+  {
+    "entity": "Thivon Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.17743905706468,
+    "y": -2.7475448903540336
+  },
+  {
+    "entity": "Georgiou Street",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.698463103929543,
+    "y": -1.710100716628343
+  },
+  {
+    "entity": "Plastira junction",
+    "granularity": 5,
+    "parent": "Athens",
+    "x": 4.966191788709715,
+    "y": -0.5804645706261546
+  }
+]

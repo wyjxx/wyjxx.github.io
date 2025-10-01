@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Andalusia",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Granada",
+    "granularity": 4,
+    "parent": "Andalusia",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Sabika Hill",
+    "granularity": 4,
+    "parent": "Granada",
+    "x": -2.493959207434934,
+    "y": 3.1273259298721197
+  },
+  {
+    "entity": "Patio de los Arrayanes",
+    "granularity": 5,
+    "parent": "Sabika Hill",
+    "x": 4.23362099614142,
+    "y": 2.6601603825766826
+  },
+  {
+    "entity": "Palacio de Comares",
+    "granularity": 5,
+    "parent": "Sabika Hill",
+    "x": -0.559822380516539,
+    "y": 4.968561049466213
+  },
+  {
+    "entity": "Torre de Comares",
+    "granularity": 5,
+    "parent": "Sabika Hill",
+    "x": -4.719416651541838,
+    "y": 1.651395309775836
+  },
+  {
+    "entity": "Alhambra",
+    "granularity": 5,
+    "parent": "Granada",
+    "x": 1.1126046697815712,
+    "y": -4.874639560909118
+  },
+  {
+    "entity": "Albayzín",
+    "granularity": 5,
+    "parent": "Granada",
+    "x": 4.504844339512095,
+    "y": -2.1694186955877917
+  },
+  {
+    "entity": "Barrio de la Alhambra",
+    "granularity": 5,
+    "parent": "Sabika Hill",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  }
+]

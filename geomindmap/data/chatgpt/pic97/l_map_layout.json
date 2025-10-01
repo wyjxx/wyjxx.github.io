@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Saxony",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.523760598493544,
+    "y": 1.6219224523667926
+  },
+  {
+    "entity": "North Rhine-Westphalia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -1.621922452366793,
+    "y": 2.5237605984935434
+  },
+  {
+    "entity": "Leipzig",
+    "granularity": 4,
+    "parent": "Saxony",
+    "x": 3.7134717320642903,
+    "y": 1.48664982264131
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.959285767523731,
+    "y": -0.5692593530931397
+  },
+  {
+    "entity": "Essen",
+    "granularity": 4,
+    "parent": "North Rhine-Westphalia",
+    "x": 0.38022417321673124,
+    "y": 3.9818876902923384
+  },
+  {
+    "entity": "Darmstadt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.638527981418074,
+    "y": -1.6616600520075444
+  },
+  {
+    "entity": "Plattling",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.0229982974170344,
+    "y": -2.6194429357811386
+  },
+  {
+    "entity": "Coburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.162563269822393,
+    "y": -3.365014131324723
+  },
+  {
+    "entity": "Dresden",
+    "granularity": 4,
+    "parent": "Saxony",
+    "x": 2.3202276382847926,
+    "y": 3.258303808201343
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.1269302273657222,
+    "y": -3.8379718944579886
+  },
+  {
+    "entity": "Cologne",
+    "granularity": 4,
+    "parent": "North Rhine-Westphalia",
+    "x": -1.5746008726477654,
+    "y": 3.677041214326662
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -4.287501758288913e-15,
+    "y": -4.0
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.162563269822386,
+    "y": -3.365014131324728
+  },
+  {
+    "entity": "Munich Ostbahnhof",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.7473208979954835,
+    "y": -4.684748624998812
+  },
+  {
+    "entity": "München-Pasing",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.535533905932734,
+    "y": -3.5355339059327417
+  },
+  {
+    "entity": "Dortmund Hauptbahnhof",
+    "granularity": 5,
+    "parent": "North Rhine-Westphalia",
+    "x": -3.363301868506263,
+    "y": 3.699756821914419
+  },
+  {
+    "entity": "Stadtbibliothek Stuttgart",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 4.548159976772588,
+    "y": -2.0770750650094403
+  },
+  {
+    "entity": "Essen Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Essen",
+    "x": 0.47528021652091407,
+    "y": 4.977359612865423
+  },
+  {
+    "entity": "Karlsruhe Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 4.949107209404662,
+    "y": -0.7115741913664353
+  },
+  {
+    "entity": "Leipzig Bayerischer Bahnhof",
+    "granularity": 5,
+    "parent": "Leipzig",
+    "x": 4.641839665080363,
+    "y": 1.8583122783016375
+  },
+  {
+    "entity": "Königswall 15",
+    "granularity": 5,
+    "parent": "North Rhine-Westphalia",
+    "x": -4.388394947836279,
+    "y": 2.3962449336002836
+  },
+  {
+    "entity": "Innenstadt-West",
+    "granularity": 5,
+    "parent": "North Rhine-Westphalia",
+    "x": -4.930771768590933,
+    "y": 0.8291500262718694
+  }
+]

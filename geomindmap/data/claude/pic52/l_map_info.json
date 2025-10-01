@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"Madrid","granularity":4,"parent":"Spain"},
+{"entity":"Barcelona","granularity":4,"parent":"Spain"},
+{"entity":"Calle de la Victoria","granularity":5,"parent":"Madrid"},
+{"entity":"Madrid historic center","granularity":5,"parent":"Madrid"},
+{"entity":"Sol","granularity":5,"parent":"Madrid"}
+]

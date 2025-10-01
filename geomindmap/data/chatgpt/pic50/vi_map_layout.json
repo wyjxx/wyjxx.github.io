@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "viewpoints",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "harbour",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542583,
+    "y": 0.6548607339452851
+  },
+  {
+    "entity": "camera angle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414298,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "horizon",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.654860733945285,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "warm pink hues",
+    "type": "v",
+    "granularity": 2,
+    "parent": "horizon",
+    "x": -1.30972146789057,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "construction cranes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "basilica",
+    "x": -1.9796428837618656,
+    "y": -0.28462967654656984
+  },
+  {
+    "entity": "basilica",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809328,
+    "y": -0.14231483827328492
+  },
+  {
+    "entity": "orthogonal grid",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low-rise blocks",
+    "x": -1.3097214678905698,
+    "y": -1.511499148708517
+  },
+  {
+    "entity": "low-rise blocks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6548607339452849,
+    "y": -0.7557495743542585
+  },
+  {
+    "entity": "twin high-rises",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "skyline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "hill",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.41541501300188605,
+    "y": -0.9096319953545186
+  },
+  {
+    "entity": "steep drop",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hill",
+    "x": 0.8308300260037721,
+    "y": -1.819263990709037
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542578,
+    "y": -0.6548607339452855
+  },
+  {
+    "entity": "panoramic sweep",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.909631995354518,
+    "y": -0.4154150130018872
+  },
+  {
+    "entity": "shoreline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809326,
+    "y": -0.14231483827328617
+  },
+  {
+    "entity": "west vantage point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "camera angle",
+    "x": 1.4377469601601711,
+    "y": 2.6330369687017665
+  },
+  {
+    "entity": "perspective shift",
+    "type": "i",
+    "granularity": 3,
+    "parent": "viewpoints",
+    "x": 2.878478920843492,
+    "y": 0.845197670524289
+  },
+  {
+    "entity": "sunset",
+    "type": "i",
+    "granularity": 3,
+    "parent": "warm pink hues",
+    "x": -1.246245039005659,
+    "y": 2.7288959860635553
+  },
+  {
+    "entity": "sunrise",
+    "type": "i",
+    "granularity": 3,
+    "parent": "warm pink hues",
+    "x": -2.523760598493544,
+    "y": 1.6219224523667923
+  },
+  {
+    "entity": "Sagrada changes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "construction cranes",
+    "x": -2.9694643256427984,
+    "y": -0.42694451481985474
+  },
+  {
+    "entity": "framing orientation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "camera angle",
+    "x": 0.21401754959769706,
+    "y": 2.9923563438307603
+  }
+]

@@ -1,0 +1,9 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Alpine region","granularity":2,"parent":"Europe"},  
+{"entity":"Austria","granularity":2,"parent":"Europe"},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+{"entity":"German-speaking Switzerland","granularity":3,"parent":"Europe"},  
+{"entity":"Bavarian Alps","granularity":3,"parent":"Alpine region"}  
+]

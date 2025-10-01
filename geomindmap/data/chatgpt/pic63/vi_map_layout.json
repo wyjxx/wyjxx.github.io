@@ -1,0 +1,50 @@
+[
+  {
+    "entity": "man-made objects",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "bare trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "gate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "man-made objects",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "quadriga sculpture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "gate",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "Neoclassical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "gate",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "winter",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  }
+]

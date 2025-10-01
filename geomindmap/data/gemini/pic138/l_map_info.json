@@ -1,0 +1,8 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Portugal","granularity":2,"parent":"Europe"},  
+  {"entity":"Sintra","granularity":4,"parent":"Portugal"},  
+  {"entity":"Pena Park","granularity":5,"parent":"Sintra"},  
+  {"entity":"Pena National Palace","granularity":5,"parent":"Sintra"},  
+  {"entity":"Estrada da Pena","granularity":5,"parent":"Sintra"}  
+]

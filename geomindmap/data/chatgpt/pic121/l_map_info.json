@@ -1,0 +1,14 @@
+[
+{"entity":"Brussels","granularity":4,"parent":"Brussels-Capital Region"},
+{"entity":"Belgium","granularity":2,"parent":"Europe"},
+{"entity":"Brussels-Capital Region","granularity":3,"parent":"Belgium"},
+{"entity":"Grand Place","granularity":5,"parent":"Brussels"},
+{"entity":"Grote Markt","granularity":5,"parent":"Brussels"},
+{"entity":"Pentagon","granularity":5,"parent":"Brussels"},
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Bruges","granularity":4,"parent":"Belgium"},
+{"entity":"Ghent","granularity":4,"parent":"Belgium"},
+{"entity":"Amsterdam","granularity":4,"parent":null},
+{"entity":"Lille","granularity":4,"parent":null}
+]

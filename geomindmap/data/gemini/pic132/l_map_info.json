@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Greece","granularity":2,"parent":"Europe"},
+{"entity":"Athens","granularity":4,"parent":"Greece"},
+{"entity":"Kaisariani","granularity":5,"parent":"Athens"},
+{"entity":"Pagkrati","granularity":5,"parent":"Athens"},
+{"entity":"Zografou","granularity":5,"parent":"Athens"},
+{"entity":"Leoforos Ymittou","granularity":5,"parent":"Athens"},
+{"entity":"Frinis Street","granularity":5,"parent":"Athens"}
+]

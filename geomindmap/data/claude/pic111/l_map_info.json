@@ -1,0 +1,15 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "Germany", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Eastern Europe", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Berlin", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Munich", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Hamburg", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Cologne", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Frankfurt", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Nuremberg", "granularity": 4, "parent": "Germany"},  
+  {"entity": "Sankt Lorenz Church", "granularity": 5, "parent": "Nuremberg"},  
+  {"entity": "Lorenzkirche", "granularity": 5, "parent": "Nuremberg"},  
+  {"entity": "Altstadt", "granularity": 5, "parent": "Nuremberg"},  
+  {"entity": "Altstadt-St. Lorenz", "granularity": 5, "parent": "Nuremberg"}  
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087207,
+    "y": 0.7933533402912352
+  },
+  {
+    "entity": "sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650899,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "bear",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912353,
+    "y": 0.6087614290087204
+  },
+  {
+    "entity": "tree trunk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "statue",
+    "x": 1.9767230209355213,
+    "y": 0.3042467723798334
+  },
+  {
+    "entity": "pedestal",
+    "type": "v",
+    "granularity": 2,
+    "parent": "statue",
+    "x": 1.7937454830653767,
+    "y": 0.8845773804380025
+  },
+  {
+    "entity": "base",
+    "type": "v",
+    "granularity": 2,
+    "parent": "statue",
+    "x": 1.4447279241195112,
+    "y": 1.3830261115645388
+  },
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7933533402912352,
+    "y": -0.6087614290087207
+  },
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9881126764446393,
+    "y": 0.21773374970392825
+  },
+  {
+    "entity": "window pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.9615705608064609,
+    "y": -0.3901806440322567
+  },
+  {
+    "entity": "sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2588190451025203,
+    "y": -0.9659258262890684
+  },
+  {
+    "entity": "text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 0.5176380902050406,
+    "y": -1.9318516525781368
+  },
+  {
+    "entity": "artificial lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087205,
+    "y": -0.7933533402912352
+  },
+  {
+    "entity": "night",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912349,
+    "y": -0.6087614290087209
+  },
+  {
+    "entity": "plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9914448613738103,
+    "y": -0.13052619222005257
+  },
+  {
+    "entity": "classical architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "building",
+    "x": -1.3830261115645384,
+    "y": -1.4447279241195115
+  },
+  {
+    "entity": "classical proportions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": -2.512441064853923,
+    "y": -1.639402298289131
+  },
+  {
+    "entity": "18th-19th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical architecture",
+    "x": -1.5282508105225237,
+    "y": -2.581559501568238
+  },
+  {
+    "entity": "European urban architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": -0.4563701585697514,
+    "y": -2.965084531403282
+  },
+  {
+    "entity": "Berlin Bear",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bear",
+    "x": -1.9780374453002074,
+    "y": 2.2555194224369313
+  },
+  {
+    "entity": "bear symbol",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bear",
+    "x": -2.6906182245980648,
+    "y": 1.326866070657004
+  },
+  {
+    "entity": "statue of the Bear and the Strawberry Tree",
+    "type": "i",
+    "granularity": 3,
+    "parent": "statue",
+    "x": 1.4429663067581633,
+    "y": 2.630180267122523
+  },
+  {
+    "entity": "El Oso y el Madroño",
+    "type": "i",
+    "granularity": 3,
+    "parent": "statue",
+    "x": 0.585270966048385,
+    "y": 2.9423558412096913
+  },
+  {
+    "entity": "Madrid symbol",
+    "type": "i",
+    "granularity": 3,
+    "parent": "statue",
+    "x": -0.32660062455589384,
+    "y": 2.982169014666959
+  }
+]

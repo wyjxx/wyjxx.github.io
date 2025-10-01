@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"London","granularity":4,"parent":"United Kingdom"},
+{"entity":"Natural History Museum","granularity":5,"parent":"London"},
+{"entity":"Hintze Hall","granularity":5,"parent":"Natural History Museum"},
+{"entity":"South Kensington","granularity":5,"parent":"London"},
+{"entity":"Victoria and Albert Museum","granularity":5,"parent":"London"},
+{"entity":"Science Museum","granularity":5,"parent":"London"}
+]

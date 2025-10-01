@@ -1,0 +1,202 @@
+[
+  {
+    "entity": "street signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.0627905195293134,
+    "y": 0.9980267284282716
+  },
+  {
+    "entity": "traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8763066800438635,
+    "y": -0.4817536741017154
+  },
+  {
+    "entity": "dense foliage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.18738131458572463,
+    "y": -0.9822872507286887
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4257792915650726,
+    "y": -0.9048270524660196
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7289686274214119,
+    "y": -0.6845471059286883
+  },
+  {
+    "entity": "Philosophenweg sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": 1.8355092513679623,
+    "y": 0.7942957812695612
+  },
+  {
+    "entity": "Schweizerweg sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": 0.9265920702397231,
+    "y": 1.7724071584624295
+  },
+  {
+    "entity": "No Entry sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "traffic signs",
+    "x": -1.9021130325903073,
+    "y": -0.6180339887498946
+  },
+  {
+    "entity": "white rectangular street sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street signs",
+    "x": -0.6577332934771668,
+    "y": 1.888752740474962
+  },
+  {
+    "entity": "black text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white rectangular street sign",
+    "x": -0.6577332934771668,
+    "y": 1.888752740474962
+  },
+  {
+    "entity": "German text",
+    "type": "i",
+    "granularity": 3,
+    "parent": "black text",
+    "x": -0.1883715585879402,
+    "y": 2.9940801852848145
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "black text",
+    "x": -1.7121407030532958,
+    "y": 2.4634476274011115
+  },
+  {
+    "entity": "German street naming",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -2.5496780789605924,
+    "y": 1.580867386490032
+  },
+  {
+    "entity": "European-style traffic signs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "traffic signs",
+    "x": -2.311539728327367,
+    "y": -1.91227196924607
+  },
+  {
+    "entity": "German municipal signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -2.8808810570308294,
+    "y": 0.8369733181176873
+  },
+  {
+    "entity": "German/Austrian/Swiss standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street signs",
+    "x": -2.9998355080965364,
+    "y": 0.03141535234873713
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dense foliage",
+    "x": -1.499999999999999,
+    "y": -2.5980762113533165
+  },
+  {
+    "entity": "deciduous vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dense foliage",
+    "x": -0.5621439437571765,
+    "y": -2.9468617521860656
+  },
+  {
+    "entity": "Central European vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dense foliage",
+    "x": 0.43824908568723364,
+    "y": -2.967816998888965
+  },
+  {
+    "entity": "European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "buildings",
+    "x": 2.1869058822642358,
+    "y": -2.053641317786065
+  },
+  {
+    "entity": "famous street name",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Philosophenweg sign",
+    "x": 2.9376684318652972,
+    "y": 0.6083618860695374
+  },
+  {
+    "entity": "scenic path",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Philosophenweg sign",
+    "x": 2.45444915227507,
+    "y": 1.7250157561298356
+  },
+  {
+    "entity": "panoramic view",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7893294576647545,
+    "y": -1.1043736580540335
+  },
+  {
+    "entity": "old town view",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9763441039434335,
+    "y": -0.37599970069291133
+  },
+  {
+    "entity": "\"Swiss Way\" translation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Schweizerweg sign",
+    "x": 1.3898881053595846,
+    "y": 2.6586107376936443
+  }
+]

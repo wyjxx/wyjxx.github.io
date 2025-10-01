@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Rhineland","granularity":3,"parent":"Germany"},
+{"entity":"Rhineland-Palatinate","granularity":3,"parent":"Germany"},
+{"entity":"Mainz","granularity":4,"parent":"Rhineland-Palatinate"},
+{"entity":"Altstadt","granularity":5,"parent":"Mainz"}
+]

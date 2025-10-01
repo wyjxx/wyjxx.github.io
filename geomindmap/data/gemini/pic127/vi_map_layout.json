@@ -1,0 +1,106 @@
+[
+  {
+    "entity": "symmetrical garden",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5680647467311558,
+    "y": 0.8229838658936565
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.88545602565321,
+    "y": 0.4647231720437683
+  },
+  {
+    "entity": "distant city",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8854560256532097,
+    "y": -0.46472317204376884
+  },
+  {
+    "entity": "long vista",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5680647467311559,
+    "y": -0.8229838658936564
+  },
+  {
+    "entity": "monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.12053668025532233,
+    "y": -0.9927088740980541
+  },
+  {
+    "entity": "roundabout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7485107481711007,
+    "y": -0.6631226582407955
+  },
+  {
+    "entity": "red bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.970941817426052,
+    "y": -0.2393156642875578
+  },
+  {
+    "entity": "geometric hedges",
+    "type": "v",
+    "granularity": 2,
+    "parent": "symmetrical garden",
+    "x": 1.897072883894291,
+    "y": 0.633335987602945
+  },
+  {
+    "entity": "dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.77091205130642,
+    "y": 0.9294463440875366
+  },
+  {
+    "entity": "sloping layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "symmetrical garden",
+    "x": 1.1361294934623118,
+    "y": 1.6459677317873127
+  },
+  {
+    "entity": "central axis",
+    "type": "v",
+    "granularity": 2,
+    "parent": "symmetrical garden",
+    "x": -0.0805318802188298,
+    "y": 1.9983779963431394
+  },
+  {
+    "entity": "basilica",
+    "type": "i",
+    "granularity": 3,
+    "parent": "dome",
+    "x": -2.6563680769596303,
+    "y": 1.3941695161313048
+  },
+  {
+    "entity": "Marquis of Pombal Monument",
+    "type": "i",
+    "granularity": 3,
+    "parent": "monument",
+    "x": 0.361610040765967,
+    "y": -2.9781266222941625
+  }
+]

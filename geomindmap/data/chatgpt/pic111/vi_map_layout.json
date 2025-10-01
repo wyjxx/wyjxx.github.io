@@ -1,0 +1,218 @@
+[
+  {
+    "entity": "artwork",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8354878114129365,
+    "y": 0.549508978070806
+  },
+  {
+    "entity": "text on walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.3472963553338613,
+    "y": 1.969615506024416
+  },
+  {
+    "entity": "visible text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.804334849562075,
+    "y": 0.8627721313625076
+  },
+  {
+    "entity": "panel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.969615506024416,
+    "y": 0.34729635533386055
+  },
+  {
+    "entity": "sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28680323271109,
+    "y": 0.9579895123154889
+  },
+  {
+    "entity": "sign reading",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": -0.57360646542218,
+    "y": 1.9159790246309778
+  },
+  {
+    "entity": "grey walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.194317183405572,
+    "y": 1.604246385510088
+  },
+  {
+    "entity": "textured walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.5320888862379558,
+    "y": 1.285575219373079
+  },
+  {
+    "entity": "signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9730448705798238,
+    "y": -0.23061587074244008
+  },
+  {
+    "entity": "large sculptures",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3960797660391576,
+    "y": -0.9182161068802737
+  },
+  {
+    "entity": "gear art",
+    "type": "v",
+    "granularity": 2,
+    "parent": "artwork",
+    "x": 1.8126155740732999,
+    "y": 0.8452365234813988
+  },
+  {
+    "entity": "cogwheels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "gear art",
+    "x": 1.8126155740732999,
+    "y": 0.8452365234813988
+  },
+  {
+    "entity": "exposed pipe ducting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "industrial imagery",
+    "x": -0.30903758561568134,
+    "y": -1.9759796989536178
+  },
+  {
+    "entity": "industrial imagery",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "visible letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "signage",
+    "x": -1.9906055915863317,
+    "y": -0.19362174140635752
+  },
+  {
+    "entity": "1970s style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial imagery",
+    "x": 0.3482787423756915,
+    "y": -2.9797150732258286
+  },
+  {
+    "entity": "multiple exits",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.7986511141960015,
+    "y": -1.0805331744141315
+  },
+  {
+    "entity": "larger station",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9797150732258286,
+    "y": -0.3482787423756928
+  },
+  {
+    "entity": "varied artwork",
+    "type": "i",
+    "granularity": 3,
+    "parent": "artwork",
+    "x": 1.5749297410036807,
+    "y": 2.5533500173109993
+  },
+  {
+    "entity": "museum connections",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial imagery",
+    "x": 1.1345995745149295,
+    "y": -2.7771719078066703
+  },
+  {
+    "entity": "mechanical landmarks",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial imagery",
+    "x": 1.8378016355796114,
+    "y": -2.3711780085562757
+  },
+  {
+    "entity": "Border Church",
+    "type": "i",
+    "granularity": 3,
+    "parent": "text on walls",
+    "x": 0.5209445330007919,
+    "y": 2.954423259036624
+  },
+  {
+    "entity": "directional signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -2.406369578265132,
+    "y": -1.7914757751083579
+  },
+  {
+    "entity": "street directions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "signage",
+    "x": -1.8378016355796083,
+    "y": -2.3711780085562784
+  },
+  {
+    "entity": "machine-like décor",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial imagery",
+    "x": 2.4063695782651346,
+    "y": -1.7914757751083545
+  },
+  {
+    "entity": "Rainer G. Rümmler commission",
+    "type": "i",
+    "granularity": 3,
+    "parent": "industrial imagery",
+    "x": 2.798651114196004,
+    "y": -1.080533174414125
+  },
+  {
+    "entity": "cogwheel significance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cogwheels",
+    "x": 2.7189233611099497,
+    "y": 1.2678547852220983
+  }
+]

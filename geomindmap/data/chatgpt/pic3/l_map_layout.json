@@ -1,0 +1,114 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.827090915285202,
+    "y": 0.8134732861516001
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -0.0698096257491348,
+    "y": 3.999390780625565
+  },
+  {
+    "entity": "Warsaw",
+    "granularity": 4,
+    "parent": "Europe",
+    "x": 3.2360679774997894,
+    "y": -2.3511410091698934
+  },
+  {
+    "entity": "Leipzig",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.863703305156273,
+    "y": -1.0352761804100847
+  },
+  {
+    "entity": "Mainz",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.0188383208910863,
+    "y": -2.624236115962031
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9562952014676114,
+    "y": -0.41582338163551796
+  },
+  {
+    "entity": "Karl-Marx-Allee",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 4.825844333165747,
+    "y": 1.308138552314718
+  },
+  {
+    "entity": "Friedrichstraße",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 3.5045463214992543,
+    "y": 3.566252245770908
+  },
+  {
+    "entity": "Prenzlauer Berg",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 1.2237167197716186,
+    "y": 4.84793949939058
+  },
+  {
+    "entity": "East Berlin",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.3921619131825582,
+    "y": 4.8022791680080275
+  },
+  {
+    "entity": "Marzahn",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -3.626871855061438,
+    "y": 3.4417728784687696
+  },
+  {
+    "entity": "Düsseldorf",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.562924513957092,
+    "y": -3.6820194138097624
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.2093438249717793,
+    "y": -3.9945181390182953
+  },
+  {
+    "entity": "Cologne",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 1.9392384809853522,
+    "y": -3.4984788285575807
+  },
+  {
+    "entity": "Kastanienallee",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.868557936280855,
+    "y": 1.138922131261266
+  }
+]

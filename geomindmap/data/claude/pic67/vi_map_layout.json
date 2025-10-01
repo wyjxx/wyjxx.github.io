@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9945218953682733,
+    "y": 0.10452846326765346
+  },
+  {
+    "entity": "mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6691306063588582,
+    "y": 0.7431448254773942
+  },
+  {
+    "entity": "steep cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.8887527404749622,
+    "y": 0.6577332934771665
+  },
+  {
+    "entity": "rocky outcrops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.665842481420199,
+    "y": 1.106783098486688
+  },
+  {
+    "entity": "yellow flowering shrubs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -0.3128689300804616,
+    "y": 1.9753766811902755
+  },
+  {
+    "entity": "green grass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.0449971294318983,
+    "y": 1.7052803287081841
+  },
+  {
+    "entity": "volcanic hills",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 1.3382612127177165,
+    "y": 1.4862896509547885
+  },
+  {
+    "entity": "columnar rock formations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 0.9265920702397236,
+    "y": 1.7724071584624295
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.40673664307580026,
+    "y": 0.9135454576426009
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "grey clouds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": -1.902113032590307,
+    "y": 0.618033988749895
+  },
+  {
+    "entity": "flat-topped cliff face",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountains",
+    "x": 0.45670174022131177,
+    "y": 1.9471578057463204
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775893,
+    "y": -0.9781476007338057
+  },
+  {
+    "entity": "traditional buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.987143711353175,
+    "y": -0.22640642753581328
+  },
+  {
+    "entity": "modern buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.8852829821843569,
+    "y": -0.6676137184675419
+  },
+  {
+    "entity": "white tent-like structures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.4018185285997016,
+    "y": -1.4265008983083634
+  },
+  {
+    "entity": "stone buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -0.6346093128101835,
+    "y": -1.8966473104123989
+  },
+  {
+    "entity": "slate roofs",
+    "type": "v",
+    "granularity": 3,
+    "parent": "roofing styles",
+    "x": 1.3619714992186422,
+    "y": -2.673019572565103
+  },
+  {
+    "entity": "modern apartment blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -0.19169150504044705,
+    "y": -1.9907923967343577
+  },
+  {
+    "entity": "tower blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 0.26105238444010426,
+    "y": -1.9828897227476208
+  },
+  {
+    "entity": "urban layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": -0.20791169081775898
+  },
+  {
+    "entity": "building density",
+    "type": "v",
+    "granularity": 2,
+    "parent": "urban layout",
+    "x": 1.9562952014676114,
+    "y": -0.41582338163551796
+  },
+  {
+    "entity": "roofing styles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": 0.9079809994790948,
+    "y": -1.7820130483767351
+  },
+  {
+    "entity": "gorse",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow flowering shrubs",
+    "x": -0.4693033951206924,
+    "y": 2.9630650217854133
+  },
+  {
+    "entity": "temperate oceanic climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": -2.176123113036863,
+    "y": 2.0650637270812617
+  },
+  {
+    "entity": "northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grey clouds",
+    "x": -2.8531695488854605,
+    "y": 0.9270509831248426
+  },
+  {
+    "entity": "Scottish Parliament building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white tent-like structures",
+    "x": -2.4347219458950367,
+    "y": -1.7527489969123036
+  },
+  {
+    "entity": "government complex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white tent-like structures",
+    "x": -1.7099902877889086,
+    "y": -2.4649408138264914
+  },
+  {
+    "entity": "British architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.176123113036865,
+    "y": -2.06506372708126
+  },
+  {
+    "entity": "Scottish architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": 2.5848874813245786,
+    "y": -1.5226150888821102
+  }
+]

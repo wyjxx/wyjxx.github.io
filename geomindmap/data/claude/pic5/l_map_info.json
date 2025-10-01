@@ -1,0 +1,16 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Alpine region","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"Italian Alps","granularity":2,"parent":"Europe"},
+{"entity":"Central Europe","granularity":3,"parent":"Europe"},
+{"entity":"Bavaria","granularity":3,"parent":"Europe"},
+{"entity":"Northern Alpine region","granularity":3,"parent":"Alpine region"},
+{"entity":"Salzkammergut","granularity":3,"parent":"Austria"},
+{"entity":"Upper Austria","granularity":3,"parent":"Austria"},
+{"entity":"Lake Attersee","granularity":4,"parent":"Salzkammergut"},
+{"entity":"Lake Traunsee","granularity":4,"parent":"Salzkammergut"},
+{"entity":"Chiemsee","granularity":4,"parent":"Bavaria"},
+{"entity":"Sankt Wolfgang im Salzkammergut","granularity":4,"parent":"Salzkammergut"}
+]

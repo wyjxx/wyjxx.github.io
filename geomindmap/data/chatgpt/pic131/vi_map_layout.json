@@ -1,0 +1,82 @@
+[
+  {
+    "entity": "calçada portuguesa",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924731,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "black and white mosaic",
+    "type": "v",
+    "granularity": 2,
+    "parent": "calçada portuguesa",
+    "x": 1.1755705045849463,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "tall white column",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "portico",
+    "type": "v",
+    "granularity": 2,
+    "parent": "National Theatre D. Maria II",
+    "x": 0.31286893008046135,
+    "y": -1.9753766811902755
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "National Theatre D. Maria II",
+    "x": 1.7820130483767356,
+    "y": -0.9079809994790939
+  },
+  {
+    "entity": "gentle hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951536,
+    "y": -0.3090169943749473
+  },
+  {
+    "entity": "Pombaline architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5877852522924732,
+    "y": -0.8090169943749473
+  },
+  {
+    "entity": "National Theatre D. Maria II",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "typical of Lisbon",
+    "type": "i",
+    "granularity": 3,
+    "parent": "black and white mosaic",
+    "x": 1.7633557568774194,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "D. Pedro IV column",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tall white column",
+    "x": -2.427050983124842,
+    "y": 1.7633557568774196
+  }
+]

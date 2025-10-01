@@ -1,0 +1,19 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Hamburg","granularity":4,"parent":"Germany"},  
+  {"entity":"Stockholm","granularity":4,"parent":null},  
+  {"entity":"Zurich","granularity":4,"parent":null},  
+  {"entity":"Binnenalster","granularity":4,"parent":"Germany"},  
+  {"entity":"Inner Alster","granularity":4,"parent":"Germany"},  
+  {"entity":"Jungfernstieg","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Ballindamm","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Lombardsbrücke","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Feuerstrasse","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Glockengießerwall","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Hamburg city center","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Neustadt","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Altstadt quarter","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Hamburg Rathaus","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Alsterufer","granularity":5,"parent":"Hamburg"}  
+]

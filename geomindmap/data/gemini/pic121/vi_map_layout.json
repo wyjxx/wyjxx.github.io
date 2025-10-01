@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "architectural cues",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": 0.14231483827328514
+  },
+  {
+    "entity": "left-hand building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8412535328311812,
+    "y": 0.5406408174555976
+  },
+  {
+    "entity": "square's layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "general aesthetic",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414296,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "building characteristics",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "dark stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": -1.0409356159461456,
+    "y": -1.7077625840422956
+  },
+  {
+    "entity": "belfry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": -0.4251305791059543,
+    "y": -1.9542937319423188
+  },
+  {
+    "entity": "cobblestones",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414299,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "sky's lighting conditions",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.5114991487085163,
+    "y": 1.3097214678905704
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809328,
+    "y": -0.14231483827328492
+  },
+  {
+    "entity": "architectural details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architecture",
+    "x": -1.9542937319423188,
+    "y": 0.4251305791059542
+  },
+  {
+    "entity": "Gothic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "left side",
+    "type": "v",
+    "granularity": 2,
+    "parent": "left-hand building",
+    "x": 1.6825070656623624,
+    "y": 1.081281634911195
+  },
+  {
+    "entity": "dark facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 0.2374381253146096,
+    "y": -1.9858557693465766
+  },
+  {
+    "entity": "Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 1.3108335371080777,
+    "y": -2.6984653857318097
+  },
+  {
+    "entity": "Brabantine Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 2.121320343559642,
+    "y": -2.121320343559643
+  },
+  {
+    "entity": "mix of styles",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural details",
+    "x": -2.931440597913478,
+    "y": 0.6376958686589314
+  },
+  {
+    "entity": "Baroque Guildhalls",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -2.846477750511959,
+    "y": -0.9473987628450744
+  },
+  {
+    "entity": "distinctive Brabantine Gothic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 2.6984653857318097,
+    "y": -1.310833537108079
+  },
+  {
+    "entity": "architectural styles",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architecture",
+    "x": -2.335924614149267,
+    "y": -1.8824070221425542
+  },
+  {
+    "entity": "image searches",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9694643256427975,
+    "y": -0.4269445148198585
+  }
+]

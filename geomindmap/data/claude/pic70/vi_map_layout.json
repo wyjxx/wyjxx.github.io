@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818236,
+    "y": 0.2225209339563145
+  },
+  {
+    "entity": "ornate Beaux-Arts style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 1.9457826438802899,
+    "y": 0.46252556985990434
+  },
+  {
+    "entity": "Second Empire style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 1.6691465074426053,
+    "y": 1.101793962904205
+  },
+  {
+    "entity": "curved glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 1.3690942118573772,
+    "y": 1.457937254842823
+  },
+  {
+    "entity": "iron roof structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 0.994813247826444,
+    "y": 1.7350350434354351
+  },
+  {
+    "entity": "decorative stone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 0.5665961396654992,
+    "y": 1.9180638191979311
+  },
+  {
+    "entity": "central clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": 0.10765968682425617,
+    "y": 1.9971002458146419
+  },
+  {
+    "entity": "ornamental elements",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -0.35711378959727313,
+    "y": 1.9678591771972593
+  },
+  {
+    "entity": "arched entrances",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -0.8025255005129487,
+    "y": 1.831925986776333
+  },
+  {
+    "entity": "SNCF signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.3821252979737293,
+    "y": 1.445589727654783
+  },
+  {
+    "entity": "mansard roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.7940761887739374,
+    "y": 0.8839064593464534
+  },
+  {
+    "entity": "ornate stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.9498558243636472,
+    "y": 0.445041867912629
+  },
+  {
+    "entity": "French tricolor flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.9999194323417422,
+    "y": -0.017951716961995306
+  },
+  {
+    "entity": "glass canopy",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.9415526962458365,
+    "y": -0.4799720072051309
+  },
+  {
+    "entity": "awning",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.777920106192387,
+    "y": -0.9159694842061339
+  },
+  {
+    "entity": "modern paving stones",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train station",
+    "x": -1.5178933885891122,
+    "y": -1.3023055174871456
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9438833303083675,
+    "y": -0.3302790619551673
+  },
+  {
+    "entity": "white clouds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9937122098932426,
+    "y": -0.11196447610330809
+  },
+  {
+    "entity": "19th century station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": -1.763355756877422,
+    "y": -2.4270509831248406
+  },
+  {
+    "entity": "early 20th century station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": -1.1542669438348114,
+    "y": -2.76905540254619
+  },
+  {
+    "entity": "Belle Époque style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ornate Beaux-Arts style",
+    "x": 2.918673965820435,
+    "y": 0.6937883547898565
+  },
+  {
+    "entity": "French national railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "SNCF signage",
+    "x": -2.073187946960594,
+    "y": 2.168384591482175
+  },
+  {
+    "entity": "major railway station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": -0.4825968288410969,
+    "y": -2.9609289590924868
+  },
+  {
+    "entity": "Parisian terminus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 0.21523841028413304,
+    "y": -2.9922687758185025
+  },
+  {
+    "entity": "architectural elegance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 0.901403991868353,
+    "y": -2.861375690720077
+  },
+  {
+    "entity": "functional infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 1.5386978322177134,
+    "y": -2.5753463808056014
+  },
+  {
+    "entity": "historical significance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 2.0925675442371046,
+    "y": -2.1496885990313794
+  },
+  {
+    "entity": "international routes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train station",
+    "x": 2.5329837765060415,
+    "y": -1.6074803849369959
+  }
+]

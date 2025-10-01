@@ -1,0 +1,466 @@
+[
+  {
+    "entity": "tunnel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9766205557100867,
+    "y": 0.21497044021102407
+  },
+  {
+    "entity": "overhead catenary wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead wires",
+    "x": -1.5921861314112875,
+    "y": 1.2103484303875303
+  },
+  {
+    "entity": "sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6473862847818277,
+    "y": 0.7621620551276365
+  },
+  {
+    "entity": "platform G signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.6975525316253741,
+    "y": 1.057504327353928
+  },
+  {
+    "entity": "clock with red digits",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clock clusters",
+    "x": 0.8886234127078056,
+    "y": -1.7917445215173766
+  },
+  {
+    "entity": "double-decker train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2149704402110241,
+    "y": 0.9766205557100867
+  },
+  {
+    "entity": "Swiss flag icons",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -1.7529927786506692,
+    "y": -0.962816866282787
+  },
+  {
+    "entity": "wooden panels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wall design",
+    "x": 1.3884506377758357,
+    "y": -1.4395154832303385
+  },
+  {
+    "entity": "modern appearance",
+    "type": "v",
+    "granularity": 2,
+    "parent": "underground station",
+    "x": -1.7742201237399111,
+    "y": 0.9231158933288577
+  },
+  {
+    "entity": "regional train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6876994588534231,
+    "y": 0.725995491923131
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7960930657056438,
+    "y": 0.6051742151937651
+  },
+  {
+    "entity": "underground station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9941379571543596,
+    "y": 0.10811901842394149
+  },
+  {
+    "entity": "\"G\" signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.473101695062732,
+    "y": 1.3527643534641596
+  },
+  {
+    "entity": "train design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "double-decker train",
+    "x": -0.18929509902712247,
+    "y": 1.9910216888533163
+  },
+  {
+    "entity": "red bull shapes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train design",
+    "x": 0.3928365163764872,
+    "y": 1.9610404053464034
+  },
+  {
+    "entity": "smooth arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tunnel",
+    "x": 1.9947864630358996,
+    "y": 0.14431551160123215
+  },
+  {
+    "entity": "wood slats",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wall design",
+    "x": 1.5588267640831825,
+    "y": -1.2530199996719742
+  },
+  {
+    "entity": "interior wood",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wall design",
+    "x": 1.7043362559996345,
+    "y": -1.0465361563200521
+  },
+  {
+    "entity": "digital clocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "clock clusters",
+    "x": 1.1667891582149879,
+    "y": -1.6243777455604222
+  },
+  {
+    "entity": "wooden arch design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tunnel",
+    "x": 1.9171258949948826,
+    "y": 0.5697616192233999
+  },
+  {
+    "entity": "stylized cow patterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train design",
+    "x": -0.18929509902712247,
+    "y": 1.9910216888533163
+  },
+  {
+    "entity": "train cars",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5611870653623825,
+    "y": -0.8276889981568905
+  },
+  {
+    "entity": "Z2N model",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -1.4787981422730625,
+    "y": -1.3465348322303954
+  },
+  {
+    "entity": "Z20500 model",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -1.3097214678905698,
+    "y": -1.511499148708517
+  },
+  {
+    "entity": "single-deck trains",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -1.1223741307247637,
+    "y": -1.6553779963137818
+  },
+  {
+    "entity": "MI 09 trains",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -0.9193696330390094,
+    "y": -1.7761642598154364
+  },
+  {
+    "entity": "grey and blue livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train design",
+    "x": -0.7553472270425919,
+    "y": 1.8518775787289685
+  },
+  {
+    "entity": "separate cars",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -0.7035398950634034,
+    "y": -1.8721729663826938
+  },
+  {
+    "entity": "lower-level windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train cars",
+    "x": -0.47789574960311765,
+    "y": -1.9420647910178677
+  },
+  {
+    "entity": "concrete finishes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "underground station",
+    "x": -1.9463537896937098,
+    "y": 0.46011620852229773
+  },
+  {
+    "entity": "letter G sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.2947725695636554,
+    "y": 1.5243241102552727
+  },
+  {
+    "entity": "central island platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16178199655276526,
+    "y": -0.986826522541526
+  },
+  {
+    "entity": "two tracks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "central island platform",
+    "x": 0.3235639931055305,
+    "y": -1.973653045083052
+  },
+  {
+    "entity": "cream-colored concrete",
+    "type": "v",
+    "granularity": 2,
+    "parent": "concrete finishes",
+    "x": -1.895306342365605,
+    "y": 0.6386030602719596
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3193015301359795,
+    "y": -0.9476531711828026
+  },
+  {
+    "entity": "clock clusters",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5155538571770214,
+    "y": -0.8568571761675895
+  },
+  {
+    "entity": "clusters of G signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.0966224093946617,
+    "y": 1.6725487410576252
+  },
+  {
+    "entity": "wall design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8835120444460226,
+    "y": -0.4684084406997907
+  },
+  {
+    "entity": "Transilien branding",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train cars",
+    "x": -0.3683774112145781,
+    "y": -2.9772971102842334
+  },
+  {
+    "entity": "Parisian service link",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train cars",
+    "x": -0.014772319551233473,
+    "y": -2.9999636295420444
+  },
+  {
+    "entity": "Swiss origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Swiss flag icons",
+    "x": -2.7470075720652973,
+    "y": -1.2057982414218062
+  },
+  {
+    "entity": "suburban Paris",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9956002415533716,
+    "y": -0.16241672575625404
+  },
+  {
+    "entity": "Swiss SBB InterRegio train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "double-decker train",
+    "x": -1.494132609279768,
+    "y": 2.6014549286671933
+  },
+  {
+    "entity": "Swiss location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Swiss flag icons",
+    "x": -2.4913269257003137,
+    "y": -1.6713138990867706
+  },
+  {
+    "entity": "Swiss regional connections",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stylized cow patterns",
+    "x": 0.04468479477558686,
+    "y": 2.999667193059234
+  },
+  {
+    "entity": "Swiss tourism promotion",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stylized cow patterns",
+    "x": -0.6091574635389999,
+    "y": 2.9375035633365165
+  },
+  {
+    "entity": "RER D underground exception",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground station",
+    "x": -2.9996407553900544,
+    "y": -0.046425624422118256
+  },
+  {
+    "entity": "Magenta finishes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "concrete finishes",
+    "x": -2.970947618451961,
+    "y": 0.4164975971294671
+  },
+  {
+    "entity": "large station deep beneath CNIT",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground station",
+    "x": -2.9709476184519614,
+    "y": -0.4164975971294664
+  },
+  {
+    "entity": "Magenta style resemblance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wooden arch design",
+    "x": 2.875688842492324,
+    "y": 0.8546424288350998
+  },
+  {
+    "entity": "Haussmann style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wall design",
+    "x": 2.733986886981976,
+    "y": -1.2350367208348922
+  },
+  {
+    "entity": "exit letters at concourse",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign",
+    "x": 1.3225268964415746,
+    "y": 2.692753722156673
+  },
+  {
+    "entity": "exit G leads to Place Carpeaux",
+    "type": "i",
+    "granularity": 3,
+    "parent": "platform G signage",
+    "x": 2.5463287974380613,
+    "y": 1.586256491030892
+  },
+  {
+    "entity": "Swiss signage focus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sign",
+    "x": 0.9798742668198369,
+    "y": 2.835462294093203
+  },
+  {
+    "entity": "Parisian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wall design",
+    "x": 2.8678564280148344,
+    "y": -0.8805677193118062
+  },
+  {
+    "entity": "Jean-Marie Duthilleul design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wall design",
+    "x": 2.9559775004403,
+    "y": -0.5120517716898514
+  },
+  {
+    "entity": "blog photo match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "double-decker train",
+    "x": -1.7993108962293844,
+    "y": 2.40051667328311
+  },
+  {
+    "entity": "location suggestion",
+    "type": "i",
+    "granularity": 3,
+    "parent": "underground station",
+    "x": -2.896773709730382,
+    "y": -0.7801936135440228
+  }
+]

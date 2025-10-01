@@ -1,0 +1,23 @@
+[  
+  {"entity":"Kingdom of León","type":"l"},  
+  {"entity":"Kingdom of Castile","type":"l"},  
+  {"entity":"Seville Cathedral","type":"l"},  
+  {"entity":"Santa Cruz","type":"l"},  
+  {"entity":"Seville","type":"l"},  
+  {"entity":"Spain","type":"l"},  
+  {"entity":"Europe","type":"l"},  
+  {"entity":"tomb","type":"v"},  
+  {"entity":"cenotaph","type":"v"},  
+  {"entity":"bronze sculpture","type":"v"},  
+  {"entity":"heraldic element","type":"v"},  
+  {"entity":"robe","type":"v"},  
+  {"entity":"catafalque","type":"v"},  
+  {"entity":"Gothic cathedral","type":"v"},  
+  {"entity":"Gothic architecture","type":"v"},  
+  {"entity":"tourist","type":"v"},  
+  {"entity":"Christopher Columbus","type":"i"},  
+  {"entity":"historic kingdoms of Spain","type":"i"},  
+  {"entity":"Kingdom of León symbology","type":"i"},  
+  {"entity":"Kingdom of Castile symbology","type":"i"},  
+  {"entity":"UNESCO World Heritage Site","type":"i"}  
+]

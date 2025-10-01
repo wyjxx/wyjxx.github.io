@@ -1,0 +1,30 @@
+[
+  {
+    "entity": "Monaco",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Monte-Carlo",
+    "granularity": 5,
+    "parent": "Monaco",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Place du Casino",
+    "granularity": 5,
+    "parent": "Monte-Carlo",
+    "x": 3.061616997868383e-16,
+    "y": 5.0
+  },
+  {
+    "entity": "Casino Square",
+    "granularity": 5,
+    "parent": "Monte-Carlo",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  }
+]

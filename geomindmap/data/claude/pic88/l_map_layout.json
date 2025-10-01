@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Charlestown",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.504844339512096,
+    "y": 2.1694186955877908
+  },
+  {
+    "entity": "Baile Shéarlaí",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.1126046697815721,
+    "y": 4.874639560909118
+  },
+  {
+    "entity": "Dublin city center",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.1174490092936673,
+    "y": 3.9091574123401496
+  },
+  {
+    "entity": "Trinity College Dublin",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -5.0,
+    "y": 6.123233995736766e-16
+  },
+  {
+    "entity": "Custom House",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.1174490092936686,
+    "y": -3.9091574123401482
+  },
+  {
+    "entity": "Four Courts",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.1126046697815712,
+    "y": -4.874639560909118
+  },
+  {
+    "entity": "Earlsfort Terrace",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.504844339512095,
+    "y": -2.1694186955877917
+  }
+]

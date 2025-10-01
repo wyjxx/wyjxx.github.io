@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Southern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "La Mancha",
+    "granularity": 3,
+    "parent": "Spain",
+    "x": -1.4999999999999993,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "Consuegra",
+    "granularity": 4,
+    "parent": "La Mancha",
+    "x": 2.0000000000000004,
+    "y": 3.4641016151377544
+  },
+  {
+    "entity": "Cerro Calderico",
+    "granularity": 4,
+    "parent": "La Mancha",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  }
+]

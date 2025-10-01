@@ -1,0 +1,13 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Belgium","granularity":2,"parent":"Europe"},
+{"entity":"Brussels","granularity":4,"parent":"Belgium"},
+{"entity":"Saint-Josse-ten-Noode","granularity":4,"parent":"Brussels"},
+{"entity":"Place Rogier","granularity":5,"parent":"Brussels"},
+{"entity":"Rue des Croisades","granularity":5,"parent":"Saint-Josse-ten-Noode"},
+{"entity":"Boulevard Adolphe Max","granularity":5,"parent":"Saint-Josse-ten-Noode"},
+{"entity":"Rue Royale","granularity":5,"parent":"Saint-Josse-ten-Noode"},
+{"entity":"Church of Saint-Josse-ten-Noode","granularity":5,"parent":"Saint-Josse-ten-Noode"},
+{"entity":"Royal Quarter","granularity":5,"parent":"Brussels"},
+{"entity":"Pentagon","granularity":5,"parent":"Brussels"}
+]

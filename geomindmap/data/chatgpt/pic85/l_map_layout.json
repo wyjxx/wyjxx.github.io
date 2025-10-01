@@ -1,0 +1,163 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "UK",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Oxfordshire",
+    "granularity": 3,
+    "parent": "UK",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Oxford",
+    "granularity": 4,
+    "parent": "Oxfordshire",
+    "x": -3.9507533623805506,
+    "y": 0.6257378601609239
+  },
+  {
+    "entity": "Abingdon",
+    "granularity": 4,
+    "parent": "Oxfordshire",
+    "x": 3.9507533623805506,
+    "y": -0.6257378601609245
+  },
+  {
+    "entity": "High Street",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 4.931428007686157,
+    "y": 0.8252380293033881
+  },
+  {
+    "entity": "City Centre",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 4.394085563309827,
+    "y": 2.3857938012980417
+  },
+  {
+    "entity": "University Church of St Mary the Virgin",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 3.3779510380783018,
+    "y": 3.68638668405062
+  },
+  {
+    "entity": "Carfax Tower",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 1.9937453446262323,
+    "y": 4.585300371925619
+  },
+  {
+    "entity": "Tom Tower",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 0.392295478639225,
+    "y": 4.9845866686656395
+  },
+  {
+    "entity": "Christ Church",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -1.2519000202722057,
+    "y": 4.840738201890539
+  },
+  {
+    "entity": "Broad Street",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -2.7596849265602907,
+    "y": 4.169429110335841
+  },
+  {
+    "entity": "Gloucester Green bus station",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -3.966766701456175,
+    "y": 3.0438071450436044
+  },
+  {
+    "entity": "Queens Lane",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -4.741618276030996,
+    "y": 1.5865232820254629
+  },
+  {
+    "entity": "Catte Street",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -4.999809615320856,
+    "y": -0.04363267749186634
+  },
+  {
+    "entity": "Hertford College",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -4.713207455460894,
+    "y": -1.6690342961688507
+  },
+  {
+    "entity": "New College",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -3.9130407842620727,
+    "y": -3.112573183188094
+  },
+  {
+    "entity": "All Souls College",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -2.6864980417341244,
+    "y": -4.216957229064425
+  },
+  {
+    "entity": "Bodleian Library",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": -1.1672268192795345,
+    "y": -4.861849601988381
+  },
+  {
+    "entity": "St Aldate's",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 0.4792287626011158,
+    "y": -4.9769809918358945
+  },
+  {
+    "entity": "Queen's Lane bus stop",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 2.0734662132811863,
+    "y": -4.54980635438272
+  },
+  {
+    "entity": "Oxford City Centre",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 3.441772878468765,
+    "y": -3.6268718550614425
+  },
+  {
+    "entity": "St Mary’s Passage",
+    "granularity": 5,
+    "parent": "Oxford",
+    "x": 4.435054165891103,
+    "y": -2.30874306617518
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "entity": "masonry building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8090169943749473,
+    "y": 0.5877852522924732
+  },
+  {
+    "entity": "paved square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749473,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "red brick",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": 1.97199207414101,
+    "y": 0.3335374934322045
+  },
+  {
+    "entity": "white stone stripes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": 1.7526133600877272,
+    "y": 0.9635073482034304
+  },
+  {
+    "entity": "Corinthian columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": 1.3382612127177167,
+    "y": 1.4862896509547883
+  },
+  {
+    "entity": "inscription \"CAPITOLIVM\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": 0.7750311729042062,
+    "y": 1.843726303177001
+  },
+  {
+    "entity": "building facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": 0.12558103905862705,
+    "y": 1.9960534568565431
+  },
+  {
+    "entity": "French flags",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": -0.5378396412305312,
+    "y": 1.9263251335953164
+  },
+  {
+    "entity": "terra-cotta brick",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": -1.1414271353688625,
+    "y": 1.6422984182674087
+  },
+  {
+    "entity": "limestone detailing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": -1.6180339887498947,
+    "y": 1.1755705045849465
+  },
+  {
+    "entity": "rooftop statuary",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": -1.9146389950641343,
+    "y": 0.5780635938889442
+  },
+  {
+    "entity": "pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "masonry building",
+    "x": -1.9982456601977168,
+    "y": -0.08375130745839914
+  },
+  {
+    "entity": "classic architecture style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "masonry building",
+    "x": -2.7893294576647545,
+    "y": -1.1043736580540324
+  },
+  {
+    "entity": "Capitole building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "masonry building",
+    "x": -2.27098516695527,
+    "y": -1.960261811970315
+  },
+  {
+    "entity": "city hall",
+    "type": "i",
+    "granularity": 3,
+    "parent": "masonry building",
+    "x": -1.5000000000000036,
+    "y": -2.598076211353314
+  },
+  {
+    "entity": "popular tourist spot",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paved square",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "central historic district",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paved square",
+    "x": 2.427050983124842,
+    "y": -1.76335575687742
+  },
+  {
+    "entity": "\"ville rose\" architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "masonry building",
+    "x": -0.5621439437571765,
+    "y": -2.9468617521860656
+  },
+  {
+    "entity": "important civic monument",
+    "type": "i",
+    "granularity": 3,
+    "parent": "masonry building",
+    "x": 0.4382490856872283,
+    "y": -2.967816998888966
+  },
+  {
+    "entity": "gathering spot",
+    "type": "i",
+    "granularity": 3,
+    "parent": "paved square",
+    "x": 2.934442802201416,
+    "y": -0.6237350724532822
+  }
+]

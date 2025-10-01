@@ -1,0 +1,14 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"North side of the Liffey","granularity":5,"parent":"Dublin"},
+{"entity":"River Liffey","granularity":3,"parent":"Ireland"},
+{"entity":"North Inner City","granularity":3,"parent":"Dublin"},
+{"entity":"Dublin 1","granularity":5,"parent":"Dublin"},
+{"entity":"Marlborough Street","granularity":5,"parent":"Dublin"},
+{"entity":"Cathedral Street","granularity":5,"parent":"Dublin"},
+{"entity":"Sackville Street","granularity":5,"parent":"Dublin"},
+{"entity":"O'Connell Street","granularity":5,"parent":"Dublin"},
+{"entity":"83 Marlborough Street","granularity":5,"parent":"Dublin"}
+]

@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"British Isles","granularity":2,"parent":"Europe"},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"The Liberties","granularity":5,"parent":"Dublin"},
+{"entity":"St Patrick's Cathedral","granularity":5,"parent":"Dublin"}
+]

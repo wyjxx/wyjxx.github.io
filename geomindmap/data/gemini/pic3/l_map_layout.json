@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7320508075688776,
+    "y": -0.9999999999999993
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.464101615137755,
+    "y": 1.9999999999999998
+  },
+  {
+    "entity": "Mitte",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 3.2139380484326967,
+    "y": 3.83022221559489
+  },
+  {
+    "entity": "Invalidenstraße",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -4.330127018922194,
+    "y": 2.4999999999999996
+  },
+  {
+    "entity": "Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -1.7101007166283426,
+    "y": -4.698463103929543
+  }
+]

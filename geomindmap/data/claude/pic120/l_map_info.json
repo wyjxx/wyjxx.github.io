@@ -1,0 +1,15 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Northern Europe","granularity":2,"parent":"Europe"},  
+{"entity":"Netherlands","granularity":2,"parent":"Europe"},  
+{"entity":"Belgium","granularity":2,"parent":"Europe"},  
+{"entity":"Flanders","granularity":3,"parent":"Belgium"},  
+{"entity":"Brussels-City","granularity":3,"parent":"Belgium"},  
+{"entity":"Brussels","granularity":4,"parent":"Brussels-City"},  
+{"entity":"Pentagon district","granularity":5,"parent":"Brussels-City"},  
+{"entity":"Îlot Sacré","granularity":5,"parent":"Brussels-City"},  
+{"entity":"Grand Place","granularity":5,"parent":"Brussels-City"},  
+{"entity":"Rue de l'Étuve","granularity":5,"parent":"Brussels-City"},  
+{"entity":"Rue du Chêne","granularity":5,"parent":"Brussels-City"},  
+{"entity":"Old Town","granularity":5,"parent":"Brussels-City"}  
+]

@@ -1,0 +1,14 @@
+[
+{"entity":"pointed arches","type":"v","granularity":2,"parent":null},
+{"entity":"tall spire","type":"v","granularity":2,"parent":null},
+{"entity":"stonework","type":"v","granularity":2,"parent":null},
+{"entity":"park","type":"v","granularity":1,"parent":null},
+{"entity":"red-brick building","type":"v","granularity":1,"parent":null},
+{"entity":"modern urban setting","type":"v","granularity":1,"parent":null},
+{"entity":"tower battlements","type":"v","granularity":2,"parent":null},
+{"entity":"surrounding modern buildings","type":"v","granularity":1,"parent":null},
+{"entity":"fountain","type":"v","granularity":2,"parent":"park"},
+{"entity":"Gothic","type":"i","granularity":3,"parent":"pointed arches"},
+{"entity":"Northern European origin","type":"i","granularity":3,"parent":"stonework"},
+{"entity":"Gothic structures","type":"i","granularity":3,"parent":"pointed arches"}
+]

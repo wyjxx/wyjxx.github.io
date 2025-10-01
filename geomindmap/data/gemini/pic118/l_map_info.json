@@ -1,0 +1,7 @@
+[
+  {"entity": "Europe", "granularity": 1, "parent": null},
+  {"entity": "Greece", "granularity": 2, "parent": "Europe"},
+  {"entity": "Santorini", "granularity": 3, "parent": "Greece"},
+  {"entity": "Oia", "granularity": 4, "parent": "Santorini"},
+  {"entity": "Fira", "granularity": 4, "parent": "Santorini"}
+]

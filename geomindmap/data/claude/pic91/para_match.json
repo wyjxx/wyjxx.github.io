@@ -1,0 +1,205 @@
+[{
+    "paragraph": 1,
+    "clue": [],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "grand library",
+        "classical architecture",
+        "tall columns",
+        "ornate capitals",
+        "multi-story bookshelves",
+        "high ceilings",
+        "arched ceiling",
+        "decorative elements",
+        "dark wood shelving",
+        "dark wood columns",
+        "European library design",
+        "spherical Earth projection",
+        "art installation",
+        "educational display",
+        "busts",
+        "alphabetical markings",
+        "visitors",
+        "rope barriers",
+        "famous library",
+        "notable landmark",
+        "tourist attraction"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Europe",
+            "status": 2,
+            "related_clue": [
+                "European library design"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "European library design",
+        "18th century architecture",
+        "19th century architecture",
+        "famous library",
+        "institutional library"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Europe",
+            "status": 2,
+            "related_clue": [
+                "European library design"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "illuminated sphere",
+        "spherical Earth projection",
+        "notable landmark"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 5,
+    "clue": [
+        "famous library",
+        "spherical Earth projection",
+        "art installation"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Trinity College Library",
+            "status": 1,
+            "related_clue": [
+                "spherical Earth projection",
+                "art installation"
+            ]
+        },
+        {
+            "loc": "Dublin",
+            "status": 1,
+            "related_clue": [
+                "spherical Earth projection",
+                "art installation"
+            ]
+        },
+        {
+            "loc": "Ireland",
+            "status": 1,
+            "related_clue": [
+                "spherical Earth projection",
+                "art installation"
+            ]
+        },
+        {
+            "loc": "Austrian National Library",
+            "status": 2,
+            "related_clue": [
+                "spherical Earth projection",
+                "art installation"
+            ]
+        },
+        {
+            "loc": "Vienna",
+            "status": 2,
+            "related_clue": [
+                "spherical Earth projection",
+                "art installation"
+            ]
+        },
+        {
+            "loc": "Germany",
+            "status": 2,
+            "related_clue": [
+                "famous library"
+            ]
+        },
+        {
+            "loc": "France",
+            "status": 2,
+            "related_clue": [
+                "famous library"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 2,
+            "related_clue": [
+                "famous library"
+            ]
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [
+        "classical architecture",
+        "spherical Earth projection",
+        "art installation",
+        "contemporary art",
+        "historic setting",
+        "knowledge symbol",
+        "interconnectedness symbol",
+        "broader perspective symbol"
+    ],
+    "loc-clue": [
+        {
+            "loc": "College Green",
+            "status": 3,
+            "related_clue": [
+                "classical architecture",
+                "spherical Earth projection",
+                "art installation",
+                "contemporary art",
+                "historic setting",
+                "knowledge symbol",
+                "interconnectedness symbol",
+                "broader perspective symbol"
+            ]
+        },
+        {
+            "loc": "Dublin",
+            "status": 3,
+            "related_clue": [
+                "classical architecture",
+                "spherical Earth projection",
+                "art installation",
+                "contemporary art",
+                "historic setting",
+                "knowledge symbol",
+                "interconnectedness symbol",
+                "broader perspective symbol"
+            ]
+        },
+        {
+            "loc": "Ireland",
+            "status": 3,
+            "related_clue": [
+                "classical architecture",
+                "spherical Earth projection",
+                "art installation",
+                "contemporary art",
+                "historic setting",
+                "knowledge symbol",
+                "interconnectedness symbol",
+                "broader perspective symbol"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "classical architecture",
+                "spherical Earth projection",
+                "art installation",
+                "contemporary art",
+                "historic setting",
+                "knowledge symbol",
+                "interconnectedness symbol",
+                "broader perspective symbol"
+            ]
+        }
+    ]
+}]

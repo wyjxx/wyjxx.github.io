@@ -1,0 +1,20 @@
+[
+{"entity":"street sign","type":"v","granularity":1,"parent":null},
+{"entity":"yellow diamond sign","type":"v","granularity":1,"parent":null},
+{"entity":"multi-story building","type":"v","granularity":1,"parent":null},
+{"entity":"artificial street lighting","type":"v","granularity":1,"parent":null},
+{"entity":"nighttime","type":"v","granularity":1,"parent":null},
+{"entity":"white street sign","type":"v","granularity":2,"parent":"street sign"},
+{"entity":"light-colored masonry","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"concrete blocks","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"carved balcony elements","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"iron balcony railings","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"balconies","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"balconies with plants","type":"v","granularity":2,"parent":"multi-story building"},
+{"entity":"Spanish text","type":"i","granularity":3,"parent":"white street sign"},
+{"entity":"Spanish-speaking country","type":"i","granularity":3,"parent":"white street sign"},
+{"entity":"European-style architecture","type":"i","granularity":3,"parent":"multi-story building"},
+{"entity":"Mediterranean architecture","type":"i","granularity":3,"parent":"multi-story building"},
+{"entity":"classical architectural details","type":"i","granularity":3,"parent":"carved balcony elements"},
+{"entity":"major Spanish city","type":"i","granularity":3,"parent":"multi-story building"}
+]

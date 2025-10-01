@@ -1,0 +1,11 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Spain","granularity":2,"parent":"Europe"},  
+{"entity":"Castilla y León","granularity":3,"parent":"Spain"},  
+{"entity":"Segovia","granularity":4,"parent":"Castilla y León"},  
+{"entity":"Aqueduct of Segovia","granularity":5,"parent":"Segovia"},  
+{"entity":"Plaza del Azoguejo","granularity":5,"parent":"Segovia"},  
+{"entity":"Ciudad Vieja","granularity":5,"parent":"Segovia"},  
+{"entity":"Old Town","granularity":5,"parent":"Segovia"},  
+{"entity":"Casco Histórico","granularity":5,"parent":"Segovia"}  
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": 0.25881904510252074
+  },
+  {
+    "entity": "curved road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "motorway",
+    "x": 1.546020906725474,
+    "y": 1.268786568327291
+  },
+  {
+    "entity": "asphalt road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "motorway",
+    "x": 1.0561357013007362,
+    "y": 1.6984043630531578
+  },
+  {
+    "entity": "white line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "motorway",
+    "x": 0.45415252606874645,
+    "y": 1.9477539585546673
+  },
+  {
+    "entity": "Armco barrier",
+    "type": "v",
+    "granularity": 2,
+    "parent": "motorway",
+    "x": -0.1960342806591213,
+    "y": 1.9903694533443939
+  },
+  {
+    "entity": "motorway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.38268343236508984,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "red and white flags",
+    "type": "v",
+    "granularity": 2,
+    "parent": "harbor view",
+    "x": -1.2855752193730787,
+    "y": 1.532088886237956
+  },
+  {
+    "entity": "architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650899,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "harbor view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "grandstands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890684,
+    "y": -0.25881904510252035
+  },
+  {
+    "entity": "road layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "angle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "image",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.38268343236509034,
+    "y": -0.9238795325112865
+  },
+  {
+    "entity": "car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2588190451025203,
+    "y": -0.9659258262890684
+  },
+  {
+    "entity": "license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "car",
+    "x": -0.17431148549531827,
+    "y": -1.9923893961834909
+  },
+  {
+    "entity": "street circuit",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road layout",
+    "x": -2.121320343559643,
+    "y": -2.1213203435596424
+  },
+  {
+    "entity": "coastal location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor view",
+    "x": -2.598076211353317,
+    "y": 1.4999999999999987
+  },
+  {
+    "entity": "harbor proximity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "harbor view",
+    "x": -2.954423259036624,
+    "y": 0.5209445330007908
+  },
+  {
+    "entity": "grandstand placement",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grandstands",
+    "x": -2.897777478867205,
+    "y": -0.7764571353075611
+  },
+  {
+    "entity": "Monaco identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.380060020873703,
+    "y": -1.8262842870261649
+  },
+  {
+    "entity": "Citroën C3",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car",
+    "x": 0.7764571353075582,
+    "y": -2.897777478867206
+  },
+  {
+    "entity": "European car",
+    "type": "i",
+    "granularity": 3,
+    "parent": "car",
+    "x": 1.7207293090531337,
+    "y": -2.4574561328669784
+  },
+  {
+    "entity": "maps",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.7716385975338587,
+    "y": -1.1480502970952737
+  },
+  {
+    "entity": "street views",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9743345841214306,
+    "y": -0.39157857666016027
+  }
+]

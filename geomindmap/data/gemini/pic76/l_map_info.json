@@ -1,0 +1,11 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Köln","granularity":4,"parent":"Germany"},  
+{"entity":"Köln Bonn Airport","granularity":5,"parent":"Köln"},  
+{"entity":"Terminal 2","granularity":5,"parent":"Köln Bonn Airport"},  
+{"entity":"Gate D30","granularity":5,"parent":"Terminal 2"},  
+{"entity":"Gate D32","granularity":5,"parent":"Terminal 2"},  
+{"entity":"Kennedystraße","granularity":5,"parent":"Köln"},  
+{"entity":"Grengel","granularity":5,"parent":"Köln"}  
+]

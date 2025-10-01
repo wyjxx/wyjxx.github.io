@@ -1,0 +1,354 @@
+[
+  {
+    "entity": "lakeside",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9974521146102535,
+    "y": 0.07133918319923234
+  },
+  {
+    "entity": "mountainous area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9369497249997617,
+    "y": 0.34946417959909837
+  },
+  {
+    "entity": "blue water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "farmland",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07133918319923235,
+    "y": 0.9974521146102535
+  },
+  {
+    "entity": "villages",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188616,
+    "y": 0.9096319953545186
+  },
+  {
+    "entity": "peninsula",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865471,
+    "y": 0.7071067811865479
+  },
+  {
+    "entity": "islands",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8776789895672553,
+    "y": 0.47924898672005745
+  },
+  {
+    "entity": "castle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144971,
+    "y": 0.2817325568414305
+  },
+  {
+    "entity": "harbor",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.0106430996148606e-15
+  },
+  {
+    "entity": "marina",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9771468659711597,
+    "y": -0.21256528955297557
+  },
+  {
+    "entity": "boats",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9369497249997621,
+    "y": -0.3494641795990972
+  },
+  {
+    "entity": "buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542593,
+    "y": -0.654860733945284
+  },
+  {
+    "entity": "plain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4792489867200579,
+    "y": -0.877678989567255
+  },
+  {
+    "entity": "river",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.34946417959910037,
+    "y": -0.9369497249997609
+  },
+  {
+    "entity": "water bodies",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.21256528955297802,
+    "y": -0.9771468659711592
+  },
+  {
+    "entity": "ponds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07133918319923079,
+    "y": -0.9974521146102536
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452832,
+    "y": -0.7557495743542598
+  },
+  {
+    "entity": "bays",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9369497249997609,
+    "y": -0.3494641795991004
+  },
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809324,
+    "y": -0.14231483827328795
+  },
+  {
+    "entity": "white castle",
+    "type": "v",
+    "granularity": 2,
+    "parent": "castle",
+    "x": -1.9189859472289943,
+    "y": 0.563465113682861
+  },
+  {
+    "entity": "pier",
+    "type": "v",
+    "granularity": 2,
+    "parent": "harbor",
+    "x": -2.0,
+    "y": 2.021286199229721e-15
+  },
+  {
+    "entity": "hotel",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.732050807568879,
+    "y": -0.9999999999999972
+  },
+  {
+    "entity": "white buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.5114991487085185,
+    "y": -1.309721467890568
+  },
+  {
+    "entity": "roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "buildings",
+    "x": -1.2363179724412139,
+    "y": -1.5721061894855723
+  },
+  {
+    "entity": "pine needles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pine trees",
+    "x": 1.9796428837618647,
+    "y": -0.2846296765465759
+  },
+  {
+    "entity": "village clusters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "villages",
+    "x": -0.8308300260037723,
+    "y": 1.819263990709037
+  },
+  {
+    "entity": "forested hills",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 0.7256154107012789,
+    "y": -1.863728058422906
+  },
+  {
+    "entity": "tree-covered hills",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 1.0327949232779197,
+    "y": -1.7126980605031805
+  },
+  {
+    "entity": "forested slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 1.3097214678905678,
+    "y": -1.5114991487085185
+  },
+  {
+    "entity": "deforested slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 1.5482832212781619,
+    "y": -1.2660249076177443
+  },
+  {
+    "entity": "mountain silhouette",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous area",
+    "x": 1.9378746035630146,
+    "y": 0.49461300110843104
+  },
+  {
+    "entity": "rectangular plots",
+    "type": "v",
+    "granularity": 2,
+    "parent": "farmland",
+    "x": 0.6653697647928482,
+    "y": 1.886076105595824
+  },
+  {
+    "entity": "cloud reflections",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue water",
+    "x": 1.4474680762101402,
+    "y": 1.380158022964224
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue water",
+    "x": 0.9999999999999998,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "promontory",
+    "type": "v",
+    "granularity": 2,
+    "parent": "peninsula",
+    "x": -1.4142135623730943,
+    "y": 1.4142135623730958
+  },
+  {
+    "entity": "oak forest",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hills",
+    "x": 1.741492154239553,
+    "y": -0.98346584929121
+  },
+  {
+    "entity": "European alpine feel",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous area",
+    "x": 2.682675809579134,
+    "y": 1.3428516301881377
+  },
+  {
+    "entity": "typical French farmland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "farmland",
+    "x": 0.4798784994475808,
+    "y": 2.9613707342661333
+  },
+  {
+    "entity": "typical German farmland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "farmland",
+    "x": -0.053547031136536964,
+    "y": 2.9995220811750096
+  },
+  {
+    "entity": "grid pattern farmland",
+    "type": "i",
+    "granularity": 3,
+    "parent": "farmland",
+    "x": -0.5852709660483839,
+    "y": 2.9423558412096917
+  },
+  {
+    "entity": "castle on rocky promontory",
+    "type": "i",
+    "granularity": 3,
+    "parent": "promontory",
+    "x": -2.1213203435596415,
+    "y": 2.1213203435596437
+  },
+  {
+    "entity": "eutrophic ponds",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ponds",
+    "x": -0.10707700151694784,
+    "y": -2.998088476970975
+  },
+  {
+    "entity": "thermally created ponds",
+    "type": "i",
+    "granularity": 3,
+    "parent": "ponds",
+    "x": 0.5326595887629044,
+    "y": -2.9523336130083493
+  },
+  {
+    "entity": "seasonal winter cues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cloud reflections",
+    "x": 2.1712021143152103,
+    "y": 2.070237034446336
+  }
+]

@@ -1,0 +1,14 @@
+[  
+  {"entity":"half-timbered houses","type":"v","granularity":1,"parent":null},  
+  {"entity":"cobblestone street","type":"v","granularity":1,"parent":null},  
+  {"entity":"Gasthof sign","type":"v","granularity":1,"parent":null},  
+  {"entity":"little yellow house","type":"v","granularity":1,"parent":null},  
+  {"entity":"Fachwerk architecture","type":"v","granularity":1,"parent":null},  
+  {"entity":"pedestrian traffic","type":"v","granularity":1,"parent":null},  
+  {"entity":"flower boxes","type":"v","granularity":2,"parent":"half-timbered houses"},  
+  {"entity":"stone bollards","type":"v","granularity":2,"parent":"cobblestone street"},  
+  {"entity":"wrought-iron railings","type":"v","granularity":2,"parent":"cobblestone street"},  
+  {"entity":"iconic view","type":"i","granularity":3,"parent":"little yellow house"},  
+  {"entity":"tourist destination","type":"i","granularity":3,"parent":"pedestrian traffic"},  
+  {"entity":"Franconian medieval towns","type":"i","granularity":3,"parent":"Fachwerk architecture"}  
+]

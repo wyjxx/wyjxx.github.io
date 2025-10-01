@@ -1,0 +1,23 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},  
+{"entity":"Austria","granularity":2,"parent":"Europe"},  
+{"entity":"Baden-Württemberg","granularity":3,"parent":"Germany"},  
+{"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+{"entity":"Franconia","granularity":3,"parent":"Germany"},  
+{"entity":"Southern Germany","granularity":3,"parent":"Germany"},  
+{"entity":"Munich","granularity":4,"parent":"Bavaria"},  
+{"entity":"Stuttgart","granularity":4,"parent":"Baden-Württemberg"},  
+{"entity":"Freising","granularity":4,"parent":"Bavaria"},  
+{"entity":"Bamberg","granularity":4,"parent":"Franconia"},  
+{"entity":"Bogenhausen","granularity":5,"parent":"Munich"},  
+{"entity":"Schwabing","granularity":5,"parent":"Munich"},  
+{"entity":"Harlaching","granularity":5,"parent":"Munich"},  
+{"entity":"Maria-Einsiedel","granularity":5,"parent":"Munich"},  
+{"entity":"Herzogpark","granularity":5,"parent":"Bogenhausen"},  
+{"entity":"Kirchsteinbacherweg","granularity":5,"parent":"Solln"},  
+{"entity":"Siedlung Solln","granularity":5,"parent":"Solln"},  
+{"entity":"Solln","granularity":5,"parent":"Munich"},  
+{"entity":"Gartenstadt Solln","granularity":5,"parent":"Solln"}  
+]

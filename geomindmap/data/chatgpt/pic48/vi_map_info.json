@@ -1,0 +1,19 @@
+[
+{"entity":"beach","type":"v","granularity":1,"parent":null},
+{"entity":"sculpture","type":"v","granularity":1,"parent":null},
+{"entity":"boardwalk","type":"v","granularity":1,"parent":null},
+{"entity":"sailboats","type":"v","granularity":1,"parent":null},
+{"entity":"calm waters","type":"v","granularity":1,"parent":null},
+{"entity":"coastal atmosphere","type":"v","granularity":1,"parent":null},
+{"entity":"cooler clothing","type":"v","granularity":1,"parent":null},
+{"entity":"rusty iron cubes","type":"v","granularity":2,"parent":"sculpture"},
+{"entity":"wooden-plank decking","type":"v","granularity":2,"parent":"boardwalk"},
+{"entity":"yellow guiding line","type":"v","granularity":2,"parent":"boardwalk"},
+{"entity":"low breakwater","type":"v","granularity":2,"parent":"calm waters"},
+{"entity":"iconic public art","type":"i","granularity":3,"parent":"sculpture"},
+{"entity":"1992 Olympics","type":"i","granularity":3,"parent":"sculpture"},
+{"entity":"Rebecca Horn","type":"i","granularity":3,"parent":"sculpture"},
+{"entity":"The Wounded Star","type":"i","granularity":3,"parent":"sculpture"},
+{"entity":"architectural style","type":"i","granularity":3,"parent":null},
+{"entity":"tourists","type":"i","granularity":3,"parent":"beach"}
+]

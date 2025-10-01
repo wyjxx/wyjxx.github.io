@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "cathedral",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328534,
+    "y": 0.9898214418809327
+  },
+  {
+    "entity": "church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809327,
+    "y": 0.14231483827328562
+  },
+  {
+    "entity": "tomb monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545183,
+    "y": -0.41541501300188644
+  },
+  {
+    "entity": "indoor lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": -0.1423148382732853
+  },
+  {
+    "entity": "Gothic architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 1.777670897309847,
+    "y": 0.9164530434548206
+  },
+  {
+    "entity": "Gothic stone carvings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": 0.5938407506565503,
+    "y": 1.9098044828881475
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": -0.34729635533386016,
+    "y": 1.9696155060244163
+  },
+  {
+    "entity": "stained glass windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cathedral",
+    "x": -0.9445421495453644,
+    "y": 1.7629067268951646
+  },
+  {
+    "entity": "bronze tomb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tomb monument",
+    "x": -1.9742471561774224,
+    "y": -0.3199189996317193
+  },
+  {
+    "entity": "figures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tomb monument",
+    "x": -1.1406452738699282,
+    "y": -1.642841550240983
+  },
+  {
+    "entity": "royal regalia",
+    "type": "v",
+    "granularity": 2,
+    "parent": "figures",
+    "x": -1.7200284804154018,
+    "y": -1.020540066121798
+  },
+  {
+    "entity": "crowns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "figures",
+    "x": -1.1406452738699282,
+    "y": -1.642841550240983
+  },
+  {
+    "entity": "medieval royal attire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "figures",
+    "x": -0.35510639250860715,
+    "y": -1.9682224086722322
+  },
+  {
+    "entity": "carved details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic stone carvings",
+    "x": 0.5938407506565503,
+    "y": 1.9098044828881475
+  },
+  {
+    "entity": "major European cathedral",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cathedral",
+    "x": -2.17120211431521,
+    "y": 2.070237034446337
+  },
+  {
+    "entity": "royal tombs",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tomb monument",
+    "x": 0.5852709660483849,
+    "y": -2.9423558412096913
+  },
+  {
+    "entity": "historical significance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tomb monument",
+    "x": 1.484515022229803,
+    "y": -2.6069551489763008
+  },
+  {
+    "entity": "cultural landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cathedral",
+    "x": -2.708779614859863,
+    "y": 1.2893847362675168
+  },
+  {
+    "entity": "Spanish Gothic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic architecture",
+    "x": 2.915434704970625,
+    "y": 0.7072768065282815
+  },
+  {
+    "entity": "late medieval period",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic architecture",
+    "x": 2.2672487230627754,
+    "y": 1.9645822018358547
+  },
+  {
+    "entity": "Christopher Columbus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tomb monument",
+    "x": 2.2318216880035484,
+    "y": -2.0047373775527286
+  }
+]

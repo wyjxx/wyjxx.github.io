@@ -1,0 +1,21 @@
+[
+  {"entity":"walkway","type":"v","granularity":1,"parent":null},
+  {"entity":"trees","type":"v","granularity":1,"parent":null},
+  {"entity":"PHYSIO THERM sign","type":"v","granularity":1,"parent":null},
+  {"entity":"benches","type":"v","granularity":1,"parent":null},
+  {"entity":"iron railings","type":"v","granularity":1,"parent":null},
+  {"entity":"Europapassage","type":"v","granularity":1,"parent":null},
+  {"entity":"Hotel Atlantic","type":"v","granularity":1,"parent":null},
+  {"entity":"Vier Jahreszeiten","type":"v","granularity":1,"parent":null},
+  {"entity":"dike","type":"v","granularity":1,"parent":null},
+  {"entity":"lake","type":"v","granularity":1,"parent":null},
+  {"entity":"colorful lanterns","type":"v","granularity":2,"parent":"trees"},
+  {"entity":"round paper lanterns","type":"v","granularity":2,"parent":"trees"},
+  {"entity":"granite slab paving","type":"v","granularity":2,"parent":"walkway"},
+  {"entity":"sandstone façade","type":"v","granularity":2,"parent":"PHYSIO THERM sign"},
+  {"entity":"arcade windows","type":"v","granularity":2,"parent":"PHYSIO THERM sign"},
+  {"entity":"driving patterns","type":"i","granularity":3,"parent":"PHYSIO THERM sign"},
+  {"entity":"festive atmosphere","type":"i","granularity":3,"parent":"round paper lanterns"},
+  {"entity":"Alstervergnügen festival","type":"i","granularity":3,"parent":"round paper lanterns"},
+  {"entity":"image search","type":"i","granularity":3,"parent":null}
+]

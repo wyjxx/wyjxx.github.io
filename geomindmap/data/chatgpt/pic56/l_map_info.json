@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Spain","granularity":2,"parent":"Europe"},
+{"entity":"La Mancha","granularity":3,"parent":"Spain"},
+{"entity":"Toledo","granularity":3,"parent":"Spain"},
+{"entity":"Castilla-La Mancha","granularity":3,"parent":"Spain"},
+{"entity":"Consuegra","granularity":4,"parent":"Toledo"},
+{"entity":"Campo de Criptana","granularity":4,"parent":"Toledo"},
+{"entity":"Cerro Calderico","granularity":4,"parent":"Toledo"},
+{"entity":"Molino Rucio","granularity":5,"parent":"Cerro Calderico"}
+]

@@ -1,0 +1,7 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Monaco","granularity":2,"parent":"Europe"},  
+{"entity":"Monte Carlo Casino","granularity":5,"parent":"Monaco"},  
+{"entity":"Place du Casino","granularity":5,"parent":"Monaco"},  
+{"entity":"Monte Carlo","granularity":5,"parent":"Monaco"}  
+]

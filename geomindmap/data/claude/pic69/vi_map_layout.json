@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "paifang",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": 0.14231483827328514
+  },
+  {
+    "entity": "Chinese-style gate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5406408174555977,
+    "y": 0.8412535328311811
+  },
+  {
+    "entity": "European-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.28173255684142945,
+    "y": 0.9594929736144975
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.654860733945285,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "paved street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545182,
+    "y": 0.4154150130018867
+  },
+  {
+    "entity": "Pedestrian Zone sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "modern street lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311814,
+    "y": -0.5406408174555972
+  },
+  {
+    "entity": "red lanterns",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555974,
+    "y": -0.8412535328311812
+  },
+  {
+    "entity": "shop sign Fogo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "urban planning",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545183,
+    "y": -0.41541501300188644
+  },
+  {
+    "entity": "curved rooflines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinese-style gate",
+    "x": 1.7884505397194226,
+    "y": 0.895234420125425
+  },
+  {
+    "entity": "upturned eaves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinese-style gate",
+    "x": 1.3628358791877824,
+    "y": 1.4637890443634507
+  },
+  {
+    "entity": "Chinese characters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinese-style gate",
+    "x": 0.7653668647301797,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "elaborate decorations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinese-style gate",
+    "x": 0.07138466767796144,
+    "y": 1.9987256513139833
+  },
+  {
+    "entity": "regular window patterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.30972146789057,
+    "y": 1.5114991487085165
+  },
+  {
+    "entity": "Western city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 0.2140175495976977,
+    "y": -2.9923563438307603
+  },
+  {
+    "entity": "English signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Pedestrian Zone sign",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "commercial area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 1.4377469601601702,
+    "y": -2.633036968701767
+  },
+  {
+    "entity": "Western urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": 2.4016237227730803,
+    "y": -1.7978329995340414
+  },
+  {
+    "entity": "evening/dusk",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern street lights",
+    "x": -2.5237605984935443,
+    "y": -1.6219224523667917
+  },
+  {
+    "entity": "British urban setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban planning",
+    "x": 2.931440597913479,
+    "y": -0.637695868658929
+  }
+]

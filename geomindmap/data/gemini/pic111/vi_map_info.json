@@ -1,0 +1,18 @@
+[
+{"entity":"signage","type":"v","granularity":1,"parent":null},
+{"entity":"station interior","type":"v","granularity":1,"parent":null},
+{"entity":"underground location","type":"v","granularity":1,"parent":null},
+{"entity":"subway","type":"v","granularity":1,"parent":null},
+{"entity":"arrow","type":"v","granularity":2,"parent":"signage"},
+{"entity":"exposed concrete","type":"v","granularity":2,"parent":"station interior"},
+{"entity":"brutalist architecture","type":"v","granularity":2,"parent":"station interior"},
+{"entity":"circular art piece","type":"v","granularity":2,"parent":"station interior"},
+{"entity":"distribution level","type":"v","granularity":2,"parent":"station interior"},
+{"entity":"signage clue","type":"i","granularity":3,"parent":"signage"},
+{"entity":"location hypothesis","type":"i","granularity":3,"parent":"signage"},
+{"entity":"online search","type":"i","granularity":3,"parent":null},
+{"entity":"background knowledge","type":"i","granularity":3,"parent":null},
+{"entity":"architectural context","type":"i","granularity":3,"parent":"station interior"},
+{"entity":"final address selection","type":"i","granularity":3,"parent":null},
+{"entity":"confidence","type":"i","granularity":3,"parent":null}
+]

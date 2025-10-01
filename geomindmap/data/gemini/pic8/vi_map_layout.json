@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "mountain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.563320058063622,
+    "y": 0.8262387743159949
+  },
+  {
+    "entity": "slope",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.9934372219143102,
+    "y": 0.16188898136240656
+  },
+  {
+    "entity": "visible formations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.941193134906782,
+    "y": 0.48142415081794604
+  },
+  {
+    "entity": "cliffs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.8380741761332413,
+    "y": 0.7883421357710787
+  },
+  {
+    "entity": "scree",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.6867828916257714,
+    "y": 1.0745992166936478
+  },
+  {
+    "entity": "rock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.4912843297663312,
+    "y": 1.3326931559040078
+  },
+  {
+    "entity": "vegetation line",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 1.126640116127244,
+    "y": 1.6524775486319898
+  },
+  {
+    "entity": "geological features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 0.6957417291704543,
+    "y": 1.8750849170879984
+  },
+  {
+    "entity": "hut",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "hut design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hut",
+    "x": -0.9124213147063259,
+    "y": 1.779743617622937
+  },
+  {
+    "entity": "mountain structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 0.38406521162347246,
+    "y": 1.9627770920867753
+  },
+  {
+    "entity": "mountain features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": 0.06232309676946611,
+    "y": 1.9990287220570553
+  },
+  {
+    "entity": "light",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9308737486442044,
+    "y": 0.3653410243663948
+  },
+  {
+    "entity": "angle of the sun",
+    "type": "v",
+    "granularity": 2,
+    "parent": "light",
+    "x": -1.8617474972884087,
+    "y": 0.7306820487327896
+  },
+  {
+    "entity": "landscape features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "scene",
+    "x": -1.6524775486319891,
+    "y": -1.1266401161272448
+  },
+  {
+    "entity": "forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9972037971811801,
+    "y": 0.07473009358642378
+  },
+  {
+    "entity": "mountain profiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountain",
+    "x": -0.26105238444010276,
+    "y": 1.982889722747621
+  },
+  {
+    "entity": "shoreline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9972037971811801,
+    "y": -0.07473009358642442
+  },
+  {
+    "entity": "paths",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818234,
+    "y": -0.22252093395631514
+  },
+  {
+    "entity": "small wooden hut",
+    "type": "v",
+    "granularity": 2,
+    "parent": "hut",
+    "x": -1.246979603717467,
+    "y": 1.5636629649360598
+  },
+  {
+    "entity": "photosphere",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9308737486442041,
+    "y": -0.36534102436639543
+  },
+  {
+    "entity": "scene",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159946,
+    "y": -0.5633200580636224
+  },
+  {
+    "entity": "photograph",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587329,
+    "y": -0.7818314824680302
+  },
+  {
+    "entity": "photo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4338837391175583,
+    "y": -0.900968867902419
+  },
+  {
+    "entity": "images",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14904226617617433,
+    "y": -0.9888308262251285
+  },
+  {
+    "entity": "drone footage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14904226617617483,
+    "y": -0.9888308262251285
+  },
+  {
+    "entity": "Google Street View",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2947551744109035,
+    "y": -0.955572805786141
+  },
+  {
+    "entity": "Google Maps",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.43388373911755795,
+    "y": -0.9009688679024193
+  },
+  {
+    "entity": "image features",
+    "type": "v",
+    "granularity": 2,
+    "parent": "images",
+    "x": -0.5176380902050413,
+    "y": -1.9318516525781366
+  },
+  {
+    "entity": "photo comparisons",
+    "type": "v",
+    "granularity": 2,
+    "parent": "images",
+    "x": -0.07478238855265101,
+    "y": -1.9986014095767972
+  },
+  {
+    "entity": "known mountain ranges",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountain",
+    "x": -0.8663792905788894,
+    "y": 2.872174598602254
+  },
+  {
+    "entity": "time of day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "angle of the sun",
+    "x": -2.792621245932613,
+    "y": 1.0960230730991845
+  },
+  {
+    "entity": "elevation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation line",
+    "x": 1.6899601741908659,
+    "y": 2.4787163229479847
+  },
+  {
+    "entity": "reference point",
+    "type": "i",
+    "granularity": 3,
+    "parent": "hut",
+    "x": -2.2981333293569337,
+    "y": 1.9283628290596184
+  },
+  {
+    "entity": "search queries",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.6899601741908625,
+    "y": -2.478716322947987
+  },
+  {
+    "entity": "search terms",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.0405182133127564,
+    "y": -2.199155615489481
+  },
+  {
+    "entity": "detailed search",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.3454944474040857,
+    "y": -1.870469405576205
+  },
+  {
+    "entity": "exact location",
+    "type": "i",
+    "granularity": 3,
+    "parent": "photograph",
+    "x": -1.8704694055761988,
+    "y": -2.3454944474040906
+  },
+  {
+    "entity": "evidence",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "precise coordinates",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.79262124593261,
+    "y": -1.0960230730991922
+  },
+  {
+    "entity": "analysis",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9247837365454696,
+    "y": -0.6675628018689491
+  },
+  {
+    "entity": "likelihood",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9916113915435396,
+    "y": -0.22419028075928232
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "turquoise water",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9890437907365466,
+    "y": 0.20905692653530691
+  },
+  {
+    "entity": "water clarity",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.902113032590307,
+    "y": 0.6180339887498948
+  },
+  {
+    "entity": "shallow areas",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "rocks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "light rocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocks",
+    "x": 1.4386796006773024,
+    "y": 1.3893167409179945
+  },
+  {
+    "entity": "shoreline",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775912,
+    "y": 0.9781476007338057
+  },
+  {
+    "entity": "rocky shoreline",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shoreline",
+    "x": -0.10467191248588724,
+    "y": 1.9972590695091477
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9781476007338056,
+    "y": 0.20791169081775973
+  },
+  {
+    "entity": "coniferous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.1996437893758267,
+    "y": 1.600267096022413
+  },
+  {
+    "entity": "pines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.5448339184491993,
+    "y": 1.270231539684357
+  },
+  {
+    "entity": "flowers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "heather-like blooms",
+    "type": "v",
+    "granularity": 3,
+    "parent": "flowers",
+    "x": -2.7759129014219903,
+    "y": 1.1376763879587852
+  },
+  {
+    "entity": "topography",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7431448254773946,
+    "y": -0.6691306063588579
+  },
+  {
+    "entity": "light",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5877852522924732,
+    "y": -0.8090169943749473
+  },
+  {
+    "entity": "right bank",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shoreline",
+    "x": -0.7167358990906001,
+    "y": 1.8671608529944037
+  },
+  {
+    "entity": "rock formations",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rocks",
+    "x": 0.7492131868318244,
+    "y": 1.8543677091335746
+  },
+  {
+    "entity": "dead branch",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tree on right",
+    "x": -2.7759129014219903,
+    "y": -1.1376763879587857
+  },
+  {
+    "entity": "arrangement of stones",
+    "type": "v",
+    "granularity": 3,
+    "parent": "rock formations",
+    "x": 1.1238197802477365,
+    "y": 2.781551563700362
+  },
+  {
+    "entity": "tree on right",
+    "type": "v",
+    "granularity": 2,
+    "parent": "vegetation",
+    "x": -1.8506086009479934,
+    "y": -0.7584509253058571
+  },
+  {
+    "entity": "potential locations",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -1.2202099292274027,
+    "y": -2.740636372927802
+  },
+  {
+    "entity": "correlation of features",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -0.6237350724532768,
+    "y": -2.934442802201417
+  },
+  {
+    "entity": "cross-referencing lake names",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "Erica carnea identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "flowers",
+    "x": -2.99865729685051,
+    "y": 0.08974639850819528
+  },
+  {
+    "entity": "narrowed possibilities",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 0.623735072453281,
+    "y": -2.934442802201416
+  },
+  {
+    "entity": "native range",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.2202099292274016,
+    "y": -2.7406363729278023
+  },
+  {
+    "entity": "street view data",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 1.7633557568774232,
+    "y": -2.4270509831248392
+  },
+  {
+    "entity": "vantage point matching",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.2294344764321847,
+    "y": -2.0073918190765725
+  },
+  {
+    "entity": "coordinates evaluation",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.598076211353319,
+    "y": -1.4999999999999944
+  },
+  {
+    "entity": "address pinpointing",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.8531695488854623,
+    "y": -0.9270509831248379
+  },
+  {
+    "entity": "historical documentation",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.983565686104821,
+    "y": -0.3135853898029523
+  }
+]

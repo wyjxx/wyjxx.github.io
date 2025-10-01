@@ -1,0 +1,128 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9659461993678036,
+    "y": 0.3674990356331407
+  },
+  {
+    "entity": "Eastern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7004342714592284,
+    "y": 1.0528643257547114
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.5473259801441656,
+    "y": 1.923651286345638
+  },
+  {
+    "entity": "Carpathian Mountains",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.8914767115530764,
+    "y": 1.7903265827101247
+  },
+  {
+    "entity": "Balkans",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.478017834441318,
+    "y": 1.3473912872931149
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.205269272758513,
+    "y": -1.596034454560479
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.1845367189266056,
+    "y": -1.991468352590069
+  },
+  {
+    "entity": "Czech Republic",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.8914767115530754,
+    "y": -1.7903265827101251
+  },
+  {
+    "entity": "Slovakia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.864944458808711,
+    "y": -0.7224833323743077
+  },
+  {
+    "entity": "Bavarian Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": 1.5792964886320675,
+    "y": 2.5506514071888424
+  },
+  {
+    "entity": "Austrian Alps",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Bohemian Paradise",
+    "granularity": 3,
+    "parent": "Czech Republic",
+    "x": 1.337215067329613,
+    "y": -2.685489874065188
+  },
+  {
+    "entity": "Slovak Paradise",
+    "granularity": 3,
+    "parent": "Slovakia",
+    "x": 2.797416688213066,
+    "y": -1.0837249985614616
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "Tyrol",
+    "granularity": 3,
+    "parent": "Austria",
+    "x": -1.8079039091377695,
+    "y": -2.3940516818407183
+  },
+  {
+    "entity": "Schönau am Königssee",
+    "granularity": 4,
+    "parent": "Bavaria",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  }
+]

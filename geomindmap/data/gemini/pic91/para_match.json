@@ -1,0 +1,22 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "grand library",
+    "old library",
+    "long hall",
+    "wooden barrel-vaulted ceiling",
+    "bookshelves"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "Latin legal terms",
+    "subject headings",
+    "law college",
+    "Mary P. Clancy",
+    "STEPH",
+    "Latin text"
+  ],
+  "loc-clue": []
+},{"paragraph":3,"clue":["architecture","bookshelves","busts","sphere of the Earth","Gaia by Luke Jerram","Mary P. Clancy"],"loc-clue":[{"loc":"Trinity College Dublin","status":3,"related_clue":["architecture","bookshelves","busts","sphere of the Earth","Gaia by Luke Jerram"]},{"loc":"Long Room","status":3,"related_clue":["architecture","bookshelves","busts","sphere of the Earth","Gaia by Luke Jerram"]}]},{"paragraph":4,"clue":["Gaia installation","Latin legal terms","Mary P. Clancy","historical context"],"loc-clue":[{"loc":"Long Room","status":3,"related_clue":["Gaia installation","Latin legal terms","Mary P. Clancy","historical context"]},{"loc":"Trinity College Dublin","status":3,"related_clue":["Gaia installation","Latin legal terms","Mary P. Clancy","historical context"]}]},{"paragraph":5,"clue":["Gaia installation","architecture","Latin text","buildings"],"loc-clue":[{"loc":"Trinity College Dublin","status":3,"related_clue":["Gaia installation","architecture","Latin text"]},{"loc":"Long Room","status":3,"related_clue":["Gaia installation","architecture","Latin text"]},{"loc":"Old Library","status":3,"related_clue":["Gaia installation","architecture","Latin text"]},{"loc":"Temple Bar","status":2,"related_clue":["buildings"]}]},{"paragraph":6,"clue":["Mary P. Clancy","Latin legal terms","architectural details"],"loc-clue":[{"loc":"Trinity College Dublin","status":3,"related_clue":["Mary P. Clancy","Latin legal terms","architectural details"]}]},{"paragraph":7,"clue":[],"loc-clue":[{"loc":"Trinity College Dublin","status":3,"related_clue":[]},{"loc":"Dublin","status":3,"related_clue":[]},{"loc":"Ireland","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}] }]

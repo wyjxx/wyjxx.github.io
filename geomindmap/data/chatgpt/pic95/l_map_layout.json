@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.5176380902050417,
+    "y": 1.9318516525781366
+  },
+  {
+    "entity": "German-speaking region",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.6629392246050905,
+    "y": -1.1111404660392046
+  },
+  {
+    "entity": "Zurich",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 1.9169959468802271,
+    "y": -3.5107159582690226
+  },
+  {
+    "entity": "Vienna",
+    "granularity": 4,
+    "parent": "Austria",
+    "x": -1.5307337294603613,
+    "y": -3.695518130045146
+  },
+  {
+    "entity": "Frankfurt",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.8534835144635213,
+    "y": 1.0726904510425495
+  },
+  {
+    "entity": "Rotterdam",
+    "granularity": 4,
+    "parent": null,
+    "x": -3.00735922991591,
+    "y": -2.6373832604002754
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.276608177155967,
+    "y": 2.294305745404184
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.7653668647301807,
+    "y": -1.847759065022573
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.4142135623730947,
+    "y": -1.4142135623730954
+  },
+  {
+    "entity": "Oerlikon station",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 0.4160175218938128,
+    "y": -4.9826628845906615
+  },
+  {
+    "entity": "Bern",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 3.5107159582690235,
+    "y": -1.9169959468802256
+  },
+  {
+    "entity": "Cologne",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.9359733250449414,
+    "y": 2.716626701375173
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.4809419650730398,
+    "y": 3.1376626596783033
+  },
+  {
+    "entity": "Hackerbrücke",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.163526642812581,
+    "y": 3.8719632204109278
+  },
+  {
+    "entity": "Highlight Towers",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.581421145091483,
+    "y": 4.282086509130166
+  },
+  {
+    "entity": "Uptown Munich",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.9469594782292763,
+    "y": 4.6053608751251165
+  },
+  {
+    "entity": "DB tower",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 1.273009741027638,
+    "y": 4.8352296945697155
+  },
+  {
+    "entity": "Hypobank tower",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 0.5732409260493059,
+    "y": 4.9670307871707555
+  },
+  {
+    "entity": "Commerzbank tower",
+    "granularity": 5,
+    "parent": "Frankfurt",
+    "x": 4.979538999730046,
+    "y": 0.4518753701713405
+  },
+  {
+    "entity": "HypoVereinsbank Tower",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -0.13815431375316609,
+    "y": 4.998090974121158
+  },
+  {
+    "entity": "Basel",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": 3.9085874638846385,
+    "y": -0.8502611582119054
+  },
+  {
+    "entity": "Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -1.8730329670795594,
+    "y": 4.635919272833937
+  },
+  {
+    "entity": "Hauptbahnhof Nord tram terminal",
+    "granularity": 5,
+    "parent": "Hauptbahnhof",
+    "x": -1.8730329670795594,
+    "y": 4.635919272833937
+  },
+  {
+    "entity": "Nord",
+    "granularity": 5,
+    "parent": "Hauptbahnhof Nord tram terminal",
+    "x": -1.1954920010067709,
+    "y": 4.85497671215103
+  },
+  {
+    "entity": "Süd",
+    "granularity": 5,
+    "parent": "Hauptbahnhof Nord tram terminal",
+    "x": -2.5125852341685477,
+    "y": 4.322836504083654
+  },
+  {
+    "entity": "Holzkirchner Bahnhof",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.372585835017699,
+    "y": 3.6912958138623853
+  },
+  {
+    "entity": "Arnulfpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.862744525925959,
+    "y": 3.1747763271495266
+  },
+  {
+    "entity": "Neuhausen",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.274559353364733,
+    "y": 2.5938662908026067
+  },
+  {
+    "entity": "Schwanthalerhöhe",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.5996779232269285,
+    "y": 1.9603476739034864
+  },
+  {
+    "entity": "Neuhausen-Nymphenburg",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.831506207696898,
+    "y": 1.2870694483928746
+  },
+  {
+    "entity": "Ludwigsvorstadt-Isarvorstadt",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.965342284774632,
+    "y": 0.5876869872891833
+  },
+  {
+    "entity": "Quartier Hofstatt",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.9984717022670075,
+    "y": -0.12361489245219856
+  },
+  {
+    "entity": "Quartier ICADE Premier office",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.9302225320815944,
+    "y": -0.8324096252176277
+  },
+  {
+    "entity": "UNO-City",
+    "granularity": 5,
+    "parent": "Vienna",
+    "x": -3.171966420818226,
+    "y": -3.865052266813686
+  },
+  {
+    "entity": "Tower 185",
+    "granularity": 5,
+    "parent": "Frankfurt",
+    "x": 4.816854393079401,
+    "y": 1.3408630638031869
+  },
+  {
+    "entity": "Messeturm",
+    "granularity": 5,
+    "parent": "Frankfurt",
+    "x": 4.496800186095466,
+    "y": 2.186043935133003
+  },
+  {
+    "entity": "Westbahnhof region",
+    "granularity": 5,
+    "parent": "Vienna",
+    "x": -2.356983684129989,
+    "y": -4.409606321741775
+  },
+  {
+    "entity": "Millennium Tower",
+    "granularity": 5,
+    "parent": "Vienna",
+    "x": -1.4514233862723078,
+    "y": -4.784701678661046
+  },
+  {
+    "entity": "DC Towers",
+    "granularity": 5,
+    "parent": "Vienna",
+    "x": -0.49008570164780224,
+    "y": -4.975923633360985
+  },
+  {
+    "entity": "Roche Towers",
+    "granularity": 5,
+    "parent": "Basel",
+    "x": 4.744129584186598,
+    "y": -1.578997938075126
+  },
+  {
+    "entity": "BIS Tower",
+    "granularity": 5,
+    "parent": "Basel",
+    "x": 4.971351508859486,
+    "y": -0.5344756078255637
+  },
+  {
+    "entity": "AXA Tower",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 1.2365325027710747,
+    "y": -4.844686508907538
+  },
+  {
+    "entity": "Swissmill Tower",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 2.0228063003496777,
+    "y": -4.572554501727196
+  },
+  {
+    "entity": "Novartis headquarters tower",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 2.7530659768657424,
+    "y": -4.173802550076402
+  },
+  {
+    "entity": "Mobimo Tower",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 3.407089697969457,
+    "y": -3.6594726109086255
+  },
+  {
+    "entity": "Volta Nord",
+    "granularity": 5,
+    "parent": "Zurich",
+    "x": 3.9667667014561747,
+    "y": -3.0438071450436044
+  },
+  {
+    "entity": "Kempinski tower",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.7619789982163905,
+    "y": -1.5243214951400588
+  },
+  {
+    "entity": "Promenade Towers",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.497153402043717,
+    "y": -2.1853172031736303
+  }
+]

@@ -1,0 +1,7 @@
+[  
+  {"entity": "Europe", "granularity": 1, "parent": null},  
+  {"entity": "Belgium", "granularity": 2, "parent": "Europe"},  
+  {"entity": "Brussels", "granularity": 4, "parent": "Belgium"},  
+  {"entity": "Saint-Josse-ten-Noode", "granularity": 5, "parent": "Brussels"},  
+  {"entity": "Place Rogier", "granularity": 5, "parent": "Brussels"}  
+]

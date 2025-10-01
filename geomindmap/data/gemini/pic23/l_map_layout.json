@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.2360679774997894,
+    "y": 3.8042260651806146
+  },
+  {
+    "entity": "Munich Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 2.938926261462366,
+    "y": 4.045084971874737
+  },
+  {
+    "entity": "Frankfurt (Main) Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -1.5450849718747377,
+    "y": -4.755282581475767
+  },
+  {
+    "entity": "Leipzig Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 4.045084971874736,
+    "y": -2.938926261462367
+  },
+  {
+    "entity": "Ludwigsvorstadt",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -4.755282581475767,
+    "y": 1.5450849718747375
+  }
+]

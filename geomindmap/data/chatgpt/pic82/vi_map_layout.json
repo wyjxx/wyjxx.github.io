@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "Oxford street-name plate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.17364817766693064,
+    "y": 0.984807753012208
+  },
+  {
+    "entity": "cobbled passage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "narrow pedestrian lane",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "covered bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256694,
+    "y": -0.9396926207859082
+  },
+  {
+    "entity": "wiring",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0718754395722282e-15,
+    "y": -1.0
+  },
+  {
+    "entity": "Logic Lane text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "dark-blue-and-white style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Oxford street-name plate",
+    "x": 0.3472963553338613,
+    "y": 1.969615506024416
+  },
+  {
+    "entity": "sign placement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sign",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "building masonry",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.5320888862379545,
+    "y": -1.2855752193730805
+  },
+  {
+    "entity": "weathered limestone",
+    "type": "v",
+    "granularity": 3,
+    "parent": "building masonry",
+    "x": 1.188239298117467,
+    "y": -2.7546483206408237
+  },
+  {
+    "entity": "Cotswold stone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building masonry",
+    "x": 2.298133329356932,
+    "y": -1.9283628290596209
+  },
+  {
+    "entity": "typical central Oxford limestone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building masonry",
+    "x": 2.9191346117394708,
+    "y": -0.6918476122273239
+  },
+  {
+    "entity": "runs through University College",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cobbled passage",
+    "x": -1.4999999999999993,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "in the heart of Oxford",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow pedestrian lane",
+    "x": -2.6610324995346644,
+    "y": 1.385245839705103
+  },
+  {
+    "entity": "private lane",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow pedestrian lane",
+    "x": -2.9971446647455733,
+    "y": 0.1308581620960082
+  },
+  {
+    "entity": "college-owned",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow pedestrian lane",
+    "x": -2.771638597533861,
+    "y": -1.1480502970952677
+  },
+  {
+    "entity": "OX1 4EX",
+    "type": "i",
+    "granularity": 3,
+    "parent": "narrow pedestrian lane",
+    "x": -2.026770622846981,
+    "y": -2.2118320104303715
+  }
+]

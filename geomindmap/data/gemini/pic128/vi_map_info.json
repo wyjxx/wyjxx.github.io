@@ -1,0 +1,17 @@
+[
+{"entity":"aqueduct","type":"v","granularity":1,"parent":null},
+{"entity":"valley","type":"v","granularity":1,"parent":null},
+{"entity":"vegetation","type":"v","granularity":1,"parent":null},
+{"entity":"modern infrastructure","type":"v","granularity":1,"parent":null},
+{"entity":"highway","type":"v","granularity":1,"parent":null},
+{"entity":"railway","type":"v","granularity":1,"parent":null},
+{"entity":"clear blue sky","type":"v","granularity":1,"parent":null},
+{"entity":"cycling path","type":"v","granularity":1,"parent":null},
+{"entity":"pedestrian path","type":"v","granularity":1,"parent":null},
+{"entity":"pedestrian bridge","type":"v","granularity":1,"parent":null},
+{"entity":"pointed arches","type":"v","granularity":2,"parent":"aqueduct"},
+{"entity":"Gothic architecture","type":"v","granularity":2,"parent":"aqueduct"},
+{"entity":"stone pine","type":"v","granularity":2,"parent":"vegetation"},
+{"entity":"photo viewpoint","type":"v","granularity":1,"parent":null},
+{"entity":"Mediterranean vegetation","type":"i","granularity":3,"parent":"vegetation"}
+]

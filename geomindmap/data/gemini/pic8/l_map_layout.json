@@ -1,0 +1,100 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7709120513064196,
+    "y": 0.9294463440875373
+  },
+  {
+    "entity": "Alps",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.77091205130642,
+    "y": -0.9294463440875368
+  },
+  {
+    "entity": "German Alps",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.6563680769596294,
+    "y": 1.394169516131306
+  },
+  {
+    "entity": "Berchtesgaden Alps",
+    "granularity": 3,
+    "parent": "German Alps",
+    "x": -2.6563680769596294,
+    "y": 1.394169516131306
+  },
+  {
+    "entity": "valleys",
+    "granularity": 3,
+    "parent": "Alps",
+    "x": 2.6563680769596303,
+    "y": -1.3941695161313052
+  },
+  {
+    "entity": "Reiter Alpe massif",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": 3.781199260138561,
+    "y": 1.3048111568834773
+  },
+  {
+    "entity": "Hintersee",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": 2.171795928805915,
+    "y": 3.3590627329095915
+  },
+  {
+    "entity": "Ramsau",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": -0.3619955033185512,
+    "y": 3.983586230468364
+  },
+  {
+    "entity": "Ramsau bei Berchtesgaden",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": -2.741709689340158,
+    "y": 2.912563815503155
+  },
+  {
+    "entity": "lake",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": -3.954461648830137,
+    "y": 0.6018580130991316
+  },
+  {
+    "entity": "bay",
+    "granularity": 4,
+    "parent": "Berchtesgaden Alps",
+    "x": -3.484064079982063,
+    "y": -1.9650184443355085
+  },
+  {
+    "entity": "south shore",
+    "granularity": 5,
+    "parent": "Berchtesgaden Alps",
+    "x": -1.9134171618254476,
+    "y": -4.619397662556434
+  },
+  {
+    "entity": "western side",
+    "granularity": 5,
+    "parent": "Berchtesgaden Alps",
+    "x": 1.3426593373718834,
+    "y": -4.8163540052375815
+  }
+]

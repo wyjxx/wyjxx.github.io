@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "snow-covered landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.970941817426052,
+    "y": 0.23931566428755777
+  },
+  {
+    "entity": "dense coniferous forest",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5680647467311558,
+    "y": 0.8229838658936565
+  },
+  {
+    "entity": "spruce trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense coniferous forest",
+    "x": 1.5988855268070024,
+    "y": 1.2014845284759577
+  },
+  {
+    "entity": "fir trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense coniferous forest",
+    "x": 1.1361294934623116,
+    "y": 1.645967731787313
+  },
+  {
+    "entity": "mountainous terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6631226582407953,
+    "y": 0.748510748171101
+  },
+  {
+    "entity": "forested slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": -0.0402741065308808,
+    "y": 1.9995944579697003
+  },
+  {
+    "entity": "rocky outcrops",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": -0.5950061077104062,
+    "y": 1.9094417330170912
+  },
+  {
+    "entity": "steep slopes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mountainous terrain",
+    "x": -1.1027541794433833,
+    "y": 1.6685122773657226
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.992708874098054,
+    "y": -0.12053668025532283
+  },
+  {
+    "entity": "natural daylight",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8229838658936565,
+    "y": -0.5680647467311556
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "natural daylight",
+    "x": -1.8237996919841803,
+    "y": -0.8208256109055131
+  },
+  {
+    "entity": "winding paved road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "white road markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "winding paved road",
+    "x": -0.8755354103306799,
+    "y": -1.7981762275308524
+  },
+  {
+    "entity": "reflector post",
+    "type": "v",
+    "granularity": 2,
+    "parent": "winding paved road",
+    "x": -0.3009290065495659,
+    "y": -1.9772308244150685
+  },
+  {
+    "entity": "road marker",
+    "type": "v",
+    "granularity": 2,
+    "parent": "winding paved road",
+    "x": 0.30092900654956517,
+    "y": -1.9772308244150685
+  },
+  {
+    "entity": "mountain topography",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6631226582407952,
+    "y": -0.7485107481711011
+  },
+  {
+    "entity": "forest composition",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dense coniferous forest",
+    "x": 0.5564349278329055,
+    "y": 1.9210362232627445
+  },
+  {
+    "entity": "road infrastructure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9350162426854147,
+    "y": -0.35460488704253595
+  },
+  {
+    "entity": "winter conditions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "snow-covered landscape",
+    "x": 2.912825452278156,
+    "y": 0.7179469928626733
+  },
+  {
+    "entity": "alpine region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": -2.285136924532078,
+    "y": 1.9437461861416154
+  },
+  {
+    "entity": "late afternoon",
+    "type": "i",
+    "granularity": 3,
+    "parent": "natural daylight",
+    "x": -2.121320343559643,
+    "y": -2.1213203435596424
+  },
+  {
+    "entity": "temperate mountain region",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": -2.73569953797627,
+    "y": 1.2312384163582704
+  },
+  {
+    "entity": "well-maintained road",
+    "type": "i",
+    "granularity": 3,
+    "parent": "winding paved road",
+    "x": 1.3133031154960189,
+    "y": -2.6972643412962793
+  },
+  {
+    "entity": "European road infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road infrastructure",
+    "x": 2.5673438169043417,
+    "y": -1.5520134425329712
+  },
+  {
+    "entity": "Germanic regions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous terrain",
+    "x": -2.9702409838834924,
+    "y": 0.4215074111552765
+  },
+  {
+    "entity": "winter road maintenance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "road infrastructure",
+    "x": 2.9508597208414304,
+    "y": -0.5407651134417181
+  }
+]

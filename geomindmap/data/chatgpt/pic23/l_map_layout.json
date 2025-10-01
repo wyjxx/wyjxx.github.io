@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.7587704831436337,
+    "y": 1.3680805733026749
+  },
+  {
+    "entity": "Nuremberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.0000000000000004,
+    "y": 3.4641016151377544
+  },
+  {
+    "entity": "Frankfurt am Main",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.0641777724759116,
+    "y": 2.571150438746158
+  },
+  {
+    "entity": "Leipzig Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -3.8302222155948917,
+    "y": -3.2139380484326945
+  },
+  {
+    "entity": "Stuttgart Hbf",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": -0.8682408883346516,
+    "y": -4.92403876506104
+  },
+  {
+    "entity": "Frankfurt (Main) Hauptbahnhof",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -1.7101007166283435,
+    "y": 4.698463103929543
+  },
+  {
+    "entity": "Köln Hbf",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 2.4999999999999964,
+    "y": -4.330127018922195
+  },
+  {
+    "entity": "Dortmund Hbf",
+    "granularity": 5,
+    "parent": "Germany",
+    "x": 4.698463103929543,
+    "y": -1.710100716628343
+  },
+  {
+    "entity": "Bahnhofsviertel",
+    "granularity": 5,
+    "parent": "Frankfurt am Main",
+    "x": -4.92403876506104,
+    "y": 0.8682408883346535
+  }
+]

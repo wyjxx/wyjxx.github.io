@@ -1,0 +1,18 @@
+[  
+{"entity":"Roman aqueduct","type":"v","granularity":1,"parent":null},  
+{"entity":"Spanish flag","type":"v","granularity":1,"parent":null},  
+{"entity":"blue \"i\" sign","type":"v","granularity":1,"parent":null},  
+{"entity":"granite blocks","type":"v","granularity":2,"parent":"Roman aqueduct"},  
+{"entity":"mortar","type":"v","granularity":2,"parent":"Roman aqueduct"},  
+{"entity":"inscription \"MCMXXI\"","type":"v","granularity":2,"parent":"Roman aqueduct"},  
+{"entity":"architectural details","type":"v","granularity":2,"parent":"Roman aqueduct"},  
+{"entity":"Roman presence","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"neighborhood-level precision","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"well-documented aqueducts","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"possibilities","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"unique features","type":"i","granularity":3,"parent":"architectural details"},  
+{"entity":"tourist information","type":"i","granularity":3,"parent":"blue \"i\" sign"},  
+{"entity":"image searches","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"cross-referencing","type":"i","granularity":3,"parent":"Roman aqueduct"},  
+{"entity":"points to Spain","type":"i","granularity":3,"parent":"Spanish flag"}  
+]

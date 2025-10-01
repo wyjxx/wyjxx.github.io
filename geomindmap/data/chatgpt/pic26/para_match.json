@@ -1,0 +1,286 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "harbor building",
+    "port authority",
+    "flag",
+    "residential area",
+    "white houses",
+    "pastel buildings",
+    "clay tile roofs"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Port de Nice",
+      "status": 2,
+      "related_clue": [
+        "harbor building",
+        "port authority"
+      ]
+    },
+    {
+      "loc": "Vieux Port de Marseille",
+      "status": 2,
+      "related_clue": [
+        "harbor building",
+        "port authority"
+      ]
+    },
+    {
+      "loc": "Marseille",
+      "status": 1,
+      "related_clue": [
+        "flag",
+        "residential area"
+      ]
+    },
+    {
+      "loc": "Fort Saint-Jean",
+      "status": 1,
+      "related_clue": [
+        "flag",
+        "residential area"
+      ]
+    },
+    {
+      "loc": "Porquerolles",
+      "status": 1,
+      "related_clue": [
+        "white houses"
+      ]
+    },
+    {
+      "loc": "Cassis",
+      "status": 2,
+      "related_clue": [
+        "harbor building",
+        "port authority"
+      ]
+    },
+    {
+      "loc": "Nice's port",
+      "status": 2,
+      "related_clue": [
+        "harbor building",
+        "port authority"
+      ]
+    },
+    {
+      "loc": "Le Vieux Port",
+      "status": 2,
+      "related_clue": [
+        "harbor building",
+        "port authority"
+      ]
+    },
+    {
+      "loc": "Le Suquet",
+      "status": 2,
+      "related_clue": [
+        "pastel buildings",
+        "clay tile roofs"
+      ]
+    },
+    {
+      "loc": "Cannes",
+      "status": 2,
+      "related_clue": [
+        "pastel buildings",
+        "clay tile roofs"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "Baroque facades",
+    "pastel facades",
+    "wrought-iron balconies",
+    "pastel walls",
+    "tile roofs",
+    "French flag",
+    "public building",
+    "town hall",
+    "bird notice",
+    "balcony",
+    "Provencal style",
+    "blue shutters",
+    "mixed architecture",
+    "tourist vibe"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Vieux Nice",
+      "status": 2,
+      "related_clue": [
+        "Baroque facades",
+        "pastel facades",
+        "wrought-iron balconies"
+      ]
+    },
+    {
+      "loc": "Antibes old town",
+      "status": 2,
+      "related_clue": [
+        "pastel walls",
+        "tile roofs"
+      ]
+    },
+    {
+      "loc": "Place de Gaulle",
+      "status": 2,
+      "related_clue": [
+        "French flag",
+        "public building",
+        "town hall"
+      ]
+    },
+    {
+      "loc": "Toulon",
+      "status": 2,
+      "related_clue": [
+        "bird notice",
+        "balcony",
+        "Provencal style",
+        "blue shutters"
+      ]
+    },
+    {
+      "loc": "Le Suquet",
+      "status": 3,
+      "related_clue": [
+        "mixed architecture",
+        "tourist vibe"
+      ]
+    },
+    {
+      "loc": "Cannes",
+      "status": 2,
+      "related_clue": [
+        "mixed architecture",
+        "tourist vibe"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "rooftops",
+    "seagull",
+    "sea",
+    "Mediterranean architecture",
+    "terracotta roof tiles",
+    "stucco walls",
+    "wooden shutters",
+    "blue shutters",
+    "Provencal style",
+    "cylindrical style",
+    "chimney pots",
+    "blue sky",
+    "French tricolour",
+    "sea proximity",
+    "inland city",
+    "low-rise buildings",
+    "dense hillside cluster",
+    "modern facades",
+    "historic dwellings",
+    "residential quarter",
+    "tourist presence",
+    "pastel facades",
+    "narrow streets",
+    "fishermen's neighborhood"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Rue Sainte-Anne",
+      "status": 2,
+      "related_clue": [
+        "rooftops"
+      ]
+    },
+    {
+      "loc": "Mediterranean coast",
+      "status": 2,
+      "related_clue": [
+        "seagull",
+        "blue sky",
+        "sea proximity"
+      ]
+    },
+    {
+      "loc": "Le Suquet",
+      "status": 3,
+      "related_clue": [
+        "rooftops",
+        "seagull",
+        "sea",
+        "Mediterranean architecture",
+        "terracotta roof tiles",
+        "stucco walls",
+        "wooden shutters",
+        "blue shutters",
+        "Provencal style",
+        "cylindrical style",
+        "chimney pots",
+        "blue sky",
+        "French tricolour",
+        "sea proximity",
+        "low-rise buildings",
+        "dense hillside cluster",
+        "modern facades",
+        "historic dwellings",
+        "residential quarter",
+        "tourist presence",
+        "pastel facades",
+        "narrow streets",
+        "fishermen's neighborhood"
+      ]
+    },
+    {
+      "loc": "Cannes",
+      "status": 3,
+      "related_clue": [
+        "tourist presence"
+      ]
+    },
+    {
+      "loc": "Provence-Alpes-Côte d'Azur",
+      "status": 3,
+      "related_clue": [
+        "Provencal style"
+      ]
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": [
+        "French tricolour"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Le Suquet",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Cannes",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Provence-Alpes-Côte d'Azur",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "France",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

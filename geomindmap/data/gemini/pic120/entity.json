@@ -1,0 +1,21 @@
+[  
+  {"entity":"Northern Europe","type":"l"},  
+  {"entity":"Belgium","type":"l"},  
+  {"entity":"Netherlands","type":"l"},  
+  {"entity":"Brussels","type":"l"},  
+  {"entity":"Manneken Pis","type":"l"},  
+  {"entity":"Rue du Chêne","type":"l"},  
+  {"entity":"Poechenellekelder","type":"l"},  
+  {"entity":"narrow brick buildings","type":"v"},  
+  {"entity":"bar","type":"v"},  
+  {"entity":"statue","type":"v"},  
+  {"entity":"multilingual signage","type":"v"},  
+  {"entity":"Estaminet signage","type":"v"},  
+  {"entity":"brick architecture","type":"v"},  
+  {"entity":"street details","type":"v"},  
+  {"entity":"Belgian architecture","type":"i"},  
+  {"entity":"Dutch architecture","type":"i"},  
+  {"entity":"Manneken Pis reference","type":"i"},  
+  {"entity":"Poechelekelder clue","type":"i"},  
+  {"entity":"Rue du Chêne address","type":"i"}  
+]

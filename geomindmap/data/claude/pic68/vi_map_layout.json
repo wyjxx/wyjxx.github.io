@@ -1,0 +1,234 @@
+[
+  {
+    "entity": "interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.16178199655276473,
+    "y": 0.9868265225415261
+  },
+  {
+    "entity": "large museum",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6473862847818275,
+    "y": -0.7621620551276366
+  },
+  {
+    "entity": "terra cotta exterior",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large museum",
+    "x": -1.6553779963137814,
+    "y": -1.1223741307247646
+  },
+  {
+    "entity": "terra cotta interior",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.9866623934630199,
+    "y": 0.23059170496742754
+  },
+  {
+    "entity": "brownstone construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large museum",
+    "x": -1.0771359231218087,
+    "y": -1.685164147233298
+  },
+  {
+    "entity": "ornate arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.881026519005848,
+    "y": 0.6795139695375969
+  },
+  {
+    "entity": "doorways",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.6753716972599295,
+    "y": 1.092304754187394
+  },
+  {
+    "entity": "multiple levels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 1.2045911261375497,
+    "y": 1.596546340959344
+  },
+  {
+    "entity": "galleries",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 0.5904961555639197,
+    "y": 1.9108412519788847
+  },
+  {
+    "entity": "large central hall",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": 0.13711136049546796,
+    "y": 1.9952945834695892
+  },
+  {
+    "entity": "glass roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -0.5489602188306707,
+    "y": 1.9231855547870003
+  },
+  {
+    "entity": "skylight system",
+    "type": "v",
+    "granularity": 3,
+    "parent": "glass roof",
+    "x": -0.8234403282460061,
+    "y": 2.8847783321805003
+  },
+  {
+    "entity": "stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.348960280281029,
+    "y": 1.4765859819949962
+  },
+  {
+    "entity": "carved details",
+    "type": "v",
+    "granularity": 3,
+    "parent": "stonework",
+    "x": -2.0234404204215437,
+    "y": 2.2148789729924943
+  },
+  {
+    "entity": "classical columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.7703954311415842,
+    "y": 0.9304300174612834
+  },
+  {
+    "entity": "arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.936445881205127,
+    "y": 0.5001773177221245
+  },
+  {
+    "entity": "large whale skeleton",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.16178199655276526,
+    "y": -0.986826522541526
+  },
+  {
+    "entity": "ceiling",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.9995305960369683,
+    "y": 0.043328922350391916
+  },
+  {
+    "entity": "skeleton display",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6473862847818279,
+    "y": -0.7621620551276362
+  },
+  {
+    "entity": "\"Dinosaurs\" signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8568571761675897,
+    "y": -0.515553857177021
+  },
+  {
+    "entity": "grand staircase",
+    "type": "v",
+    "granularity": 2,
+    "parent": "interior",
+    "x": -1.956295201467611,
+    "y": -0.41582338163552074
+  },
+  {
+    "entity": "multi-level gallery design",
+    "type": "v",
+    "granularity": 3,
+    "parent": "multiple levels",
+    "x": 1.8068866892063244,
+    "y": 2.3948195114390156
+  },
+  {
+    "entity": "museum setting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9476531711828025,
+    "y": -0.3193015301359799
+  },
+  {
+    "entity": "Romanesque Revival architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terra cotta exterior",
+    "x": -2.483066994470672,
+    "y": -1.6835611960871468
+  },
+  {
+    "entity": "blue whale",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large whale skeleton",
+    "x": -5.51091059616309e-16,
+    "y": -3.0
+  },
+  {
+    "entity": "natural history museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large museum",
+    "x": -0.8805677193118009,
+    "y": -2.8678564280148358
+  },
+  {
+    "entity": "Alfred Waterhouse",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9824138714630792,
+    "y": -0.3243570552718222
+  },
+  {
+    "entity": "Hope skeleton",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large whale skeleton",
+    "x": 0.9579045904079411,
+    "y": -2.842959513548407
+  },
+  {
+    "entity": "Dippy cast",
+    "type": "i",
+    "granularity": 3,
+    "parent": "skeleton display",
+    "x": 1.9421588543454837,
+    "y": -2.2864861653829087
+  }
+]

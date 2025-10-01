@@ -1,0 +1,17 @@
+[  
+  {"entity":"sculpture","type":"v","granularity":1,"parent":null},  
+  {"entity":"boardwalk","type":"v","granularity":1,"parent":null},  
+  {"entity":"lamppost","type":"v","granularity":1,"parent":null},  
+  {"entity":"breakwater","type":"v","granularity":1,"parent":null},  
+  {"entity":"sailboats","type":"v","granularity":1,"parent":null},  
+  {"entity":"beach","type":"v","granularity":1,"parent":null},  
+  {"entity":"water","type":"v","granularity":1,"parent":null},  
+  {"entity":"people","type":"v","granularity":1,"parent":null},  
+  {"entity":"sky","type":"v","granularity":1,"parent":null},  
+  {"entity":"clothing","type":"v","granularity":2,"parent":"people"},  
+  {"entity":"urban location","type":"i","granularity":3,"parent":null},  
+  {"entity":"European location","type":"i","granularity":3,"parent":null},  
+  {"entity":"search-based confirmation","type":"i","granularity":3,"parent":null},  
+  {"entity":"multiple search terms","type":"i","granularity":3,"parent":null},  
+  {"entity":"sculpture as key clue","type":"i","granularity":3,"parent":"sculpture"}  
+]

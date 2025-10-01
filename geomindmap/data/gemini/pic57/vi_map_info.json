@@ -1,0 +1,16 @@
+[
+{"entity":"supersonic aircraft","type":"v","granularity":1,"parent":null},
+{"entity":"\"SINSHEIM\" signage","type":"v","granularity":1,"parent":null},
+{"entity":"\"Reimund\" sign","type":"v","granularity":1,"parent":null},
+{"entity":"parking lot","type":"v","granularity":1,"parent":null},
+{"entity":"Concorde display","type":"v","granularity":1,"parent":null},
+{"entity":"Tupolev Tu-144","type":"v","granularity":2,"parent":"supersonic aircraft"},
+{"entity":"Air France Concorde","type":"v","granularity":2,"parent":"supersonic aircraft"},
+{"entity":"Cyrillic script","type":"v","granularity":2,"parent":"supersonic aircraft"},
+{"entity":"registration number CCCP-77112","type":"v","granularity":2,"parent":"supersonic aircraft"},
+{"entity":"registration number F-BVFB","type":"v","granularity":2,"parent":"supersonic aircraft"},
+{"entity":"Soviet Union","type":"i","granularity":3,"parent":"Tupolev Tu-144"},
+{"entity":"France","type":"i","granularity":3,"parent":"Air France Concorde"},
+{"entity":"aeronautical museum","type":"i","granularity":3,"parent":"Concorde display"},
+{"entity":"German signage","type":"i","granularity":3,"parent":"\"SINSHEIM\" signage"}
+]

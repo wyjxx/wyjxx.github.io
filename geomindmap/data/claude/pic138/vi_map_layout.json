@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "castle complex",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": 0.28173255684142967
+  },
+  {
+    "entity": "architectural elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4154150130018863,
+    "y": 0.9096319953545184
+  },
+  {
+    "entity": "yellow buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545186,
+    "y": -0.4154150130018861
+  },
+  {
+    "entity": "towers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": 1.4905288993515096,
+    "y": 1.3335380010325832
+  },
+  {
+    "entity": "dome",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "crenellated walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": 0.4096133361303817,
+    "y": 1.9576048924295575
+  },
+  {
+    "entity": "red building section",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": -0.22167639980202197,
+    "y": 1.9876769289225082
+  },
+  {
+    "entity": "stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": -0.8308300260037726,
+    "y": 1.8192639907090369
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542586,
+    "y": -0.6548607339452847
+  },
+  {
+    "entity": "elevated terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188716,
+    "y": -0.909631995354518
+  },
+  {
+    "entity": "forested hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.142314838273284,
+    "y": -0.9898214418809329
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "forested hills",
+    "x": 0.284629676546568,
+    "y": -1.9796428837618658
+  },
+  {
+    "entity": "mountainous landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452839,
+    "y": -0.7557495743542593
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.9189859472289936,
+    "y": -0.5634651136828629
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144968,
+    "y": -0.28173255684143145
+  },
+  {
+    "entity": "hilltop",
+    "type": "v",
+    "granularity": 2,
+    "parent": "elevated terrain",
+    "x": -0.8308300260037743,
+    "y": -1.819263990709036
+  },
+  {
+    "entity": "Islamic-style architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural elements",
+    "x": -2.0355282346713963,
+    "y": 2.2037751259726
+  },
+  {
+    "entity": "Romantic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural elements",
+    "x": -2.6215481312093543,
+    "y": 1.4585902083014073
+  },
+  {
+    "entity": "Gothic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural elements",
+    "x": -2.94578609178812,
+    "y": 0.5677537330812328
+  },
+  {
+    "entity": "eclectic architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural elements",
+    "x": -2.9758644384923865,
+    "y": -0.3797773607212447
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountainous landscape",
+    "x": 1.9645822018358516,
+    "y": -2.267248723062778
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "castle complex",
+    "x": 2.878478920843492,
+    "y": 0.845197670524289
+  }
+]

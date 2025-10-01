@@ -1,0 +1,13 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"northern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Scandinavia","granularity":3,"parent":"Europe"},
+{"entity":"Nordic region","granularity":3,"parent":"Europe"},
+{"entity":"Scotland","granularity":3,"parent":"United Kingdom"},
+{"entity":"Scottish Highlands","granularity":3,"parent":"United Kingdom"},
+{"entity":"Norway","granularity":2,"parent":"Europe"},
+{"entity":"Sweden","granularity":2,"parent":"Europe"},
+{"entity":"Finland","granularity":2,"parent":"Europe"},
+{"entity":"Baltic region","granularity":3,"parent":"Europe"}
+]

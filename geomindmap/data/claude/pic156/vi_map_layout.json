@@ -1,0 +1,226 @@
+[
+  {
+    "entity": "blue tram",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680298,
+    "y": 0.6234898018587335
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.330279061955167,
+    "y": 0.9438833303083676
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9749279121818236,
+    "y": 0.2225209339563145
+  },
+  {
+    "entity": "road signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587337,
+    "y": -0.7818314824680297
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.33027906195516726,
+    "y": -0.9438833303083675
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.22252093395631423,
+    "y": -0.9749279121818236
+  },
+  {
+    "entity": "terrain elevation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865474,
+    "y": -0.7071067811865477
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.900968867902419,
+    "y": -0.43388373911755834
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9937122098932426,
+    "y": -0.11196447610330809
+  },
+  {
+    "entity": "classical facades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.2964567906155764,
+    "y": 1.522891916738269
+  },
+  {
+    "entity": "colored buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.7731986127459998,
+    "y": 0.9250765804816713
+  },
+  {
+    "entity": "traditional windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.949855824363647,
+    "y": 0.4450418679126299
+  },
+  {
+    "entity": "cornices",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multi-story buildings",
+    "x": -1.9989724324013758,
+    "y": -0.06410315514330896
+  },
+  {
+    "entity": "warning signs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road signs",
+    "x": -1.2469796037174674,
+    "y": -1.5636629649360594
+  },
+  {
+    "entity": "tram display",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue tram",
+    "x": 1.9818995235358696,
+    "y": 0.2684665316353109
+  },
+  {
+    "entity": "tram number 1",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue tram",
+    "x": 1.8390555451029014,
+    "y": 0.7860500633078472
+  },
+  {
+    "entity": "modern tram design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue tram",
+    "x": 1.5636629649360596,
+    "y": 1.246979603717467
+  },
+  {
+    "entity": "European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story buildings",
+    "x": -2.8760035591099826,
+    "y": -0.853582759893095
+  },
+  {
+    "entity": "Oslo tram system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue tram",
+    "x": 1.7633557568774194,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "Sporveien",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue tram",
+    "x": 1.0541244722440282,
+    "y": 2.808704611919212
+  },
+  {
+    "entity": "northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": 2.702906603707257,
+    "y": -1.301651217352675
+  },
+  {
+    "entity": "Scandinavian urban layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": -0.2241902807592715,
+    "y": -2.9916113915435405
+  },
+  {
+    "entity": "classical European style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "classical facades",
+    "x": -1.9446851859233645,
+    "y": 2.2843378751074037
+  },
+  {
+    "entity": "dense urban architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "multi-story buildings",
+    "x": -2.56542828901604,
+    "y": -1.5551777049315725
+  },
+  {
+    "entity": "key thoroughfares",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 0.6675628018689427,
+    "y": -2.924783736545471
+  },
+  {
+    "entity": "vibrant urban character",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 1.5000000000000027,
+    "y": -2.5980762113533142
+  },
+  {
+    "entity": "tram route to Majorstuen",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  }
+]

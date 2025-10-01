@@ -1,0 +1,298 @@
+[
+  {
+    "entity": "neoclassical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3728564777803086,
+    "y": 0.9278890272965093
+  },
+  {
+    "entity": "Toyota Prius taxi",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9112284903881356,
+    "y": 0.4119012482439928
+  },
+  {
+    "entity": "traffic lights",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "street lighting poles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9856159103477085,
+    "y": -0.16900082032184932
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9112284903881357,
+    "y": -0.4119012482439926
+  },
+  {
+    "entity": "umbrellas",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7780357543184397,
+    "y": -0.628219997295642
+  },
+  {
+    "entity": "cobbled street",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5946331763042865,
+    "y": -0.8039971303669406
+  },
+  {
+    "entity": "barriers",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3728564777803087,
+    "y": -0.9278890272965092
+  },
+  {
+    "entity": "railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2106792699957261,
+    "y": -0.9775552389476863
+  },
+  {
+    "entity": "cloudy sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.04244120319614822,
+    "y": -0.9990989662046815
+  },
+  {
+    "entity": "green trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2928227712765508,
+    "y": -0.9561667347392508
+  },
+  {
+    "entity": "urban environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5243072835572326,
+    "y": -0.8515291377333107
+  },
+  {
+    "entity": "rainy weather",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.721956093954525,
+    "y": -0.6919388689775456
+  },
+  {
+    "entity": "daytime lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8285096492438427,
+    "y": -0.5599747861375944
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9112284903881364,
+    "y": -0.4119012482439913
+  },
+  {
+    "entity": "scaffolding",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9677329469334993,
+    "y": -0.2519780613851234
+  },
+  {
+    "entity": "pedestrian crossing signal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9963974885425267,
+    "y": -0.08480592447550697
+  },
+  {
+    "entity": "stone columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical building",
+    "x": 1.966648534784479,
+    "y": 0.36372179015019307
+  },
+  {
+    "entity": "Corinthian capitals",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone columns",
+    "x": 1.966648534784479,
+    "y": 0.36372179015019307
+  },
+  {
+    "entity": "pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical building",
+    "x": 1.794587222644339,
+    "y": 0.8828684501791182
+  },
+  {
+    "entity": "portico",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical building",
+    "x": 1.6041019193950807,
+    "y": 1.1945112105765345
+  },
+  {
+    "entity": "green and white taxi livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Toyota Prius taxi",
+    "x": -1.717726534440852,
+    "y": 1.0244098559062287
+  },
+  {
+    "entity": "wet pavement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobbled street",
+    "x": -1.189266352608573,
+    "y": -1.6079942607338813
+  },
+  {
+    "entity": "heavy cloud cover",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cloudy sky",
+    "x": 0.08488240639229644,
+    "y": -1.998197932409363
+  },
+  {
+    "entity": "people's clothing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": -1.8224569807762714,
+    "y": -0.8238024964879852
+  },
+  {
+    "entity": "museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": 2.0401762001684514,
+    "y": 2.1994729078272868
+  },
+  {
+    "entity": "library",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": 1.6061566556708298,
+    "y": 2.5338233556118896
+  },
+  {
+    "entity": "government building",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": 1.1185694333409257,
+    "y": 2.783667081889528
+  },
+  {
+    "entity": "European-influenced city",
+    "type": "i",
+    "granularity": 3,
+    "parent": "urban environment",
+    "x": 1.5729218506716975,
+    "y": -2.554587413199932
+  },
+  {
+    "entity": "European taxi livery",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green and white taxi livery",
+    "x": -2.576589801661278,
+    "y": 1.536614783859343
+  },
+  {
+    "entity": "Dublin taxis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Toyota Prius taxi",
+    "x": -2.94131594388398,
+    "y": 0.5904748244031153
+  },
+  {
+    "entity": "British/Irish neoclassical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": 0.5936762814638062,
+    "y": 2.940671432313938
+  },
+  {
+    "entity": "18th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": 0.04898315573616788,
+    "y": 2.9996000817532535
+  },
+  {
+    "entity": "19th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": -0.49734363000615295,
+    "y": 2.9584876734055023
+  },
+  {
+    "entity": "national museum",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": -1.0270832769721614,
+    "y": 2.8187053663276207
+  },
+  {
+    "entity": "major cultural institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": -1.5225681917527911,
+    "y": 2.584915105271861
+  },
+  {
+    "entity": "architectural heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical building",
+    "x": -1.967273226447917,
+    "y": 2.264914137997554
+  }
+]

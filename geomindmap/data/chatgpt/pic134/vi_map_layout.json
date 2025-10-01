@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "green sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9781476007338057,
+    "y": 0.20791169081775931
+  },
+  {
+    "entity": "overhead sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.10452846326765346,
+    "y": 0.9945218953682733
+  },
+  {
+    "entity": "exit sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "cut-and-cover tunnel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426011,
+    "y": -0.4067366430757998
+  },
+  {
+    "entity": "interchange tunnel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20791169081775893,
+    "y": -0.9781476007338057
+  },
+  {
+    "entity": "exit ramp",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924729,
+    "y": -0.8090169943749476
+  },
+  {
+    "entity": "white text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green sign",
+    "x": 1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "road markers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "exit ramp",
+    "x": 0.034904812874568036,
+    "y": -1.9996953903127825
+  },
+  {
+    "entity": "M1 marker",
+    "type": "v",
+    "granularity": 2,
+    "parent": "exit ramp",
+    "x": 0.5176380902050406,
+    "y": -1.9318516525781368
+  },
+  {
+    "entity": "tunnel interior",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cut-and-cover tunnel",
+    "x": -1.9111456115722811,
+    "y": 0.5895103488218092
+  },
+  {
+    "entity": "Greek signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead sign",
+    "x": 1.5902415929896956,
+    "y": 1.2129021707976266
+  },
+  {
+    "entity": "English signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead sign",
+    "x": 1.0795013159030258,
+    "y": 1.6836498771905148
+  },
+  {
+    "entity": "overhead arrows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead sign",
+    "x": 0.6621268357699162,
+    "y": 1.887217012787167
+  },
+  {
+    "entity": "curved lining",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cut-and-cover tunnel",
+    "x": -1.9964202595354703,
+    "y": 0.11960830789006799
+  },
+  {
+    "entity": "overhead luminaires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cut-and-cover tunnel",
+    "x": -1.9678591771972593,
+    "y": -0.357113789597273
+  },
+  {
+    "entity": "variable message panels",
+    "type": "v",
+    "granularity": 2,
+    "parent": "overhead sign",
+    "x": 0.20905692653530691,
+    "y": 1.9890437907365466
+  },
+  {
+    "entity": "Elefsina-Spata link",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead sign",
+    "x": -0.38292494358178397,
+    "y": 2.975461054623785
+  },
+  {
+    "entity": "Athens airport link",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead sign",
+    "x": -1.0587916941416062,
+    "y": 2.8069485475185942
+  },
+  {
+    "entity": "near Marousi",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit ramp",
+    "x": 1.454428860739012,
+    "y": -2.623859121418187
+  },
+  {
+    "entity": "near Papagou",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit ramp",
+    "x": 2.045995080187494,
+    "y": -2.194061104857513
+  },
+  {
+    "entity": "eastbound tunnel length",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cut-and-cover tunnel",
+    "x": -2.7406363729278023,
+    "y": -1.2202099292274018
+  },
+  {
+    "entity": "westbound tunnel length",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cut-and-cover tunnel",
+    "x": -2.3732131039690234,
+    "y": -1.8351728973450194
+  },
+  {
+    "entity": "sign indicates proximity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead sign",
+    "x": -1.6775787104122402,
+    "y": 2.4871127176651253
+  },
+  {
+    "entity": "expects neighborhood name",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.98356568610482,
+    "y": -0.3135853898029576
+  },
+  {
+    "entity": "exit leads to Papagou",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit ramp",
+    "x": 2.516011703836272,
+    "y": -1.633917105045081
+  },
+  {
+    "entity": "bilingual signage conventions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Greek signage",
+    "x": 2.3853623894845435,
+    "y": 1.81935325619644
+  },
+  {
+    "entity": "motorway numbering conventions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead sign",
+    "x": -2.205927024179486,
+    "y": 2.033195997437197
+  },
+  {
+    "entity": "cut-and-cover characteristic",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cut-and-cover tunnel",
+    "x": -1.870469405576201,
+    "y": -2.3454944474040893
+  },
+  {
+    "entity": "Tunnel spans 100m",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cut-and-cover tunnel",
+    "x": -1.2610716849286954,
+    "y": -2.722076083703595
+  },
+  {
+    "entity": "Anastaseos-Papagou link",
+    "type": "i",
+    "granularity": 3,
+    "parent": "exit ramp",
+    "x": 2.8365557267979495,
+    "y": -0.9767044633714725
+  }
+]

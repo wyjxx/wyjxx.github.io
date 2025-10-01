@@ -1,0 +1,16 @@
+[
+{"entity":"Canadian Rockies","granularity":2,"parent":null},
+{"entity":"Alps","granularity":2,"parent":"Europe"},
+{"entity":"New Zealand","granularity":2,"parent":null},
+{"entity":"Central European mountains","granularity":3,"parent":"Europe"},
+{"entity":"Southern European mountains","granularity":3,"parent":"Europe"},
+{"entity":"European Alps","granularity":2,"parent":"Europe"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Italy","granularity":2,"parent":"Europe"},
+{"entity":"Switzerland","granularity":2,"parent":"Europe"},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Eibsee lake","granularity":4,"parent":"Central European mountains"},
+{"entity":"Grainau","granularity":4,"parent":"Central European mountains"},
+{"entity":"Eibsee Rundweg trail","granularity":5,"parent":"Eibsee lake"}
+]

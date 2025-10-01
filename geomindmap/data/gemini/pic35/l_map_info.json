@@ -1,0 +1,16 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"North America","granularity":1,"parent":null},  
+  {"entity":"Austria","granularity":2,"parent":"Europe"},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Switzerland","granularity":2,"parent":"Europe"},  
+  {"entity":"Central Europe","granularity":3,"parent":"Europe"},  
+  {"entity":"Northern Europe","granularity":3,"parent":"Europe"},  
+  {"entity":"Munich","granularity":4,"parent":"Germany"},  
+  {"entity":"Adalbertstraße","granularity":5,"parent":"Munich"},  
+  {"entity":"Maxvorstadt","granularity":5,"parent":"Munich"},  
+  {"entity":"StuCafé Mensa Arcisstraße","granularity":5,"parent":"Munich"},  
+  {"entity":"StuCafé Pavilion","granularity":5,"parent":"Munich"},  
+  {"entity":"Technical University of Munich","granularity":5,"parent":"Munich"},  
+  {"entity":"TUM Mensa","granularity":5,"parent":"Munich"}  
+]

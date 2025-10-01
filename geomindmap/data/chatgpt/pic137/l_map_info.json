@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Tagus River","granularity":2,"parent":"Europe"},
+{"entity":"Lisbon","granularity":4,"parent":"Portugal"},
+{"entity":"Padrão dos Descobrimentos","granularity":5,"parent":"Lisbon"},
+{"entity":"25 de Abril Bridge","granularity":5,"parent":"Tagus River"},
+{"entity":"Cristo-Rei statue","granularity":5,"parent":"Tagus River"},
+{"entity":"Belém","granularity":5,"parent":"Lisbon"},
+{"entity":"Belém district","granularity":5,"parent":"Lisbon"},
+{"entity":"Praça do Império","granularity":5,"parent":"Lisbon"}
+]

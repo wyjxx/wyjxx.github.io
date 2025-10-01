@@ -1,0 +1,18 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Warsaw","granularity":4,"parent":"Europe"},
+{"entity":"Leipzig","granularity":4,"parent":"Germany"},
+{"entity":"Mainz","granularity":4,"parent":"Germany"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Karl-Marx-Allee","granularity":5,"parent":"Berlin"},
+{"entity":"Friedrichstraße","granularity":5,"parent":"Berlin"},
+{"entity":"Prenzlauer Berg","granularity":5,"parent":"Berlin"},
+{"entity":"East Berlin","granularity":5,"parent":"Berlin"},
+{"entity":"Marzahn","granularity":5,"parent":"Berlin"},
+{"entity":"Düsseldorf","granularity":4,"parent":"Germany"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Cologne","granularity":4,"parent":"Germany"},
+{"entity":"Kastanienallee","granularity":5,"parent":"Berlin"}
+]

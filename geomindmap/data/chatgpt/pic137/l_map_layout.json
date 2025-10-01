@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Portugal",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "Tagus River",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "Lisbon",
+    "granularity": 4,
+    "parent": "Portugal",
+    "x": -1.9999999999999991,
+    "y": 3.464101615137755
+  },
+  {
+    "entity": "Padrão dos Descobrimentos",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 4.330127018922194,
+    "y": 2.4999999999999996
+  },
+  {
+    "entity": "25 de Abril Bridge",
+    "granularity": 5,
+    "parent": "Tagus River",
+    "x": -9.184850993605148e-16,
+    "y": -5.0
+  },
+  {
+    "entity": "Cristo-Rei statue",
+    "granularity": 5,
+    "parent": "Tagus River",
+    "x": 4.330127018922192,
+    "y": -2.500000000000002
+  },
+  {
+    "entity": "Belém",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": 3.061616997868383e-16,
+    "y": 5.0
+  },
+  {
+    "entity": "Belém district",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.330127018922193,
+    "y": 2.5000000000000018
+  },
+  {
+    "entity": "Praça do Império",
+    "granularity": 5,
+    "parent": "Lisbon",
+    "x": -4.3301270189221945,
+    "y": -2.4999999999999987
+  }
+]

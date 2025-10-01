@@ -1,0 +1,10 @@
+[
+{"entity":"France","granularity":2,"parent":"Europe"},
+{"entity":"Paris","granularity":4,"parent":"France"},
+{"entity":"Saint-Vincent-de-Paul","granularity":5,"parent":"Paris"},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"eastern France","granularity":3,"parent":"France"},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Austria","granularity":2,"parent":"Europe"},
+{"entity":"Gare de l'Est","granularity":5,"parent":"Paris"}
+]

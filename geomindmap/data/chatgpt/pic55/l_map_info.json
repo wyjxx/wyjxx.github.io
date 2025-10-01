@@ -1,0 +1,7 @@
+[
+{"entity":"Barrio Santa Cruz","granularity":5,"parent":"Seville"},
+{"entity":"Santa Cruz","granularity":5,"parent":"Seville"},
+{"entity":"Seville","granularity":4,"parent":"Spain"},
+{"entity":"Spain","granularity":2,"parent":null},
+{"entity":"Seville Cathedral","granularity":5,"parent":"Seville"}
+]

@@ -1,0 +1,426 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "medieval-style buildings",
+    "spires",
+    "bus",
+    "bus stop sign",
+    "sign K1",
+    "sign K3",
+    "route \"X3 Abingdon\" display",
+    "Stagecoach operation",
+    "bus connection",
+    "architectural inference",
+    "street layout inference",
+    "location confirmation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Oxford",
+      "status": 2,
+      "related_clue": [
+        "medieval-style buildings",
+        "spires",
+        "bus connection",
+        "Stagecoach operation",
+        "route \"X3 Abingdon\" display",
+        "sign K1",
+        "sign K3",
+        "bus stop sign",
+        "architectural inference",
+        "street layout inference",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "UK",
+      "status": 2,
+      "related_clue": [
+        "Stagecoach operation",
+        "bus connection",
+        "bus stop sign",
+        "sign K1",
+        "sign K3"
+      ]
+    },
+    {
+      "loc": "Abingdon",
+      "status": 2,
+      "related_clue": [
+        "route \"X3 Abingdon\" display",
+        "bus connection"
+      ]
+    },
+    {
+      "loc": "High Street",
+      "status": 2,
+      "related_clue": [
+        "street layout inference"
+      ]
+    },
+    {
+      "loc": "City Centre",
+      "status": 2,
+      "related_clue": [
+        "street layout inference"
+      ]
+    },
+    {
+      "loc": "University Church of St Mary the Virgin",
+      "status": 2,
+      "related_clue": [
+        "spires",
+        "architectural inference"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "spires",
+    "street layout inference",
+    "street curvature inference",
+    "orientation inference",
+    "sign K1",
+    "sign K3",
+    "bus stop sign",
+    "bus connection"
+  ],
+  "loc-clue": [
+    {
+      "loc": "University Church of St Mary the Virgin",
+      "status": 2,
+      "related_clue": [
+        "spires"
+      ]
+    },
+    {
+      "loc": "High Street",
+      "status": 3,
+      "related_clue": [
+        "street layout inference",
+        "orientation inference"
+      ]
+    },
+    {
+      "loc": "Carfax Tower",
+      "status": 2,
+      "related_clue": [
+        "spires"
+      ]
+    },
+    {
+      "loc": "Tom Tower",
+      "status": 1,
+      "related_clue": [
+        "spires"
+      ]
+    },
+    {
+      "loc": "Christ Church",
+      "status": 2,
+      "related_clue": [
+        "spires"
+      ]
+    },
+    {
+      "loc": "Broad Street",
+      "status": 2,
+      "related_clue": [
+        "orientation inference"
+      ]
+    },
+    {
+      "loc": "Gloucester Green bus station",
+      "status": 2,
+      "related_clue": [
+        "sign K1",
+        "sign K3",
+        "bus stop sign",
+        "bus connection"
+      ]
+    },
+    {
+      "loc": "Abingdon",
+      "status": 2,
+      "related_clue": [
+        "bus connection"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "pink facades",
+    "red telephone box",
+    "crenellated building",
+    "orientation inference",
+    "architectural inference",
+    "bus route confusion",
+    "search-based clue",
+    "location confirmation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Broad Street",
+      "status": 2,
+      "related_clue": [
+        "pink facades",
+        "red telephone box",
+        "orientation inference"
+      ]
+    },
+    {
+      "loc": "All Souls College",
+      "status": 2,
+      "related_clue": [
+        "pink facades",
+        "red telephone box"
+      ]
+    },
+    {
+      "loc": "Hertford College",
+      "status": 1,
+      "related_clue": [
+        "architectural inference"
+      ]
+    },
+    {
+      "loc": "New College",
+      "status": 2,
+      "related_clue": [
+        "architectural inference"
+      ]
+    },
+    {
+      "loc": "Bodleian Library",
+      "status": 3,
+      "related_clue": [
+        "crenellated building"
+      ]
+    },
+    {
+      "loc": "St Aldate's",
+      "status": 2,
+      "related_clue": [
+        "bus route confusion"
+      ]
+    },
+    {
+      "loc": "Abingdon",
+      "status": 2,
+      "related_clue": [
+        "bus route confusion"
+      ]
+    },
+    {
+      "loc": "Oxford",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "bus",
+    "bus stop sign",
+    "sign K3",
+    "location confirmation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Queens Lane",
+      "status": 3,
+      "related_clue": [
+        "bus",
+        "bus stop sign",
+        "sign K3",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Oxford City Centre",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "UK",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "High Street",
+      "status": 2,
+      "related_clue": [
+        "bus stop sign"
+      ]
+    },
+    {
+      "loc": "Catte Street",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "bus stop sign",
+    "sign K3",
+    "spires",
+    "neighborhood focus",
+    "location confirmation"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Queens Lane",
+      "status": 3,
+      "related_clue": [
+        "bus stop sign",
+        "sign K3",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "University Church of St Mary the Virgin",
+      "status": 2,
+      "related_clue": [
+        "spires"
+      ]
+    },
+    {
+      "loc": "All Souls College",
+      "status": 2,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "High Street",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Bodleian Library",
+      "status": 2,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Oxford City Centre",
+      "status": 3,
+      "related_clue": [
+        "neighborhood focus",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Oxford",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "bus-stop signposts",
+    "sign stands K1–K5",
+    "sign K1",
+    "sign K3",
+    "double-deck bus",
+    "route \"X3 Abingdon\" display",
+    "licence plate \"OX68 EWG\"",
+    "crenellated building",
+    "battlemented stone buildings",
+    "Victorian windows",
+    "tall pointed spire",
+    "search-based clue",
+    "architectural inference",
+    "location confirmation",
+    "street layout inference",
+    "orientation inference"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Queens Lane",
+      "status": 3,
+      "related_clue": [
+        "bus-stop signposts",
+        "sign stands K1–K5",
+        "sign K3",
+        "route \"X3 Abingdon\" display",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Oxford City Centre",
+      "status": 3,
+      "related_clue": [
+        "sign stands K1–K5",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "High Street",
+      "status": 3,
+      "related_clue": [
+        "battlemented stone buildings",
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "All Souls College",
+      "status": 2,
+      "related_clue": [
+        "battlemented stone buildings",
+        "Victorian windows",
+        "crenellated building"
+      ]
+    },
+    {
+      "loc": "University Church of St Mary the Virgin",
+      "status": 2,
+      "related_clue": [
+        "tall pointed spire"
+      ]
+    },
+    {
+      "loc": "Catte Street",
+      "status": 2,
+      "related_clue": [
+        "street layout inference"
+      ]
+    },
+    {
+      "loc": "St Mary’s Passage",
+      "status": 2,
+      "related_clue": [
+        "street layout inference"
+      ]
+    },
+    {
+      "loc": "Oxford",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": [
+        "location confirmation"
+      ]
+    }
+  ]
+}]

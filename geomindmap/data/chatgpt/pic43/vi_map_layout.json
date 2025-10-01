@@ -1,0 +1,306 @@
+[
+  {
+    "entity": "old town square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9965844930066698,
+    "y": 0.08257934547233232
+  },
+  {
+    "entity": "fountain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7357239106731317,
+    "y": 0.6772815716257411
+  },
+  {
+    "entity": "statues",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "shops",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.32469946920468323,
+    "y": 0.9458172417006347
+  },
+  {
+    "entity": "storefront",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7357239106731314,
+    "y": 0.6772815716257414
+  },
+  {
+    "entity": "tram wires",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9694002659393305,
+    "y": 0.24548548714079907
+  },
+  {
+    "entity": "yellowish-beige buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9965844930066698,
+    "y": -0.08257934547233244
+  },
+  {
+    "entity": "white building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.614212712689668,
+    "y": -0.7891405093963935
+  },
+  {
+    "entity": "clock tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "Romanesque tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2454854871407988,
+    "y": -0.9694002659393305
+  },
+  {
+    "entity": "stone Rathaus",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7357239106731307,
+    "y": -0.6772815716257421
+  },
+  {
+    "entity": "fallen court linden tree",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9694002659393299,
+    "y": -0.24548548714080093
+  },
+  {
+    "entity": "pedestrianized heart",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9965844930066697,
+    "y": -0.08257934547233368
+  },
+  {
+    "entity": "arched arcades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "storefront",
+    "x": -0.9880434716250077,
+    "y": 1.7388991052327338
+  },
+  {
+    "entity": "multiple windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": -1.8203032846466736,
+    "y": -0.8285505125847978
+  },
+  {
+    "entity": "mansard roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellowish-beige buildings",
+    "x": -1.998291516774602,
+    "y": 0.08264994849762601
+  },
+  {
+    "entity": "dormer windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellowish-beige buildings",
+    "x": -1.957433690654709,
+    "y": -0.4104306843912686
+  },
+  {
+    "entity": "central column",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fountain",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "obelisk",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fountain",
+    "x": 1.796781963783958,
+    "y": 0.8783931776947406
+  },
+  {
+    "entity": "Franconia figure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fountain",
+    "x": 1.595057030231418,
+    "y": 1.2065625016174377
+  },
+  {
+    "entity": "four statues",
+    "type": "v",
+    "granularity": 2,
+    "parent": "statues",
+    "x": 0.24738526253869517,
+    "y": 1.98464115947409
+  },
+  {
+    "entity": "dolphins",
+    "type": "v",
+    "granularity": 2,
+    "parent": "statues",
+    "x": -0.24738526253869492,
+    "y": 1.9846411594740903
+  },
+  {
+    "entity": "blue banner",
+    "type": "v",
+    "granularity": 2,
+    "parent": "storefront",
+    "x": -1.6033316713949766,
+    "y": 1.1955448764064822
+  },
+  {
+    "entity": "banner \"dach + flasWal\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "blue banner",
+    "x": -1.3995235609109593,
+    "y": 1.428752533665333
+  },
+  {
+    "entity": "sundial",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Romanesque tower",
+    "x": 0.4909709742815976,
+    "y": -1.938800531878661
+  },
+  {
+    "entity": "mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": -1.228425425379336,
+    "y": -1.578281018792787
+  },
+  {
+    "entity": "tree mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mural",
+    "x": -1.420694065761329,
+    "y": -1.407703225651822
+  },
+  {
+    "entity": "Ratskeller sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone Rathaus",
+    "x": 1.162153630803874,
+    "y": -1.6276974345403918
+  },
+  {
+    "entity": "doorway marked \"Ratskeller\"",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone Rathaus",
+    "x": 1.6033316713949755,
+    "y": -1.1955448764064838
+  },
+  {
+    "entity": "historic wine cellar",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone Rathaus",
+    "x": 1.8145518663631188,
+    "y": -0.8410716522854174
+  },
+  {
+    "entity": "half-timber style",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white building",
+    "x": -0.3563390486683871,
+    "y": -1.96799961442936
+  },
+  {
+    "entity": "painted tree",
+    "type": "v",
+    "granularity": 3,
+    "parent": "tree mural",
+    "x": -2.1310410986419934,
+    "y": -2.111554838477733
+  },
+  {
+    "entity": "roofing shop",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue banner",
+    "x": -2.653035693772066,
+    "y": 1.400500484673737
+  },
+  {
+    "entity": "basement restaurant",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Ratskeller sign",
+    "x": 1.743230446205811,
+    "y": -2.441546151810588
+  },
+  {
+    "entity": "local significance",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mural",
+    "x": -1.1797990597817525,
+    "y": -2.7582737678733222
+  },
+  {
+    "entity": "Marian column",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fountain",
+    "x": 2.00124036675424,
+    "y": 2.2349579402023108
+  },
+  {
+    "entity": "plague column",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fountain",
+    "x": 1.5356551472688036,
+    "y": 2.577161863109655
+  },
+  {
+    "entity": "Four-Tubes Fountain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "fountain",
+    "x": 1.0131017080612172,
+    "y": 2.823760777601999
+  }
+]

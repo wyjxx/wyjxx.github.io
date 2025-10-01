@@ -1,0 +1,130 @@
+[
+  {
+    "entity": "station building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112867,
+    "y": 0.3826834323650899
+  },
+  {
+    "entity": "signage “GARE DE NICE VILLE”",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8314696123025452,
+    "y": -0.5555702330196022
+  },
+  {
+    "entity": "SNCF logo",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032303,
+    "y": -0.19509032201612872
+  },
+  {
+    "entity": "stone façade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": 1.9554538327416937,
+    "y": 0.41976220412969517
+  },
+  {
+    "entity": "clock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": 1.6109022651018918,
+    "y": 1.1853243827280338
+  },
+  {
+    "entity": "mansard roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": 0.9825092221677546,
+    "y": 1.7420320399910312
+  },
+  {
+    "entity": "sculpted ornamentation",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": 0.18099775165927584,
+    "y": 1.991793115234182
+  },
+  {
+    "entity": "central pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": -0.6524055784417391,
+    "y": 1.8905996300692804
+  },
+  {
+    "entity": "French tricolor flag",
+    "type": "v",
+    "granularity": 2,
+    "parent": "station building",
+    "x": -1.3708548446700797,
+    "y": 1.4562819077515767
+  },
+  {
+    "entity": "French railway station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "principal SNCF station",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": -2.9986313534686,
+    "y": -0.09060908340266577
+  },
+  {
+    "entity": "late 19th-century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": -2.6972643412962785,
+    "y": -1.3133031154960202
+  },
+  {
+    "entity": "Louis-XIII style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": -1.9206385213874642,
+    "y": -2.3045927341208414
+  },
+  {
+    "entity": "built by PLM",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": -0.8055956024231335,
+    "y": -2.8898124031425483
+  },
+  {
+    "entity": "English Wikipedia address",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": 0.4513935098243478,
+    "y": -2.965846236622603
+  },
+  {
+    "entity": "French Wikipedia data",
+    "type": "i",
+    "granularity": 3,
+    "parent": "station building",
+    "x": 1.6288469466044324,
+    "y": -2.519297049682196
+  }
+]

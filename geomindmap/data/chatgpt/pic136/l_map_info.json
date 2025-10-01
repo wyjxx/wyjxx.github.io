@@ -1,0 +1,8 @@
+[{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Porto","granularity":4,"parent":"Portugal"},
+{"entity":"Igreja do Carmo","granularity":5,"parent":"Porto"},
+{"entity":"Praça de Carlos Alberto","granularity":5,"parent":"Porto"},
+{"entity":"Rua do Carmo","granularity":5,"parent":"Porto"},
+{"entity":"Vitória parish","granularity":5,"parent":"Porto"},
+{"entity":"Baixa district","granularity":5,"parent":"Porto"}]

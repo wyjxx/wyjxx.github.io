@@ -1,0 +1,15 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Bavaria","granularity":3,"parent":"Germany"},  
+  {"entity":"Franconia","granularity":3,"parent":"Germany"},  
+  {"entity":"Rothenburg ob der Tauber","granularity":4,"parent":"Franconia"},  
+  {"entity":"Altstadt","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Siebersturm","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Kobolzeller Tor","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Plönlein","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Schmiedgasse","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Rödergasse","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Marktplatz","granularity":5,"parent":"Rothenburg ob der Tauber"},  
+  {"entity":"Herrngasse","granularity":5,"parent":"Rothenburg ob der Tauber"}  
+]

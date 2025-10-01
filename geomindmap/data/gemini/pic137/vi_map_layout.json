@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "large monument",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.766044443118978,
+    "y": 0.6427876096865393
+  },
+  {
+    "entity": "prow-shaped monument",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large monument",
+    "x": 1.9460897411596476,
+    "y": 0.4612317414848803
+  },
+  {
+    "entity": "red bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "Christ the King statue",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large monument",
+    "x": 1.5320888862379562,
+    "y": 1.2855752193730785
+  },
+  {
+    "entity": "marina",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256687,
+    "y": 0.9396926207859084
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "park",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "elevated terraces",
+    "type": "v",
+    "granularity": 2,
+    "parent": "foreground architecture",
+    "x": -1.532088886237956,
+    "y": -1.2855752193730785
+  },
+  {
+    "entity": "modern architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.984807753012208,
+    "y": 0.17364817766693028
+  },
+  {
+    "entity": "garden",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "foreground architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.766044443118978,
+    "y": -0.6427876096865393
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3420201433256694,
+    "y": -0.9396926207859082
+  },
+  {
+    "entity": "aerial view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6427876096865386,
+    "y": -0.7660444431189787
+  },
+  {
+    "entity": "monument symbolism",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large monument",
+    "x": 1.1882392981174714,
+    "y": 2.754648320640822
+  },
+  {
+    "entity": "Lisbon layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 0.13085816209600462,
+    "y": -2.9971446647455733
+  },
+  {
+    "entity": "light angle",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 1.3852458397050997,
+    "y": -2.661032499534666
+  },
+  {
+    "entity": "time of day",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 2.380060020873703,
+    "y": -1.8262842870261649
+  },
+  {
+    "entity": "viewing direction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "aerial view",
+    "x": 2.928888021359799,
+    "y": -0.6493188418143138
+  }
+]

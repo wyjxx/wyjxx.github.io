@@ -1,0 +1,210 @@
+[{
+    "paragraph": 1,
+    "clue": [
+        "building",
+        "curvy facade",
+        "stone",
+        "texture",
+        "light",
+        "architectural style",
+        "external verification",
+        "search"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 2,
+    "clue": [
+        "external verification",
+        "initial hunch",
+        "search",
+        "street sign",
+        "surrounding structures",
+        "PEDR... banner"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Casa Milà",
+            "status": 2,
+            "related_clue": [
+                "initial hunch",
+                "external verification"
+            ]
+        }
+    ]
+},{
+    "paragraph": 3,
+    "clue": [
+        "street view",
+        "surrounding buildings",
+        "PEDR... banner",
+        "crosswalk",
+        "traffic signs",
+        "architecture",
+        "cars",
+        "trees",
+        "light conditions",
+        "season"
+    ],
+    "loc-clue": [
+        {
+            "loc": "La Pedrera",
+            "status": 2,
+            "related_clue": [
+                "street view",
+                "surrounding buildings",
+                "PEDR... banner",
+                "crosswalk",
+                "traffic signs"
+            ]
+        },
+        {
+            "loc": "Barcelona",
+            "status": 3,
+            "related_clue": [
+                "architecture",
+                "cars"
+            ]
+        },
+        {
+            "loc": "Passeig de Gràcia",
+            "status": 3,
+            "related_clue": [
+                "street view",
+                "surrounding buildings"
+            ]
+        }
+    ]
+},{
+    "paragraph": 4,
+    "clue": [
+        "street view",
+        "shot angle",
+        "building corner",
+        "banner angle",
+        "buildings in background",
+        "tree type",
+        "street shape"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 5,
+    "clue": [
+        "specified format"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Passeig de Gràcia",
+            "status": 3,
+            "related_clue": [
+                "specified format"
+            ]
+        },
+        {
+            "loc": "Barcelona",
+            "status": 3,
+            "related_clue": [
+                "specified format"
+            ]
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "specified format"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "specified format"
+            ]
+        }
+    ]
+},{
+    "paragraph": 6,
+    "clue": [
+        "specified format",
+        "photo",
+        "vantage point",
+        "confidence"
+    ],
+    "loc-clue": [
+        {
+            "loc": "Passeig de Gràcia",
+            "status": 3,
+            "related_clue": [
+                "specified format",
+                "photo",
+                "vantage point",
+                "confidence"
+            ]
+        },
+        {
+            "loc": "Barcelona",
+            "status": 3,
+            "related_clue": [
+                "specified format",
+                "photo",
+                "vantage point",
+                "confidence"
+            ]
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": [
+                "specified format",
+                "photo",
+                "vantage point",
+                "confidence"
+            ]
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": [
+                "specified format",
+                "photo",
+                "vantage point",
+                "confidence"
+            ]
+        }
+    ]
+},{
+    "paragraph": 7,
+    "clue": [
+        "specified format",
+        "street-level identification",
+        "final check",
+        "photo",
+        "clues",
+        "confidence"
+    ],
+    "loc-clue": []
+},{
+    "paragraph": 8,
+    "clue": [],
+    "loc-clue": [
+        {
+            "loc": "Passeig de Gràcia",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Barcelona",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Spain",
+            "status": 3,
+            "related_clue": []
+        },
+        {
+            "loc": "Europe",
+            "status": 3,
+            "related_clue": []
+        }
+    ]
+}]

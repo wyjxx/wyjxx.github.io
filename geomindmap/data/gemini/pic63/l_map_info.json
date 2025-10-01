@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Mitte district","granularity":5,"parent":"Berlin"},
+{"entity":"Tiergarten park","granularity":5,"parent":"Berlin"},
+{"entity":"Straße des 17. Juni","granularity":5,"parent":"Berlin"},
+{"entity":"Pariser Platz","granularity":5,"parent":"Berlin"},
+{"entity":"Unter den Linden","granularity":5,"parent":"Berlin"},
+{"entity":"Brandenburg Gate","granularity":5,"parent":"Berlin"}
+]

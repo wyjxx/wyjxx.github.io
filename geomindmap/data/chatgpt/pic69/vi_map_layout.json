@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "English sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": 0.14231483827328514
+  },
+  {
+    "entity": "Pedestrian zone sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542583,
+    "y": 0.6548607339452851
+  },
+  {
+    "entity": "\"No vehicles 11am–10pm\" sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414296,
+    "y": 0.9594929736144974
+  },
+  {
+    "entity": "Sign with Chinese characters",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "Fogo de Chão sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188655,
+    "y": 0.9096319953545183
+  },
+  {
+    "entity": "paifang",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8412535328311813,
+    "y": 0.5406408174555974
+  },
+  {
+    "entity": "Chinatown Gate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545183,
+    "y": -0.4154150130018865
+  },
+  {
+    "entity": "Three-tiered Chinese gate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14231483827328575,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "Glazed yellow tiles",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Three-tiered Chinese gate",
+    "x": -0.47151787101885395,
+    "y": -1.9436231366470835
+  },
+  {
+    "entity": "Plaque",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Chinatown Gate",
+    "x": -1.994904229220507,
+    "y": -0.14267836639846523
+  },
+  {
+    "entity": "Red lanterns",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.5114991487085168,
+    "y": -1.3097214678905698
+  },
+  {
+    "entity": "Arches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paifang",
+    "x": -1.6825070656623626,
+    "y": 1.0812816349111949
+  },
+  {
+    "entity": "Transport for London signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144974,
+    "y": -0.2817325568414298
+  },
+  {
+    "entity": "Ornate design",
+    "type": "v",
+    "granularity": 3,
+    "parent": "Three-tiered Chinese gate",
+    "x": 0.4269445148198573,
+    "y": -2.969464325642798
+  },
+  {
+    "entity": "Brazilian steakhouse chain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Fogo de Chão sign",
+    "x": -1.2462450390056596,
+    "y": 2.728895986063555
+  },
+  {
+    "entity": "Typical Transport for London info",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Transport for London signage",
+    "x": 2.878478920843492,
+    "y": -0.8451976705242894
+  },
+  {
+    "entity": "Search query \"Chinatown London pedestrian zone sign\"",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Pedestrian zone sign",
+    "x": 2.633036968701767,
+    "y": 1.4377469601601705
+  },
+  {
+    "entity": "Installed in 2016",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Chinatown Gate",
+    "x": -2.4642623253614753,
+    "y": -1.7109679108048916
+  },
+  {
+    "entity": "London Chinatown Chinese Association",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Chinatown Gate",
+    "x": -1.7109679108048923,
+    "y": -2.4642623253614744
+  },
+  {
+    "entity": "Qing-Dynasty palace design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Three-tiered Chinese gate",
+    "x": 1.5000000000000027,
+    "y": -2.5980762113533142
+  },
+  {
+    "entity": "Loading permitted outside peak hours",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Pedestrian zone sign",
+    "x": 1.797832999534041,
+    "y": 2.4016237227730812
+  },
+  {
+    "entity": "Translation \"China Great Peace\"",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Plaque",
+    "x": -2.9923563438307603,
+    "y": -0.21401754959769786
+  }
+]

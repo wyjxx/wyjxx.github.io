@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "symmetrical courtyard",
+    "type": "v",
+    "granularity": 2,
+    "parent": "courtyard",
+    "x": 0.9696192404926742,
+    "y": 1.7492394142787915
+  },
+  {
+    "entity": "reflecting pool",
+    "type": "v",
+    "granularity": 2,
+    "parent": "courtyard",
+    "x": 0.10467191248588749,
+    "y": 1.9972590695091477
+  },
+  {
+    "entity": "arched colonnades",
+    "type": "v",
+    "granularity": 2,
+    "parent": "courtyard",
+    "x": -1.765895185717854,
+    "y": 0.9389431255717814
+  },
+  {
+    "entity": "stucco designs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "arched colonnades",
+    "x": -1.765895185717854,
+    "y": 0.9389431255717814
+  },
+  {
+    "entity": "tower",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9135454576426009,
+    "y": 0.40673664307580015
+  },
+  {
+    "entity": "courtyard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9135454576426008,
+    "y": -0.4067366430758006
+  },
+  {
+    "entity": "Comares Tower",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tower",
+    "x": 1.8270909152852017,
+    "y": 0.8134732861516003
+  },
+  {
+    "entity": "building materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "courtyard",
+    "x": -1.597271020094586,
+    "y": -1.203630046304096
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "courtyard",
+    "x": -1.3619714992186407,
+    "y": -2.6730195725651034
+  },
+  {
+    "entity": "historical clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco designs",
+    "x": -1.7633557568774192,
+    "y": 2.4270509831248424
+  },
+  {
+    "entity": "cultural clues",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stucco designs",
+    "x": -2.998172481057287,
+    "y": 0.1046984901075021
+  },
+  {
+    "entity": "fortress-palace combination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "courtyard",
+    "x": -0.05235721931185049,
+    "y": -2.999543085469174
+  },
+  {
+    "entity": "place of power",
+    "type": "i",
+    "granularity": 3,
+    "parent": "courtyard",
+    "x": 1.2678547852220987,
+    "y": -2.7189233611099497
+  },
+  {
+    "entity": "defense",
+    "type": "i",
+    "granularity": 3,
+    "parent": "courtyard",
+    "x": 2.3314378843709136,
+    "y": -1.8879611731495114
+  },
+  {
+    "entity": "beauty",
+    "type": "i",
+    "granularity": 3,
+    "parent": "courtyard",
+    "x": 2.923110194355706,
+    "y": -0.6748531630315934
+  }
+]

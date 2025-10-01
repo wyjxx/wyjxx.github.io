@@ -1,0 +1,258 @@
+[
+  {
+    "entity": "steep-pitched roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white stucco house",
+    "x": -1.9984580724814458,
+    "y": -0.07851963151813653
+  },
+  {
+    "entity": "dormer window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white stucco house",
+    "x": -1.847759065022574,
+    "y": -0.7653668647301785
+  },
+  {
+    "entity": "asphalt road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112867,
+    "y": 0.3826834323650898
+  },
+  {
+    "entity": "granite curb",
+    "type": "v",
+    "granularity": 2,
+    "parent": "asphalt road",
+    "x": 1.9318516525781366,
+    "y": 0.5176380902050415
+  },
+  {
+    "entity": "fences",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.09801714032956077,
+    "y": 0.9951847266721968
+  },
+  {
+    "entity": "wooden fence",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fences",
+    "x": 1.2433211467401548,
+    "y": 1.5665734984573008
+  },
+  {
+    "entity": "recycling bin",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street furniture",
+    "x": -1.414213562373095,
+    "y": 1.4142135623730951
+  },
+  {
+    "entity": "street furniture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865475,
+    "y": 0.7071067811865476
+  },
+  {
+    "entity": "road construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": -0.4859603598065265,
+    "y": -1.9400625063890884
+  },
+  {
+    "entity": "construction crane",
+    "type": "v",
+    "granularity": 2,
+    "parent": "construction site",
+    "x": 0.642878930606323,
+    "y": -1.8938602589902114
+  },
+  {
+    "entity": "building materials",
+    "type": "v",
+    "granularity": 2,
+    "parent": "architectural elements",
+    "x": 1.8079785862468862,
+    "y": -0.8551101868605651
+  },
+  {
+    "entity": "landscaping elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112865,
+    "y": 0.3826834323650903
+  },
+  {
+    "entity": "small boxes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fences",
+    "x": 0.8551101868605644,
+    "y": 1.8079785862468867
+  },
+  {
+    "entity": "mailboxes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fences",
+    "x": -0.03272346325297318,
+    "y": 1.9997322758191236
+  },
+  {
+    "entity": "cable spools",
+    "type": "v",
+    "granularity": 2,
+    "parent": "construction site",
+    "x": 1.3186916302001381,
+    "y": -1.5036796149579543
+  },
+  {
+    "entity": "white stucco house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112868,
+    "y": -0.38268343236508967
+  },
+  {
+    "entity": "roof slope",
+    "type": "v",
+    "granularity": 3,
+    "parent": "steep-pitched roof",
+    "x": -2.9976871087221686,
+    "y": -0.1177794472772048
+  },
+  {
+    "entity": "surrounding buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.47139673682599786,
+    "y": -0.8819212643483549
+  },
+  {
+    "entity": "granite posts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "fences",
+    "x": -0.9138077512608405,
+    "y": 1.7790321508437126
+  },
+  {
+    "entity": "house details",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white stucco house",
+    "x": -1.6180339887498951,
+    "y": -1.175570504584946
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.09801714032956045,
+    "y": -0.9951847266721969
+  },
+  {
+    "entity": "construction site",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5555702330196018,
+    "y": -0.8314696123025455
+  },
+  {
+    "entity": "architectural elements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9569403357322088,
+    "y": -0.2902846772544625
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "architectural elements",
+    "x": 2.967529529894343,
+    "y": -0.4401914233660845
+  },
+  {
+    "entity": "German building practices",
+    "type": "i",
+    "granularity": 3,
+    "parent": "granite curb",
+    "x": 2.897777478867205,
+    "y": 0.7764571353075622
+  },
+  {
+    "entity": "German urban planning",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street layout",
+    "x": 0.147203022982253,
+    "y": -2.996386368615517
+  },
+  {
+    "entity": "Kleingartenanlage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mailboxes",
+    "x": 0.4644544652464239,
+    "y": 2.963828950818967
+  },
+  {
+    "entity": "German residential street",
+    "type": "i",
+    "granularity": 3,
+    "parent": "asphalt road",
+    "x": 2.3800600208737057,
+    "y": 1.8262842870261617
+  },
+  {
+    "entity": "utility work",
+    "type": "i",
+    "granularity": 3,
+    "parent": "cable spools",
+    "x": 1.9780374453002072,
+    "y": -2.2555194224369313
+  },
+  {
+    "entity": "German architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white stucco house",
+    "x": -1.9483441449905523,
+    "y": -2.281217896800092
+  },
+  {
+    "entity": "allotment gardens",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mailboxes",
+    "x": -0.5611795554204957,
+    "y": 2.947045555565447
+  },
+  {
+    "entity": "time of year",
+    "type": "i",
+    "granularity": 3,
+    "parent": "landscaping elements",
+    "x": -2.7716385975338595,
+    "y": 1.1480502970952708
+  }
+]

@@ -1,0 +1,20 @@
+[  
+{"entity":"France","granularity":2,"parent":null},  
+{"entity":"Provence-Alpes-Côte d'Azur","granularity":3,"parent":"France"},  
+{"entity":"Mediterranean coast","granularity":3,"parent":"France"},  
+{"entity":"Marseille","granularity":4,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Cannes","granularity":4,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Cassis","granularity":4,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Porquerolles","granularity":4,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Toulon","granularity":4,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Port de Nice","granularity":5,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Nice's port","granularity":5,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Vieux Port de Marseille","granularity":5,"parent":"Marseille"},  
+{"entity":"Le Vieux Port","granularity":5,"parent":"Marseille"},  
+{"entity":"Fort Saint-Jean","granularity":5,"parent":"Marseille"},  
+{"entity":"Le Suquet","granularity":5,"parent":"Cannes"},  
+{"entity":"Vieux Nice","granularity":5,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Antibes old town","granularity":5,"parent":"Provence-Alpes-Côte d'Azur"},  
+{"entity":"Place de Gaulle","granularity":5,"parent":"Cannes"},  
+{"entity":"Rue Sainte-Anne","granularity":5,"parent":"Cannes"}  
+]

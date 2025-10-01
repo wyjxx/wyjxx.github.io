@@ -1,0 +1,19 @@
+[
+{"entity":"stylized prow-shaped monument","type":"v","granularity":1,"parent":null},
+{"entity":"suspension bridge","type":"v","granularity":1,"parent":null},
+{"entity":"wide estuary","type":"v","granularity":1,"parent":null},
+{"entity":"tall Christ-like statue","type":"v","granularity":1,"parent":null},
+{"entity":"palm trees","type":"v","granularity":1,"parent":null},
+{"entity":"olive trees","type":"v","granularity":1,"parent":null},
+{"entity":"multi-lane road","type":"v","granularity":1,"parent":null},
+{"entity":"rail track","type":"v","granularity":1,"parent":null},
+{"entity":"nearby buildings","type":"v","granularity":1,"parent":null},
+{"entity":"waterfront setting","type":"v","granularity":1,"parent":null},
+{"entity":"high-relief figures","type":"v","granularity":2,"parent":"stylized prow-shaped monument"},
+{"entity":"explorer sculptures","type":"v","granularity":2,"parent":"stylized prow-shaped monument"},
+{"entity":"warm low-angle light","type":"v","granularity":3,"parent":"waterfront setting"},
+{"entity":"Golden Gate Bridge","type":"i","granularity":3,"parent":"suspension bridge"},
+{"entity":"Christ the Redeemer","type":"i","granularity":3,"parent":"tall Christ-like statue"},
+{"entity":"western European latitude","type":"i","granularity":3,"parent":"waterfront setting"},
+{"entity":"Mediterranean-subtropical vegetation","type":"i","granularity":3,"parent":"palm trees"}
+]

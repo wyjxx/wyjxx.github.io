@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Britain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.8477590650225735,
+    "y": 0.7653668647301796
+  },
+  {
+    "entity": "Scotland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "Edinburgh",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": -4.0,
+    "y": 4.898587196589413e-16
+  },
+  {
+    "entity": "Arthur's Seat",
+    "granularity": 4,
+    "parent": "Edinburgh",
+    "x": 0.7803612880645133,
+    "y": 3.9231411216129217
+  },
+  {
+    "entity": "Salisbury Crags",
+    "granularity": 4,
+    "parent": "Edinburgh",
+    "x": -3.3258784492101814,
+    "y": 2.2222809320784087
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -1.9134171618254516,
+    "y": -4.619397662556432
+  },
+  {
+    "entity": "Royal Mile",
+    "granularity": 5,
+    "parent": "Old Town",
+    "x": -1.9134171618254516,
+    "y": -4.619397662556432
+  }
+]

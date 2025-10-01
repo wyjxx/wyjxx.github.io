@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "residential buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5877852522924731,
+    "y": 0.8090169943749475
+  },
+  {
+    "entity": "light colored walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential buildings",
+    "x": 1.9861369139098526,
+    "y": 0.2350747949156753
+  },
+  {
+    "entity": "dark roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential buildings",
+    "x": 1.8763826718449683,
+    "y": 0.6922341141549859
+  },
+  {
+    "entity": "multi-story buildings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential buildings",
+    "x": 1.6629392246050905,
+    "y": 1.1111404660392044
+  },
+  {
+    "entity": "street lamps",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588579,
+    "y": 0.7431448254773945
+  },
+  {
+    "entity": "LED street lights",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lamps",
+    "x": -0.876742293578155,
+    "y": 1.7975880925983339
+  },
+  {
+    "entity": "curved lamp design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street lamps",
+    "x": -1.3382612127177158,
+    "y": 1.486289650954789
+  },
+  {
+    "entity": "road",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "asphalt pavement",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.9225233918766373,
+    "y": 0.5512747116339993
+  },
+  {
+    "entity": "wet road",
+    "type": "v",
+    "granularity": 2,
+    "parent": "road",
+    "x": -1.9805361374831407,
+    "y": -0.27834620192013015
+  },
+  {
+    "entity": "overhead utility lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.866025403784439,
+    "y": -0.4999999999999994
+  },
+  {
+    "entity": "dark colored car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588588,
+    "y": -0.7431448254773937
+  },
+  {
+    "entity": "European license plate",
+    "type": "v",
+    "granularity": 2,
+    "parent": "dark colored car",
+    "x": -1.3382612127177176,
+    "y": -1.4862896509547874
+  },
+  {
+    "entity": "pitched roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential buildings",
+    "x": 1.3576014910658836,
+    "y": 1.468645018871371
+  },
+  {
+    "entity": "rectangular windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "residential buildings",
+    "x": 0.9772424829939099,
+    "y": 1.7449920141455941
+  },
+  {
+    "entity": "bare trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "deciduous trees",
+    "x": -0.20905692653530847,
+    "y": -1.9890437907365466
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.10452846326765423,
+    "y": -0.9945218953682733
+  },
+  {
+    "entity": "blue twilight sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "artificial lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7431448254773937,
+    "y": -0.6691306063588588
+  },
+  {
+    "entity": "flat land",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "European suburban architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": 0.814321349595223,
+    "y": 2.887365709360942
+  },
+  {
+    "entity": "Germanic architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": 0.11777944727720599,
+    "y": 2.9976871087221686
+  },
+  {
+    "entity": "German municipal standards",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street lamps",
+    "x": -2.544144288469278,
+    "y": 1.5897577926996147
+  },
+  {
+    "entity": "winter season",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": -0.9270509831248427,
+    "y": -2.8531695488854605
+  },
+  {
+    "entity": "blue hour",
+    "type": "i",
+    "granularity": 3,
+    "parent": "blue twilight sky",
+    "x": 1.499999999999998,
+    "y": -2.598076211353317
+  },
+  {
+    "entity": "recent rain",
+    "type": "i",
+    "granularity": 3,
+    "parent": "wet road",
+    "x": -2.9708042062247113,
+    "y": -0.41751930288019523
+  },
+  {
+    "entity": "suburban layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "residential buildings",
+    "x": -0.5852709660483846,
+    "y": 2.9423558412096913
+  },
+  {
+    "entity": "sparse winter vegetation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bare trees",
+    "x": 0.31358538980295897,
+    "y": -2.98356568610482
+  },
+  {
+    "entity": "German-speaking region",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.98356568610482,
+    "y": -0.3135853898029576
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9324722294043557,
+    "y": 0.3612416661871533
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8649444588087114,
+    "y": 0.7224833323743066
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.798111632843013,
+    "y": 2.8584211184058597
+  },
+  {
+    "entity": "Stockholm",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.4008685429184555,
+    "y": -2.1057286515094247
+  },
+  {
+    "entity": "Zurich",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.931892398735606,
+    "y": -0.7349980712662872
+  },
+  {
+    "entity": "Binnenalster",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.7629258863412501,
+    "y": -3.9265689974773674
+  },
+  {
+    "entity": "Inner Alster",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 2.3188238493131115,
+    "y": -3.2593029862006886
+  },
+  {
+    "entity": "Jungfernstieg",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 4.863091279025094,
+    "y": 1.1620426893492635
+  },
+  {
+    "entity": "Ballindamm",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 3.812396511451324,
+    "y": 3.2350630348532277
+  },
+  {
+    "entity": "Lombardsbrücke",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": 1.9380147438462845,
+    "y": 4.609132114903457
+  },
+  {
+    "entity": "Feuerstrasse",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -0.35508463237586396,
+    "y": 4.987375552718133
+  },
+  {
+    "entity": "Glockengießerwall",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -2.5714662289231143,
+    "y": 4.288071994907261
+  },
+  {
+    "entity": "Hamburg city center",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.232269910785652,
+    "y": 2.6623094114430828
+  },
+  {
+    "entity": "Neustadt",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.978670881475173,
+    "y": 0.46134179731650926
+  },
+  {
+    "entity": "Altstadt quarter",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -4.649405543535066,
+    "y": -1.83930097910739
+  },
+  {
+    "entity": "Hamburg Rathaus",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -3.315613291203974,
+    "y": -3.742553740855507
+  },
+  {
+    "entity": "Alsterufer",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -1.2654664947187282,
+    "y": -4.837209376359917
+  }
+]

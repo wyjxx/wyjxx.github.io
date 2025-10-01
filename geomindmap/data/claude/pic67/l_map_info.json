@@ -1,0 +1,11 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"Britain","granularity":2,"parent":"Europe"},
+  {"entity":"Scotland","granularity":2,"parent":"Europe"},
+  {"entity":"Northern Europe","granularity":3,"parent":"Europe"},
+  {"entity":"Edinburgh","granularity":4,"parent":"Scotland"},
+  {"entity":"Arthur's Seat","granularity":4,"parent":"Edinburgh"},
+  {"entity":"Salisbury Crags","granularity":4,"parent":"Edinburgh"},
+  {"entity":"Old Town","granularity":5,"parent":"Edinburgh"},
+  {"entity":"Royal Mile","granularity":5,"parent":"Old Town"}
+]

@@ -1,0 +1,21 @@
+[
+{"entity":"train station platform","type":"v","granularity":1,"parent":null},
+{"entity":"train","type":"v","granularity":1,"parent":null},
+{"entity":"modern architecture","type":"v","granularity":1,"parent":null},
+{"entity":"interior","type":"v","granularity":1,"parent":null},
+{"entity":"architectural details","type":"v","granularity":1,"parent":null},
+{"entity":"arched concrete ceiling","type":"v","granularity":2,"parent":"interior"},
+{"entity":"vaulted architecture","type":"v","granularity":2,"parent":"modern architecture"},
+{"entity":"wooden slat paneling","type":"v","granularity":2,"parent":"architectural details"},
+{"entity":"train livery","type":"v","granularity":2,"parent":"train"},
+{"entity":"\"Train Express Régional\" text","type":"v","granularity":2,"parent":"train"},
+{"entity":"\"Zou!\" livery","type":"v","granularity":2,"parent":"train"},
+{"entity":"platform features","type":"v","granularity":2,"parent":"train station platform"},
+{"entity":"\"G\" platform sign","type":"v","granularity":2,"parent":"train station platform"},
+{"entity":"double-decker train platforms","type":"v","granularity":2,"parent":"train station platform"},
+{"entity":"wall designs","type":"v","granularity":2,"parent":"architectural details"},
+{"entity":"playing card motif","type":"v","granularity":3,"parent":"train livery"},
+{"entity":"color scheme","type":"v","granularity":3,"parent":"train livery"},
+{"entity":"TER train","type":"i","granularity":3,"parent":"train"},
+{"entity":"built into rock","type":"i","granularity":3,"parent":"interior"}
+]

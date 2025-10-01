@@ -1,0 +1,623 @@
+[{
+    "paragraph": 1,
+    "clue": [],
+    "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "zebra crossing",
+    "asphalt road surface",
+    "hatchback car",
+    "metal pole",
+    "building",
+    "outdoor dining area",
+    "umbrella",
+    "person with balloons",
+    "balloons",
+    "European-style road markings",
+    "developed country infrastructure",
+    "European-style car",
+    "tourist area"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 3,
+  "clue": [
+    "sea",
+    "palm tree",
+    "sky",
+    "lighting",
+    "shadows",
+    "sunny weather",
+    "coastal location",
+    "Mediterranean climate"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 4,
+  "clue": [
+    "waterfront promenade",
+    "coastal road",
+    "outdoor dining area",
+    "umbrella",
+    "tourist area",
+    "Mediterranean climate",
+    "coastal location",
+    "resort town"
+  ],
+  "loc-clue": []
+},{
+  "paragraph": 5,
+  "clue": [
+    "palm tree",
+    "coastal location",
+    "European-style road markings",
+    "developed country infrastructure",
+    "outdoor dining area",
+    "tourist atmosphere",
+    "person with balloons"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Spain",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Costa del Sol",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Costa Brava",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Balearic Islands",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Canary Islands",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Southern France",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "French Riviera",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Italy",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Greece",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Cyprus",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Malta",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Portugal",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "North Africa",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Morocco",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    },
+    {
+      "loc": "Tunisia",
+      "status": 2,
+      "related_clue": [
+        "palm tree",
+        "coastal location",
+        "European-style road markings",
+        "developed country infrastructure",
+        "outdoor dining area",
+        "tourist atmosphere",
+        "person with balloons"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "coastal location",
+    "developed country infrastructure",
+    "Mediterranean urban design",
+    "Spanish Mediterranean character",
+    "resort town",
+    "major tourist destination"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": [
+        "coastal location",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "Spanish Mediterranean character",
+        "resort town"
+      ]
+    },
+    {
+      "loc": "Costa del Sol",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "Spanish Mediterranean character",
+        "resort town"
+      ]
+    },
+    {
+      "loc": "Costa Brava",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "Spanish Mediterranean character",
+        "resort town"
+      ]
+    },
+    {
+      "loc": "Marbella",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "resort town",
+        "Spanish Mediterranean character"
+      ]
+    },
+    {
+      "loc": "Torremolinos",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "resort town",
+        "Spanish Mediterranean character"
+      ]
+    },
+    {
+      "loc": "Málaga",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "major tourist destination",
+        "developed country infrastructure"
+      ]
+    },
+    {
+      "loc": "Barcelona",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "major tourist destination",
+        "developed country infrastructure"
+      ]
+    },
+    {
+      "loc": "Valencia",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "major tourist destination",
+        "developed country infrastructure"
+      ]
+    },
+    {
+      "loc": "Palma de Mallorca",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "major tourist destination",
+        "developed country infrastructure"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [
+    "Mediterranean urban design",
+    "developed country infrastructure",
+    "coastal location"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": [
+        "Mediterranean urban design",
+        "developed country infrastructure",
+        "coastal location"
+      ]
+    }
+  ]
+},{
+  "paragraph": 8,
+  "clue": [
+    "coastal location",
+    "Mediterranean urban design",
+    "Spanish Mediterranean character"
+  ],
+  "loc-clue": [
+    {
+      "loc": "French Riviera",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "Mediterranean urban design"
+      ]
+    },
+    {
+      "loc": "Italy",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "Mediterranean urban design"
+      ]
+    },
+    {
+      "loc": "Greece",
+      "status": 2,
+      "related_clue": [
+        "coastal location",
+        "Mediterranean urban design"
+      ]
+    },
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": [
+        "coastal location",
+        "Mediterranean urban design",
+        "Spanish Mediterranean character"
+      ]
+    }
+  ]
+},{
+  "paragraph": 9,
+  "clue": [
+    "waterfront promenade",
+    "developed country infrastructure",
+    "Mediterranean urban design",
+    "major tourist destination",
+    "Spanish Mediterranean character",
+    "wide boulevard",
+    "palm-lined street",
+    "outdoor dining area",
+    "active tourist zone"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Costa del Sol",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "major tourist destination",
+        "Spanish Mediterranean character",
+        "wide boulevard",
+        "palm-lined street",
+        "outdoor dining area",
+        "active tourist zone"
+      ]
+    },
+    {
+      "loc": "Málaga",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "major tourist destination",
+        "Spanish Mediterranean character",
+        "wide boulevard",
+        "palm-lined street",
+        "outdoor dining area",
+        "active tourist zone"
+      ]
+    },
+    {
+      "loc": "Barcelona",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "major tourist destination",
+        "Spanish Mediterranean character",
+        "wide boulevard",
+        "palm-lined street",
+        "outdoor dining area",
+        "active tourist zone"
+      ]
+    },
+    {
+      "loc": "Valencia",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "major tourist destination",
+        "Spanish Mediterranean character",
+        "wide boulevard",
+        "palm-lined street",
+        "outdoor dining area",
+        "active tourist zone"
+      ]
+    },
+    {
+      "loc": "Balearic Islands",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "Mediterranean urban design",
+        "major tourist destination",
+        "Spanish Mediterranean character",
+        "wide boulevard",
+        "palm-lined street",
+        "outdoor dining area",
+        "active tourist zone"
+      ]
+    }
+  ]
+},{
+  "paragraph": 10,
+  "clue": [
+    "waterfront promenade",
+    "developed country infrastructure",
+    "tourist area",
+    "Spanish Mediterranean character",
+    "coastal location",
+    "Mediterranean urban design",
+    "major tourist destination"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Málaga",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Barcelona",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Valencia",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Palma de Mallorca",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Explanada de España",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Alicante",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Spain",
+      "status": 3,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    },
+    {
+      "loc": "Europe",
+      "status": 2,
+      "related_clue": [
+        "waterfront promenade",
+        "developed country infrastructure",
+        "tourist area",
+        "Spanish Mediterranean character",
+        "coastal location",
+        "Mediterranean urban design",
+        "major tourist destination"
+      ]
+    }
+  ]
+}]

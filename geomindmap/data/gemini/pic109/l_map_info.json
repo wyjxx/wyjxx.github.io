@@ -1,0 +1,11 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Koreastraße","granularity":5,"parent":"Hamburg"},
+{"entity":"Hongkongstraße","granularity":5,"parent":"Hamburg"},
+{"entity":"Hauptzollamt Hamburg","granularity":5,"parent":"Hamburg"},
+{"entity":"Koreastraße 4","granularity":5,"parent":"Hamburg"},
+{"entity":"20457 Hamburg","granularity":5,"parent":"Hamburg"},
+{"entity":"HafenCity","granularity":5,"parent":"Hamburg"}
+]

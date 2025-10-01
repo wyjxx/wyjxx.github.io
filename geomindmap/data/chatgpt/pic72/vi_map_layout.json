@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "street scene",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.913545457642601,
+    "y": 0.40673664307580004
+  },
+  {
+    "entity": "mid-rise hotel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6691306063588581,
+    "y": -0.7431448254773944
+  },
+  {
+    "entity": "rooftop sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8090169943749473,
+    "y": -0.5877852522924734
+  },
+  {
+    "entity": "low traffic",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street scene",
+    "x": 1.9371663222572622,
+    "y": 0.4973797743297096
+  },
+  {
+    "entity": "black-and-white mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mid-rise hotel",
+    "x": -1.9972590695091477,
+    "y": -0.104671912485888
+  },
+  {
+    "entity": "Marilyn Monroe mural",
+    "type": "v",
+    "granularity": 2,
+    "parent": "mid-rise hotel",
+    "x": -0.9079809994790938,
+    "y": -1.7820130483767356
+  },
+  {
+    "entity": "Campus Riera International sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rooftop sign",
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "likely in Cannes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street scene",
+    "x": 2.1869058822642344,
+    "y": 2.053641317786066
+  },
+  {
+    "entity": "near Boulevard de la Croisette",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street scene",
+    "x": 0.9270509831248424,
+    "y": 2.8531695488854605
+  },
+  {
+    "entity": "famous landmark",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Marilyn Monroe mural",
+    "x": -2.281217896800093,
+    "y": -1.9483441449905508
+  },
+  {
+    "entity": "hotel variant identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rooftop sign",
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  },
+  {
+    "entity": "tourism site placement",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Marilyn Monroe mural",
+    "x": -0.2353772871835367,
+    "y": -2.990752001199384
+  },
+  {
+    "entity": "map confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street scene",
+    "x": -0.5621439437571745,
+    "y": 2.9468617521860656
+  },
+  {
+    "entity": "Wikipedia confirmation",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street scene",
+    "x": -1.9122719692460692,
+    "y": 2.311539728327368
+  }
+]

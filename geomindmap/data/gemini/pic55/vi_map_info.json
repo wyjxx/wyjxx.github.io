@@ -1,0 +1,16 @@
+[  
+  {"entity":"tomb","type":"v","granularity":1,"parent":null},  
+  {"entity":"cenotaph","type":"v","granularity":1,"parent":null},  
+  {"entity":"bronze sculpture","type":"v","granularity":1,"parent":null},  
+  {"entity":"Gothic cathedral","type":"v","granularity":1,"parent":null},  
+  {"entity":"tourist","type":"v","granularity":1,"parent":null},  
+  {"entity":"heraldic element","type":"v","granularity":2,"parent":"bronze sculpture"},  
+  {"entity":"robe","type":"v","granularity":2,"parent":"bronze sculpture"},  
+  {"entity":"catafalque","type":"v","granularity":2,"parent":"cenotaph"},  
+  {"entity":"Gothic architecture","type":"v","granularity":2,"parent":"Gothic cathedral"},  
+  {"entity":"Christopher Columbus","type":"i","granularity":3,"parent":"cenotaph"},  
+  {"entity":"historic kingdoms of Spain","type":"i","granularity":3,"parent":"bronze sculpture"},  
+  {"entity":"Kingdom of León symbology","type":"i","granularity":3,"parent":"heraldic element"},  
+  {"entity":"Kingdom of Castile symbology","type":"i","granularity":3,"parent":"heraldic element"},  
+  {"entity":"UNESCO World Heritage Site","type":"i","granularity":3,"parent":"Gothic cathedral"}  
+]

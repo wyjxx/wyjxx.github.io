@@ -1,0 +1,146 @@
+[
+  {
+    "entity": "Lufthansa aircraft",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "Lufthansa livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Lufthansa aircraft",
+    "x": 1.9562952014676114,
+    "y": 0.41582338163551863
+  },
+  {
+    "entity": "crane logo",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Lufthansa aircraft",
+    "x": 1.618033988749895,
+    "y": 1.1755705045849463
+  },
+  {
+    "entity": "terminal building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6427876096865394,
+    "y": 0.766044443118978
+  },
+  {
+    "entity": "ground support equipment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "jet bridge",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.984807753012208,
+    "y": 0.17364817766693028
+  },
+  {
+    "entity": "ground support vehicle",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9848077530122081,
+    "y": -0.17364817766693003
+  },
+  {
+    "entity": "airport architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.34202014332566855,
+    "y": -0.9396926207859084
+  },
+  {
+    "entity": "terminal architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7660444431189785,
+    "y": -0.6427876096865389
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.984807753012208,
+    "y": -0.1736481776669304
+  },
+  {
+    "entity": "German airline",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa aircraft",
+    "x": 1.5000000000000004,
+    "y": 2.598076211353316
+  },
+  {
+    "entity": "European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terminal architecture",
+    "x": 2.2981333293569355,
+    "y": -1.9283628290596169
+  },
+  {
+    "entity": "wide-body aircraft",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa aircraft",
+    "x": 0.313585389802961,
+    "y": 2.9835656861048196
+  },
+  {
+    "entity": "Airbus A330",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Lufthansa aircraft",
+    "x": -0.927050983124842,
+    "y": 2.853169548885461
+  },
+  {
+    "entity": "major hub airport",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport architecture",
+    "x": -2.5301743374386567,
+    "y": -1.6118988250404716
+  },
+  {
+    "entity": "major international airport",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport architecture",
+    "x": -1.6118988250404727,
+    "y": -2.5301743374386563
+  },
+  {
+    "entity": "primary hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport architecture",
+    "x": -0.3915785766601522,
+    "y": -2.9743345841214315
+  },
+  {
+    "entity": "secondary hub",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport architecture",
+    "x": 0.9021173985128204,
+    "y": -2.8611508522446805
+  }
+]

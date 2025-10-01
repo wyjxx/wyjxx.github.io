@@ -1,0 +1,13 @@
+[
+{"entity":"North America","granularity":1,"parent":null},
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Asia","granularity":1,"parent":null},
+{"entity":"Japan","granularity":2,"parent":"Asia"},
+{"entity":"Greater Tokyo Area","granularity":3,"parent":"Japan"},
+{"entity":"California","granularity":3,"parent":"North America"},
+{"entity":"Pacific Northwest","granularity":3,"parent":"North America"},
+{"entity":"Tokyo","granularity":4,"parent":"Greater Tokyo Area"},
+{"entity":"Tokyo suburbs","granularity":5,"parent":"Tokyo"},
+{"entity":"Setagaya","granularity":5,"parent":"Tokyo"},
+{"entity":"Nakameguro","granularity":5,"parent":"Tokyo"}
+]

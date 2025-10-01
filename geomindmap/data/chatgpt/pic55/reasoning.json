@@ -1,0 +1,14 @@
+[  
+  {  
+    "title": "Finalizing location details",  
+    "content": "Your task:\n\nThe user wants a specific neighborhood within Seville, which is Santa Cruz. I’ve confirmed it's linked to Columbus's tomb in Seville Cathedral. So, I'll clarify the location as Barrio Santa Cruz, Seville, Spain. It’s important to highlight that this is a distinct area within Seville. The final answer needs to emphasize this neighborhood and its connection to the cathedral. So the conclusion will be: **Location Conclusion** Barrio Santa Cruz, Seville, Spain."  
+  },  
+  {  
+    "title": "Clarifying location",  
+    "content": "The user is looking for a neighborhood within a city, specifically Barrio Santa Cruz. I’ll be clear and concise, presenting this as the location they want. There’s no need for extra commentary, just the straightforward answer. So, the conclusion will be: **Location Conclusion** Barrio Santa Cruz, Seville, Spain. This keeps everything focused on what’s really important for the user."  
+  },  
+  {  
+    "title": "Location Conclusion",  
+    "content": "Barrio Santa Cruz, Seville, Spain"  
+  }  
+]

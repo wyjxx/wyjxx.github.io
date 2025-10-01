@@ -1,0 +1,86 @@
+[
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Brussels-Capital Region",
+    "x": -0.36517884415459256,
+    "y": 3.9832956721516313
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.372483275737467,
+    "y": 1.4547472831460977
+  },
+  {
+    "entity": "Brussels-Capital Region",
+    "granularity": 3,
+    "parent": "Belgium",
+    "x": -0.2738841331159444,
+    "y": 2.9874717541137237
+  },
+  {
+    "entity": "Grand Place",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 4.251943340286895,
+    "y": 2.630775138811739
+  },
+  {
+    "entity": "Grote Markt",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -0.45647355519324073,
+    "y": 4.979119590189539
+  },
+  {
+    "entity": "Pentagon",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -4.659411513725285,
+    "y": 1.8138038333194284
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.46123174148487833,
+    "y": -1.946089741159648
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "Bruges",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -3.4806039677170446,
+    "y": -1.9711407914992696
+  },
+  {
+    "entity": "Ghent",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -1.5230519832978016,
+    "y": -3.6986906678137648
+  },
+  {
+    "entity": "Amsterdam",
+    "granularity": 4,
+    "parent": null,
+    "x": 2.828427124746192,
+    "y": -2.828427124746188
+  },
+  {
+    "entity": "Lille",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.8637033051562732,
+    "y": -1.0352761804100827
+  }
+]

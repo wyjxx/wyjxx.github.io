@@ -1,0 +1,17 @@
+[  
+{"entity":"Philosophenweg street sign","type":"v","granularity":1,"parent":null},  
+{"entity":"exception plate","type":"v","granularity":2,"parent":"no entry sign"},  
+{"entity":"no entry sign","type":"v","granularity":1,"parent":null},  
+{"entity":"no stopping sign","type":"v","granularity":1,"parent":null},  
+{"entity":"metal pole","type":"v","granularity":1,"parent":null},  
+{"entity":"tree leaves","type":"v","granularity":1,"parent":null},  
+{"entity":"building facade","type":"v","granularity":1,"parent":null},  
+{"entity":"hiking path","type":"i","granularity":3,"parent":null},  
+{"entity":"trail markers","type":"i","granularity":3,"parent":null},  
+{"entity":"vehicle access restriction","type":"i","granularity":3,"parent":"exception plate"},  
+{"entity":"pedestrian use","type":"i","granularity":3,"parent":"no entry sign"},  
+{"entity":"vehicle-accessible street","type":"i","granularity":3,"parent":null},  
+{"entity":"street intersection","type":"i","granularity":3,"parent":null},  
+{"entity":"German traffic standards","type":"i","granularity":3,"parent":"no entry sign"},  
+{"entity":"inner-city street","type":"i","granularity":3,"parent":null}  
+]

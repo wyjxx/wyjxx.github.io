@@ -1,0 +1,407 @@
+[{
+  "paragraph": 1,
+  "clue": [
+    "red tiled roofs",
+    "bell tower",
+    "large cruise ship",
+    "modern white terminal",
+    "old European riverside city",
+    "riverside city identification",
+    "inferred Lisbon location",
+    "inferred church identity"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Alfama",
+      "status": 2,
+      "related_clue": [
+        "old European riverside city",
+        "riverside city identification",
+        "inferred Lisbon location"
+      ]
+    },
+    {
+      "loc": "Lisbon",
+      "status": 2,
+      "related_clue": [
+        "old European riverside city",
+        "riverside city identification",
+        "inferred Lisbon location"
+      ]
+    },
+    {
+      "loc": "Portugal",
+      "status": 2,
+      "related_clue": [
+        "inferred Lisbon location"
+      ]
+    },
+    {
+      "loc": "Tagus River",
+      "status": 2,
+      "related_clue": [
+        "riverside city identification"
+      ]
+    },
+    {
+      "loc": "São Vicente de Fora",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "Santa Engrácia",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "National Pantheon",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    }
+  ]
+},{
+  "paragraph": 2,
+  "clue": [
+    "large cruise ship",
+    "pink station hall",
+    "red-tiled houses",
+    "twin towers",
+    "inferred church identity",
+    "inferred viewpoint"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Lisbon Cruise Terminal",
+      "status": 3,
+      "related_clue": [
+        "large cruise ship"
+      ]
+    },
+    {
+      "loc": "Santa Apolónia station",
+      "status": 3,
+      "related_clue": [
+        "pink station hall"
+      ]
+    },
+    {
+      "loc": "Alfama",
+      "status": 2,
+      "related_clue": [
+        "red-tiled houses",
+        "inferred viewpoint"
+      ]
+    },
+    {
+      "loc": "Miradouro das Portas do Sol",
+      "status": 3,
+      "related_clue": [
+        "inferred viewpoint"
+      ]
+    },
+    {
+      "loc": "Santo Estêvão church",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "Santa Luzia church",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "São Vicente de Fora",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity",
+        "twin towers"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "large white church",
+    "pink station hall",
+    "inferred church identity",
+    "inferred viewpoint"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Santa Luzia church",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "Madre de Deus monastery",
+      "status": 2,
+      "related_clue": [
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "Santo Estêvão church",
+      "status": 2,
+      "related_clue": [
+        "large white church",
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "National Pantheon",
+      "status": 2,
+      "related_clue": [
+        "large white church",
+        "inferred church identity"
+      ]
+    },
+    {
+      "loc": "Lisbon Cruise Terminal",
+      "status": 2,
+      "related_clue": [
+        "pink station hall"
+      ]
+    },
+    {
+      "loc": "Santa Apolónia station",
+      "status": 3,
+      "related_clue": [
+        "pink station hall"
+      ]
+    },
+    {
+      "loc": "Miradouro de Santa Luzia",
+      "status": 2,
+      "related_clue": [
+        "inferred viewpoint"
+      ]
+    },
+    {
+      "loc": "Castelo de São Jorge",
+      "status": 2,
+      "related_clue": [
+        "inferred viewpoint"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "small dome",
+    "circular oculus",
+    "triangular pediment",
+    "inferred church identity",
+    "pediment match inference",
+    "inferred viewpoint",
+    "geolocation conclusion"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Santa Engrácia",
+      "status": 1,
+      "related_clue": [
+        "small dome"
+      ]
+    },
+    {
+      "loc": "São Vicente de Fora",
+      "status": 3,
+      "related_clue": [
+        "triangular pediment",
+        "circular oculus",
+        "inferred church identity",
+        "pediment match inference"
+      ]
+    },
+    {
+      "loc": "Miradouro das Portas do Sol",
+      "status": 3,
+      "related_clue": [
+        "inferred viewpoint"
+      ]
+    },
+    {
+      "loc": "Alfama",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    },
+    {
+      "loc": "Lisbon",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    },
+    {
+      "loc": "Portugal",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "red tiled roofs",
+    "densely packed houses",
+    "steep slope",
+    "wide river",
+    "large white church",
+    "triangular pediment",
+    "circular oculus",
+    "bell tower",
+    "small dome",
+    "pink station hall",
+    "railroad tracks",
+    "modern white terminal",
+    "large cruise ship",
+    "far shore",
+    "low relief"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Lisbon Cruise Terminal",
+      "status": 2,
+      "related_clue": [
+        "modern white terminal",
+        "large cruise ship"
+      ]
+    },
+    {
+      "loc": "Santa Apolónia station",
+      "status": 2,
+      "related_clue": [
+        "pink station hall",
+        "railroad tracks"
+      ]
+    },
+    {
+      "loc": "Tagus River",
+      "status": 2,
+      "related_clue": [
+        "wide river",
+        "far shore",
+        "low relief"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "red-tiled houses",
+    "densely packed houses",
+    "wide river",
+    "steep slope",
+    "pink station hall",
+    "triangular pediment",
+    "circular oculus",
+    "twin towers",
+    "old European riverside city",
+    "Porto vs Lisbon comparison",
+    "riverside city identification",
+    "pediment match inference",
+    "inferred viewpoint",
+    "geolocation conclusion"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Lisbon",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    },
+    {
+      "loc": "Tagus River",
+      "status": 2,
+      "related_clue": [
+        "riverside city identification"
+      ]
+    },
+    {
+      "loc": "Alfama",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    },
+    {
+      "loc": "São Vicente de Fora",
+      "status": 2,
+      "related_clue": [
+        "triangular pediment",
+        "circular oculus",
+        "twin towers",
+        "pediment match inference"
+      ]
+    },
+    {
+      "loc": "Santa Apolónia station",
+      "status": 2,
+      "related_clue": [
+        "pink station hall"
+      ]
+    },
+    {
+      "loc": "Lisbon Cruise Terminal",
+      "status": 2,
+      "related_clue": [
+        "pink station hall"
+      ]
+    },
+    {
+      "loc": "Miradouro das Portas do Sol",
+      "status": 3,
+      "related_clue": [
+        "inferred viewpoint"
+      ]
+    },
+    {
+      "loc": "Largo das Portas do Sol",
+      "status": 3,
+      "related_clue": [
+        "geolocation conclusion"
+      ]
+    }
+  ]
+},{
+  "paragraph": 7,
+  "clue": [],
+  "loc-clue": [
+    {
+      "loc": "Alfama",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Lisbon",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Portugal",
+      "status": 3,
+      "related_clue": []
+    },
+    {
+      "loc": "Europe",
+      "status": 3,
+      "related_clue": []
+    }
+  ]
+}]

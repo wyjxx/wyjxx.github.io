@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Barcelona",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -3.8837672697042085,
+    "y": -0.9572626571502297
+  },
+  {
+    "entity": "Montjuïc",
+    "granularity": 4,
+    "parent": "Barcelona",
+    "x": 2.7708974140383975,
+    "y": 2.8848097893752582
+  },
+  {
+    "entity": "Bunkers del Carmel",
+    "granularity": 5,
+    "parent": "Turó de la Rovira",
+    "x": -1.0001284688802217,
+    "y": 4.898953260211338
+  },
+  {
+    "entity": "Turó de la Rovira",
+    "granularity": 4,
+    "parent": "Barcelona",
+    "x": -0.8001027751041774,
+    "y": 3.9191626081690707
+  },
+  {
+    "entity": "Sagrada Família",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -4.59989721829412,
+    "y": 1.9598330493003777
+  },
+  {
+    "entity": "Eixample",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -4.854709087130261,
+    "y": -1.196578321437785
+  },
+  {
+    "entity": "Hotel Arts",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -3.1622268779768885,
+    "y": -3.8730248091382706
+  },
+  {
+    "entity": "Torre Mapfre",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": -0.2013297005470846,
+    "y": -4.995944990857848
+  },
+  {
+    "entity": "Port Olímpic",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": 2.840323733655774,
+    "y": -4.114919329468285
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.970941817426052,
+    "y": 0.23931566428755777
+  },
+  {
+    "entity": "El Carmel",
+    "granularity": 5,
+    "parent": "Barcelona",
+    "x": 4.742682209735724,
+    "y": -1.5833399690073735
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9418836348521042,
+    "y": -0.47863132857511487
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9709418174260521,
+    "y": -0.23931566428755743
+  }
+]

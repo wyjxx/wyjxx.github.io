@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.4270509831248424,
+    "y": 1.7633557568774194
+  },
+  {
+    "entity": "Neustadt an der Aisch-Bad Windsheim district",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.427050983124843,
+    "y": -1.7633557568774192
+  },
+  {
+    "entity": "Rothenburg ob der Tauber",
+    "granularity": 4,
+    "parent": "Neustadt an der Aisch-Bad Windsheim district",
+    "x": -3.2360679774997902,
+    "y": -2.351141009169892
+  },
+  {
+    "entity": "Plönlein",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -4.045084971874736,
+    "y": 2.9389262614623664
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": 1.5450849718747361,
+    "y": -4.755282581475768
+  }
+]

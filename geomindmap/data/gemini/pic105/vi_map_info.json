@@ -1,0 +1,17 @@
+[
+{"entity":"plaque","type":"v","granularity":1,"parent":null},
+{"entity":"Babboe cargo bike","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"entrance building","type":"v","granularity":1,"parent":null},
+{"entity":"plaque text","type":"v","granularity":2,"parent":"plaque"},
+{"entity":"mosaic tiling","type":"v","granularity":2,"parent":"entrance building"},
+{"entity":"sign fragment","type":"v","granularity":2,"parent":"entrance building"},
+{"entity":"AUFZUG sign","type":"v","granularity":2,"parent":"entrance building"},
+{"entity":"reconstruction plaque","type":"v","granularity":2,"parent":"plaque"},
+{"entity":"German text","type":"v","granularity":3,"parent":"plaque text"},
+{"entity":"construction dates","type":"v","granularity":3,"parent":"plaque text"},
+{"entity":"technical specs","type":"v","granularity":3,"parent":"plaque text"},
+{"entity":"decoding ELBTUNNEL","type":"i","granularity":3,"parent":"plaque text"},
+{"entity":"architectural styles","type":"i","granularity":3,"parent":"architecture"},
+{"entity":"site renovations","type":"i","granularity":3,"parent":"reconstruction plaque"}
+]

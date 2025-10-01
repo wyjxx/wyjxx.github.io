@@ -1,0 +1,93 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Bavaria",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": 2.878478920843492,
+    "y": 0.845197670524289
+  },
+  {
+    "entity": "Franconia",
+    "granularity": 3,
+    "parent": "Germany",
+    "x": -2.878478920843493,
+    "y": -0.845197670524287
+  },
+  {
+    "entity": "Rothenburg ob der Tauber",
+    "granularity": 4,
+    "parent": "Franconia",
+    "x": -3.8379718944579904,
+    "y": -1.126930227365716
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": 2.9963883325567355,
+    "y": 4.002706204621801
+  },
+  {
+    "entity": "Siebersturm",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -0.35669591599616124,
+    "y": 4.987260573051268
+  },
+  {
+    "entity": "Kobolzeller Tor",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -3.5355339059327373,
+    "y": 3.5355339059327378
+  },
+  {
+    "entity": "Plönlein",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -4.987260573051268,
+    "y": 0.35669591599616435
+  },
+  {
+    "entity": "Schmiedgasse",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -4.002706204621804,
+    "y": -2.9963883325567324
+  },
+  {
+    "entity": "Rödergasse",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": -1.06282644776489,
+    "y": -4.885734329855796
+  },
+  {
+    "entity": "Marktplatz",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": 2.39624493360028,
+    "y": -4.3883949478362805
+  },
+  {
+    "entity": "Herrngasse",
+    "granularity": 5,
+    "parent": "Rothenburg ob der Tauber",
+    "x": 4.684748624998805,
+    "y": -1.7473208979955022
+  }
+]

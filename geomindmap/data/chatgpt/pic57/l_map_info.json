@@ -1,0 +1,16 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Sinsheim","granularity":4,"parent":"Germany"},  
+  {"entity":"Speyer","granularity":4,"parent":"Germany"},  
+  {"entity":"Steinsfurt","granularity":4,"parent":"Germany"},  
+  {"entity":"Grombach","granularity":4,"parent":"Germany"},  
+  {"entity":"Hoffenheim","granularity":4,"parent":"Germany"},  
+  {"entity":"Auto & Technik Museum Sinsheim","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"PreZero Arena","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"Sinsheim Museum/Arena station","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"In der Au","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"Alte Römerstraße","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"Im Rosengarten","granularity":5,"parent":"Sinsheim"},  
+  {"entity":"Steinsfurt district","granularity":5,"parent":"Sinsheim"}  
+]

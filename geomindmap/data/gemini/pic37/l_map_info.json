@@ -1,0 +1,9 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"Western Europe","granularity":2,"parent":"Europe"},
+  {"entity":"Germany","granularity":2,"parent":"Europe"},
+  {"entity":"Munich","granularity":4,"parent":"Germany"},
+  {"entity":"Nymphenburg-Biederstein Canal","granularity":4,"parent":"Germany"},
+  {"entity":"Luitpoldpark","granularity":5,"parent":"Munich"},
+  {"entity":"Schwabing-West","granularity":5,"parent":"Munich"}
+]

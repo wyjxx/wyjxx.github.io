@@ -1,0 +1,121 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "United Kingdom",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "City of Westminster",
+    "granularity": 3,
+    "parent": "United Kingdom",
+    "x": 2.934442802201417,
+    "y": 0.623735072453278
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "United Kingdom",
+    "x": -3.9125904029352228,
+    "y": -0.8316467632710363
+  },
+  {
+    "entity": "Soho",
+    "granularity": 5,
+    "parent": "London",
+    "x": 3.997213817017506,
+    "y": 3.0037113211898943
+  },
+  {
+    "entity": "Chinatown",
+    "granularity": 5,
+    "parent": "London",
+    "x": 2.287877497021976,
+    "y": 4.445853861590646
+  },
+  {
+    "entity": "West End",
+    "granularity": 5,
+    "parent": "London",
+    "x": 0.12081872618066097,
+    "y": 4.998540070400964
+  },
+  {
+    "entity": "Covent Garden",
+    "granularity": 5,
+    "parent": "London",
+    "x": -2.0704115501400597,
+    "y": 4.551197206565173
+  },
+  {
+    "entity": "Wardour Street",
+    "granularity": 5,
+    "parent": "London",
+    "x": -3.8474265329308297,
+    "y": 3.1933225758917394
+  },
+  {
+    "entity": "Coventry Street",
+    "granularity": 5,
+    "parent": "London",
+    "x": -4.85470908713026,
+    "y": 1.1965783214377885
+  },
+  {
+    "entity": "Maiden Lane",
+    "granularity": 5,
+    "parent": "London",
+    "x": -4.890738003669028,
+    "y": -1.0395584540887977
+  },
+  {
+    "entity": "Sloane Square",
+    "granularity": 5,
+    "parent": "London",
+    "x": -3.948305185085224,
+    "y": -3.067716767472045
+  },
+  {
+    "entity": "Lisle Street",
+    "granularity": 5,
+    "parent": "London",
+    "x": -2.2159577279962055,
+    "y": -4.48213468647852
+  },
+  {
+    "entity": "Gerrard Street",
+    "granularity": 5,
+    "parent": "London",
+    "x": -0.040276393306948106,
+    "y": -4.99983777858264
+  },
+  {
+    "entity": "Shaftesbury Avenue",
+    "granularity": 5,
+    "parent": "London",
+    "x": 2.1434628070152733,
+    "y": -4.517252173051911
+  },
+  {
+    "entity": "Leicester Square",
+    "granularity": 5,
+    "parent": "London",
+    "x": 3.8983717703161136,
+    "y": -3.1309259876915663
+  },
+  {
+    "entity": "St James Street",
+    "granularity": 5,
+    "parent": "London",
+    "x": 4.8733559853121395,
+    "y": -1.1182135039527745
+  }
+]

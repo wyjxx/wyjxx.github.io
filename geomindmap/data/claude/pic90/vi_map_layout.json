@@ -1,0 +1,410 @@
+[
+  {
+    "entity": "stone structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.030795058556170547,
+    "y": 0.9995257197133659
+  },
+  {
+    "entity": "light-colored limestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.9958840706599739,
+    "y": 0.12824498620130317
+  },
+  {
+    "entity": "two stories",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.9630582114583157,
+    "y": 0.3826257419804357
+  },
+  {
+    "entity": "symmetrical design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.8979463726242423,
+    "y": 0.6307135377035131
+  },
+  {
+    "entity": "arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.8016194340176355,
+    "y": 0.8684281288454302
+  },
+  {
+    "entity": "ornate stone decoration",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.6756616632673167,
+    "y": 1.0918598766582688
+  },
+  {
+    "entity": "classical columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.5221446596754629,
+    "y": 1.2973340491259255
+  },
+  {
+    "entity": "pilasters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.3435932830869144,
+    "y": 1.4814712584602263
+  },
+  {
+    "entity": "decorative medallions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 1.1429441280836503,
+    "y": 1.6412430411365357
+  },
+  {
+    "entity": "rosettes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 0.9234972264700686,
+    "y": 1.774021666356443
+  },
+  {
+    "entity": "chimneys",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 0.6888617723875027,
+    "y": 1.8776233537488685
+  },
+  {
+    "entity": "roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 0.4428967627048866,
+    "y": 1.9503441895177198
+  },
+  {
+    "entity": "classical cornice",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": 0.18964752895979098,
+    "y": 1.9909881503312483
+  },
+  {
+    "entity": "detailed molding",
+    "type": "v",
+    "granularity": 2,
+    "parent": "stone structure",
+    "x": -0.06672079530518535,
+    "y": 1.9988867740504572
+  },
+  {
+    "entity": "modern building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9924205096719358,
+    "y": -0.12288829066471366
+  },
+  {
+    "entity": "clean lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": -1.9990514394267318,
+    "y": -0.06159011711234029
+  },
+  {
+    "entity": "large glass windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern building",
+    "x": -1.9536966355192018,
+    "y": -0.4278661664129934
+  },
+  {
+    "entity": "sphere sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7790805745256706,
+    "y": -0.6269238058941062
+  },
+  {
+    "entity": "metallic sphere",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sphere sculpture",
+    "x": -1.8559021797131496,
+    "y": -0.7454039839818274
+  },
+  {
+    "entity": "golden sphere",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sphere sculpture",
+    "x": -1.72585799933478,
+    "y": -1.0106503678978949
+  },
+  {
+    "entity": "bronze sphere",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sphere sculpture",
+    "x": -1.5581611490513412,
+    "y": -1.2538476117882125
+  },
+  {
+    "entity": "cut-out opening",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sphere sculpture",
+    "x": -1.356470234698469,
+    "y": -1.4696899340939504
+  },
+  {
+    "entity": "intricate internal structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sphere sculpture",
+    "x": -1.125185503239648,
+    "y": -1.6534683496515257
+  },
+  {
+    "entity": "public art installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.44573835577653886,
+    "y": -0.895163291355062
+  },
+  {
+    "entity": "paving",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.21393308320649787,
+    "y": -0.9768483177596006
+  },
+  {
+    "entity": "stone slabs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paving",
+    "x": -0.6063053482260891,
+    "y": -1.9058840008543125
+  },
+  {
+    "entity": "concrete slabs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "paving",
+    "x": -0.24577658132942967,
+    "y": -1.9848410193438712
+  },
+  {
+    "entity": "formal plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.21393308320649665,
+    "y": -0.9768483177596009
+  },
+  {
+    "entity": "courtyard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "landscaping",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6026346363792555,
+    "y": -0.7980172272802402
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.739008917220658,
+    "y": -0.6736956436465584
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": 1.478017834441316,
+    "y": -1.3473912872931169
+  },
+  {
+    "entity": "overcast sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8810121942857843,
+    "y": -0.4730935568360106
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9529420004271563,
+    "y": -0.3031526741130446
+  },
+  {
+    "entity": "vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9924205096719355,
+    "y": -0.12288829066471578
+  },
+  {
+    "entity": "classical European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -0.4829876663442365,
+    "y": 2.960865230664737
+  },
+  {
+    "entity": "Renaissance Revival style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -0.8579505495369464,
+    "y": 2.874703611600551
+  },
+  {
+    "entity": "Neoclassical style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -1.2188029118055765,
+    "y": 2.7412623847735276
+  },
+  {
+    "entity": "Germanic architectural traditions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -1.559609895003532,
+    "y": 2.562736228215279
+  },
+  {
+    "entity": "Austrian architectural traditions",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -1.874766322853366,
+    "y": 2.3420613217195805
+  },
+  {
+    "entity": "university campus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal plaza",
+    "x": 0.15393201474836618,
+    "y": -2.9960482197113434
+  },
+  {
+    "entity": "cultural institution",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.159088888028175,
+    "y": 2.0828670561495892
+  },
+  {
+    "entity": "government complex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.4079014008486723,
+    "y": 1.7894163416575253
+  },
+  {
+    "entity": "civic complex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.617111697529631,
+    "y": 1.4665354965542332
+  },
+  {
+    "entity": "institutional space",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.783278943083021,
+    "y": 1.1195348699306604
+  },
+  {
+    "entity": "academic complex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.9036702219619666,
+    "y": 0.754121503533312
+  },
+  {
+    "entity": "cultural center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "stone structure",
+    "x": -2.9763054857119116,
+    "y": 0.37630526932423414
+  },
+  {
+    "entity": "prominent urban center",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal plaza",
+    "x": 0.64179924961949,
+    "y": -2.930544953278803
+  },
+  {
+    "entity": "sophisticated urban setting",
+    "type": "i",
+    "granularity": 3,
+    "parent": "formal plaza",
+    "x": 1.1123874575878805,
+    "y": -2.7861432382778117
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overcast sky",
+    "x": 2.643036582857353,
+    "y": -1.4192806705080319
+  },
+  {
+    "entity": "temperate zone",
+    "type": "i",
+    "granularity": 3,
+    "parent": "vegetation",
+    "x": 2.9772615290158067,
+    "y": -0.3686648719941473
+  }
+]

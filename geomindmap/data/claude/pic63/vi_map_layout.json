@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "neoclassical gate",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.068242413364671,
+    "y": 0.9976687691905392
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical gate",
+    "x": 1.910377120439296,
+    "y": 0.5919959946672468
+  },
+  {
+    "entity": "five passages",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical gate",
+    "x": 1.461671928556248,
+    "y": 1.3651062864373082
+  },
+  {
+    "entity": "triumphal arch",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "quadriga sculpture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical gate",
+    "x": 0.720984660500829,
+    "y": 1.8655243550601275
+  },
+  {
+    "entity": "chariot",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical gate",
+    "x": -0.16372575936362654,
+    "y": 1.9932872035210591
+  },
+  {
+    "entity": "horses",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical gate",
+    "x": -0.746397992710383,
+    "y": 1.855502637151969
+  },
+  {
+    "entity": "classical buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9629172873477994,
+    "y": -0.26979677115702405
+  },
+  {
+    "entity": "public square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4600650377311527,
+    "y": -0.887885218402375
+  },
+  {
+    "entity": "boulevard",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.33487961217098605,
+    "y": -0.9422609221188205
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5766803221148662,
+    "y": -0.8169698930104426
+  },
+  {
+    "entity": "barriers",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public square",
+    "x": -1.6723642485094221,
+    "y": -1.096903742498637
+  },
+  {
+    "entity": "fencing",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public square",
+    "x": -1.20847277904219,
+    "y": -1.5936102228318083
+  },
+  {
+    "entity": "construction work",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public square",
+    "x": -0.6050291017621527,
+    "y": -1.9062895336283212
+  },
+  {
+    "entity": "renovation work",
+    "type": "v",
+    "granularity": 2,
+    "parent": "public square",
+    "x": 0.06828222037193472,
+    "y": -1.998834044732348
+  },
+  {
+    "entity": "golden hour",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7757112907044196,
+    "y": -0.6310879443260531
+  },
+  {
+    "entity": "silhouette",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9172113015054525,
+    "y": -0.39840108984624273
+  },
+  {
+    "entity": "European neoclassical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical gate",
+    "x": -1.8932638329781586,
+    "y": 2.3271338721132593
+  },
+  {
+    "entity": "18th-19th century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical gate",
+    "x": -2.497250920411105,
+    "y": 1.6624493497565243
+  },
+  {
+    "entity": "Doric columns",
+    "type": "i",
+    "granularity": 3,
+    "parent": "columns",
+    "x": 2.865565680658944,
+    "y": 0.8879939920008703
+  },
+  {
+    "entity": "goddess Victoria",
+    "type": "i",
+    "granularity": 3,
+    "parent": "quadriga sculpture",
+    "x": 1.0814769907512436,
+    "y": 2.798286532590191
+  },
+  {
+    "entity": "landmark recognition",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical gate",
+    "x": -2.87742718937119,
+    "y": 0.84877132955079
+  },
+  {
+    "entity": "city reunification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.972057838108992,
+    "y": -0.4084999472887416
+  }
+]

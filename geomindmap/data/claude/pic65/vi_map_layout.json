@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "tethered balloon",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "yellow car",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.13052619222005138,
+    "y": 0.9914448613738105
+  },
+  {
+    "entity": "Berlin ♥ You sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "European-style buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "vending machine",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.923879532511287,
+    "y": -0.3826834323650892
+  },
+  {
+    "entity": "information kiosk",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7071067811865477,
+    "y": -0.7071067811865475
+  },
+  {
+    "entity": "bicycle rental area",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252063,
+    "y": -0.9659258262890683
+  },
+  {
+    "entity": "European architecture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.13052619222005127,
+    "y": -0.9914448613738105
+  },
+  {
+    "entity": "street layout",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "WELT text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tethered balloon",
+    "x": 1.8793852415718169,
+    "y": 0.6840402866513373
+  },
+  {
+    "entity": "Zimmerstraße text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow car",
+    "x": 0.39018064403225705,
+    "y": 1.9615705608064609
+  },
+  {
+    "entity": "Trabant",
+    "type": "v",
+    "granularity": 2,
+    "parent": "yellow car",
+    "x": -0.8845773804380023,
+    "y": 1.7937454830653767
+  },
+  {
+    "entity": "road markings",
+    "type": "v",
+    "granularity": 2,
+    "parent": "street layout",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 3,
+    "parent": "clear blue sky",
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "shadows",
+    "type": "v",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.7716385975338595,
+    "y": -1.148050297095271
+  },
+  {
+    "entity": "Die Welt newspaper",
+    "type": "i",
+    "granularity": 3,
+    "parent": "WELT text",
+    "x": 2.8190778623577253,
+    "y": 1.026060429977006
+  },
+  {
+    "entity": "German language",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Zimmerstraße text",
+    "x": 0.5852709660483856,
+    "y": 2.9423558412096913
+  },
+  {
+    "entity": "modern Berlin architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style buildings",
+    "x": -3.0,
+    "y": 3.6739403974420594e-16
+  },
+  {
+    "entity": "East Germany",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Trabant",
+    "x": -1.3268660706570035,
+    "y": 2.690618224598065
+  },
+  {
+    "entity": "tourist attraction",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tethered balloon",
+    "x": 1.9283628290596184,
+    "y": 2.2981333293569337
+  },
+  {
+    "entity": "tourist signage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Berlin ♥ You sign",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "tourist area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bicycle rental area",
+    "x": -0.7764571353075619,
+    "y": -2.897777478867205
+  },
+  {
+    "entity": "historical markers",
+    "type": "i",
+    "granularity": 3,
+    "parent": "information kiosk",
+    "x": -2.121320343559643,
+    "y": -2.1213203435596424
+  }
+]

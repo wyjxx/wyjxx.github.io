@@ -1,0 +1,128 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.984807753012208,
+    "y": 0.1736481776669307
+  },
+  {
+    "entity": "Northern Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9848077530122079,
+    "y": -0.17364817766693127
+  },
+  {
+    "entity": "England",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.2175228580174406,
+    "y": 1.5867066805824708
+  },
+  {
+    "entity": "Denmark",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.15256794900790524,
+    "y": -1.9941722646089333
+  },
+  {
+    "entity": "English Channel coastline",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.5805693545089224,
+    "y": -1.9138806714644183
+  },
+  {
+    "entity": "Northern France",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.255519422436931,
+    "y": -1.9780374453002083
+  },
+  {
+    "entity": "East Sussex",
+    "granularity": 3,
+    "parent": "England",
+    "x": 1.0483925387972959,
+    "y": 2.8108491749992845
+  },
+  {
+    "entity": "Jurassic Coast",
+    "granularity": 3,
+    "parent": "England",
+    "x": -2.6157417945735437,
+    "y": 1.4689774893173746
+  },
+  {
+    "entity": "South Downs",
+    "granularity": 3,
+    "parent": "England",
+    "x": -2.986415767719254,
+    "y": -0.2851681299125466
+  },
+  {
+    "entity": "England's southern coast",
+    "granularity": 3,
+    "parent": "England",
+    "x": -1.8544769586618166,
+    "y": -2.358159284228362
+  },
+  {
+    "entity": "Cuckmere Haven",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": 3.88271341306341,
+    "y": 0.9615282377639697
+  },
+  {
+    "entity": "Birling Gap",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": 2.9852857952169884,
+    "y": 2.662342712889472
+  },
+  {
+    "entity": "Seaford",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": 1.3978567183963944,
+    "y": 3.7477988999990464
+  },
+  {
+    "entity": "Eastbourne",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -0.5126647660843702,
+    "y": 3.967010818943611
+  },
+  {
+    "entity": "Étretat",
+    "granularity": 4,
+    "parent": "Northern France",
+    "x": 3.0073592299159078,
+    "y": -2.6373832604002776
+  },
+  {
+    "entity": "Beachy Head",
+    "granularity": 4,
+    "parent": "East Sussex",
+    "x": -2.30469192177101,
+    "y": 3.269311111797629
+  },
+  {
+    "entity": "White Cliffs of Dover",
+    "granularity": 5,
+    "parent": "England's southern coast",
+    "x": -3.0907949311030274,
+    "y": -3.9302654737139364
+  },
+  {
+    "entity": "Seven Sisters",
+    "granularity": 5,
+    "parent": "South Downs",
+    "x": -4.977359612865423,
+    "y": -0.4752802165209109
+  }
+]

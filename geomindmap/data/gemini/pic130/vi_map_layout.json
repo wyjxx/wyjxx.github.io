@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "Propylaea",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "Temple of Athena Nike",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.25881904510252063,
+    "y": -0.9659258262890683
+  },
+  {
+    "entity": "tourists",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2588190451025203,
+    "y": -0.9659258262890684
+  },
+  {
+    "entity": "Mediterranean cityscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.707106781186548,
+    "y": -0.707106781186547
+  },
+  {
+    "entity": "city view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Propylaea",
+    "x": 0.14946018717284879,
+    "y": 1.9944075943623603
+  },
+  {
+    "entity": "stone blocks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Propylaea",
+    "x": -1.9776616524502573,
+    "y": -0.29808453235234805
+  },
+  {
+    "entity": "Doric columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "columns",
+    "x": 1.4661037436596527,
+    "y": 1.3603454755418387
+  },
+  {
+    "entity": "Greco-Roman origin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "columns",
+    "x": -0.8842655232327119,
+    "y": 2.866718417358422
+  },
+  {
+    "entity": "ancient sites",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Propylaea",
+    "x": -2.1991556154894796,
+    "y": -2.0405182133127573
+  },
+  {
+    "entity": "Doric order",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Doric columns",
+    "x": 2.199155615489479,
+    "y": 2.040518213312758
+  },
+  {
+    "entity": "Ionic order",
+    "type": "i",
+    "granularity": 3,
+    "parent": "columns",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  }
+]

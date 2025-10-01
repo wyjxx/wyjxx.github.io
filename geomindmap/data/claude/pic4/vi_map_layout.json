@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "railway tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6234898018587336,
+    "y": 0.7818314824680298
+  },
+  {
+    "entity": "overhead power lines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "warning sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9888308262251284,
+    "y": 0.14904226617617514
+  },
+  {
+    "entity": "circular prohibition sign",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8262387743159951,
+    "y": -0.5633200580636216
+  },
+  {
+    "entity": "European-style houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5000000000000012,
+    "y": -0.8660254037844379
+  },
+  {
+    "entity": "deciduous trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.07473009358642348,
+    "y": -0.9972037971811802
+  },
+  {
+    "entity": "mountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7330518718298253,
+    "y": -0.6801727377709205
+  },
+  {
+    "entity": "flat terrain",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9888308262251284,
+    "y": -0.14904226617617528
+  },
+  {
+    "entity": "train symbol",
+    "type": "v",
+    "granularity": 2,
+    "parent": "warning sign",
+    "x": -1.7065817632643108,
+    "y": 1.042870406758997
+  },
+  {
+    "entity": "Zugverkehr beachten! text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "warning sign",
+    "x": -1.997513842437845,
+    "y": -0.0996917713213927
+  },
+  {
+    "entity": "Central European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European-style houses",
+    "x": -1.5000000000000036,
+    "y": -2.598076211353314
+  },
+  {
+    "entity": "narrow gauge railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": 2.951788765795889,
+    "y": 0.5356706843959099
+  },
+  {
+    "entity": "light rail system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": 2.5753463808055983,
+    "y": 1.5386978322177183
+  },
+  {
+    "entity": "temperate climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "deciduous trees",
+    "x": 0.22419028075927044,
+    "y": -2.9916113915435405
+  },
+  {
+    "entity": "German-speaking country",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Zugverkehr beachten! text",
+    "x": -2.996270763656767,
+    "y": -0.14953765698208904
+  },
+  {
+    "entity": "regional rail line",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": 1.8704694055762008,
+    "y": 2.3454944474040893
+  },
+  {
+    "entity": "tourist rail area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": 1.6899601741908625,
+    "y": -2.478716322947987
+  },
+  {
+    "entity": "commuter rail area",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": 0.9270509831248424,
+    "y": 2.8531695488854605
+  },
+  {
+    "entity": "alpine transportation networks",
+    "type": "i",
+    "granularity": 3,
+    "parent": "mountains",
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  },
+  {
+    "entity": "local rail lines",
+    "type": "i",
+    "granularity": 3,
+    "parent": "railway tracks",
+    "x": -0.13459449105154458,
+    "y": 2.996979199623944
+  },
+  {
+    "entity": "modern infrastructure",
+    "type": "i",
+    "granularity": 3,
+    "parent": "overhead power lines",
+    "x": -1.4999999999999993,
+    "y": 2.598076211353316
+  }
+]

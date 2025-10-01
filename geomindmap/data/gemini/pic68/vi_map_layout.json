@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7071067811865476,
+    "y": 0.7071067811865475
+  },
+  {
+    "entity": "museum",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844388,
+    "y": -0.4999999999999997
+  },
+  {
+    "entity": "public space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9659258262890683,
+    "y": -0.2588190451025207
+  },
+  {
+    "entity": "suspended whale skeleton",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": -0.589510348821808,
+    "y": 1.9111456115722816
+  },
+  {
+    "entity": "\"Wildlife Photographer of the Year\" signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": -1.563662964936059,
+    "y": 1.2469796037174679
+  },
+  {
+    "entity": "\"Dinosaurs\" signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": -1.9944075943623603,
+    "y": 0.14946018717285023
+  },
+  {
+    "entity": "free gallery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": -1.7320508075688785,
+    "y": -0.999999999999998
+  },
+  {
+    "entity": "exhibits",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": -0.8677674782351198,
+    "y": -1.8019377358048365
+  },
+  {
+    "entity": "Darwin statue",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": 0.29808453235234617,
+    "y": -1.9776616524502575
+  },
+  {
+    "entity": "central staircase",
+    "type": "v",
+    "granularity": 2,
+    "parent": "museum",
+    "x": 1.360345475541835,
+    "y": -1.4661037436596562
+  },
+  {
+    "entity": "architectural style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": 2.77163859753386,
+    "y": 1.1480502970952693
+  },
+  {
+    "entity": "key features",
+    "type": "i",
+    "granularity": 3,
+    "parent": "building",
+    "x": 1.1480502970952695,
+    "y": 2.77163859753386
+  }
+]

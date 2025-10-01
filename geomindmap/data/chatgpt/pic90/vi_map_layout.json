@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Berkeley Library",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9555728057861408,
+    "y": 0.29475517441090415
+  },
+  {
+    "entity": "Museum Building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3653410243663952,
+    "y": 0.9308737486442041
+  },
+  {
+    "entity": "neoclassical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.36534102436639465,
+    "y": 0.9308737486442044
+  },
+  {
+    "entity": "brutalist building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587335,
+    "y": 0.7818314824680299
+  },
+  {
+    "entity": "georgian building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9009688679024189,
+    "y": 0.4338837391175586
+  },
+  {
+    "entity": "ornate building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.0106430996148606e-15
+  },
+  {
+    "entity": "bronze sphere sculpture",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587344,
+    "y": -0.7818314824680291
+  },
+  {
+    "entity": "grey overcast skies",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3653410243663937,
+    "y": -0.9308737486442048
+  },
+  {
+    "entity": "wet ground",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9009688679024186,
+    "y": -0.4338837391175591
+  },
+  {
+    "entity": "sphere",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bronze sphere sculpture",
+    "x": -1.732050807568878,
+    "y": -0.9999999999999988
+  },
+  {
+    "entity": "podium",
+    "type": "v",
+    "granularity": 2,
+    "parent": "bronze sphere sculpture",
+    "x": -0.9345372565461268,
+    "y": -1.768230787009218
+  },
+  {
+    "entity": "decorative arched windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Museum Building",
+    "x": 1.396473636172146,
+    "y": 1.4317336985194367
+  },
+  {
+    "entity": "grey stone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Museum Building",
+    "x": 0.7306820487327904,
+    "y": 1.8617474972884083
+  },
+  {
+    "entity": "geometric paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wet ground",
+    "x": 1.5636629649360583,
+    "y": -1.2469796037174687
+  },
+  {
+    "entity": "granite paving",
+    "type": "v",
+    "granularity": 2,
+    "parent": "wet ground",
+    "x": 1.9498558243636468,
+    "y": -0.445041867912631
+  },
+  {
+    "entity": "Arnaldo Pomodoro",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sphere",
+    "x": -2.598076211353317,
+    "y": -1.4999999999999982
+  },
+  {
+    "entity": "Sfera con Sfera",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bronze sphere sculpture",
+    "x": -0.33589342830992674,
+    "y": -2.9811366296797273
+  },
+  {
+    "entity": "1857",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Museum Building",
+    "x": -0.07479207521421741,
+    "y": 2.9990675460024487
+  },
+  {
+    "entity": "1960s architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Berkeley Library",
+    "x": 2.866718417358422,
+    "y": 0.8842655232327125
+  },
+  {
+    "entity": "older Georgian style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "georgian building",
+    "x": -2.7029066037072567,
+    "y": 1.301651217352676
+  },
+  {
+    "entity": "temperate rainy climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grey overcast skies",
+    "x": 1.0960230730991811,
+    "y": -2.7926212459326143
+  }
+]

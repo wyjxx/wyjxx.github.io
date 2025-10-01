@@ -1,0 +1,37 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.4142135623730951,
+    "y": 1.414213562373095
+  },
+  {
+    "entity": "Belgium",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.4142135623730954,
+    "y": -1.414213562373095
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": "Belgium",
+    "x": -2.8284271247461907,
+    "y": -2.82842712474619
+  },
+  {
+    "entity": "Laeken",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": -3.5355339059327386,
+    "y": -3.5355339059327373
+  }
+]

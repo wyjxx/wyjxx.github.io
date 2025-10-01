@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9510565162951535,
+    "y": 0.3090169943749475
+  },
+  {
+    "entity": "North America",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.5208119312000619,
+    "y": 1.2988960966603673
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.0449971294318976,
+    "y": 1.7052803287081846
+  },
+  {
+    "entity": "Russia",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9984580724814458,
+    "y": -0.07851963151813741
+  },
+  {
+    "entity": "Spain",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.2350747949156752,
+    "y": -1.9861369139098526
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.0416238624001237,
+    "y": 2.5977921933207346
+  },
+  {
+    "entity": "Bern",
+    "granularity": 4,
+    "parent": "Switzerland",
+    "x": -2.089994258863795,
+    "y": 3.410560657416369
+  },
+  {
+    "entity": "Madrid",
+    "granularity": 4,
+    "parent": "Spain",
+    "x": -0.4701495898313504,
+    "y": -3.972273827819705
+  },
+  {
+    "entity": "Sol",
+    "granularity": 5,
+    "parent": "Madrid",
+    "x": -0.587686987289188,
+    "y": -4.965342284774631
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "entity": "constructed environment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9948693233918952,
+    "y": 0.10116832198743217
+  },
+  {
+    "entity": "natural world",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9541392564000488,
+    "y": 0.29936312297335793
+  },
+  {
+    "entity": "train",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.05064916883871277,
+    "y": 0.9987165071710528
+  },
+  {
+    "entity": "Class 800 train",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": 1.3180565732978637,
+    "y": 1.5042363077609493
+  },
+  {
+    "entity": "historic train station",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "railway station platform",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6889669190756864,
+    "y": -0.7247927872291201
+  },
+  {
+    "entity": "Victorian-era architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "historic train station",
+    "x": -1.9361542377324086,
+    "y": 0.5013050645174408
+  },
+  {
+    "entity": "roof structure",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5289640103269624,
+    "y": -0.848644257494751
+  },
+  {
+    "entity": "arched roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof structure",
+    "x": -0.6734483849869429,
+    "y": -1.8832066463238915
+  },
+  {
+    "entity": "barrel-vaulted spans",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof structure",
+    "x": 0.4356271174977025,
+    "y": -1.9519807925542307
+  },
+  {
+    "entity": "wrought iron",
+    "type": "v",
+    "granularity": 2,
+    "parent": "barrel-vaulted spans",
+    "x": -0.16122092230423404,
+    "y": -1.9934913629638258
+  },
+  {
+    "entity": "iron columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof structure",
+    "x": 1.410226886272158,
+    "y": -1.41818903155931
+  },
+  {
+    "entity": "glass",
+    "type": "v",
+    "granularity": 2,
+    "parent": "roof structure",
+    "x": 1.6913054116496786,
+    "y": -1.0674670976308878
+  },
+  {
+    "entity": "triple-span design",
+    "type": "v",
+    "granularity": 2,
+    "parent": "barrel-vaulted spans",
+    "x": 0.7226892066632894,
+    "y": -1.8648646896148753
+  },
+  {
+    "entity": "dark green train",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": 0.32287427214978653,
+    "y": 1.9737659953458884
+  },
+  {
+    "entity": "GWR letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -0.121535114929312,
+    "y": 1.9963038886500017
+  },
+  {
+    "entity": "800 014 number",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -0.5599282810809222,
+    "y": 1.9200209165646513
+  },
+  {
+    "entity": "train name 'Edith'",
+    "type": "v",
+    "granularity": 2,
+    "parent": "train",
+    "x": -1.1591129881403404,
+    "y": 1.6298641295287075
+  },
+  {
+    "entity": "platform layouts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway station platform",
+    "x": -1.5815514738753966,
+    "y": -1.2242119650953263
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "railway station platform",
+    "x": -1.1425364301895846,
+    "y": -1.6415268824145526
+  },
+  {
+    "entity": "known GWR routes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Class 800 train",
+    "x": 2.5512788472695025,
+    "y": 1.578282688074351
+  },
+  {
+    "entity": "train operator",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train",
+    "x": -2.4447961942930627,
+    "y": 1.7386694822105087
+  },
+  {
+    "entity": "Great Western Railway",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Class 800 train",
+    "x": 1.9770848599467956,
+    "y": 2.2563544616414237
+  },
+  {
+    "entity": "Intercity Express Train",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Class 800 train",
+    "x": 1.2294609743897622,
+    "y": 2.7364988054908004
+  },
+  {
+    "entity": "naming practice",
+    "type": "i",
+    "granularity": 3,
+    "parent": "train name 'Edith'",
+    "x": -1.7386694822105104,
+    "y": 2.4447961942930614
+  },
+  {
+    "entity": "world-famous signature",
+    "type": "i",
+    "granularity": 3,
+    "parent": "triple-span design",
+    "x": 1.084033809994934,
+    "y": -2.797297034422313
+  },
+  {
+    "entity": "Isambard Kingdom Brunel",
+    "type": "i",
+    "granularity": 3,
+    "parent": "roof structure",
+    "x": 2.8304525361299393,
+    "y": -0.9942527046559111
+  },
+  {
+    "entity": "1850s",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Victorian-era architecture",
+    "x": -2.904231356598613,
+    "y": 0.7519575967761613
+  },
+  {
+    "entity": "London terminus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic train station",
+    "x": -2.975961531152229,
+    "y": -0.3790157847663881
+  },
+  {
+    "entity": "Brunel-designed roof",
+    "type": "i",
+    "granularity": 3,
+    "parent": "roof structure",
+    "x": 2.981001309215348,
+    "y": -0.33709226401147496
+  },
+  {
+    "entity": "street address",
+    "type": "i",
+    "granularity": 3,
+    "parent": "historic train station",
+    "x": -2.7859589987167865,
+    "y": -1.112848802609303
+  }
+]

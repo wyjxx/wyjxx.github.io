@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "park benches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park scene",
+    "x": -1.9460897411596478,
+    "y": -0.4612317414848793
+  },
+  {
+    "entity": "fitness paths",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.9874244197864852,
+    "y": 0.2239289522066157
+  },
+  {
+    "entity": "walkway",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818236,
+    "y": 0.2225209339563144
+  },
+  {
+    "entity": "lampposts",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8262387743159949,
+    "y": 0.563320058063622
+  },
+  {
+    "entity": "tree copse",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -1.582142069312682,
+    "y": 1.2234485982300134
+  },
+  {
+    "entity": "pond",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.3653410243663952,
+    "y": 0.9308737486442041
+  },
+  {
+    "entity": "lawn",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14904226617617408,
+    "y": 0.9888308262251286
+  },
+  {
+    "entity": "daisies",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grass",
+    "x": -0.6369733005033682,
+    "y": 1.8958546923342636
+  },
+  {
+    "entity": "grass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4999999999999998,
+    "y": 0.8660254037844387
+  },
+  {
+    "entity": "trees",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9555728057861406,
+    "y": 0.2947551744109046
+  },
+  {
+    "entity": "park scene",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6234898018587337,
+    "y": -0.7818314824680297
+  },
+  {
+    "entity": "bright midday sun",
+    "type": "v",
+    "granularity": 2,
+    "parent": "park scene",
+    "x": -1.7720990208602696,
+    "y": -0.9271812445612096
+  },
+  {
+    "entity": "leaves",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -1.7751715780091077,
+    "y": 0.9212849009012654
+  },
+  {
+    "entity": "reeds",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.3382612127177165,
+    "y": 1.4862896509547883
+  },
+  {
+    "entity": "natural pond edge",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 1.0513675396210096,
+    "y": 1.701360131374679
+  },
+  {
+    "entity": "stream",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.14904226617617308,
+    "y": -0.9888308262251287
+  },
+  {
+    "entity": "grassy edges",
+    "type": "v",
+    "granularity": 2,
+    "parent": "pond",
+    "x": 0.7306820487327904,
+    "y": 1.8617474972884083
+  },
+  {
+    "entity": "park toilet",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2947551744109035,
+    "y": -0.955572805786141
+  },
+  {
+    "entity": "lakes",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "cafe",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6801727377709188,
+    "y": -0.7330518718298269
+  },
+  {
+    "entity": "stone amphitheater",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7818314824680286,
+    "y": -0.623489801858735
+  },
+  {
+    "entity": "stage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844379,
+    "y": -0.5000000000000012
+  },
+  {
+    "entity": "pavilion",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9308737486442034,
+    "y": -0.3653410243663974
+  },
+  {
+    "entity": "fountains",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9749279121818232,
+    "y": -0.22252093395631636
+  },
+  {
+    "entity": "large lake",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lakes",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "asphalt path",
+    "type": "v",
+    "granularity": 2,
+    "parent": "walkway",
+    "x": 1.8877666606167351,
+    "y": 0.6605581239103342
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "lampposts",
+    "x": 1.6524775486319898,
+    "y": 1.126640116127244
+  },
+  {
+    "entity": "hawthorn blossoms",
+    "type": "v",
+    "granularity": 2,
+    "parent": "trees",
+    "x": -1.9562952014676112,
+    "y": 0.41582338163551946
+  },
+  {
+    "entity": "white clusters",
+    "type": "v",
+    "granularity": 3,
+    "parent": "hawthorn blossoms",
+    "x": -2.9344428022014166,
+    "y": 0.6237350724532792
+  },
+  {
+    "entity": "iris",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grass",
+    "x": -0.9999999999999996,
+    "y": 1.7320508075688774
+  },
+  {
+    "entity": "yellow-flag iris",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grass",
+    "x": -1.3233716751937183,
+    "y": 1.4995624059354689
+  },
+  {
+    "entity": "water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9972037971811799,
+    "y": -0.07473009358642745
+  },
+  {
+    "entity": "Lombardy poplars",
+    "type": "i",
+    "granularity": 3,
+    "parent": "trees",
+    "x": -2.9946303893032056,
+    "y": -0.17941246183510126
+  },
+  {
+    "entity": "early summertime",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bright midday sun",
+    "x": -2.6581485312904043,
+    "y": -1.3907718668418145
+  },
+  {
+    "entity": "unmanaged environment",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -2.2327681184539565,
+    "y": -2.0036832407383107
+  },
+  {
+    "entity": "less developed",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -1.8704694055762032,
+    "y": -2.3454944474040875
+  },
+  {
+    "entity": "differ in style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -1.4566090715404598,
+    "y": -2.622649426192155
+  },
+  {
+    "entity": "European context",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -1.0025956481795644,
+    "y": -2.827508084206197
+  },
+  {
+    "entity": "prevalent European parks",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -0.5209445330007962,
+    "y": -2.9544232590366235
+  },
+  {
+    "entity": "plausible small ponds",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pond",
+    "x": 0.5797677533866603,
+    "y": 2.9434451501825176
+  },
+  {
+    "entity": "design similarities",
+    "type": "i",
+    "granularity": 3,
+    "parent": "park scene",
+    "x": -0.024932987988294388,
+    "y": -2.999896389229131
+  },
+  {
+    "entity": "English-garden style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "pond",
+    "x": 0.044878221045791485,
+    "y": 2.9996643054308203
+  }
+]

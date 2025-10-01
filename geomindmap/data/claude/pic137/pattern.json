@@ -1,0 +1,41 @@
+{
+  "Breadth-First": [
+    {
+      "Step": 1,
+      "Explanation": "Systematically listing man-made visual clues without a firm hypothesis, gathering broad information"
+    },
+    {
+      "Step": 2,
+      "Explanation": "Continuing divergent clue collection by listing natural elements and environment"
+    },
+    {
+      "Step": 3,
+      "Explanation": "Identifying which clues are most distinctive to prepare for hypothesis generation"
+    }
+  ],
+  "Depth-First": [
+    {
+      "Step": 4,
+      "Explanation": "Proposing a specific location hypothesis based on the key clues",
+      "KeyElement": "Lisbon, Belém (Monument to the Discoveries, 25 de Abril Bridge, Tagus River)"
+    },
+    {
+      "Step": 5,
+      "Explanation": "Verifying the hypothesis by matching each distinctive clue to known features of Belém, Lisbon",
+      "KeyElement": "Monument to the Discoveries, 25 de Abril Bridge, maritime theme"
+    },
+    {
+      "Step": 6,
+      "Explanation": "Final confirmation of the location hypothesis",
+      "KeyElement": "Belém, Lisbon, Portugal"
+    }
+  ],
+  "Breadth-Depth Switch": [
+    {
+      "FromStep": 3,
+      "ToStep": 4,
+      "SwitchType": "ToDepth",
+      "Explanation": "Shift from broad clue analysis to formulating and verifying a specific location hypothesis"
+    }
+  ]
+}

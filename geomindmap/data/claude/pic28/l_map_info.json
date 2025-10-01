@@ -1,0 +1,6 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"England","granularity":2,"parent":"Europe"},
+{"entity":"London","granularity":4,"parent":"England"},
+{"entity":"City of London","granularity":5,"parent":"London"}
+]

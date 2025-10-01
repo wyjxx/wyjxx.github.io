@@ -1,0 +1,18 @@
+[
+  {"entity": "Concourse A", "granularity": 5, "parent": "Terminal 1"},
+  {"entity": "Concourse B", "granularity": 5, "parent": "Terminal 1"},
+  {"entity": "Concourse C", "granularity": 5, "parent": "Terminal 1"},
+  {"entity": "Europe", "granularity": 1, "parent": null},
+  {"entity": "Flughafen district", "granularity": 5, "parent": "Frankfurt am Main"},
+  {"entity": "Frankfurt Airport", "granularity": 5, "parent": "Frankfurt am Main"},
+  {"entity": "Frankfurt am Main", "granularity": 4, "parent": "Germany"},
+  {"entity": "Gate A5", "granularity": 5, "parent": "Concourse A"},
+  {"entity": "Gate A6", "granularity": 5, "parent": "Concourse A"},
+  {"entity": "Germany", "granularity": 2, "parent": "Europe"},
+  {"entity": "Munich", "granularity": 4, "parent": "Germany"},
+  {"entity": "Munich Airport", "granularity": 5, "parent": "Munich"},
+  {"entity": "Pier A", "granularity": 5, "parent": "Terminal 1"},
+  {"entity": "Pier A-Plus", "granularity": 5, "parent": "Pier A"},
+  {"entity": "Terminal 1", "granularity": 5, "parent": "Frankfurt Airport"},
+  {"entity": "Terminal 2", "granularity": 5, "parent": "Frankfurt Airport"}
+]

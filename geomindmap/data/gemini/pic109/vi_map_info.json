@@ -1,0 +1,11 @@
+[
+{"entity":"street signs","type":"v","granularity":1,"parent":null},
+{"entity":"building","type":"v","granularity":1,"parent":null},
+{"entity":"architecture","type":"v","granularity":1,"parent":null},
+{"entity":"stickers","type":"v","granularity":2,"parent":"street signs"},
+{"entity":"signage","type":"v","granularity":2,"parent":"building"},
+{"entity":"suffix -straße","type":"i","granularity":3,"parent":"street signs"},
+{"entity":"German-speaking location","type":"i","granularity":3,"parent":"street signs"},
+{"entity":"main customs office","type":"i","granularity":3,"parent":"building"},
+{"entity":"street intersection","type":"i","granularity":3,"parent":"street signs"}
+]

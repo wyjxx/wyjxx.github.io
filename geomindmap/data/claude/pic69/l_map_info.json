@@ -1,0 +1,11 @@
+[
+  {"entity":"Europe","granularity":1,"parent":null},
+  {"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+  {"entity":"England","granularity":3,"parent":"United Kingdom"},
+  {"entity":"London","granularity":4,"parent":"England"},
+  {"entity":"Manchester","granularity":4,"parent":"England"},
+  {"entity":"Liverpool","granularity":4,"parent":"England"},
+  {"entity":"Soho","granularity":5,"parent":"London"},
+  {"entity":"Chinatown","granularity":5,"parent":"London"},
+  {"entity":"Gerrard Street","granularity":5,"parent":"London"}
+]

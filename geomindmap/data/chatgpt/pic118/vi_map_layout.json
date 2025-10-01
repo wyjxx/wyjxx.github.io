@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "white buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.41541501300188644,
+    "y": 0.9096319953545183
+  },
+  {
+    "entity": "small church",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545184,
+    "y": 0.4154150130018863
+  },
+  {
+    "entity": "volcanic cliff",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545186,
+    "y": -0.4154150130018861
+  },
+  {
+    "entity": "deep blue water",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5406408174555974,
+    "y": -0.8412535328311812
+  },
+  {
+    "entity": "crowds",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.14231483827328523,
+    "y": -0.9898214418809327
+  },
+  {
+    "entity": "pastel yellow building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.28173255684142934,
+    "y": -0.9594929736144975
+  },
+  {
+    "entity": "terraced houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452845,
+    "y": -0.7557495743542587
+  },
+  {
+    "entity": "sunset",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144971,
+    "y": -0.2817325568414306
+  },
+  {
+    "entity": "blue domes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": 1.9734249467825777,
+    "y": 0.3249522725204116
+  },
+  {
+    "entity": "white-washed cubes",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": 1.7650431535726425,
+    "y": 0.9405438139854735
+  },
+  {
+    "entity": "smooth rounded corners",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": 1.3702834299356885,
+    "y": 1.456819591316538
+  },
+  {
+    "entity": "flat roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": 0.8308300260037729,
+    "y": 1.8192639907090367
+  },
+  {
+    "entity": "blue-painted doors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": 0.20364597340767107,
+    "y": 1.989605065714008
+  },
+  {
+    "entity": "window shutters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white buildings",
+    "x": -0.44504186791262823,
+    "y": 1.9498558243636472
+  },
+  {
+    "entity": "white belfry",
+    "type": "v",
+    "granularity": 2,
+    "parent": "small church",
+    "x": -1.6010824818487206,
+    "y": 1.1985553330226941
+  },
+  {
+    "entity": "volcanic rock",
+    "type": "v",
+    "granularity": 2,
+    "parent": "volcanic cliff",
+    "x": -1.9542937319423193,
+    "y": -0.42513057910595287
+  },
+  {
+    "entity": "Cycladic style",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white buildings",
+    "x": -1.5701039510898342,
+    "y": 2.5563203208463703
+  },
+  {
+    "entity": "emblematic church",
+    "type": "i",
+    "granularity": 3,
+    "parent": "small church",
+    "x": -2.9314405979134786,
+    "y": 0.63769586865893
+  },
+  {
+    "entity": "volcanic island",
+    "type": "i",
+    "granularity": 3,
+    "parent": "volcanic cliff",
+    "x": -2.401623722773082,
+    "y": -1.7978329995340396
+  },
+  {
+    "entity": "famous sunset viewpoint",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sunset",
+    "x": 2.8784789208434916,
+    "y": -0.8451976705242918
+  },
+  {
+    "entity": "cliffside layout",
+    "type": "i",
+    "granularity": 3,
+    "parent": "terraced houses",
+    "x": 1.9645822018358536,
+    "y": -2.2672487230627763
+  },
+  {
+    "entity": "popular tourist spot",
+    "type": "i",
+    "granularity": 3,
+    "parent": "crowds",
+    "x": -0.4269445148198557,
+    "y": -2.969464325642798
+  }
+]

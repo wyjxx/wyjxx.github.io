@@ -1,0 +1,9 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Southern Europe","granularity":3,"parent":"Europe"},
+{"entity":"Portugal","granularity":2,"parent":"Europe"},
+{"entity":"Lisbon","granularity":4,"parent":"Southern Europe"},
+{"entity":"Baixa","granularity":5,"parent":"Lisbon"},
+{"entity":"Rossio Square","granularity":5,"parent":"Lisbon"},
+{"entity":"Praça de Dom Pedro IV","granularity":5,"parent":"Lisbon"}
+]

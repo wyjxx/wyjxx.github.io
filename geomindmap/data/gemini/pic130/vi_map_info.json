@@ -1,0 +1,14 @@
+[
+{"entity": "Propylaea", "type": "v", "granularity": 1, "parent": null},
+{"entity": "Temple of Athena Nike", "type": "v", "granularity": 1, "parent": null},
+{"entity": "tourists", "type": "v", "granularity": 1, "parent": null},
+{"entity": "Mediterranean cityscape", "type": "v", "granularity": 1, "parent": null},
+{"entity": "city view", "type": "v", "granularity": 1, "parent": null},
+{"entity": "columns", "type": "v", "granularity": 2, "parent": "Propylaea"},
+{"entity": "stone blocks", "type": "v", "granularity": 2, "parent": "Propylaea"},
+{"entity": "Doric columns", "type": "v", "granularity": 2, "parent": "columns"},
+{"entity": "Greco-Roman origin", "type": "i", "granularity": 3, "parent": "columns"},
+{"entity": "ancient sites", "type": "i", "granularity": 3, "parent": "Propylaea"},
+{"entity": "Doric order", "type": "i", "granularity": 3, "parent": "Doric columns"},
+{"entity": "Ionic order", "type": "i", "granularity": 3, "parent": "columns"}
+]

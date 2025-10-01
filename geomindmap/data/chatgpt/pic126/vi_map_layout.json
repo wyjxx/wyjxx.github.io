@@ -1,0 +1,210 @@
+[
+  {
+    "entity": "guardhouse",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8229838658936564,
+    "y": 0.5680647467311558
+  },
+  {
+    "entity": "low marble wall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "neoclassical façade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6631226582407953,
+    "y": 0.748510748171101
+  },
+  {
+    "entity": "rifles",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.970941817426052,
+    "y": 0.23931566428755768
+  },
+  {
+    "entity": "black iron lamppost",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.992708874098054,
+    "y": -0.12053668025532327
+  },
+  {
+    "entity": "wrought-iron balcony",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9350162426854146,
+    "y": -0.35460488704253607
+  },
+  {
+    "entity": "beige tunic",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.6459677317873125,
+    "y": -1.136129493462312
+  },
+  {
+    "entity": "pleated kilt",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.3262453164815904,
+    "y": -1.4970214963422022
+  },
+  {
+    "entity": "foustanella",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.9294463440875367,
+    "y": -1.77091205130642
+  },
+  {
+    "entity": "red fez",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.24107336051064715,
+    "y": -1.985417748196108
+  },
+  {
+    "entity": "white stockings",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.47863132857511304,
+    "y": -1.9418836348521047
+  },
+  {
+    "entity": "pom-pom leather shoes",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 0.929446344087536,
+    "y": -1.7709120513064203
+  },
+  {
+    "entity": "tsarouchia",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.326245316481588,
+    "y": -1.4970214963422044
+  },
+  {
+    "entity": "bayonets",
+    "type": "v",
+    "granularity": 2,
+    "parent": "rifles",
+    "x": -1.941883634852104,
+    "y": 0.47863132857511537
+  },
+  {
+    "entity": "Greek letters",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low marble wall",
+    "x": 0.36051007562781173,
+    "y": 1.967239813894287
+  },
+  {
+    "entity": "white paint",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guardhouse",
+    "x": 1.9772308244150685,
+    "y": 0.300929006549566
+  },
+  {
+    "entity": "blue trim",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guardhouse",
+    "x": 1.798176227530852,
+    "y": 0.875535410330681
+  },
+  {
+    "entity": "rectangular windows",
+    "type": "v",
+    "granularity": 2,
+    "parent": "neoclassical façade",
+    "x": -1.0346756283553138,
+    "y": 1.7115625446028948
+  },
+  {
+    "entity": "white-and-blue striped guardhouse",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guardhouse",
+    "x": 1.233437745257086,
+    "y": 1.5743669612181004
+  },
+  {
+    "entity": "carved marble inscriptions",
+    "type": "v",
+    "granularity": 2,
+    "parent": "low marble wall",
+    "x": -0.36051007562781145,
+    "y": 1.9672398138942873
+  },
+  {
+    "entity": "black tassel",
+    "type": "v",
+    "granularity": 3,
+    "parent": "red fez",
+    "x": -0.3616100407659707,
+    "y": -2.978126622294162
+  },
+  {
+    "entity": "Greek Presidential Guard",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.4689515976809675,
+    "y": -1.7041942401934702
+  },
+  {
+    "entity": "Evzones",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.805048728056242,
+    "y": -1.063814661127613
+  },
+  {
+    "entity": "19th-century architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "neoclassical façade",
+    "x": -2.361550441827151,
+    "y": 1.8501566178856286
+  },
+  {
+    "entity": "exclusive guard duty",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9781266222941616,
+    "y": -0.3616100407659736
+  },
+  {
+    "entity": "Tomb guardhouse specificity",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white-and-blue striped guardhouse",
+    "x": 1.850156617885629,
+    "y": 2.3615504418271507
+  }
+]

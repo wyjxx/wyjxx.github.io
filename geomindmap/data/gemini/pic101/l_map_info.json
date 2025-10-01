@@ -1,0 +1,8 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Germany","granularity":2,"parent":"Europe"},  
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},  
+{"entity":"Leipzig","granularity":4,"parent":"Germany"},  
+{"entity":"Hamburg Hauptbahnhof","granularity":5,"parent":"Hamburg"},  
+{"entity":"St. Georg","granularity":5,"parent":"Hamburg"}  
+]

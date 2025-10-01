@@ -1,0 +1,98 @@
+[
+  {
+    "entity": "narrow brick buildings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5000000000000001,
+    "y": 0.8660254037844386
+  },
+  {
+    "entity": "bar",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844385,
+    "y": 0.5000000000000003
+  },
+  {
+    "entity": "statue",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844388,
+    "y": -0.4999999999999997
+  },
+  {
+    "entity": "multilingual signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.8369701987210297e-16,
+    "y": -1.0
+  },
+  {
+    "entity": "Estaminet signage",
+    "type": "v",
+    "granularity": 2,
+    "parent": "multilingual signage",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "brick architecture",
+    "type": "v",
+    "granularity": 2,
+    "parent": "narrow brick buildings",
+    "x": 1.0000000000000002,
+    "y": 1.7320508075688772
+  },
+  {
+    "entity": "street details",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.7320508075688759,
+    "y": -1.0000000000000024
+  },
+  {
+    "entity": "Belgian architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick architecture",
+    "x": 2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "Dutch architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "brick architecture",
+    "x": 1.8369701987210297e-16,
+    "y": 3.0
+  },
+  {
+    "entity": "Manneken Pis reference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "statue",
+    "x": -2.5980762113533165,
+    "y": -1.4999999999999991
+  },
+  {
+    "entity": "Poechelekelder clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "bar",
+    "x": -2.5980762113533156,
+    "y": 1.5000000000000009
+  },
+  {
+    "entity": "Rue du Chêne address",
+    "type": "i",
+    "granularity": 3,
+    "parent": "street details",
+    "x": 2.598076211353314,
+    "y": -1.5000000000000036
+  }
+]

@@ -1,0 +1,20 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Belgium","granularity":2,"parent":"Europe"},
+{"entity":"Paris","granularity":4,"parent":"Europe"},
+{"entity":"Brussels","granularity":4,"parent":"Belgium"},
+{"entity":"Montmartre","granularity":5,"parent":"Paris"},
+{"entity":"Belgian Comic Strip Center","granularity":5,"parent":"Brussels"},
+{"entity":"Brussels Comic Book Museum","granularity":5,"parent":"Brussels"},
+{"entity":"Galerie Horta","granularity":5,"parent":"Brussels"},
+{"entity":"Place De Brouckère","granularity":5,"parent":"Brussels"},
+{"entity":"Quartier Dansaert","granularity":5,"parent":"Brussels"},
+{"entity":"Pentagone district","granularity":5,"parent":"Brussels"},
+{"entity":"City Centre","granularity":5,"parent":"Brussels"},
+{"entity":"Rue des Sables 20","granularity":5,"parent":"Brussels"},
+{"entity":"Rue des Sables 44","granularity":5,"parent":"Brussels"},
+{"entity":"Rue du Marché aux Herbes 116","granularity":5,"parent":"Brussels"},
+{"entity":"Rue du Marché aux Herbes","granularity":5,"parent":"Brussels"},
+{"entity":"Hôtel Waucquez","granularity":5,"parent":"Brussels"},
+{"entity":"Passage Horta","granularity":5,"parent":"Brussels"}
+]

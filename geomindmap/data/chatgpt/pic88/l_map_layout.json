@@ -1,0 +1,247 @@
+[
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": null,
+    "x": -1.9919485879904781,
+    "y": 0.17927861780686724
+  },
+  {
+    "entity": "River Liffey",
+    "granularity": 3,
+    "parent": "Ireland",
+    "x": 2.9871803749716355,
+    "y": 0.27704405314736075
+  },
+  {
+    "entity": "Charlestown",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": 3.729426338404442,
+    "y": 1.4461601524088663
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -3.981887690292339,
+    "y": -0.38022417321672874
+  },
+  {
+    "entity": "Cork",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": 3.8529427087510935,
+    "y": -1.074631324260458
+  },
+  {
+    "entity": "Belfast",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.983897175980956,
+    "y": -0.358557235613735
+  },
+  {
+    "entity": "Charlestown Shopping Centre",
+    "granularity": 5,
+    "parent": "Charlestown",
+    "x": 4.6617829230055525,
+    "y": 1.807700190511083
+  },
+  {
+    "entity": "Lower Abbey Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.9784169658286612,
+    "y": 3.0285637596072945
+  },
+  {
+    "entity": "O'Connell Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.3290157442008335,
+    "y": 3.7306372344229577
+  },
+  {
+    "entity": "Inns Quay",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 2.557821934189155,
+    "y": 4.296224732597312
+  },
+  {
+    "entity": "Four Courts",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.693049788138497,
+    "y": 4.704634142511423
+  },
+  {
+    "entity": "Arran Quay",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.7663371372045784,
+    "y": 4.940923738749778
+  },
+  {
+    "entity": "Drumcondra Road",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.18841208390098838,
+    "y": 4.996448827581454
+  },
+  {
+    "entity": "Dorset Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -1.136268217936882,
+    "y": 4.869178014501682
+  },
+  {
+    "entity": "Capel Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.0425537923856303,
+    "y": 4.563767523133828
+  },
+  {
+    "entity": "Lower Leeson Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.8741122004876143,
+    "y": 4.091390846522518
+  },
+  {
+    "entity": "St. Stephen's Green",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.6005207411512203,
+    "y": 3.469329963053366
+  },
+  {
+    "entity": "Dawson Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.195203638474616,
+    "y": 2.7203430724321054
+  },
+  {
+    "entity": "Westmoreland Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.636404320876908,
+    "y": 1.8718319832062758
+  },
+  {
+    "entity": "O'Connell Street Upper",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.907981388846814,
+    "y": 0.9548396130938953
+  },
+  {
+    "entity": "Upper Abbey Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.999999150697874,
+    "y": 0.002914278734433352
+  },
+  {
+    "entity": "Parnell Square West",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.9090911214825015,
+    "y": -0.9491176749917158
+  },
+  {
+    "entity": "Dorset Street Lower",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.638583186397335,
+    "y": -1.8664260025170967
+  },
+  {
+    "entity": "St. Joseph's Parade",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.1983719227264515,
+    "y": -2.715450827848333
+  },
+  {
+    "entity": "General Post Office",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.6045625319341585,
+    "y": -3.4651304381475176
+  },
+  {
+    "entity": "Connolly Station",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.8788796282212803,
+    "y": -4.088037681603792
+  },
+  {
+    "entity": "Abbey Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -2.047872439942486,
+    "y": -4.561383394292132
+  },
+  {
+    "entity": "O'Connell Bridge",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -1.1419435017215345,
+    "y": -4.867850145482702
+  },
+  {
+    "entity": "Smithfield",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.19423637272299643,
+    "y": -4.99622579869159
+  },
+  {
+    "entity": "Dublin 7",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 0.7605769259094357,
+    "y": -4.941813709537638
+  },
+  {
+    "entity": "Dublin City Art Gallery",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.687564392647597,
+    "y": -4.706604553249396
+  },
+  {
+    "entity": "Writers Museum",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 2.5528120385984767,
+    "y": -4.299203495484564
+  },
+  {
+    "entity": "Church Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.324664636364334,
+    "y": -3.7345153709294614
+  },
+  {
+    "entity": "National Museum at Kildare Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 3.974883831741975,
+    "y": -3.0331993874712944
+  },
+  {
+    "entity": "Cork Street",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.479681248554502,
+    "y": -2.220913305680611
+  }
+]

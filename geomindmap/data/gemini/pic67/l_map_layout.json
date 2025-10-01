@@ -1,0 +1,107 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Scotland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Edinburgh",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": -3.541824102612839,
+    "y": 1.8588926881750747
+  },
+  {
+    "entity": "Arthur's Seat",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": 2.994042992684403,
+    "y": -2.652490632963182
+  },
+  {
+    "entity": "Salisbury Crags",
+    "granularity": 4,
+    "parent": "Scotland",
+    "x": 3.883767269704208,
+    "y": -0.9572626571502312
+  },
+  {
+    "entity": "Holyrood",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 4.824377766717757,
+    "y": 1.3135368909929346
+  },
+  {
+    "entity": "Holyrood Park",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 3.4925568262446847,
+    "y": 3.5779948037206055
+  },
+  {
+    "entity": "Dynamic Earth",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 1.196578321437788,
+    "y": 4.85470908713026
+  },
+  {
+    "entity": "Scottish Parliament Building",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -1.4297283919934467,
+    "y": 4.791229145545831
+  },
+  {
+    "entity": "Canongate",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -3.661343332988869,
+    "y": 3.405079293933984
+  },
+  {
+    "entity": "Old Town",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -4.882205394146361,
+    "y": 1.07892098383903
+  },
+  {
+    "entity": "Royal Mile",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -4.755282581475766,
+    "y": -1.5450849718747406
+  },
+  {
+    "entity": "City Chambers",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -3.315613291203974,
+    "y": -3.742553740855507
+  },
+  {
+    "entity": "National Museum of Scotland",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": -0.960633586768541,
+    "y": -4.906850630697067
+  },
+  {
+    "entity": "Chambers Street",
+    "granularity": 5,
+    "parent": "Edinburgh",
+    "x": 1.6595392656426418,
+    "y": -4.716559066288716
+  }
+]

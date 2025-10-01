@@ -1,0 +1,58 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112867,
+    "y": 0.3826834323650899
+  },
+  {
+    "entity": "Mediterranean",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9238795325112865,
+    "y": -0.3826834323650904
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "French Riviera",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.77163859753386,
+    "y": 1.1480502970952697
+  },
+  {
+    "entity": "Cannes",
+    "granularity": 4,
+    "parent": "French Riviera",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "La Croisette",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": 3.043807145043603,
+    "y": 3.9667667014561756
+  },
+  {
+    "entity": "La Bocca",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -4.619397662556434,
+    "y": 1.9134171618254494
+  },
+  {
+    "entity": "Boulevard de la Croisette",
+    "granularity": 5,
+    "parent": "Cannes",
+    "x": -0.6526309611002581,
+    "y": -4.957224306869052
+  }
+]

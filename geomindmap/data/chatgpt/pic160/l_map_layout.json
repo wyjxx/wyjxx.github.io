@@ -1,0 +1,163 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9189859472289945,
+    "y": 0.5634651136828601
+  },
+  {
+    "entity": "Liechtenstein",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.819263990709036,
+    "y": -0.8308300260037744
+  },
+  {
+    "entity": "Rhine",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.9796428837618651,
+    "y": -0.28462967654657234
+  },
+  {
+    "entity": "Mainz",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.625936677101051,
+    "y": 1.6889592101804558
+  },
+  {
+    "entity": "Wiesbaden",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.0032259677645343,
+    "y": -2.642088905874436
+  },
+  {
+    "entity": "Bretzenheim",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 4.93680577501882,
+    "y": 0.7924321672804719
+  },
+  {
+    "entity": "Schillerplatz",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 4.440796020655892,
+    "y": 2.297679416917598
+  },
+  {
+    "entity": "Münsterplatz",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 3.498611503954254,
+    "y": 3.5720746834856287
+  },
+  {
+    "entity": "Rhine promenade",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 2.2049151976924812,
+    "y": 4.487577182732875
+  },
+  {
+    "entity": "Bassenheimer Straße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 0.6896870962904889,
+    "y": 4.952204732158233
+  },
+  {
+    "entity": "Binger Straße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -0.894835107980485,
+    "y": 4.919275366304021
+  },
+  {
+    "entity": "Stephanstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -2.389451619718306,
+    "y": 4.392097557776417
+  },
+  {
+    "entity": "Rheinstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -3.643995630132324,
+    "y": 3.423637809052898
+  },
+  {
+    "entity": "Schlossstraße",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -4.532420846376314,
+    "y": 2.11119901272557
+  },
+  {
+    "entity": "Bundesstraße 9",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -4.965465589267175,
+    "y": 0.5866442548969457
+  },
+  {
+    "entity": "Rheinallee",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -4.899621074716953,
+    "y": -0.9968517062178759
+  },
+  {
+    "entity": "Altstadt",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -4.341502819514555,
+    "y": -2.4801921837122163
+  },
+  {
+    "entity": "Neustadt",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -3.347185968456893,
+    "y": -3.7143432922342132
+  },
+  {
+    "entity": "Gutenbergviertel",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -2.01657132370792,
+    "y": -4.57530765046449
+  },
+  {
+    "entity": "Gutenbergplatz",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": -0.4833481315477664,
+    "y": -4.976582621009047
+  },
+  {
+    "entity": "Mainz-Altstadt",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 1.0984379166222276,
+    "y": -4.877851385941009
+  },
+  {
+    "entity": "Theodor Heuss Bridge",
+    "granularity": 5,
+    "parent": "Mainz",
+    "x": 2.569861931923987,
+    "y": -4.289033650001818
+  }
+]

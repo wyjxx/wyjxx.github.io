@@ -1,0 +1,65 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Dublin",
+    "granularity": 4,
+    "parent": "Ireland",
+    "x": -3.695518130045147,
+    "y": 1.5307337294603596
+  },
+  {
+    "entity": "Ireland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.8477590650225735,
+    "y": 0.7653668647301798
+  },
+  {
+    "entity": "British Isles",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.847759065022573,
+    "y": -0.7653668647301808
+  },
+  {
+    "entity": "central Dublin",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 4.263200821770461,
+    "y": 2.612492823579744
+  },
+  {
+    "entity": "Merrion Square",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -0.39229547863922437,
+    "y": 4.9845866686656395
+  },
+  {
+    "entity": "St. Stephen's Green",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -4.619397662556434,
+    "y": 1.9134171618254494
+  },
+  {
+    "entity": "National Gallery of Ireland",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": -3.802029828000155,
+    "y": -3.2472402416509176
+  },
+  {
+    "entity": "historic center",
+    "granularity": 5,
+    "parent": "Dublin",
+    "x": 1.1672268192795239,
+    "y": -4.861849601988384
+  }
+]

@@ -1,0 +1,132 @@
+[{
+  "paragraph": 1,
+  "clue": [],
+  "loc-clue": []
+},{
+  "paragraph": 2,
+  "clue": [
+    "street sign",
+    "No Entry sign",
+    "German-speaking locale"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Philosophenweg",
+      "status": 2,
+      "related_clue": [
+        "street sign",
+        "German-speaking locale"
+      ]
+    },
+    {
+      "loc": "Schweizerweg",
+      "status": 2,
+      "related_clue": [
+        "No Entry sign"
+      ]
+    }
+  ]
+},{
+  "paragraph": 3,
+  "clue": [
+    "street sign",
+    "No Entry sign",
+    "No Stopping sign",
+    "stickers",
+    "intersection"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Philosophenweg",
+      "status": 2,
+      "related_clue": [
+        "street sign"
+      ]
+    },
+    {
+      "loc": "Schweizerweg",
+      "status": 2,
+      "related_clue": [
+        "No Entry sign"
+      ]
+    }
+  ]
+},{
+  "paragraph": 4,
+  "clue": [
+    "German language",
+    "German sign style",
+    "prevalent Hazel trees",
+    "stickers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Germany",
+      "status": 2,
+      "related_clue": [
+        "German language",
+        "German sign style",
+        "prevalent Hazel trees"
+      ]
+    },
+    {
+      "loc": "Schweizerweg",
+      "status": 2,
+      "related_clue": []
+    }
+  ]
+},{
+  "paragraph": 5,
+  "clue": [
+    "street sign",
+    "German-speaking locale",
+    "intersection",
+    "region's flora"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Heidelberg",
+      "status": 2,
+      "related_clue": [
+        "German-speaking locale"
+      ]
+    },
+    {
+      "loc": "Schweizerweg",
+      "status": 2,
+      "related_clue": []
+    },
+    {
+      "loc": "Philosophenweg",
+      "status": 2,
+      "related_clue": [
+        "intersection"
+      ]
+    }
+  ]
+},{
+  "paragraph": 6,
+  "clue": [
+    "intersection",
+    "hazel tree",
+    "Heidelberg hypothesis",
+    "street view",
+    "stickers"
+  ],
+  "loc-clue": [
+    {
+      "loc": "Philosophenweg",
+      "status": 2,
+      "related_clue": [
+        "intersection"
+      ]
+    },
+    {
+      "loc": "Schweizerweg",
+      "status": 2,
+      "related_clue": [
+        "intersection"
+      ]
+    }
+  ]
+},{"paragraph":7,"clue":["Heidelberg hypothesis","hazel tree","ivy","region's flora","street view","intersection","stickers"],"loc-clue":[{"loc":"Philosophenweg","status":3,"related_clue":["street view","intersection"]},{"loc":"Schweizerweg","status":3,"related_clue":["street view","intersection"]}]},{"paragraph":8,"clue":["street sign","German language","German sign style"],"loc-clue":[]},{"paragraph":9,"clue":["Heidelberg hypothesis","intersection","hazel tree"],"loc-clue":[{"loc":"Philosophenweg","status":2,"related_clue":["intersection"]},{"loc":"Schweizerweg","status":2,"related_clue":["intersection"]}]},{"paragraph":10,"clue":[],"loc-clue":[]},{"paragraph":11,"clue":[],"loc-clue":[{"loc":"Neuenheim","status":3,"related_clue":[]}]},{"paragraph":12,"clue":[],"loc-clue":[{"loc":"Heidelberg","status":3,"related_clue":[]}]},{"paragraph":13,"clue":[],"loc-clue":[]},{"paragraph":14,"clue":[],"loc-clue":[{"loc":"Philosophenweg","status":3,"related_clue":[]},{"loc":"Heidelberg","status":3,"related_clue":[]},{"loc":"Germany","status":3,"related_clue":[]},{"loc":"Europe","status":3,"related_clue":[]}]}]

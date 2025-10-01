@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Bremen","granularity":4,"parent":"Germany"},
+{"entity":"Hamburg","granularity":4,"parent":"Germany"},
+{"entity":"Wallanlagen Park","granularity":5,"parent":"Bremen"},
+{"entity":"Bremen-Mitte","granularity":5,"parent":"Bremen"},
+{"entity":"Domsheide","granularity":5,"parent":"Bremen"},
+{"entity":"Kirchviertel","granularity":5,"parent":"Bremen"},
+{"entity":"Lloyd Passage","granularity":5,"parent":"Bremen"},
+{"entity":"Steintor","granularity":5,"parent":"Bremen"}
+]

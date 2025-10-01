@@ -1,0 +1,19 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"City of Westminster","granularity":3,"parent":"United Kingdom"},
+{"entity":"London","granularity":4,"parent":"United Kingdom"},
+{"entity":"Soho","granularity":5,"parent":"London"},
+{"entity":"Chinatown","granularity":5,"parent":"London"},
+{"entity":"West End","granularity":5,"parent":"London"},
+{"entity":"Covent Garden","granularity":5,"parent":"London"},
+{"entity":"Wardour Street","granularity":5,"parent":"London"},
+{"entity":"Coventry Street","granularity":5,"parent":"London"},
+{"entity":"Maiden Lane","granularity":5,"parent":"London"},
+{"entity":"Sloane Square","granularity":5,"parent":"London"},
+{"entity":"Lisle Street","granularity":5,"parent":"London"},
+{"entity":"Gerrard Street","granularity":5,"parent":"London"},
+{"entity":"Shaftesbury Avenue","granularity":5,"parent":"London"},
+{"entity":"Leicester Square","granularity":5,"parent":"London"},
+{"entity":"St James Street","granularity":5,"parent":"London"}
+]

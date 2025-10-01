@@ -1,0 +1,11 @@
+[  
+  {"entity":"Europe","granularity":1,"parent":null},  
+  {"entity":"France","granularity":2,"parent":"Europe"},  
+  {"entity":"Italy","granularity":2,"parent":"Europe"},  
+  {"entity":"Spain","granularity":2,"parent":"Europe"},  
+  {"entity":"southern France","granularity":3,"parent":"France"},  
+  {"entity":"Segovia","granularity":4,"parent":"Spain"},  
+  {"entity":"Pont du Gard","granularity":5,"parent":"southern France"},  
+  {"entity":"Aqueduct of Segovia","granularity":5,"parent":"Segovia"},  
+  {"entity":"Plaza del Azoguejo","granularity":5,"parent":"Segovia"}  
+]

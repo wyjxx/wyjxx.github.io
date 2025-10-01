@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.175570504584946,
+    "y": 1.618033988749895
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -3.6739403974420594e-16,
+    "y": -2.0
+  },
+  {
+    "entity": "Switzerland",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.1755705045849458,
+    "y": -1.6180339887498951
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": 2.8531695488854605,
+    "y": -0.9270509831248428
+  },
+  {
+    "entity": "Heidelberg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.0352761804100834,
+    "y": 3.8637033051562732
+  },
+  {
+    "entity": "Neckar River",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.5172815641993513,
+    "y": -3.1085838458278823
+  },
+  {
+    "entity": "Philosophenweg",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": 4.484363707663441,
+    "y": 2.2114434510950067
+  },
+  {
+    "entity": "Schweizerweg",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": 0.9754516100806405,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Neuenheim",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -3.296729075500346,
+    "y": 3.759199037394886
+  },
+  {
+    "entity": "Heidelberg old town",
+    "granularity": 5,
+    "parent": "Heidelberg",
+    "x": -4.989294616193018,
+    "y": -0.32701564615071654
+  }
+]

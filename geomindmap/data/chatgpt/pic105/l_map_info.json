@@ -1,0 +1,10 @@
+[  
+  {"entity":"Old Elbe Tunnel","granularity":5,"parent":"Landungsbrücken"},  
+  {"entity":"River Elbe","granularity":2,"parent":null},  
+  {"entity":"Port of Hamburg","granularity":5,"parent":"Hamburg"},  
+  {"entity":"St. Pauli","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Landungsbrücken","granularity":5,"parent":"St. Pauli"},  
+  {"entity":"Steinwerder","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Hamburg","granularity":4,"parent":"Germany"},  
+  {"entity":"Germany","granularity":2,"parent":null}  
+]

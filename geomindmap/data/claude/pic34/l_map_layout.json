@@ -1,0 +1,79 @@
+[
+  {
+    "entity": "North America",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452851,
+    "y": 0.7557495743542583
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4154150130018863,
+    "y": 0.9096319953545184
+  },
+  {
+    "entity": "Asia",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4154150130018864,
+    "y": -0.9096319953545184
+  },
+  {
+    "entity": "Japan",
+    "granularity": 2,
+    "parent": "Asia",
+    "x": -0.8308300260037728,
+    "y": -1.8192639907090369
+  },
+  {
+    "entity": "Greater Tokyo Area",
+    "granularity": 3,
+    "parent": "Japan",
+    "x": -1.2462450390056592,
+    "y": -2.7288959860635553
+  },
+  {
+    "entity": "California",
+    "granularity": 3,
+    "parent": "North America",
+    "x": 2.7288959860635553,
+    "y": 1.2462450390056592
+  },
+  {
+    "entity": "Pacific Northwest",
+    "granularity": 3,
+    "parent": "North America",
+    "x": 0.8451976705242894,
+    "y": 2.878478920843492
+  },
+  {
+    "entity": "Tokyo",
+    "granularity": 4,
+    "parent": "Greater Tokyo Area",
+    "x": -1.6616600520075455,
+    "y": -3.6385279814180738
+  },
+  {
+    "entity": "Tokyo suburbs",
+    "granularity": 5,
+    "parent": "Tokyo",
+    "x": -4.9096434863135325,
+    "y": 0.9462562218020525
+  },
+  {
+    "entity": "Setagaya",
+    "granularity": 5,
+    "parent": "Tokyo",
+    "x": -2.077075065009436,
+    "y": -4.54815997677259
+  },
+  {
+    "entity": "Nakameguro",
+    "granularity": 5,
+    "parent": "Tokyo",
+    "x": 3.930265473713936,
+    "y": -3.0907949311030274
+  }
+]

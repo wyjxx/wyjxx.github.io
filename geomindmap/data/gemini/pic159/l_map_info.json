@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Sweden","granularity":2,"parent":"Europe"},
+{"entity":"Gothenburg","granularity":4,"parent":"Sweden"},
+{"entity":"Skeppsbron","granularity":5,"parent":"Gothenburg"},
+{"entity":"Inom Vallgraven","granularity":5,"parent":"Gothenburg"},
+{"entity":"Stora Badhusgatan","granularity":5,"parent":"Gothenburg"}
+]

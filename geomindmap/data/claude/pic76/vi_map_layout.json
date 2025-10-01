@@ -1,0 +1,194 @@
+[
+  {
+    "entity": "airport terminal interior",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7933533402912352,
+    "y": 0.6087614290087207
+  },
+  {
+    "entity": "curved glass roof",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.1305261922200515,
+    "y": 0.9914448613738104
+  },
+  {
+    "entity": "steel framework",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.3826834323650897,
+    "y": 0.9238795325112867
+  },
+  {
+    "entity": "gate signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.793353340291235,
+    "y": 0.6087614290087209
+  },
+  {
+    "entity": "plant installation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9659258262890683,
+    "y": 0.2588190451025206
+  },
+  {
+    "entity": "glass windows",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9914448613738105,
+    "y": -0.13052619222005132
+  },
+  {
+    "entity": "glass walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9238795325112866,
+    "y": -0.38268343236509006
+  },
+  {
+    "entity": "open space",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6087614290087209,
+    "y": -0.7933533402912349
+  },
+  {
+    "entity": "modern terminal design",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6087614290087205,
+    "y": -0.7933533402912352
+  },
+  {
+    "entity": "LED strip lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "steel framework",
+    "x": -0.3901806440322564,
+    "y": 1.9615705608064609
+  },
+  {
+    "entity": "steel beams",
+    "type": "v",
+    "granularity": 2,
+    "parent": "steel framework",
+    "x": -1.111140466039204,
+    "y": 1.662939224605091
+  },
+  {
+    "entity": "gate seating",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport terminal interior",
+    "x": 1.8938602589902114,
+    "y": 0.6428789306063232
+  },
+  {
+    "entity": "circular wooden bench",
+    "type": "v",
+    "granularity": 2,
+    "parent": "plant installation",
+    "x": -1.9318516525781366,
+    "y": 0.5176380902050411
+  },
+  {
+    "entity": "polished stone flooring",
+    "type": "v",
+    "granularity": 2,
+    "parent": "airport terminal interior",
+    "x": 1.3671846040457427,
+    "y": 1.4597281453956712
+  },
+  {
+    "entity": "clean lines",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modern terminal design",
+    "x": -0.2177337497039284,
+    "y": -1.9881126764446393
+  },
+  {
+    "entity": "spacious environment",
+    "type": "v",
+    "granularity": 3,
+    "parent": "open space",
+    "x": -2.2555194224369326,
+    "y": -1.9780374453002065
+  },
+  {
+    "entity": "inviting atmosphere",
+    "type": "v",
+    "granularity": 3,
+    "parent": "open space",
+    "x": -1.3268660706570041,
+    "y": -2.6906182245980648
+  },
+  {
+    "entity": "modern European architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern terminal design",
+    "x": 0.5852709660483822,
+    "y": -2.942355841209692
+  },
+  {
+    "entity": "contemporary airport design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern terminal design",
+    "x": 1.4429663067581622,
+    "y": -2.630180267122524
+  },
+  {
+    "entity": "cutting-edge terminal design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern terminal design",
+    "x": 2.1670918861792634,
+    "y": -2.0745391673468117
+  },
+  {
+    "entity": "major international airport",
+    "type": "i",
+    "granularity": 3,
+    "parent": "airport terminal interior",
+    "x": 1.2381210894131842,
+    "y": 2.7325914747635274
+  },
+  {
+    "entity": "European airport trend",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern terminal design",
+    "x": 2.6906182245980634,
+    "y": -1.3268660706570066
+  },
+  {
+    "entity": "passenger comfort focus",
+    "type": "i",
+    "granularity": 3,
+    "parent": "gate seating",
+    "x": 2.840790388485317,
+    "y": 0.9643183959094848
+  },
+  {
+    "entity": "functional design emphasis",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern terminal design",
+    "x": 2.965084531403281,
+    "y": -0.45637015856975693
+  }
+]

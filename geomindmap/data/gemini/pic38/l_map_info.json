@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Laim district","granularity":5,"parent":"Munich"},
+{"entity":"Fürstenrieder Straße","granularity":5,"parent":"Munich"},
+{"entity":"Hasenecklstraße","granularity":5,"parent":"Munich"}
+]

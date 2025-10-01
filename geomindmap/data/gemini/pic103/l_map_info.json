@@ -1,0 +1,12 @@
+[  
+  {"entity":"Northern Germany","granularity":3,"parent":"Germany"},  
+  {"entity":"North Sea","granularity":1,"parent":null},  
+  {"entity":"Baltic Sea","granularity":1,"parent":null},  
+  {"entity":"Hamburg","granularity":4,"parent":"Northern Germany"},  
+  {"entity":"Bremen","granularity":4,"parent":"Northern Germany"},  
+  {"entity":"Planten un Blomen park","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Glacischaussee entrance","granularity":5,"parent":"Hamburg"},  
+  {"entity":"St. Pauli district","granularity":5,"parent":"Hamburg"},  
+  {"entity":"Germany","granularity":2,"parent":"Europe"},  
+  {"entity":"Europe","granularity":1,"parent":null}  
+]

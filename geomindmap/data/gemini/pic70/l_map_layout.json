@@ -1,0 +1,72 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Paris",
+    "granularity": 4,
+    "parent": "France",
+    "x": 1.5307337294603593,
+    "y": 3.695518130045147
+  },
+  {
+    "entity": "Nice",
+    "granularity": 4,
+    "parent": "France",
+    "x": -1.5307337294603613,
+    "y": -3.695518130045146
+  },
+  {
+    "entity": "Gare de l'Est",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": 4.157348061512726,
+    "y": 2.777851165098011
+  },
+  {
+    "entity": "Gare d'Austerlitz",
+    "granularity": 5,
+    "parent": "Paris",
+    "x": -0.975451610080641,
+    "y": 4.903926402016152
+  },
+  {
+    "entity": "Gare de Nice-Ville",
+    "granularity": 5,
+    "parent": "Nice",
+    "x": -4.784701678661044,
+    "y": 1.451423386272312
+  },
+  {
+    "entity": "Avenue Thiers",
+    "granularity": 5,
+    "parent": "Nice",
+    "x": -3.8650522668136844,
+    "y": -3.171966420818228
+  },
+  {
+    "entity": "Thiers neighborhood",
+    "granularity": 5,
+    "parent": "Nice",
+    "x": 0.49008570164780485,
+    "y": -4.975923633360984
+  },
+  {
+    "entity": "Jean-Médecin area",
+    "granularity": 5,
+    "parent": "Nice",
+    "x": 4.4096063217417765,
+    "y": -2.3569836841299856
+  }
+]

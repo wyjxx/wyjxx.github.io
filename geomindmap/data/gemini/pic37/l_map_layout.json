@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Western Europe",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.7320508075688774,
+    "y": 0.9999999999999999
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.7320508075688776,
+    "y": -0.9999999999999994
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.9657794454952415,
+    "y": 0.522104768880208
+  },
+  {
+    "entity": "Nymphenburg-Biederstein Canal",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.1734133611649398,
+    "y": -2.4350457160348835
+  },
+  {
+    "entity": "Luitpoldpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -2.211443451095006,
+    "y": 4.484363707663442
+  },
+  {
+    "entity": "Schwabing-West",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": -3.2967290755003456,
+    "y": -3.7591990373948865
+  }
+]

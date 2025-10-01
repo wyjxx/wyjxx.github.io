@@ -1,0 +1,154 @@
+[
+  {
+    "entity": "large neoclassical building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.546948158122427,
+    "y": 0.8371664782625285
+  },
+  {
+    "entity": "FREENOW taxi",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7891405093963935,
+    "y": 0.6142127126896679
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9863613034027224,
+    "y": -0.16459459028073334
+  },
+  {
+    "entity": "European traffic signs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6772815716257414,
+    "y": -0.7357239106731313
+  },
+  {
+    "entity": "ATM",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.24548548714079912,
+    "y": -0.9694002659393304
+  },
+  {
+    "entity": "utility pole",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.08257934547233149,
+    "y": -0.99658449300667
+  },
+  {
+    "entity": "Ionic columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large neoclassical building",
+    "x": 1.9607599317496187,
+    "y": 0.39423405490296065
+  },
+  {
+    "entity": "portico",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large neoclassical building",
+    "x": 1.4024735685449772,
+    "y": 1.4258568965827942
+  },
+  {
+    "entity": "pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "large neoclassical building",
+    "x": 0.36176106866422,
+    "y": 1.9670101497447647
+  },
+  {
+    "entity": "right-hand drive car",
+    "type": "v",
+    "granularity": 2,
+    "parent": "FREENOW taxi",
+    "x": -1.2284254253793356,
+    "y": 1.5782810187927871
+  },
+  {
+    "entity": "FREENOW livery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "FREENOW taxi",
+    "x": -1.8315466533101146,
+    "y": 0.8033908493059396
+  },
+  {
+    "entity": "left-side driving",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.0938963162448532,
+    "y": -1.6743329565250575
+  },
+  {
+    "entity": "neoclassical architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "large neoclassical building",
+    "x": -0.6398988922312407,
+    "y": 2.9309604923507977
+  },
+  {
+    "entity": "location in Europe inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "European traffic signs",
+    "x": -2.0318447148772245,
+    "y": -2.2071717320193938
+  },
+  {
+    "entity": "UK or Ireland inference",
+    "type": "i",
+    "granularity": 3,
+    "parent": "left-side driving",
+    "x": 1.6408444743672796,
+    "y": -2.511499434787586
+  },
+  {
+    "entity": "Luas system",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -2.959083910208167,
+    "y": -0.49378377084220004
+  },
+  {
+    "entity": "GPO identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "portico",
+    "x": 2.103710352817466,
+    "y": 2.1387853448741914
+  },
+  {
+    "entity": "Google Maps Street View verification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.6384212536194678,
+    "y": -1.4278421791112201
+  },
+  {
+    "entity": "neighborhood identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": null,
+    "x": 2.9590839102081667,
+    "y": -0.49378377084220376
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "white cube atrium",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.41541501300188644,
+    "y": 0.9096319953545183
+  },
+  {
+    "entity": "balconies",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542582,
+    "y": 0.6548607339452852
+  },
+  {
+    "entity": "staircases",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9096319953545182,
+    "y": 0.4154150130018867
+  },
+  {
+    "entity": "railings",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809327,
+    "y": 0.14231483827328562
+  },
+  {
+    "entity": "modular benches",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9594929736144975,
+    "y": -0.2817325568414294
+  },
+  {
+    "entity": "visitors",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.7557495743542586,
+    "y": -0.6548607339452847
+  },
+  {
+    "entity": "shelf-lined walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.41541501300188716,
+    "y": -0.909631995354518
+  },
+  {
+    "entity": "grid ceiling",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0718754395722282e-15,
+    "y": -1.0
+  },
+  {
+    "entity": "metal-mesh ceiling",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.2817325568414285,
+    "y": -0.9594929736144977
+  },
+  {
+    "entity": "white walls",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.6548607339452839,
+    "y": -0.7557495743542593
+  },
+  {
+    "entity": "German signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9594929736144968,
+    "y": -0.28173255684143145
+  },
+  {
+    "entity": "open central void",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cube atrium",
+    "x": 1.9734249467825777,
+    "y": 0.3249522725204116
+  },
+  {
+    "entity": "numbered floors",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white cube atrium",
+    "x": 1.3702834299356885,
+    "y": 1.456819591316538
+  },
+  {
+    "entity": "seating units",
+    "type": "v",
+    "granularity": 2,
+    "parent": "modular benches",
+    "x": -1.918985947228995,
+    "y": -0.5634651136828588
+  },
+  {
+    "entity": "reading niches",
+    "type": "v",
+    "granularity": 2,
+    "parent": "shelf-lined walls",
+    "x": -0.8308300260037743,
+    "y": -1.819263990709036
+  },
+  {
+    "entity": "illuminated concrete walls",
+    "type": "v",
+    "granularity": 2,
+    "parent": "white walls",
+    "x": 1.3097214678905678,
+    "y": -1.5114991487085185
+  },
+  {
+    "entity": "pure white orthogonal cube design",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white cube atrium",
+    "x": 0.3054689601115066,
+    "y": 2.9844075985710123
+  },
+  {
+    "entity": "German locale",
+    "type": "i",
+    "granularity": 3,
+    "parent": "German signage",
+    "x": 2.8784789208434907,
+    "y": -0.8451976705242943
+  },
+  {
+    "entity": "eight public levels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "numbered floors",
+    "x": 2.523760598493544,
+    "y": 1.6219224523667923
+  },
+  {
+    "entity": "nine levels including roof",
+    "type": "i",
+    "granularity": 3,
+    "parent": "numbered floors",
+    "x": 1.4645286181448443,
+    "y": 2.6182352695345683
+  },
+  {
+    "entity": "architecture by Eun Young Yi",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white cube atrium",
+    "x": -0.6675628018689423,
+    "y": 2.924783736545471
+  },
+  {
+    "entity": "completed in 2011",
+    "type": "i",
+    "granularity": 3,
+    "parent": "white cube atrium",
+    "x": -1.5701039510898342,
+    "y": 2.5563203208463703
+  }
+]

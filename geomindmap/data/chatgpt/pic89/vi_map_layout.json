@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "Greek Revival hexastyle Doric portico",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.9869634706971004,
+    "y": 0.22798281978108126
+  },
+  {
+    "entity": "Doric columns",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.8836887272790495,
+    "y": 0.6720987864308603
+  },
+  {
+    "entity": "ornate capitals",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.6825070656623622,
+    "y": 1.0812816349111953
+  },
+  {
+    "entity": "triangular pediment",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.3938751373105869,
+    "y": 1.434263609517927
+  },
+  {
+    "entity": "sculptures",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 1.0327949232779239,
+    "y": 1.7126980605031779
+  },
+  {
+    "entity": "statues",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 0.6180339887498949,
+    "y": 1.902113032590307
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.30901699437494745,
+    "y": 0.9510565162951535
+  },
+  {
+    "entity": "granite ashlar construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "facade",
+    "x": 0.17115001695767967,
+    "y": 1.9926634617253827
+  },
+  {
+    "entity": "taxi",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "FreeNow sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "taxi",
+    "x": -1.7526133600877272,
+    "y": 0.9635073482034304
+  },
+  {
+    "entity": "white Prius",
+    "type": "v",
+    "granularity": 2,
+    "parent": "taxi",
+    "x": -1.937166322257262,
+    "y": 0.4973797743297105
+  },
+  {
+    "entity": "green TAXI marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "taxi",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "red FreeNow marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "taxi",
+    "x": -1.9371663222572626,
+    "y": -0.4973797743297083
+  },
+  {
+    "entity": "tram tracks",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4067366430758009,
+    "y": -0.9135454576426005
+  },
+  {
+    "entity": "overhead wires",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.4507487420245757,
+    "y": -1.3767091513875076
+  },
+  {
+    "entity": "cable",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tram tracks",
+    "x": -1.0449971294318987,
+    "y": -1.705280328708184
+  },
+  {
+    "entity": "ongoing construction",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20791169081775857,
+    "y": -0.9781476007338058
+  },
+  {
+    "entity": "people",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.49999999999999933,
+    "y": -0.866025403784439
+  },
+  {
+    "entity": "queue",
+    "type": "v",
+    "granularity": 2,
+    "parent": "people",
+    "x": 0.9999999999999987,
+    "y": -1.732050807568878
+  },
+  {
+    "entity": "umbrellas",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7431448254773937,
+    "y": -0.6691306063588588
+  },
+  {
+    "entity": "grey sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "traffic signal",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9510565162951535,
+    "y": -0.3090169943749476
+  },
+  {
+    "entity": "curb detailing",
+    "type": "v",
+    "granularity": 2,
+    "parent": null,
+    "x": 1.9890437907365468,
+    "y": -0.20905692653530505
+  },
+  {
+    "entity": "Pro-Cathedral identification",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -0.426944514819855,
+    "y": 2.9694643256427984
+  },
+  {
+    "entity": "St Mary's Pro-Cathedral",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -1.0884231160519224,
+    "y": 2.795592087634357
+  },
+  {
+    "entity": "Greek-revival facade match",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -1.6933296566003069,
+    "y": 2.4764156908883224
+  },
+  {
+    "entity": "Neoclassical influence",
+    "type": "i",
+    "granularity": 3,
+    "parent": "facade",
+    "x": -2.2102234136292154,
+    "y": 2.0285247008220577
+  },
+  {
+    "entity": "FreeNow operates in Dublin",
+    "type": "i",
+    "granularity": 3,
+    "parent": "taxi",
+    "x": -2.6289200401315913,
+    "y": -1.445261022305145
+  },
+  {
+    "entity": "Luas network",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -0.8520460341117704,
+    "y": -2.8764592046045783
+  },
+  {
+    "entity": "no Luas on Marlborough Street",
+    "type": "i",
+    "granularity": 3,
+    "parent": "tram tracks",
+    "x": -0.07853084492362311,
+    "y": -2.998971974926672
+  }
+]

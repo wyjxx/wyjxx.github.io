@@ -1,0 +1,163 @@
+[
+  {
+    "entity": "Elefsina",
+    "granularity": 4,
+    "parent": "Athens Metro Area",
+    "x": 3.9505067136907175,
+    "y": 0.6272931572116555
+  },
+  {
+    "entity": "Spata",
+    "granularity": 4,
+    "parent": "Athens Metro Area",
+    "x": 3.232361546944918,
+    "y": 2.3562340354540035
+  },
+  {
+    "entity": "Athens International Airport",
+    "granularity": 5,
+    "parent": "Spata",
+    "x": 4.0404519336811475,
+    "y": 2.945292544317504
+  },
+  {
+    "entity": "Attiki Odos",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": 2.257666791554448,
+    "y": 4.461271193091969
+  },
+  {
+    "entity": "A62 spur",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": 0.7646698143662303,
+    "y": 4.941182052403768
+  },
+  {
+    "entity": "Marousi",
+    "granularity": 4,
+    "parent": "Athens Metro Area",
+    "x": -0.6428407407437362,
+    "y": 3.9480065580036774
+  },
+  {
+    "entity": "Papagou",
+    "granularity": 5,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -4.5273707150867155,
+    "y": 2.1220071649679237
+  },
+  {
+    "entity": "Acharnes tunnels",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": -2.2927230057953283,
+    "y": 4.443356976284579
+  },
+  {
+    "entity": "Motorway 64",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": -3.556350348547973,
+    "y": 3.5145941726439354
+  },
+  {
+    "entity": "Y2 Papagou exit",
+    "granularity": 5,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -4.987451343321279,
+    "y": 0.3540184995205365
+  },
+  {
+    "entity": "Papagou tunnel",
+    "granularity": 5,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -4.781715575068299,
+    "y": -1.4612310423575217
+  },
+  {
+    "entity": "A6/A62 junction",
+    "granularity": 5,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -3.9376287906227088,
+    "y": -3.0814086887751757
+  },
+  {
+    "entity": "Papagou-Cholargos municipality",
+    "granularity": 4,
+    "parent": "Athens Metro Area",
+    "x": -3.5474371994093756,
+    "y": -1.8481583580003544
+  },
+  {
+    "entity": "Athens Metro Area",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": -2.9664924786753857,
+    "y": 0.44712679852852416
+  },
+  {
+    "entity": "Attica",
+    "granularity": 3,
+    "parent": "Greece",
+    "x": 2.9664924786753852,
+    "y": -0.4471267985285258
+  },
+  {
+    "entity": "Greece",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": 1.2246467991473532e-16
+  },
+  {
+    "entity": "Ymittos Ring Road",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": 0.8423822219217116,
+    "y": -4.928528400262115
+  },
+  {
+    "entity": "Anastaseos Street",
+    "granularity": 5,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -2.5678751612085353,
+    "y": -4.290223438988725
+  },
+  {
+    "entity": "Markopoulo",
+    "granularity": 4,
+    "parent": "Athens Metro Area",
+    "x": 1.8621096674358508,
+    "y": -3.5401338373629243
+  },
+  {
+    "entity": "A6",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": 3.583912565842258,
+    "y": -3.4864840054699755
+  },
+  {
+    "entity": "Mesogeion Avenue",
+    "granularity": 5,
+    "parent": "Athens Metro Area",
+    "x": 4.487623600897171,
+    "y": -2.204820722115681
+  },
+  {
+    "entity": "Holargos",
+    "granularity": 4,
+    "parent": "Papagou-Cholargos municipality",
+    "x": -0.6842516007630408,
+    "y": -3.9410404396368754
+  }
+]

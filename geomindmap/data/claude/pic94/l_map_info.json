@@ -1,0 +1,8 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Frankfurt am Main","granularity":4,"parent":"Germany"},
+{"entity":"Munich","granularity":4,"parent":"Germany"},
+{"entity":"Frankfurt Airport","granularity":5,"parent":"Frankfurt am Main"},
+{"entity":"Munich Airport","granularity":5,"parent":"Munich"}
+]

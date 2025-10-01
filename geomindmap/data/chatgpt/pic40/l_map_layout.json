@@ -1,0 +1,51 @@
+[
+  {
+    "entity": "France",
+    "granularity": 2,
+    "parent": null,
+    "x": -2.0,
+    "y": 2.4492935982947064e-16
+  },
+  {
+    "entity": "Haute-Garonne",
+    "granularity": 3,
+    "parent": "France",
+    "x": -2.598076211353316,
+    "y": 1.4999999999999998
+  },
+  {
+    "entity": "Occitanie",
+    "granularity": 3,
+    "parent": "France",
+    "x": 2.5980762113533165,
+    "y": -1.4999999999999991
+  },
+  {
+    "entity": "Toulouse",
+    "granularity": 4,
+    "parent": "Haute-Garonne",
+    "x": -3.464101615137755,
+    "y": 1.9999999999999998
+  },
+  {
+    "entity": "Place du Capitole",
+    "granularity": 5,
+    "parent": "Toulouse",
+    "x": 3.2139380484326967,
+    "y": 3.83022221559489
+  },
+  {
+    "entity": "Capitole district",
+    "granularity": 5,
+    "parent": "Toulouse",
+    "x": -4.330127018922194,
+    "y": 2.4999999999999996
+  },
+  {
+    "entity": "Capitole Quarter",
+    "granularity": 5,
+    "parent": "Toulouse",
+    "x": -1.7101007166283426,
+    "y": -4.698463103929543
+  }
+]

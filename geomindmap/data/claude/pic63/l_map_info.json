@@ -1,0 +1,15 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Germany","granularity":2,"parent":"Europe"},
+{"entity":"Berlin","granularity":4,"parent":"Germany"},
+{"entity":"Mitte district","granularity":5,"parent":"Berlin"},
+{"entity":"Pariser Platz","granularity":5,"parent":"Berlin"},
+{"entity":"Unter den Linden","granularity":5,"parent":"Berlin"},
+{"entity":"Brandenburg Gate","granularity":5,"parent":"Berlin"},
+{"entity":"Arc de Triomphe","granularity":5,"parent":"Paris"},
+{"entity":"Paris","granularity":4,"parent":"Europe"},
+{"entity":"Wellington Arch","granularity":5,"parent":"London"},
+{"entity":"London","granularity":4,"parent":"Europe"},
+{"entity":"Siegestor","granularity":5,"parent":"Munich"},
+{"entity":"Munich","granularity":4,"parent":"Germany"}
+]

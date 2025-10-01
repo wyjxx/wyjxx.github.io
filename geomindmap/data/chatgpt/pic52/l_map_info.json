@@ -1,0 +1,14 @@
+[  
+{"entity":"Europe","granularity":1,"parent":null},  
+{"entity":"Spain","granularity":2,"parent":"Europe"},  
+{"entity":"Madrid","granularity":4,"parent":"Spain"},  
+{"entity":"Calle de la Victoria","granularity":5,"parent":"Madrid"},  
+{"entity":"Puerta del Sol","granularity":5,"parent":"Madrid"},  
+{"entity":"Plaza del Callao","granularity":5,"parent":"Madrid"},  
+{"entity":"Plaza de Isabel II","granularity":5,"parent":"Madrid"},  
+{"entity":"Centro","granularity":5,"parent":"Madrid"},  
+{"entity":"Madrid de los Austrias","granularity":5,"parent":"Madrid"},  
+{"entity":"Carrera de San Jerónimo","granularity":5,"parent":"Madrid"},  
+{"entity":"Calle de la Cruz","granularity":5,"parent":"Madrid"},  
+{"entity":"Barrio de Sol","granularity":5,"parent":"Madrid"}  
+]

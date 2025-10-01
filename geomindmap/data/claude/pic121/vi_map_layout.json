@@ -1,0 +1,258 @@
+[
+  {
+    "entity": "image",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9569403357322088,
+    "y": 0.29028467725446233
+  },
+  {
+    "entity": "Gothic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "stone facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.532088886237956,
+    "y": 1.2855752193730785
+  },
+  {
+    "entity": "spire",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.2175228580174413,
+    "y": 1.5867066805824703
+  },
+  {
+    "entity": "arched window",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 0.8452365234813989,
+    "y": 1.8126155740732999
+  },
+  {
+    "entity": "Gothic Revival architecture",
+    "type": "v",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": 0.6493188418143094,
+    "y": 2.9288880213598
+  },
+  {
+    "entity": "town hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8819212643483552,
+    "y": 0.4713967368259974
+  },
+  {
+    "entity": "civic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.956940335732209,
+    "y": 0.29028467725446194
+  },
+  {
+    "entity": "stonework",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": 1.2246467991473532e-16,
+    "y": 2.0
+  },
+  {
+    "entity": "guild house",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -1.0,
+    "y": -7.657137397853899e-16
+  },
+  {
+    "entity": "historic building",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9569403357322087,
+    "y": -0.290284677254463
+  },
+  {
+    "entity": "square",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.47139673682599786,
+    "y": -0.8819212643483549
+  },
+  {
+    "entity": "plaza",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.29028467725446294,
+    "y": -0.9569403357322087
+  },
+  {
+    "entity": "cobblestone",
+    "type": "v",
+    "granularity": 2,
+    "parent": "square",
+    "x": -1.4819022507099182,
+    "y": -1.3431179096940369
+  },
+  {
+    "entity": "geometric pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone",
+    "x": -1.689707130499414,
+    "y": -1.0699952397741948
+  },
+  {
+    "entity": "tourist",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4713967368259976,
+    "y": -0.881921264348355
+  },
+  {
+    "entity": "stepped gable",
+    "type": "v",
+    "granularity": 2,
+    "parent": "guild house",
+    "x": -2.0,
+    "y": -1.5314274795707798e-15
+  },
+  {
+    "entity": "sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7730104533627372,
+    "y": -0.6343932841636453
+  },
+  {
+    "entity": "cloud",
+    "type": "v",
+    "granularity": 2,
+    "parent": "sky",
+    "x": 1.343117909694038,
+    "y": -1.481902250709917
+  },
+  {
+    "entity": "daylight",
+    "type": "v",
+    "granularity": 3,
+    "parent": "lighting",
+    "x": 2.8708210071966267,
+    "y": 0.870854031763387
+  },
+  {
+    "entity": "lighting",
+    "type": "v",
+    "granularity": 2,
+    "parent": "image",
+    "x": 1.9138806714644176,
+    "y": 0.5805693545089247
+  },
+  {
+    "entity": "arched gallery",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": -0.43287922787620514,
+    "y": 1.952592014239867
+  },
+  {
+    "entity": "Brussels Town Hall",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9807852804032305,
+    "y": -0.19509032201612786
+  },
+  {
+    "entity": "facade",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Gothic building",
+    "x": -0.8452365234813987,
+    "y": 1.8126155740733
+  },
+  {
+    "entity": "cobblestone pattern",
+    "type": "v",
+    "granularity": 2,
+    "parent": "cobblestone",
+    "x": -1.2304631811612545,
+    "y": -1.5766928552532118
+  },
+  {
+    "entity": "layout",
+    "type": "v",
+    "granularity": 2,
+    "parent": "square",
+    "x": -0.7350318731894073,
+    "y": -1.8600344473680241
+  },
+  {
+    "entity": "Northern European climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "sky",
+    "x": 2.573185830000816,
+    "y": -1.5423082325796655
+  },
+  {
+    "entity": "15th-17th century Flemish architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": -1.826284287026162,
+    "y": 2.3800600208737057
+  },
+  {
+    "entity": "UNESCO World Heritage site",
+    "type": "i",
+    "granularity": 3,
+    "parent": "square",
+    "x": -0.4401914233660843,
+    "y": -2.967529529894343
+  },
+  {
+    "entity": "medieval Brussels",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Brussels Town Hall",
+    "x": 2.9423558412096917,
+    "y": -0.5852709660483836
+  },
+  {
+    "entity": "major tourist destination",
+    "type": "i",
+    "granularity": 3,
+    "parent": "square",
+    "x": 0.24516322240100683,
+    "y": -2.989965717927541
+  },
+  {
+    "entity": "Flemish architectural heritage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Gothic building",
+    "x": -2.2981333293569337,
+    "y": 1.9283628290596184
+  }
+]

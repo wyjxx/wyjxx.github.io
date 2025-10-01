@@ -1,0 +1,186 @@
+[
+  {
+    "entity": "scenic view",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9906859460363308,
+    "y": 0.1361666490962466
+  },
+  {
+    "entity": "rooftop",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8544194045464886,
+    "y": 0.5195839500354336
+  },
+  {
+    "entity": "basalt cliffs",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5766803221148672,
+    "y": 0.816969893010442
+  },
+  {
+    "entity": "yellow gorse",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.20345601305263397,
+    "y": 0.9790840876823228
+  },
+  {
+    "entity": "rolling hills",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.20345601305263386,
+    "y": 0.9790840876823229
+  },
+  {
+    "entity": "rounded summit",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4600650377311521,
+    "y": 0.8878852184023752
+  },
+  {
+    "entity": "flat-topped escarpment",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.6825531432186539,
+    "y": 0.7308359642781243
+  },
+  {
+    "entity": "grey sandstone tenements",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9906859460363306,
+    "y": 0.1361666490962471
+  },
+  {
+    "entity": "mid-terrace houses",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8544194045464888,
+    "y": -0.5195839500354332
+  },
+  {
+    "entity": "Dynamic Earth",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.5766803221148672,
+    "y": -0.816969893010442
+  },
+  {
+    "entity": "tensile canopy",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.0682424133646701,
+    "y": -0.9976687691905393
+  },
+  {
+    "entity": "white fabric roof",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tensile canopy",
+    "x": -0.2723332981924943,
+    "y": -1.9813718920726613
+  },
+  {
+    "entity": "masts",
+    "type": "v",
+    "granularity": 2,
+    "parent": "tensile canopy",
+    "x": 0.5395935423140462,
+    "y": -1.9258345746955992
+  },
+  {
+    "entity": "slate roofs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grey sandstone tenements",
+    "x": -1.7543652048051885,
+    "y": 0.9603138696118313
+  },
+  {
+    "entity": "chimney stacks",
+    "type": "v",
+    "granularity": 2,
+    "parent": "grey sandstone tenements",
+    "x": -1.9813718920726613,
+    "y": 0.2723332981924942
+  },
+  {
+    "entity": "narrow streets",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.5766803221148662,
+    "y": -0.8169698930104426
+  },
+  {
+    "entity": "townscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8544194045464881,
+    "y": -0.5195839500354343
+  },
+  {
+    "entity": "rooflines",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9906859460363306,
+    "y": -0.1361666490962472
+  },
+  {
+    "entity": "Old Town architecture",
+    "type": "i",
+    "granularity": 3,
+    "parent": "townscape",
+    "x": 2.5632582136394646,
+    "y": -1.5587518501063031
+  },
+  {
+    "entity": "18th-19th centuries",
+    "type": "i",
+    "granularity": 3,
+    "parent": "grey sandstone tenements",
+    "x": -2.922597248020437,
+    "y": -0.6770711379636316
+  },
+  {
+    "entity": "science visitor centre",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Dynamic Earth",
+    "x": -1.7300409663446015,
+    "y": -2.450909679031326
+  },
+  {
+    "entity": "museum vantage",
+    "type": "i",
+    "granularity": 3,
+    "parent": "rooftop",
+    "x": 2.5632582136394655,
+    "y": 1.5587518501063007
+  },
+  {
+    "entity": "yellow-flowering Ulex",
+    "type": "i",
+    "granularity": 3,
+    "parent": "yellow gorse",
+    "x": 0.6103680391579019,
+    "y": 2.937252263046968
+  }
+]

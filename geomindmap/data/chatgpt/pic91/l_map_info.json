@@ -1,0 +1,12 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"Ireland","granularity":2,"parent":"Europe"},
+{"entity":"Dublin","granularity":4,"parent":"Ireland"},
+{"entity":"Long Room","granularity":5,"parent":"Dublin"},
+{"entity":"Trinity College Library","granularity":5,"parent":"Dublin"},
+{"entity":"Old Library","granularity":5,"parent":"Dublin"},
+{"entity":"Trinity College","granularity":5,"parent":"Dublin"},
+{"entity":"College Green","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin City Centre","granularity":5,"parent":"Dublin"},
+{"entity":"Dublin 2","granularity":5,"parent":"Dublin"}
+]

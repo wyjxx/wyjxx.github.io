@@ -1,0 +1,10 @@
+[
+{"entity":"Europe","granularity":1,"parent":null},
+{"entity":"United Kingdom","granularity":2,"parent":"Europe"},
+{"entity":"England","granularity":3,"parent":"United Kingdom"},
+{"entity":"Oxford","granularity":4,"parent":"England"},
+{"entity":"Abingdon","granularity":4,"parent":"England"},
+{"entity":"Queen's Lane","granularity":5,"parent":"Oxford"},
+{"entity":"High Street","granularity":5,"parent":"Oxford"},
+{"entity":"University Church of St Mary the Virgin","granularity":5,"parent":"Oxford"}
+]

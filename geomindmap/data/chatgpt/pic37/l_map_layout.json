@@ -1,0 +1,247 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.4738686624729986,
+    "y": 0.880595531856738
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 0.5084366683869742,
+    "y": 1.934293709403914
+  },
+  {
+    "entity": "US",
+    "granularity": 2,
+    "parent": null,
+    "x": -0.08972966070103021,
+    "y": -1.9979861330826292
+  },
+  {
+    "entity": "Netherlands",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.9979861330826292,
+    "y": 0.0897296607010301
+  },
+  {
+    "entity": "UK",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.522136010768202,
+    "y": -1.2973441967044306
+  },
+  {
+    "entity": "Munich",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 3.500134353466378,
+    "y": 1.9362488238045494
+  },
+  {
+    "entity": "Berlin",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": 0.6213977430539319,
+    "y": 3.95143832609437
+  },
+  {
+    "entity": "London",
+    "granularity": 4,
+    "parent": "UK",
+    "x": -3.044272021536404,
+    "y": -2.594688393408861
+  },
+  {
+    "entity": "Amsterdam",
+    "granularity": 4,
+    "parent": "Netherlands",
+    "x": -3.9959722661652584,
+    "y": 0.1794593214020602
+  },
+  {
+    "entity": "West Lake",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -1.3689980559017259,
+    "y": 3.7584364199673903
+  },
+  {
+    "entity": "East Lake",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -2.0956109607019933,
+    "y": 3.4071123699381665
+  },
+  {
+    "entity": "Prague",
+    "granularity": 4,
+    "parent": null,
+    "x": 2.4939592074349335,
+    "y": -3.1273259298721197
+  },
+  {
+    "entity": "Hamburg",
+    "granularity": 4,
+    "parent": "Germany",
+    "x": -3.0172363056990896,
+    "y": 2.6260778883291542
+  },
+  {
+    "entity": "Geneva",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.433795174407464,
+    "y": -2.0515971096236254
+  },
+  {
+    "entity": "Brussels",
+    "granularity": 4,
+    "parent": null,
+    "x": 3.9357183543945187,
+    "y": -0.7142275791945475
+  },
+  {
+    "entity": "San Francisco",
+    "granularity": 4,
+    "parent": "US",
+    "x": -1.831938968412272,
+    "y": -3.555840212384772
+  },
+  {
+    "entity": "Seattle",
+    "granularity": 4,
+    "parent": "US",
+    "x": -1.0294949374612075,
+    "y": -3.8652477506288965
+  },
+  {
+    "entity": "Chinese Tower",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.960159408970616,
+    "y": 0.6299354233572435
+  },
+  {
+    "entity": "Spreeuferpark",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 2.0637435940561133,
+    "y": 4.554224673640109
+  },
+  {
+    "entity": "Bürgerpark",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": 0.776747178817415,
+    "y": 4.939297907617963
+  },
+  {
+    "entity": "Kensington Gardens",
+    "granularity": 5,
+    "parent": "London",
+    "x": -3.805340026920505,
+    "y": -3.2433604917610763
+  },
+  {
+    "entity": "Vondelpark",
+    "granularity": 5,
+    "parent": "Amsterdam",
+    "x": -4.683559366549436,
+    "y": 1.750506115386933
+  },
+  {
+    "entity": "Oud-Zuid",
+    "granularity": 5,
+    "parent": "Amsterdam",
+    "x": -4.994965332706573,
+    "y": 0.22432415175257747
+  },
+  {
+    "entity": "Amsterdam-Zuid",
+    "granularity": 5,
+    "parent": "Amsterdam",
+    "x": -4.8216188918983836,
+    "y": -1.3236280675811494
+  },
+  {
+    "entity": "Westpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.6452340171389555,
+    "y": 1.8498110514360875
+  },
+  {
+    "entity": "Luitpoldpark",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 4.035378155864814,
+    "y": 2.952240359315124
+  },
+  {
+    "entity": "Royal Garden",
+    "granularity": 5,
+    "parent": "Prague",
+    "x": 3.117449009293667,
+    "y": -3.9091574123401496
+  },
+  {
+    "entity": "Tiergarten",
+    "granularity": 5,
+    "parent": "Berlin",
+    "x": -0.5663192338734454,
+    "y": 4.9678247277198695
+  },
+  {
+    "entity": "Planten un Blomen",
+    "granularity": 5,
+    "parent": "Hamburg",
+    "x": -3.771545382123862,
+    "y": 3.282597360411443
+  },
+  {
+    "entity": "Parc La Grange",
+    "granularity": 5,
+    "parent": "Geneva",
+    "x": 4.29224396800933,
+    "y": -2.5644963870295316
+  },
+  {
+    "entity": "Bois de la Cambre",
+    "granularity": 5,
+    "parent": "Brussels",
+    "x": 4.919647942993148,
+    "y": -0.8927844739931844
+  },
+  {
+    "entity": "Central Park",
+    "granularity": 5,
+    "parent": "US",
+    "x": -0.22432415175257553,
+    "y": -4.994965332706573
+  },
+  {
+    "entity": "Lincoln Park",
+    "granularity": 5,
+    "parent": "US",
+    "x": 0.8485904455033491,
+    "y": -4.9274632678286325
+  },
+  {
+    "entity": "Griffith Park",
+    "granularity": 5,
+    "parent": "US",
+    "x": 1.8822763268719607,
+    "y": -4.632173985214437
+  },
+  {
+    "entity": "Englischer Garten",
+    "granularity": 5,
+    "parent": "Munich",
+    "x": 3.1693121726687257,
+    "y": 3.867229027633849
+  }
+]

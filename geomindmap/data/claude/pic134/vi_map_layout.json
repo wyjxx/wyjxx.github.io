@@ -1,0 +1,178 @@
+[
+  {
+    "entity": "highway tunnel",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.7557495743542584,
+    "y": 0.654860733945285
+  },
+  {
+    "entity": "underpass",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 6.123233995736766e-17,
+    "y": 1.0
+  },
+  {
+    "entity": "green highway directional sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "European highway signage",
+    "x": -1.9796428837618654,
+    "y": 0.28462967654657034
+  },
+  {
+    "entity": "white highway lane marking",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway tunnel",
+    "x": 1.9682224086722322,
+    "y": 0.3551063925086065
+  },
+  {
+    "entity": "curved concrete structure",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway tunnel",
+    "x": 1.7200284804154011,
+    "y": 1.0205400661217991
+  },
+  {
+    "entity": "modern tunnel construction",
+    "type": "v",
+    "granularity": 2,
+    "parent": "highway tunnel",
+    "x": 0.958497973440114,
+    "y": 1.755357979134511
+  },
+  {
+    "entity": "European highway signage",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.9898214418809327,
+    "y": 0.14231483827328517
+  },
+  {
+    "entity": "clear blue sky",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.2817325568414297,
+    "y": -0.9594929736144974
+  },
+  {
+    "entity": "Mediterranean vegetation",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.4154150130018868,
+    "y": -0.9096319953545182
+  },
+  {
+    "entity": "pine trees",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean vegetation",
+    "x": 0.09516383164748476,
+    "y": -1.997734678366016
+  },
+  {
+    "entity": "Mediterranean shrubs",
+    "type": "v",
+    "granularity": 2,
+    "parent": "Mediterranean vegetation",
+    "x": 0.8308300260037736,
+    "y": -1.8192639907090364
+  },
+  {
+    "entity": "hilly landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9096319953545183,
+    "y": -0.41541501300188644
+  },
+  {
+    "entity": "mountainous landscape",
+    "type": "v",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.9898214418809327,
+    "y": -0.1423148382732853
+  },
+  {
+    "entity": "Greek text",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green highway directional sign",
+    "x": -0.9763524120965622,
+    "y": 1.7454901796897124
+  },
+  {
+    "entity": "Εξοδος sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green highway directional sign",
+    "x": -1.745490179689712,
+    "y": 0.9763524120965632
+  },
+  {
+    "entity": "Route A29 sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green highway directional sign",
+    "x": -1.9796428837618654,
+    "y": 0.28462967654657123
+  },
+  {
+    "entity": "Route A62 sign",
+    "type": "v",
+    "granularity": 2,
+    "parent": "green highway directional sign",
+    "x": -1.9498558243636475,
+    "y": -0.4450418679126277
+  },
+  {
+    "entity": "Greek text clue",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Greek text",
+    "x": -1.4645286181448434,
+    "y": 2.6182352695345688
+  },
+  {
+    "entity": "Attiki Odos routes",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green highway directional sign",
+    "x": -2.490150629265243,
+    "y": -1.6730660009604865
+  },
+  {
+    "entity": "Attiki Odos ring road",
+    "type": "i",
+    "granularity": 3,
+    "parent": "green highway directional sign",
+    "x": -1.7235133138093905,
+    "y": -2.45550439973578
+  },
+  {
+    "entity": "Mediterranean climate",
+    "type": "i",
+    "granularity": 3,
+    "parent": "Mediterranean vegetation",
+    "x": 2.1712021143152125,
+    "y": -2.0702370344463343
+  },
+  {
+    "entity": "advanced engineering",
+    "type": "i",
+    "granularity": 3,
+    "parent": "modern tunnel construction",
+    "x": 1.4377469601601711,
+    "y": 2.6330369687017665
+  }
+]

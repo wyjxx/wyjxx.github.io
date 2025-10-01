@@ -1,0 +1,44 @@
+[
+  {
+    "entity": "Europe",
+    "granularity": 1,
+    "parent": null,
+    "x": -0.8660254037844387,
+    "y": 0.49999999999999994
+  },
+  {
+    "entity": "North America",
+    "granularity": 1,
+    "parent": null,
+    "x": 0.8660254037844388,
+    "y": -0.49999999999999967
+  },
+  {
+    "entity": "Germany",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": 1.5867066805824703,
+    "y": 1.2175228580174413
+  },
+  {
+    "entity": "Austria",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -0.7653668647301795,
+    "y": 1.8477590650225735
+  },
+  {
+    "entity": "England",
+    "granularity": 2,
+    "parent": "Europe",
+    "x": -1.982889722747621,
+    "y": -0.26105238444010265
+  },
+  {
+    "entity": "Central Europe",
+    "granularity": 3,
+    "parent": "Europe",
+    "x": -0.3915785766601549,
+    "y": -2.974334584121431
+  }
+]

@@ -1,0 +1,23 @@
+[
+{"entity":"WELT balloon","type":"v"},
+{"entity":"yellow Trabant car","type":"v"},
+{"entity":"Zimmerstraße sign","type":"v"},
+{"entity":"Trabant on roof","type":"v"},
+{"entity":"Zimmerstraße","type":"l"},
+{"entity":"Berlin","type":"l"},
+{"entity":"Potsdamer Platz","type":"l"},
+{"entity":"Potsdamer Straße 1","type":"l"},
+{"entity":"Checkpoint Charlie","type":"l"},
+{"entity":"Berlin Info Center","type":"l"},
+{"entity":"Berlin-Mitte","type":"l"},
+{"entity":"Friedrichstraße","type":"l"},
+{"entity":"Friedrichstraße U-Bahn station","type":"l"},
+{"entity":"Friedrichstadt","type":"l"},
+{"entity":"Germany","type":"l"},
+{"entity":"Europe","type":"l"},
+{"entity":"famous attraction","type":"i"},
+{"entity":"panoramic rides","type":"i"},
+{"entity":"street","type":"i"},
+{"entity":"neighborhood","type":"i"},
+{"entity":"junction","type":"i"}
+]

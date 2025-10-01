@@ -121,7 +121,7 @@ Location Map: Europe → Germany → Bavaria → Würzburg
 Step-wise updates: nodes highlighted, candidate locations excluded/confirmed
 
 ## **Repository Structure**
-<pre> ```
+<pre>
 geomindmap/
 │
 ├── data/
@@ -139,7 +139,7 @@ geomindmap/
 │
 ├── index.html # Interactive webpage visualization
 └── README.md # Project documentation
-``` </pre>
+</pre>
 
 ## **Acknowledgements**
 

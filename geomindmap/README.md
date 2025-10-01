@@ -1,4 +1,4 @@
-# **GeoMindMap: Investigating LLM Reasoning in Geo-localization**
+# **🌍GeoMindMap: Investigating LLM Reasoning in Geo-localization**
 
 GeoMindMap is an end-to-end pipeline and visualization framework designed to make the reasoning process of Large Language Models (LLMs) interpretable in the context of image-based geo-localization tasks.
 
@@ -8,21 +8,21 @@ This project was developed as part of my Bachelor’s Thesis at TUM (“Tracing 
 
 LLMs demonstrate remarkable reasoning ability, but their reasoning process is often a black box—especially in multi-modal tasks such as geo-localization.
 
-Geo-localization (e.g., “Where was this photo taken?”) is a challenging problem because:
+## Geo-localization (e.g., “Where was this photo taken?”) is a challenging problem because:
 
-It requires multi-step reasoning: observe → hypothesize → verify → conclude.
+- It requires multi-step reasoning: observe → hypothesize → verify → conclude.
 
-It involves heterogeneous evidence: visual clues, inferred knowledge, and candidate locations.
+- It involves heterogeneous evidence: visual clues, inferred knowledge, and candidate locations.
 
-It reveals human-like reasoning features such as breadth-first exploration, depth-first verification, and strategy switching.
+- It reveals human-like reasoning features such as breadth-first exploration, depth-first verification, and strategy switching.
 
-GeoMindMap addresses this challenge by:
+### GeoMindMap addresses this challenge by:
 
-Decomposing raw reasoning text into structured entities
+- Decomposing raw reasoning text into structured entities
 
-Visualizing reasoning dynamically as two evolving maps (Clue Map + Location Map)
+- Visualizing reasoning dynamically as two evolving maps (Clue Map + Location Map)
 
-Identifying reasoning features that correlate with accuracy and efficiency
+- Identifying reasoning features that correlate with accuracy and efficiency
 
 ## **Pipeline Overview**
 

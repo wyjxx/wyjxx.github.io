@@ -78,6 +78,8 @@ Location Map: shows geographic entities hierarchically.
 
 Interactive D3.js web interface supports step-by-step playback.
 
+<img src="readme_pic/Webpage.png" alt="Demo" width="75%">
+
 ## **Unique Contributions**
 
 ### Entity-Level Reasoning Visualization

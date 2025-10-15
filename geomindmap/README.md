@@ -5,6 +5,7 @@ Try Demo: https://wyjxx.github.io/geomindmap/
 GeoMindMap is an end-to-end pipeline and visualization framework designed to make the reasoning process of Large Language Models (LLMs) interpretable in the context of image-based geo-localization tasks.
 
 This project was developed as part of my Bachelor’s Thesis at TUM (“Tracing Locations Through Words and Images: Investigating Large Language Model Reasoning in Geo-localization”).
+![GeoMindMap Webpage](readme_pic/Webpage.png)
 
 ## **Motivation**
 

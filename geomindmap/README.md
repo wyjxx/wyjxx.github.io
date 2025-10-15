@@ -7,7 +7,7 @@ GeoMindMap is an end-to-end pipeline and visualization framework designed to mak
 This project was developed as part of my Bachelor’s Thesis at TUM (“Tracing Locations Through Words and Images: Investigating Large Language Model Reasoning in Geo-localization”).
 
 
-<img src="readme_pic/overview.png" alt="Demo" width="50%">
+<img src="readme_pic/overview.png" alt="Demo" width="75%">
 
 
 ## **Motivation**

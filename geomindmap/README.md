@@ -32,6 +32,8 @@ LLMs demonstrate remarkable reasoning ability, but their reasoning process is of
 
 ## **Pipeline Overview**
 
+<img src="readme_pic/GeoMindMap.png" alt="Demo" width="75%">
+
 The GeoMindMap pipeline consists of five main modules:
 
 ### 1. Reasoning Segmentation

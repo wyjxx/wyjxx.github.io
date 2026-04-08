@@ -1,147 +1,147 @@
-<!-- index.html
-Homepage for wyjxx.github.io
-Clean, modular, and easy to maintain
--->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Yujiaxuan Wang — Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Basic CSS for clean layout -->
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f8f9fa;
-      color: #333;
-    }
-    header {
-      background: #0056b3;
-      color: white;
-      padding: 1.5rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-    }
-    .container {
-      max-width: 1000px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 0.5rem;
-    }
-    .projects {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-      gap: 1.5rem;
-    }
-    .card {
-      background: white;
-      border-radius: 8px;
-      padding: 1rem;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      transition: transform 0.2s;
-    }
-    .card:hover {
-      transform: scale(1.02);
-    }
-    .card h3 {
-      margin-top: 0;
-    }
-    a {
-      color: #0056b3;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      font-size: 0.9rem;
-      padding: 1rem;
-      background: #eee;
-    }
-  </style>
+  <title>Yujiaxuan Wang | Portfolio</title>
+  <meta
+    name="description"
+    content="Portfolio of Yujiaxuan Wang, featuring projects in LLM applications, multimodal reasoning, local AI systems, and interactive visualization."
+  >
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero__inner">
+        <p class="eyebrow">Yujiaxuan Wang</p>
+        <p class="hero__lead">
+          Master of Science Informatics at TUM, focused on AI engineering, local LLM applications,
+          multimodal systems, and product-facing interfaces.
+        </p>
+        <div class="hero__meta">
+          <span>AI engineering</span>
+          <span>LLM applications</span>
+          <span>Ollama</span>
+          <span>Python</span>
+        </div>
+      </div>
+    </header>
 
-  <!-- Header Section -->
-  <header>
-    <h1>Yujiaxuan Wang — Portfolio</h1>
-    <p>Computer Science @ TUM | AI · LLM Reasoning · LLM Application · Data Visualization</p>
-  </header>
-
-  <div class="container">
-
-    <!-- About Section -->
-    <section>
-      <h2>About</h2>
-      <p>
-        I am a Computer Science student at TUM, focusing on Large Language Models, 
-        reasoning interpretability, and interactive visualization. 
-        My projects combine research-driven LLM prompting pipelines with interactive visualization tools.
-      </p>
-    </section>
-
-    <!-- Projects Section -->
-    <section>
-      <h2>Projects</h2>
-      <div class="projects">
-        <!-- Project Card: GeoMindMap -->
-        <div class="card">
-          <h3>🌍 GeoMindMap</h3>
+    <main class="content">
+      <section class="section">
+        <div class="section__heading">
+          <p class="section__eyebrow">About</p>
+          <h2>What I build</h2>
+        </div>
+        <div class="about-card">
           <p>
-            <img src="assets/geomindmap-overview.png" alt="Demo" width="100%">
-            👉 Given a smartphone image, LLM can predict the location through reasoning step by step.<br>
-            🔎 Could we visualize how LLM reasons in geo-localization for better interpretability?<br>
-            🌍 GeoMindMap: End-to-end pipeline and visualization framework<br>
-            👀 Goal: Investigate multi-modal LLM reasoning through the lens of geo-localization tasks<br>
-          </p>
-          <p>
-            <a href="https://wyjxx.github.io/GeoMindMap/">🌟 Try Demo Now</a> <br>
-            <a href="https://github.com/wyjxx/GeoMindMap">👾 Github Repository</a>
+            I build projects around large language models, multimodal reasoning,
+            local-first AI workflows, and human-centered interfaces. My work combines
+            AI pipelines, retrieval systems, lightweight product design, and interactive
+            demos that make complex model behavior easier to inspect, search, and explain.
           </p>
         </div>
+      </section>
 
-        <div class="card">
-          <h3>🧭 TOCwise — AI Semantic Table of Contents</h3>
-          <p>
-            <img src="assets/tocwise-demo.png" alt="TOCwise Demo" width="100%">
-            👉 Built in a 2-person team for the Chrome Built-In AI Hackathon 2025<br>
-            💬 Ever lost in endless AI chat scrolls?<br>
-            🧭 TOCwise creates an AI-powered **semantic Table of Contents** for long blogs and AI chats (ChatGPT, Gemini, Claude, etc.)<br>
-            ⚡ Runs fully **offline** using Chrome’s built-in **Gemini Nano**.<br>
-            🎨 Features: instant jump navigation, adaptive segmentation, editable titles, dark mode, and search.<br>
-          </p>
-          <p>
-            <a href="https://github.com/yjcwang/TOCwise">👾 Github Repository</a>
-          </p>
+      <section class="section">
+        <div class="section__heading">
+          <p class="section__eyebrow">Projects</p>
+          <h2>Selected work</h2>
         </div>
 
-    <!-- Contact Section -->
-    <section>
-      <h2>Contact</h2>
-      <p>
-        📧 Email: ge84qof@mytum.de <br>
-        👾 GitHub: <a href="https://github.com/wyjxx" target="_blank">@wyjxx</a>
-      </p>
-    </section>
+        <div class="projects-grid">
+          <article class="project-card">
+            <div class="project-card__media">
+              <img src="assets/vision-index.png" alt="vision-index project preview">
+            </div>
+            <div class="project-card__body">
+              <div class="project-card__topline">
+                <span class="project-card__tag">Personal AI Project</span>
+                <h3>vision-index</h3>
+              </div>
+              <p class="project-card__summary">
+                A local image indexing and semantic search system that analyzes images
+                with a vision-language model through Ollama and serves retrieval through
+                a lightweight FastAPI dashboard.
+              </p>
+              <ul class="project-points">
+                <li>Scans or uploads images, generates thumbnails, extracts structured metadata, and stores search-ready indices.</li>
+                <li>Combines SQLite metadata, Chroma embeddings, and field-aware reranking for natural-language image search.</li>
+                <li>Built as a practical local-first AI application around ingestion, indexing, retrieval, and evaluation.</li>
+              </ul>
+              <div class="project-links">
+                <a class="button button--secondary" href="https://github.com/wyjxx/vision-index">Source Code</a>
+              </div>
+            </div>
+          </article>
 
+          <article class="project-card project-card--feature">
+            <div class="project-card__media">
+              <img src="assets/geomindmap-overview.png" alt="GeoMindMap project preview">
+            </div>
+            <div class="project-card__body">
+              <div class="project-card__topline">
+                <span class="project-card__tag">Thesis Showcase</span>
+                <h3>GeoMindMap</h3>
+              </div>
+              <p class="project-card__summary">
+                An end-to-end visualization framework for inspecting how multimodal
+                LLMs reason through image geo-localization tasks step by step.
+              </p>
+              <ul class="project-points">
+                <li>Turns free-form reasoning into structured clues, location hypotheses, and dynamic maps.</li>
+                <li>Designed as a thesis-facing demo that makes model reasoning easier to explain in interviews and research discussions.</li>
+                <li>Includes a live interactive webpage and a separate source repository with core logic.</li>
+              </ul>
+              <div class="project-links">
+                <a class="button button--primary" href="https://wyjxx.github.io/GeoMindMap/">Live Demo</a>
+                <a class="button button--secondary" href="https://github.com/wyjxx/GeoMindMap">Source Code</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-card__media">
+              <img src="assets/tocwise-demo.png" alt="TOCwise project preview">
+            </div>
+            <div class="project-card__body">
+              <div class="project-card__topline">
+                <span class="project-card__tag">Hackathon Build</span>
+                <h3>TOCwise</h3>
+              </div>
+              <p class="project-card__summary">
+                An AI semantic table of contents for long blogs and chat histories,
+                built to improve navigation inside dense conversational content.
+              </p>
+              <ul class="project-points">
+                <li>Built in a two-person team for the Chrome Built-In AI Hackathon 2025.</li>
+                <li>Runs offline with Chrome built-in AI capabilities.</li>
+                <li>Supports jump navigation, segmentation, editable headings, dark mode, and search.</li>
+              </ul>
+              <div class="project-links">
+                <a class="button button--secondary" href="https://github.com/yjcwang/TOCwise">Source Code</a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section__heading">
+          <p class="section__eyebrow">Contact</p>
+          <h2>Links</h2>
+        </div>
+        <div class="contact-card">
+          <a href="mailto:ge84qof@mytum.de">ge84qof@mytum.de</a>
+          <a href="https://github.com/wyjxx" target="_blank" rel="noreferrer">@wyjxx on GitHub</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2025 Y. Wang | Powered by GitHub Pages</p>
+    </footer>
   </div>
-
-  <!-- Footer -->
-  <footer>
-    © 2025 Y. Wang | Powered by GitHub Pages
-  </footer>
-
 </body>
 </html>
